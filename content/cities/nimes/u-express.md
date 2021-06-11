@@ -1,5 +1,5 @@
 ---
 title: "U Express"
 url: /nimes/u-express/
-shop: commodité
+shop: supermarché
 ---

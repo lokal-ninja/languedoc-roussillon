@@ -1,5 +1,5 @@
 ---
-title: "Tabac Presse Abbe Julien"
+title: "Tabac Presse Abbé Julien"
 url: /nissan-lez-enserune/tabac-presse-abbe-julien/
 shop: marchand de journaux
 ---
