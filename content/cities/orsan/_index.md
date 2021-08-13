@@ -1,6 +1,6 @@
 ---
 title: Orsan
 url: /orsan/
-latitude: 44.131953200000005
-longitude: 4.6676337000000006
+latitude: 44.131819500000006
+longitude: 4.6684583
 ---

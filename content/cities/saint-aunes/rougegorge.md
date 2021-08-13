@@ -1,5 +1,5 @@
 ---
-title: "Rougegorge"
+title: "RougeGorge"
 url: /saint-aunes/rougegorge/
 shop: vêtements
 ---

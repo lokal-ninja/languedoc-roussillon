@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /sommieres/citroen/
-shop: voiture
+shop: réparation de voitures
 ---
