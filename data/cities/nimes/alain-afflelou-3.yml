@@ -1,11 +1,11 @@
-id: 8445128169
-type: node
-latitude: 43.840279300000006
-longitude: 4.3591367000000005
-postcode: "30000"
+id: 970678929
+type: way
+latitude: 43.8127553
+longitude: 4.362792300000001
+postcode: "30900"
 city: Nîmes
-street: "Boulevard Gambetta"
-housenumber: 34
-phone: "+33 4 66 23 95 75"
-opening_hours: "Mo-Fr 9:00-12:00, 14:00-18:00"
-website: "www.alainafflelou.acousticien.fr"
+street: "Avenue Claude Baillet"
+housenumber: 400
+phone: "+33 4 66 21 04 54"
+opening_hours: "Mo-Sa 09:30-20:00"
+website: "https://www.afflelou.com/opticien/nimes/afflelou-centre-commercial-geant-casino-30000"
