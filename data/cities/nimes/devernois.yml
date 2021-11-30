@@ -7,5 +7,5 @@ city: Nîmes
 street: "Rue du Général Perrier"
 housenumber: 18
 phone: "+33 4 66 21 16 66"
-opening_hours: "Lun 14:00-19:00; Mar,Ven 10:00-13:00 , 14:00-19:00; Mer, Jeu, Sam 10:00-19:00"
+opening_hours: "Mo 14:00-19:00; Tu 10:00-13:00,14:00-19:00; Fr 10:00-13:00,14:00-19:00; We 10:00-19:00; Th 10:00-19:00; Sa 10:00-19:00"
 website: "https://www.devernois.fr/"

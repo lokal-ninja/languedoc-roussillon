@@ -1,6 +1,6 @@
 ---
 title: Ginestas
 url: /ginestas/
-latitude: 43.1349085
-longitude: 1.9825968
+latitude: 43.1346599
+longitude: 1.9819477
 ---
