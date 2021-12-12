@@ -1,5 +1,5 @@
 ---
-title: "Decoration Et Jardin"
+title: "Décoration et Jardin"
 url: /mauguio/decoration-et-jardin/
-shop: animal de compagnie
+shop: décoration intérieure
 ---

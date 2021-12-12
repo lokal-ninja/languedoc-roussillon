@@ -1,11 +1,11 @@
-id: 374099937
-type: way
-latitude: 43.5725953
-longitude: 3.9416706
+id: 25214796
+type: node
+latitude: 43.570758500000004
+longitude: 3.9416495
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
+street: "Rue Bir Hakeim"
 housenumber: 
-phone: "+33 4 67 50 43 00"
-opening_hours: "Mo-Sa 07:30-20:00; Su 08:30-12:30"
-website: "https://www.auchan.fr/magasins/montpellier/sl-64"
+phone: ""
+opening_hours: "24/7"
+website: ""
