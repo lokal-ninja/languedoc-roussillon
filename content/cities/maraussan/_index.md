@@ -1,6 +1,6 @@
 ---
 title: Maraussan
 url: /maraussan/
-latitude: 43.177809
-longitude: 2.9993099
+latitude: 43.367
+longitude: 3.157
 ---

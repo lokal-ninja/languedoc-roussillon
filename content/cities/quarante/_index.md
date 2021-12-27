@@ -1,6 +1,6 @@
 ---
 title: Quarante
 url: /quarante/
-latitude: 43.346977700000004
-longitude: 2.960865
+latitude: 43.344
+longitude: 2.965
 ---

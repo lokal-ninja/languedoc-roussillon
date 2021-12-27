@@ -1,6 +1,6 @@
 ---
 title: Cabrières
 url: /cabrieres/
-latitude: 44.3327323
-longitude: 3.401616
+latitude: 43.577
+longitude: 3.364
 ---

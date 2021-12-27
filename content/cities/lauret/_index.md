@@ -1,6 +1,6 @@
 ---
 title: Lauret
 url: /lauret/
-latitude: 42.8893301
-longitude: 2.6374363
+latitude: 43.832
+longitude: 3.874
 ---

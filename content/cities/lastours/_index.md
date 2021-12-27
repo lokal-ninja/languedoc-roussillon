@@ -1,6 +1,6 @@
 ---
 title: Lastours
 url: /lastours/
-latitude: 43.264296900000005
-longitude: 3.0681841000000003
+latitude: 43.334
+longitude: 2.381
 ---

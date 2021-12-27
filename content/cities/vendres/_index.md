@@ -1,6 +1,6 @@
 ---
 title: Vendres
 url: /vendres/
-latitude: 43.268610900000006
-longitude: 3.2237054
+latitude: 43.268
+longitude: 3.224
 ---

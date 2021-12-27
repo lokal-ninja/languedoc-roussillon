@@ -1,6 +1,6 @@
 ---
 title: Pignan
 url: /pignan/
-latitude: 43.727932800000005
-longitude: 4.204125100000001
+latitude: 43.584
+longitude: 3.773
 ---

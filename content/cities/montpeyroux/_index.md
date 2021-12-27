@@ -1,6 +1,6 @@
 ---
 title: Montpeyroux
 url: /montpeyroux/
-latitude: 43.3674126
-longitude: 3.2753214
+latitude: 43.696
+longitude: 3.506
 ---

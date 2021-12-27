@@ -1,6 +1,6 @@
 ---
 title: Issirac
 url: /issirac/
-latitude: 44.272095
-longitude: 4.4808642
+latitude: 44.278
+longitude: 4.481
 ---

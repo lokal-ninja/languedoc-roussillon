@@ -1,6 +1,6 @@
 ---
 title: Estagel
 url: /estagel/
-latitude: 42.7719102
-longitude: 2.6995277
+latitude: 42.775
+longitude: 2.695
 ---

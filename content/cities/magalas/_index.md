@@ -1,6 +1,6 @@
 ---
 title: Magalas
 url: /magalas/
-latitude: 43.472420400000004
-longitude: 3.2221621000000003
+latitude: 43.472
+longitude: 3.222
 ---

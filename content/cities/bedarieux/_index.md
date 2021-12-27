@@ -1,6 +1,6 @@
 ---
 title: Bédarieux
 url: /bedarieux/
-latitude: 43.615510900000004
-longitude: 3.1576143
+latitude: 43.616
+longitude: 3.158
 ---

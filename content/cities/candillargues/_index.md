@@ -1,6 +1,6 @@
 ---
 title: Candillargues
 url: /candillargues/
-latitude: 43.989023700000004
-longitude: 4.042941
+latitude: 43.62
+longitude: 4.068
 ---

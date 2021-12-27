@@ -1,6 +1,6 @@
 ---
 title: Paziols
 url: /paziols/
-latitude: 42.858969
-longitude: 2.7185882
+latitude: 42.859
+longitude: 2.719
 ---

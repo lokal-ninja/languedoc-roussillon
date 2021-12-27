@@ -1,6 +1,6 @@
 ---
 title: Saint-Chinian
 url: /saint-chinian/
-latitude: 43.4215
-longitude: 2.9467700000000003
+latitude: 43.42
+longitude: 2.948
 ---

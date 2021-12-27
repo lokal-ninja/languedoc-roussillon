@@ -1,6 +1,6 @@
 ---
 title: Sète
 url: /sete/
-latitude: 43.401443400000005
-longitude: 3.6959771000000003
+latitude: 43.403
+longitude: 3.658
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pérols
 url: /perols/
-latitude: 
-longitude: 
+latitude: 43.571
+longitude: 3.942
 ---

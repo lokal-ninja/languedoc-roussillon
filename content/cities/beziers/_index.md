@@ -1,6 +1,6 @@
 ---
 title: Béziers
 url: /beziers/
-latitude: 
-longitude: 
+latitude: 43.332
+longitude: 3.247
 ---

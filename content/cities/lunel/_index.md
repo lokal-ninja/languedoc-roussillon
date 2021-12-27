@@ -1,6 +1,6 @@
 ---
 title: Lunel
 url: /lunel/
-latitude: 
-longitude: 
+latitude: 43.683
+longitude: 4.152
 ---

@@ -1,6 +1,6 @@
 ---
 title: Leucate
 url: /leucate/
-latitude: 42.910007
-longitude: 3.0270222
+latitude: 42.91
+longitude: 3.028
 ---

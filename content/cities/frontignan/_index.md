@@ -1,6 +1,6 @@
 ---
 title: Frontignan
 url: /frontignan/
-latitude: 43.4487615
-longitude: 3.7530636000000004
+latitude: 43.466
+longitude: 3.768
 ---

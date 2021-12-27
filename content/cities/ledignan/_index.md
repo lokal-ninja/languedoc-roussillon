@@ -1,6 +1,6 @@
 ---
 title: Lédignan
 url: /ledignan/
-latitude: 43.9884404
-longitude: 4.106337
+latitude: 43.988
+longitude: 4.107
 ---

@@ -1,6 +1,6 @@
 ---
 title: Villetelle
 url: /villetelle/
-latitude: 43.733848800000004
-longitude: 4.1397139
+latitude: 43.721
+longitude: 4.139
 ---

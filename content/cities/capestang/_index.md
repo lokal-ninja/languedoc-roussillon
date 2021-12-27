@@ -1,6 +1,6 @@
 ---
 title: Capestang
 url: /capestang/
-latitude: 43.326579200000005
-longitude: 3.0457226000000004
+latitude: 43.329
+longitude: 3.045
 ---

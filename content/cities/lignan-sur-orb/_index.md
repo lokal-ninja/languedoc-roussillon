@@ -1,6 +1,6 @@
 ---
 title: Lignan-sur-Orb
 url: /lignan-sur-orb/
-latitude: 43.3828
-longitude: 3.17294
+latitude: 43.377
+longitude: 3.178
 ---

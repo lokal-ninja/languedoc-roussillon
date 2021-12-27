@@ -1,6 +1,6 @@
 ---
 title: Vendargues
 url: /vendargues/
-latitude: 43.656826300000006
-longitude: 3.9687448
+latitude: 43.658
+longitude: 3.968
 ---

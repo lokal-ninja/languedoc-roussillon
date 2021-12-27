@@ -1,6 +1,6 @@
 ---
 title: Le Pouget
 url: /le-pouget/
-latitude: 43.8779587
-longitude: 4.0037978
+latitude: 43.592
+longitude: 3.524
 ---

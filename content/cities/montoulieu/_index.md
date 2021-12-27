@@ -1,6 +1,6 @@
 ---
 title: Montoulieu
 url: /montoulieu/
-latitude: 43.9268
-longitude: 3.79063
+latitude: 43.932
+longitude: 3.801
 ---

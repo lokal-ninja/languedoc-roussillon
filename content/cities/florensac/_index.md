@@ -1,6 +1,6 @@
 ---
 title: Florensac
 url: /florensac/
-latitude: 44.7897
-longitude: 3.6718333000000003
+latitude: 43.383
+longitude: 3.467
 ---

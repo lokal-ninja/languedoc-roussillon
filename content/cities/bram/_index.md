@@ -1,6 +1,6 @@
 ---
 title: Bram
 url: /bram/
-latitude: 
-longitude: 
+latitude: 43.244
+longitude: 2.115
 ---

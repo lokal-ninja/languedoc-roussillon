@@ -1,6 +1,6 @@
 ---
 title: Céret
 url: /ceret/
-latitude: 42.485804
-longitude: 2.7488069000000004
+latitude: 42.5
+longitude: 2.759
 ---

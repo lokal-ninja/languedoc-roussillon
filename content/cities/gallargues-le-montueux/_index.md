@@ -1,6 +1,6 @@
 ---
 title: Gallargues-le-Montueux
 url: /gallargues-le-montueux/
-latitude: 
-longitude: 
+latitude: 43.722
+longitude: 4.175
 ---

@@ -1,6 +1,6 @@
 ---
 title: Salasc
 url: /salasc/
-latitude: 43.6196393
-longitude: 3.3160971000000004
+latitude: 43.62
+longitude: 3.316
 ---

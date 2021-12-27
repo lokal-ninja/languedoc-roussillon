@@ -1,6 +1,6 @@
 ---
 title: Junas
 url: /junas/
-latitude: 43.7708
-longitude: 4.12269
+latitude: 43.77
+longitude: 4.121
 ---

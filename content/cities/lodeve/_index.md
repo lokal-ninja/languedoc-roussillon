@@ -1,6 +1,6 @@
 ---
 title: Lodève
 url: /lodeve/
-latitude: 43.73106
-longitude: 3.3189200000000003
+latitude: 43.725
+longitude: 3.322
 ---

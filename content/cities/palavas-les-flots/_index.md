@@ -1,6 +1,6 @@
 ---
 title: Palavas-les-Flots
 url: /palavas-les-flots/
-latitude: 43.5278137
-longitude: 3.9315347000000003
+latitude: 43.541
+longitude: 3.966
 ---

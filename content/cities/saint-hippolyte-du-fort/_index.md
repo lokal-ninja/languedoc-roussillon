@@ -1,6 +1,6 @@
 ---
 title: Saint-Hippolyte-du-Fort
 url: /saint-hippolyte-du-fort/
-latitude: 43.9643602
-longitude: 3.8564364
+latitude: 43.962
+longitude: 3.856
 ---

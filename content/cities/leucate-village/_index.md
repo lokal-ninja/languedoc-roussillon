@@ -1,6 +1,6 @@
 ---
 title: Leucate village
 url: /leucate-village/
-latitude: 
-longitude: 
+latitude: 42.91
+longitude: 3.028
 ---

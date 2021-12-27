@@ -1,6 +1,6 @@
 ---
 title: Bernis
 url: /bernis/
-latitude: 43.7656043
-longitude: 4.2860742
+latitude: 43.765
+longitude: 4.287
 ---

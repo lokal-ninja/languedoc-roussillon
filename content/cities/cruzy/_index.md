@@ -1,6 +1,6 @@
 ---
 title: Cruzy
 url: /cruzy/
-latitude: 43.3554503
-longitude: 2.942256
+latitude: 43.355
+longitude: 2.941
 ---

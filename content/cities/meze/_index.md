@@ -1,6 +1,6 @@
 ---
 title: Mèze
 url: /meze/
-latitude: 43.4245985
-longitude: 3.5988383
+latitude: 43.427
+longitude: 3.605
 ---

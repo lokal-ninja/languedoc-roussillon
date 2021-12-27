@@ -1,6 +1,6 @@
 ---
 title: Font-Romeu-Odeillo-Via
 url: /font-romeu-odeillo-via/
-latitude: 42.496570500000004
-longitude: 2.0416766
+latitude: 42.505
+longitude: 2.043
 ---

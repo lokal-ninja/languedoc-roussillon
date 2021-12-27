@@ -1,6 +1,6 @@
 ---
 title: Octon
 url: /octon/
-latitude: 43.6546177
-longitude: 3.3027762000000003
+latitude: 43.652
+longitude: 3.303
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint Privas
 url: /saint-privas/
-latitude: 
-longitude: 
+latitude: 43.743
+longitude: 3.403
 ---

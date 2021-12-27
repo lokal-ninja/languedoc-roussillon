@@ -1,6 +1,6 @@
 ---
 title: Valergues
 url: /valergues/
-latitude: 43.669463300000004
-longitude: 4.0618053000000005
+latitude: 43.67
+longitude: 4.062
 ---

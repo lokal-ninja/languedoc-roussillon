@@ -1,6 +1,6 @@
 ---
 title: Congénies
 url: /congenies/
-latitude: 43.7772
-longitude: 4.16024
+latitude: 43.773
+longitude: 4.159
 ---

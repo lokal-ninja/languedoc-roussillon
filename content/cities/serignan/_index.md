@@ -1,6 +1,6 @@
 ---
 title: Sérignan
 url: /serignan/
-latitude: 43.2830736
-longitude: 3.2798682
+latitude: 43.281
+longitude: 3.275
 ---

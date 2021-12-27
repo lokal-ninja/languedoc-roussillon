@@ -1,6 +1,6 @@
 ---
 title: Tressan
 url: /tressan/
-latitude: 43.573800000000006
-longitude: 3.48924
+latitude: 43.574
+longitude: 3.491
 ---

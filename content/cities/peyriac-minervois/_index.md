@@ -1,6 +1,6 @@
 ---
 title: Peyriac-Minervois
 url: /peyriac-minervois/
-latitude: 43.291622200000006
-longitude: 2.5663946
+latitude: 43.283
+longitude: 2.576
 ---

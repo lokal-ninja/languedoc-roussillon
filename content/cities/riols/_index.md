@@ -1,6 +1,6 @@
 ---
 title: Riols
 url: /riols/
-latitude: 43.683474000000004
-longitude: 3.0916371000000002
+latitude: 43.505
+longitude: 2.792
 ---

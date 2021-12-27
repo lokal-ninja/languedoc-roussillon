@@ -1,6 +1,6 @@
 ---
 title: Saint-Christol-lès-Alès
 url: /saint-christol-les-ales/
-latitude: 
-longitude: 
+latitude: 44.081
+longitude: 4.073
 ---

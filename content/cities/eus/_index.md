@@ -1,6 +1,6 @@
 ---
 title: Eus
 url: /eus/
-latitude: 42.644353
-longitude: 2.457582
+latitude: 42.635
+longitude: 2.45
 ---

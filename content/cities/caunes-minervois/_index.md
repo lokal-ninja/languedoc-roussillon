@@ -1,6 +1,6 @@
 ---
 title: Caunes-Minervois
 url: /caunes-minervois/
-latitude: 43.3266317
-longitude: 2.5283229
+latitude: 43.322
+longitude: 2.496
 ---

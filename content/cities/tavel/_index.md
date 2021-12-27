@@ -1,6 +1,6 @@
 ---
 title: Tavel
 url: /tavel/
-latitude: 44.0127055
-longitude: 4.6982216
+latitude: 44.011
+longitude: 4.706
 ---

@@ -1,6 +1,6 @@
 ---
 title: Neffiès
 url: /neffies/
-latitude: 43.5341595
-longitude: 3.3311035
+latitude: 43.534
+longitude: 3.332
 ---

@@ -1,6 +1,6 @@
 ---
 title: Uzès
 url: /uzes/
-latitude: 
-longitude: 
+latitude: 44.012
+longitude: 4.415
 ---

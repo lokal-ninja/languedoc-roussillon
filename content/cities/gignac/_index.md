@@ -1,6 +1,6 @@
 ---
 title: Gignac
 url: /gignac/
-latitude: 43.6522859
-longitude: 3.5512018000000003
+latitude: 43.653
+longitude: 3.552
 ---

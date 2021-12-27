@@ -1,6 +1,6 @@
 ---
 title: Pomérols
 url: /pomerols/
-latitude: 43.390895
-longitude: 3.4992161000000004
+latitude: 43.392
+longitude: 3.5
 ---

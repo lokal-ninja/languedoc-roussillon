@@ -1,6 +1,6 @@
 ---
 title: Gabian
 url: /gabian/
-latitude: 43.513600000000004
-longitude: 3.2711
+latitude: 43.513
+longitude: 3.273
 ---

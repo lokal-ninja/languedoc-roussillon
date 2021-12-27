@@ -1,6 +1,6 @@
 ---
 title: Beaucaire
 url: /beaucaire/
-latitude: 43.8085436
-longitude: 4.6392648
+latitude: 43.817
+longitude: 4.614
 ---

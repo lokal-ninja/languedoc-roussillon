@@ -1,6 +1,6 @@
 ---
 title: Perpignan
 url: /perpignan/
-latitude: 
-longitude: 
+latitude: 42.698
+longitude: 2.888
 ---

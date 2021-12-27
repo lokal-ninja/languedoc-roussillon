@@ -1,6 +1,6 @@
 ---
 title: Manduel
 url: /manduel/
-latitude: 43.8185561
-longitude: 4.473224200000001
+latitude: 43.817
+longitude: 4.466
 ---

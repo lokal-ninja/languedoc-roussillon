@@ -1,6 +1,6 @@
 ---
 title: Lespignan
 url: /lespignan/
-latitude: 43.274300000000004
-longitude: 3.16982
+latitude: 43.274
+longitude: 3.172
 ---

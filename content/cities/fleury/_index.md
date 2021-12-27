@@ -1,6 +1,6 @@
 ---
 title: Fleury
 url: /fleury/
-latitude: 43.229852400000006
-longitude: 3.13415
+latitude: 43.172
+longitude: 3.181
 ---

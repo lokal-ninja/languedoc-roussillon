@@ -1,6 +1,6 @@
 ---
 title: Castenaudary
 url: /castenaudary/
-latitude: 
-longitude: 
+latitude: 43.301
+longitude: 1.955
 ---

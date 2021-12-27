@@ -1,6 +1,6 @@
 ---
 title: CLAPIERS
 url: /clapiers/
-latitude: 
-longitude: 
+latitude: 43.655
+longitude: 3.878
 ---

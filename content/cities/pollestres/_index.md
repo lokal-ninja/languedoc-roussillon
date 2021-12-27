@@ -1,6 +1,6 @@
 ---
 title: Pollestres
 url: /pollestres/
-latitude: 42.642051900000006
-longitude: 2.8709063
+latitude: 42.641
+longitude: 2.877
 ---

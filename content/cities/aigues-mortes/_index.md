@@ -1,6 +1,6 @@
 ---
 title: Aigues-Mortes
 url: /aigues-mortes/
-latitude: 
-longitude: 
+latitude: 43.577
+longitude: 4.198
 ---
