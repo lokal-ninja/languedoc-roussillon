@@ -1,5 +1,5 @@
 ---
-title: "les Saveurs de notre Dame"
+title: "Les Saveurs de Notre Dame"
 url: /nimes/les-saveurs-de-notre-dame/
 shop: commodité
 ---
