@@ -1,6 +1,6 @@
 ---
 title: Florac-Trois-Rivières
 url: /florac-trois-rivieres/
-latitude: 44.338
-longitude: 3.586
+latitude: 44.324
+longitude: 3.596
 ---
