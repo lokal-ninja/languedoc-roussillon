@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /saint-aunes/e-leclerc/
-shop: commodité
+shop: gaz
 ---

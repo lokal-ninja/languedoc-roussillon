@@ -1,5 +1,5 @@
 ---
 title: "Station Service E. Leclerc"
-url: /lunel/station-service-e-leclerc/
+url: /ales/station-service-e-leclerc/
 shop: gaz
 ---
