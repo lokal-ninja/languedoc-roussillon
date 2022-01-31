@@ -1,5 +1,5 @@
 ---
 title: "Dune"
 url: /lunel/dune/
-shop: shop
+shop: boutique
 ---

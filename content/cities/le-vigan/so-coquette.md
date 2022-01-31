@@ -1,5 +1,5 @@
 ---
 title: "So Coquette"
 url: /le-vigan/so-coquette/
-shop: shop
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /nimes/pandora/
-shop: shop
+shop: boutique
 ---
