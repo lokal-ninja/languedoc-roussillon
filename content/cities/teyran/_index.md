@@ -1,6 +1,6 @@
 ---
 title: Teyran
 url: /teyran/
-latitude: 43.673
-longitude: 3.913
+latitude: 43.681
+longitude: 3.921
 ---
