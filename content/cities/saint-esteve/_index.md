@@ -1,6 +1,6 @@
 ---
 title: Saint-Estève
 url: /saint-esteve/
-latitude: 42.716
-longitude: 2.847
+latitude: 42.724
+longitude: 2.836
 ---

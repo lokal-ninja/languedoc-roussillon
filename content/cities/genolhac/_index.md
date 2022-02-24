@@ -1,6 +1,6 @@
 ---
 title: Génolhac
 url: /genolhac/
-latitude: 44.349
-longitude: 3.951
+latitude: 44.334
+longitude: 3.969
 ---
