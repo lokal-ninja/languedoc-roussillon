@@ -1,11 +1,11 @@
 id: 5216768350
 type: node
-latitude: 43.59062
+latitude: 43.59061
 longitude: 3.94063
 postcode: "34130"
 city: Mauguio
 street: "Rue de la Jasse"
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 8
+phone: "+33 4 67 99 56 07"
+opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
+website: "https://www.padd.fr"

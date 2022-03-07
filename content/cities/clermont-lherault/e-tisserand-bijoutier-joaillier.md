@@ -1,5 +1,5 @@
 ---
-title: "E. Tisserand Bijoutier Joaillier"
+title: "E.Tisserand Bijoutier Joaillier"
 url: /clermont-lherault/e-tisserand-bijoutier-joaillier/
 shop: bijoux
 ---
