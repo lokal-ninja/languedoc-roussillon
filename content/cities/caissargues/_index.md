@@ -1,6 +1,6 @@
 ---
 title: Caissargues
 url: /caissargues/
-latitude: 43.793
-longitude: 4.386
+latitude: 43.796
+longitude: 4.384
 ---

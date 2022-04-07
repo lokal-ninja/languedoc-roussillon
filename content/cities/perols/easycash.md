@@ -1,5 +1,5 @@
 ---
-title: "EasyCash"
+title: "Easycash"
 url: /perols/easycash/
 shop: charité
 ---

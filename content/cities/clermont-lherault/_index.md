@@ -1,6 +1,6 @@
 ---
-title: Clermont l'Hérault
+title: Clermont-l'Hérault
 url: /clermont-lherault/
-latitude: 43.632
-longitude: 3.439
+latitude: 43.618
+longitude: 3.452
 ---
