@@ -1,5 +1,5 @@
 ---
-title: "Chateau d'Ax"
+title: "Château d'Ax"
 url: /beziers/chateau-dax/
 shop: meubles
 ---
