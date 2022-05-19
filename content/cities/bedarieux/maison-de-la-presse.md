@@ -1,5 +1,5 @@
 ---
-title: "Maison de la presse"
+title: "Maison de la Presse"
 url: /bedarieux/maison-de-la-presse/
-shop: livres
+shop: marchand de journaux
 ---
