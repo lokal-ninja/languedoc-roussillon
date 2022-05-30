@@ -1,6 +1,6 @@
 ---
 title: Castelnau-le-Lez
 url: /castelnau-le-lez/
-latitude: 43.633
-longitude: 3.918
+latitude: 43.623
+longitude: 3.899
 ---
