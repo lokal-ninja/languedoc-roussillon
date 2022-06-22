@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/languedoc-roussillon"
+baseURL = "https://fr.shoogle.net/languedoc-roussillon/"
 languageCode = "fr"
 title = "Languedoc-Roussillon"
 theme = "ln-base"
