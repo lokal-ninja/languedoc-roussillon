@@ -1,5 +1,5 @@
 ---
-title: "Electro Depot"
+title: "Électro dépôt"
 url: /nimes/electro-depot/
 shop: électronique
 ---
