@@ -1,5 +1,5 @@
 ---
 title: "Ldlc"
-url: /nimes/ldlc/
+url: /lattes/ldlc/
 shop: ordinateur
 ---

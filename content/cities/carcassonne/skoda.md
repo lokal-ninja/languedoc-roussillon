@@ -1,5 +1,5 @@
 ---
-title: "Škoda"
+title: "Skoda"
 url: /carcassonne/skoda/
 shop: voiture
 ---
