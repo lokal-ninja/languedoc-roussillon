@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /lunel/intermarche-2/
+url: /lunel/intermarche-4/
 shop: supermarché
 ---

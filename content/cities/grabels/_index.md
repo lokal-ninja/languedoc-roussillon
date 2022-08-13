@@ -1,6 +1,6 @@
 ---
-title: Grabels
+title: GRABELS
 url: /grabels/
-latitude: 43.66
-longitude: 3.829
+latitude: 43.643
+longitude: 3.834
 ---
