@@ -7,5 +7,5 @@ city: Aspiran
 street: "Chemin Neuf"
 housenumber: 5
 phone: ""
-opening_hours: "Lundi/Mardi/Vendredi/Samedi 08:00 - 12:30 / 16:30 - 19:30 | Mercredi 08:00 - 12:30 | Jeudi 16:00 - 19:30 | Dimanche 09:30 - 12h30"
+opening_hours: "Mo,Tu,Fr,Sa 08:00-12:30,16:30-19:30; We 08:00-12:30; Th 16:00-19:30; Su 09:30-12:30"
 website: ""
