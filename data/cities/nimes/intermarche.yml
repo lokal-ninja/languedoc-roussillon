@@ -1,11 +1,11 @@
-id: 571290339
-type: way
-latitude: 43.8445
-longitude: 4.30772
-postcode: "30900"
+id: 590282692
+type: node
+latitude: 43.85624
+longitude: 4.40334
+postcode: "30000"
 city: Nîmes
-street: "Route de Sauve"
+street: "Route d'Avignon"
 housenumber: 
-phone: "+33 4 66 64 48 96"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:45"
-website: "https://www.intermarche.com/magasins/10220/nimes-vacquerolles-30900/infos-pratiques"
+phone: ""
+opening_hours: ""
+website: ""
