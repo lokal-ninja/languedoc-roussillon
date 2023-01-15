@@ -1,6 +1,6 @@
 ---
 title: Cabestany
 url: /cabestany/
-latitude: 42.68
-longitude: 2.94
+latitude: 42.691
+longitude: 2.924
 ---
