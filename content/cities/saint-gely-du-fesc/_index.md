@@ -1,6 +1,6 @@
 ---
-title: SAINT GELY DU FESC
+title: Saint-Gély-du-Fesc
 url: /saint-gely-du-fesc/
-latitude: 43.698
-longitude: 3.815
+latitude: 43.681
+longitude: 3.811
 ---

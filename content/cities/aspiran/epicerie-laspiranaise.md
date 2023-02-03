@@ -1,5 +1,5 @@
 ---
-title: "Epicerie l'Aspiranaise"
+title: "Épicerie l'Aspiranaise"
 url: /aspiran/epicerie-laspiranaise/
 shop: commodité
 ---
