@@ -1,6 +1,6 @@
 ---
 title: Portiragnes
 url: /portiragnes/
-latitude: 43.304
-longitude: 3.336
+latitude: 43.278
+longitude: 3.363
 ---
