@@ -1,6 +1,6 @@
 ---
 title: Aujargues
 url: /aujargues/
-latitude: 43.789
-longitude: 4.115
+latitude: 43.788
+longitude: 4.114
 ---
