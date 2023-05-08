@@ -1,6 +1,6 @@
 ---
 title: Thuir
 url: /thuir/
-latitude: 42.632
-longitude: 2.758
+latitude: 42.633
+longitude: 2.756
 ---
