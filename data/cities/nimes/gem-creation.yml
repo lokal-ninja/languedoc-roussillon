@@ -3,9 +3,9 @@ type: node
 latitude: 43.83964
 longitude: 4.3606
 postcode: "30000"
-city: NIMES
+city: Nîmes
 street: "Rue Nationale"
 housenumber: 27
 phone: "+33 6 28 05 04 00"
 opening_hours: "Tu-We 10:00-12:00, 14:00-19:00, Fr-Sa 10:00-12:00, 14:00-19:00"
-website: "gemcreation"
+website: "https://gem-creation.com"

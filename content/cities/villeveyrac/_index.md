@@ -1,6 +1,6 @@
 ---
 title: Villeveyrac
 url: /villeveyrac/
-latitude: 43.501
-longitude: 3.607
+latitude: 43.499
+longitude: 3.605
 ---
