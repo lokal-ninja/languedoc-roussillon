@@ -1,5 +1,5 @@
 ---
-title: "MENARD COQUILLAGES"
+title: "Menard Coquillages"
 url: /meze/menard-coquillages/
-shop: supermarché
+shop: fruits de mer
 ---
