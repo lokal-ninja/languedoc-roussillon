@@ -1,6 +1,6 @@
 ---
 title: Balaruc-les-Bains
 url: /balaruc-les-bains/
-latitude: 43.448
-longitude: 3.693
+latitude: 43.447
+longitude: 3.694
 ---

@@ -1,6 +1,6 @@
 ---
 title: Montpellier
 url: /montpellier/
-latitude: 43.583
-longitude: 3.881
+latitude: 43.615
+longitude: 3.876
 ---
