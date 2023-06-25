@@ -1,6 +1,6 @@
 ---
 title: Carcassonne
 url: /carcassonne/
-latitude: 43.217
-longitude: 2.352
+latitude: 43.204
+longitude: 2.311
 ---
