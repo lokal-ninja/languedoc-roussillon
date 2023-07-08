@@ -1,6 +1,6 @@
 ---
 title: Narbonne
 url: /narbonne/
-latitude: 43.181
-longitude: 3.005
+latitude: 43.18
+longitude: 3.002
 ---
