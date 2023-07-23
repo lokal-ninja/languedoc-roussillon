@@ -1,6 +1,6 @@
 ---
 title: Tarascon
 url: /tarascon/
-latitude: 43.805
-longitude: 4.657
+latitude: 43.802
+longitude: 4.656
 ---
