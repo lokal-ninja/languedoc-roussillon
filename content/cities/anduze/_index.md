@@ -1,6 +1,6 @@
 ---
 title: Anduze
 url: /anduze/
-latitude: 44.053
-longitude: 3.985
+latitude: 44.067
+longitude: 3.97
 ---
