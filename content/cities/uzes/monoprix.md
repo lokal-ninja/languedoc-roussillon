@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /uzes/monoprix/
-shop: supermarché
+shop: grand magasin
 ---
