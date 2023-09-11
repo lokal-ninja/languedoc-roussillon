@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /nimes/rexel/
-shop: ordinateur
+shop: électrique
 ---
