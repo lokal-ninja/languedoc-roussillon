@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /nimes/vival/
+url: /nimes/vival-rue-bonfa/
 shop: commodité
 ---

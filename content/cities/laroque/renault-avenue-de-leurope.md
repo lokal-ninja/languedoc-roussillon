@@ -1,5 +1,5 @@
 ---
 title: "Renault"
-url: /laroque/renault/
+url: /laroque/renault-avenue-de-leurope/
 shop: voiture
 ---

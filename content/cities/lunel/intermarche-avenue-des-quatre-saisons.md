@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /lunel/intermarche/
+url: /lunel/intermarche-avenue-des-quatre-saisons/
 shop: commodité
 ---

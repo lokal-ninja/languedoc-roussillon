@@ -1,5 +1,5 @@
 ---
 title: "Renault"
-url: /mauguio/renault/
+url: /mauguio/renault-rue-des-aramons/
 shop: voiture
 ---

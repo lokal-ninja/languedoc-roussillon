@@ -1,5 +1,5 @@
 ---
 title: "Casa"
-url: /nimes/casa/
+url: /nimes/casa-boulevard-gambetta/
 shop: meubles
 ---

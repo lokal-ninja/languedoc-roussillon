@@ -1,5 +1,5 @@
 ---
 title: "Jules"
-url: /nimes/jules/
+url: /nimes/jules-avenue-claude-baillet/
 shop: vêtements
 ---

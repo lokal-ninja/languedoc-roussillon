@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
-url: /montpellier/carrefour-city/
+url: /montpellier/carrefour-city-rue-saint-louis/
 shop: supermarché
 ---

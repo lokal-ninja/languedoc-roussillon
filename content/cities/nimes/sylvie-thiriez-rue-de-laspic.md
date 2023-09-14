@@ -1,5 +1,5 @@
 ---
 title: "Sylvie Thiriez"
-url: /nimes/sylvie-thiriez/
+url: /nimes/sylvie-thiriez-rue-de-laspic/
 shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Texto"
-url: /nimes/texto/
+url: /nimes/texto-avenue-claude-baillet/
 shop: chaussures
 ---

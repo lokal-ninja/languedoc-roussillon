@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
-url: /nimes/carrefour-city/
+url: /nimes/carrefour-city-avenue-georges-pompidou/
 shop: supermarché
 ---

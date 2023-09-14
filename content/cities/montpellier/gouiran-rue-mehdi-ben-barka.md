@@ -1,5 +1,5 @@
 ---
 title: "Gouiran"
-url: /montpellier/gouiran/
+url: /montpellier/gouiran-rue-mehdi-ben-barka/
 shop: beauté
 ---

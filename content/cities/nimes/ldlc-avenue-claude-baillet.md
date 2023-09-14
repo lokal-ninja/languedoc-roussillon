@@ -1,5 +1,5 @@
 ---
 title: "LDLC"
-url: /nimes/ldlc/
+url: /nimes/ldlc-avenue-claude-baillet/
 shop: ordinateur
 ---

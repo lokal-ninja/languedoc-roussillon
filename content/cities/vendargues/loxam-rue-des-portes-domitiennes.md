@@ -1,5 +1,5 @@
 ---
 title: "Loxam"
-url: /vendargues/loxam/
+url: /vendargues/loxam-rue-des-portes-domitiennes/
 shop: outils
 ---

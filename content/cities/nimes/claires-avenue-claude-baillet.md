@@ -1,5 +1,5 @@
 ---
 title: "claire's"
-url: /nimes/claires/
+url: /nimes/claires-avenue-claude-baillet/
 shop: boutique
 ---

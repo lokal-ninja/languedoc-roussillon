@@ -1,5 +1,5 @@
 ---
 title: "Utile"
-url: /nimes/utile/
+url: /nimes/utile-avenue-carnot/
 shop: supermarché
 ---

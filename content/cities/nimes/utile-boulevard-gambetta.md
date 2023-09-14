@@ -1,5 +1,5 @@
 ---
 title: "Utile"
-url: /nimes/utile/
+url: /nimes/utile-boulevard-gambetta/
 shop: commodité
 ---

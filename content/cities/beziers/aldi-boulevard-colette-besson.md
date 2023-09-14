@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /beziers/aldi/
+url: /beziers/aldi-boulevard-colette-besson/
 shop: supermarché
 ---

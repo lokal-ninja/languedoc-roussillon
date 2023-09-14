@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
-url: /montpellier/nocibe/
+url: /montpellier/nocibe-grand-rue-jean-moulin/
 shop: beauté
 ---

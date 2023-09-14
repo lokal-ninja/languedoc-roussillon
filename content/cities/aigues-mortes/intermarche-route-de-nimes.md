@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /aigues-mortes/intermarche/
+url: /aigues-mortes/intermarche-route-de-nimes/
 shop: supermarché
 ---

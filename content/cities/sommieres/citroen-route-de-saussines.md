@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
-url: /sommieres/citroen/
+url: /sommieres/citroen-route-de-saussines/
 shop: voiture
 ---

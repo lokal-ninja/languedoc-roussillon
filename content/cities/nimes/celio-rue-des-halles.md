@@ -1,5 +1,5 @@
 ---
 title: "Celio"
-url: /nimes/celio/
+url: /nimes/celio-rue-des-halles/
 shop: vêtements
 ---

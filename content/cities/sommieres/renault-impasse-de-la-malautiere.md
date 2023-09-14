@@ -1,5 +1,5 @@
 ---
 title: "Renault"
-url: /sommieres/renault/
+url: /sommieres/renault-impasse-de-la-malautiere/
 shop: voiture
 ---
