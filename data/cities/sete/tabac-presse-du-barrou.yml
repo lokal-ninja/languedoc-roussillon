@@ -7,5 +7,5 @@ city: Sète
 street: "Rue des Goélands"
 housenumber: 8
 phone: "+33 4 67 51 33 55"
-opening_hours: "Mo-Tu 08:00-12:30, 14:00-19:00; We 08:00-12:30, 15:00-19:00; Th-Sa 08:00-12:30, 14:00-19:00; Su Off"
+opening_hours: "Mo-Sa 08:00-12:30,14:00-19:00; We 08:00-12:30,15:00-19:00"
 website: ""
