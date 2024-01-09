@@ -1,5 +1,5 @@
 ---
-title: "Adopt"
+title: "Adopt'"
 url: /nimes/adopt/
-shop: beauté
+shop: parfumerie
 ---
