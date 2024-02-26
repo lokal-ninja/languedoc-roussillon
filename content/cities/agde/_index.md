@@ -1,6 +1,6 @@
 ---
 title: Agde
 url: /agde/
-latitude: 43.306
-longitude: 3.494
+latitude: 43.3
+longitude: 3.472
 ---
