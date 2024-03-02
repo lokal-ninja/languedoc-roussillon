@@ -1,6 +1,6 @@
 ---
-title: RIEUX MINERVOIS
+title: Rieux-Minervois
 url: /rieux-minervois/
-latitude: 43.282
-longitude: 2.587
+latitude: 43.284
+longitude: 2.577
 ---
