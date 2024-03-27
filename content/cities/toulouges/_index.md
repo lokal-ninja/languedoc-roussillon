@@ -1,6 +1,6 @@
 ---
 title: Toulouges
 url: /toulouges/
-latitude: 42.67
-longitude: 2.829
+latitude: 42.669
+longitude: 2.832
 ---
