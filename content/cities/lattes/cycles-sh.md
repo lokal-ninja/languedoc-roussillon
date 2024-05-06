@@ -1,5 +1,5 @@
 ---
 title: "Cycles SH"
-url: /montpellier/cycles-sh/
+url: /lattes/cycles-sh/
 shop: vélo
 ---
