@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
-url: /marvejols/auchan/
+url: /montpellier/auchan/
 shop: supermarché
 ---
