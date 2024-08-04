@@ -1,6 +1,6 @@
 ---
 title: Alès
 url: /ales/
-latitude: 44.113
-longitude: 4.106
+latitude: 44.121
+longitude: 4.087
 ---
