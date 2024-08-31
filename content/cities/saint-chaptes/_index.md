@@ -1,6 +1,6 @@
 ---
 title: Saint-Chaptes
 url: /saint-chaptes/
-latitude: 43.97
-longitude: 4.28
+latitude: 43.972
+longitude: 4.279
 ---
