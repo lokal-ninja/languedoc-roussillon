@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /beziers/auchan/
-shop: gaz
+shop: Gasflaschen
 ---

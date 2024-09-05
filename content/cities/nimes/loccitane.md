@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /nimes/loccitane/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les reboussiers"
 url: /nimes/les-reboussiers/
-shop: légumes
+shop: Gemüse & Obst
 ---

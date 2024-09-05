@@ -1,5 +1,5 @@
 ---
 title: "MDA"
 url: /perols/mda/
-shop: électronique
+shop: Elektronik
 ---

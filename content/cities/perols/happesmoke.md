@@ -1,5 +1,5 @@
 ---
 title: "Happesmoke"
 url: /perols/happesmoke/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

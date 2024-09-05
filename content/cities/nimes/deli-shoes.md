@@ -1,5 +1,5 @@
 ---
 title: "Deli Shoes"
 url: /nimes/deli-shoes/
-shop: chaussures
+shop: Schuhe
 ---

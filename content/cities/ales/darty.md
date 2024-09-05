@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /ales/darty/
-shop: électronique
+shop: Elektronik
 ---

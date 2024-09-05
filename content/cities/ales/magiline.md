@@ -1,5 +1,5 @@
 ---
 title: "Magiline"
 url: /ales/magiline/
-shop: piscine
+shop: Pool
 ---

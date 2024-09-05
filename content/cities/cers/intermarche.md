@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /cers/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

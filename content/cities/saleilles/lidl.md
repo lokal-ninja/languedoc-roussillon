@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /saleilles/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

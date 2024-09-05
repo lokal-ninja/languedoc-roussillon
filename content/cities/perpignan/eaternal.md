@@ -1,5 +1,5 @@
 ---
 title: "Eaternal"
 url: /perpignan/eaternal/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ixina"
 url: /carcassonne/ixina/
-shop: cuisine
+shop: Küchen
 ---

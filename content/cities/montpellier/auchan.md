@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /montpellier/auchan/
-shop: supermarché
+shop: Supermarkt
 ---

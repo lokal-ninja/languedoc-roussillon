@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /perpignan/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

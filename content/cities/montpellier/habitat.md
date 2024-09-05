@@ -1,5 +1,5 @@
 ---
 title: "Habitat"
 url: /montpellier/habitat/
-shop: meubles
+shop: Möbel
 ---

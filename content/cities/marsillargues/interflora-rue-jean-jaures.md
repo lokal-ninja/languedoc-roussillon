@@ -1,5 +1,5 @@
 ---
 title: "Interflora"
 url: /marsillargues/interflora-rue-jean-jaures/
-shop: fleuriste
+shop: Blumen
 ---

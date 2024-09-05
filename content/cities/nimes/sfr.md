@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /nimes/sfr/
-shop: téléphone portable
+shop: Handy
 ---

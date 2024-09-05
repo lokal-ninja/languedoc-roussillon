@@ -1,5 +1,5 @@
 ---
 title: "Cartapapa"
 url: /montpellier/cartapapa/
-shop: jeux
+shop: Spiele
 ---

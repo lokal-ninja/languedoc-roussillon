@@ -1,5 +1,5 @@
 ---
 title: "Energies renouvelables, Climatisation, Chauffage"
 url: /gignac/energies-renouvelables-climatisation-chauffage/
-shop: cheminée
+shop: Kamine & Öfen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /pollestres/intermarche-super/
-shop: gaz
+shop: Gasflaschen
 ---

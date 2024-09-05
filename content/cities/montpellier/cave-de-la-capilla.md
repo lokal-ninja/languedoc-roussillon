@@ -1,5 +1,5 @@
 ---
 title: "Cave de la Capilla"
 url: /montpellier/cave-de-la-capilla/
-shop: alcool
+shop: Spirituosen
 ---

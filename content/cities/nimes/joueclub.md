@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /nimes/joueclub/
-shop: jouets
+shop: Spielzeug
 ---

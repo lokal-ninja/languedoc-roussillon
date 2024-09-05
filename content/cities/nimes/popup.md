@@ -1,5 +1,5 @@
 ---
 title: "Pop'Up"
 url: /nimes/popup/
-shop: coiffeur
+shop: Friseur
 ---

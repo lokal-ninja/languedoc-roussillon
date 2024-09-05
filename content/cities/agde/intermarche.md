@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /agde/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

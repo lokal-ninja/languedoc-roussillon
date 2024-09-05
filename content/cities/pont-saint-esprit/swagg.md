@@ -1,5 +1,5 @@
 ---
 title: "Swagg"
 url: /pont-saint-esprit/swagg/
-shop: coiffeur
+shop: Friseur
 ---

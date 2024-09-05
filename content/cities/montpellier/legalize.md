@@ -1,5 +1,5 @@
 ---
 title: "Legalize"
 url: /montpellier/legalize/
-shop: cannabis
+shop: Hanf
 ---

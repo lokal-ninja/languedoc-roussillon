@@ -1,5 +1,5 @@
 ---
 title: "Omsia"
 url: /lattes/omsia/
-shop: cuir
+shop: Leder
 ---

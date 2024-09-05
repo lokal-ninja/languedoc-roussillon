@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /lattes/devred/
-shop: vêtements
+shop: Kleidung
 ---

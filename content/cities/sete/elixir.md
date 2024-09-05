@@ -1,5 +1,5 @@
 ---
 title: "Elixir"
 url: /sete/elixir/
-shop: beauté
+shop: Kosmetik
 ---

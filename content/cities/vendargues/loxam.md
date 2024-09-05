@@ -1,5 +1,5 @@
 ---
 title: "Loxam"
 url: /vendargues/loxam/
-shop: outils
+shop: Werkzeuge
 ---

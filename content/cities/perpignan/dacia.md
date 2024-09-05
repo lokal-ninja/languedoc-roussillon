@@ -1,5 +1,5 @@
 ---
 title: "Dacia"
 url: /perpignan/dacia/
-shop: voiture
+shop: Autohaus
 ---

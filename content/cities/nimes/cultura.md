@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /nimes/cultura/
-shop: livres
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CGME"
 url: /mauguio/cgme/
-shop: électrique
+shop: Elektrisch
 ---

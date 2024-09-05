@@ -1,5 +1,5 @@
 ---
 title: "Excalibur"
 url: /montpellier/excalibur/
-shop: jeux
+shop: Spiele
 ---

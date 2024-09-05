@@ -1,5 +1,5 @@
 ---
 title: "Diamantor"
 url: /nimes/diamantor/
-shop: bijoux
+shop: Schmuck
 ---

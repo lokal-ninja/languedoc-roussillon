@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /carcassonne/schmidt/
-shop: cuisine
+shop: Küchen
 ---

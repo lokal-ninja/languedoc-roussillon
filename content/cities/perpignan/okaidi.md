@@ -1,5 +1,5 @@
 ---
 title: "Okaïdi"
 url: /perpignan/okaidi/
-shop: vêtements
+shop: Kleidung
 ---

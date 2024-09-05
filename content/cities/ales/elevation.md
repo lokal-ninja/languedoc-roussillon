@@ -1,5 +1,5 @@
 ---
 title: "Élévation"
 url: /ales/elevation/
-shop: coiffeur
+shop: Friseur
 ---

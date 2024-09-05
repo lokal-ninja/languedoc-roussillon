@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /mauguio/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

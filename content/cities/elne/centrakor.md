@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /elne/centrakor/
-shop: décoration intérieure
+shop: Raumausstattung
 ---

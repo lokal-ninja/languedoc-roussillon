@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /gignac/renault/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Turkuaz"
 url: /beziers/turkuaz/
-shop: commodité
+shop: Lebensmittel
 ---

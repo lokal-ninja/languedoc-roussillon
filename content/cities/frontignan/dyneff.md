@@ -1,5 +1,5 @@
 ---
 title: "Dyneff"
 url: /frontignan/dyneff/
-shop: commodité
+shop: Lebensmittel
 ---

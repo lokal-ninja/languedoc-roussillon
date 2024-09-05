@@ -1,5 +1,5 @@
 ---
 title: "Valini"
 url: /nimes/valini/
-shop: café
+shop: Kaffee
 ---

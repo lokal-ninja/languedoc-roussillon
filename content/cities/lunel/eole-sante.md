@@ -1,5 +1,5 @@
 ---
 title: "Eole Santé"
 url: /lunel/eole-sante/
-shop: approvisionnement médical
+shop: Sanitätshaus
 ---

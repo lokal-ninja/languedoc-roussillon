@@ -1,5 +1,5 @@
 ---
 title: "Autrement"
 url: /la-grande-motte/autrement/
-shop: coiffeur
+shop: Friseur
 ---

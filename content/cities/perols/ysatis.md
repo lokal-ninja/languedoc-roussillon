@@ -1,5 +1,5 @@
 ---
 title: "Ysatis"
 url: /perols/ysatis/
-shop: coiffeur
+shop: Friseur
 ---

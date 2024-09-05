@@ -1,5 +1,5 @@
 ---
 title: "Fruitea"
 url: /montpellier/fruitea/
-shop: thé
+shop: Tee
 ---

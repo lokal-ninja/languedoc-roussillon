@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /vauvert/darty/
-shop: électronique
+shop: Elektronik
 ---

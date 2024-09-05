@@ -1,5 +1,5 @@
 ---
 title: "Le Pain des Halles"
 url: /lunel/le-pain-des-halles/
-shop: boulangerie
+shop: Bäckerei
 ---

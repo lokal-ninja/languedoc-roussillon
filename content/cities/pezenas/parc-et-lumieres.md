@@ -1,5 +1,5 @@
 ---
 title: "Parc et Lumières"
 url: /pezenas/parc-et-lumieres/
-shop: billet
+shop: Tickets
 ---

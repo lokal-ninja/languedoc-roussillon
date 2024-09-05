@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /beziers/bonjour/
-shop: commodité
+shop: Lebensmittel
 ---

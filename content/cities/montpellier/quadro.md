@@ -1,5 +1,5 @@
 ---
 title: "Quadro"
 url: /montpellier/quadro/
-shop: meubles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galzin"
 url: /balaruc-les-bains/galzin/
-shop: boulangerie
+shop: Bäckerei
 ---

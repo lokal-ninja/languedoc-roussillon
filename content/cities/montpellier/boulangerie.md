@@ -1,5 +1,5 @@
 ---
 title: "boulangerie"
 url: /montpellier/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

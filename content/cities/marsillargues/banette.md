@@ -1,5 +1,5 @@
 ---
 title: "Banette"
 url: /marsillargues/banette/
-shop: boulangerie
+shop: Bäckerei
 ---

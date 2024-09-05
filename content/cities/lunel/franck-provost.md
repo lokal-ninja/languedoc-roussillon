@@ -1,5 +1,5 @@
 ---
 title: "Franck Provost"
 url: /lunel/franck-provost/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goyard"
 url: /nimes/goyard/
-shop: livres
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /uzes/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

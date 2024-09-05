@@ -1,5 +1,5 @@
 ---
 title: "Esprit Soins"
 url: /pont-saint-esprit/esprit-soins/
-shop: beauté
+shop: Kosmetik
 ---

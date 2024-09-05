@@ -1,5 +1,5 @@
 ---
 title: "Mishima"
 url: /montpellier/mishima/
-shop: vêtements
+shop: Kleidung
 ---

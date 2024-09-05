@@ -1,5 +1,5 @@
 ---
 title: "Mondovélo"
 url: /ales/mondovelo/
-shop: vélo
+shop: Fahrrad
 ---

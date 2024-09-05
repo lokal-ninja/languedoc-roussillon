@@ -1,5 +1,5 @@
 ---
 title: "France Loisirs"
 url: /nimes/france-loisirs/
-shop: livres
+shop: Bücher
 ---

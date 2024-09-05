@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /sete/spar/
-shop: commodité
+shop: Lebensmittel
 ---

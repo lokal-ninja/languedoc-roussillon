@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /lattes/etam/
-shop: vêtements
+shop: Kleidung
 ---

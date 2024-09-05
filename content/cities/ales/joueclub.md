@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /ales/joueclub/
-shop: jouets
+shop: Spielzeug
 ---

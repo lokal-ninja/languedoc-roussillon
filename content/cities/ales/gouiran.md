@@ -1,5 +1,5 @@
 ---
 title: "Gouiran"
 url: /ales/gouiran/
-shop: beauté
+shop: Kosmetik
 ---

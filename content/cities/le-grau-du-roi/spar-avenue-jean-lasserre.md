@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /le-grau-du-roi/spar-avenue-jean-lasserre/
-shop: commodité
+shop: Lebensmittel
 ---

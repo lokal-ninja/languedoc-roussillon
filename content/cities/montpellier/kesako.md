@@ -1,5 +1,5 @@
 ---
 title: "Kesako"
 url: /montpellier/kesako/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vartan's"
 url: /nimes/vartans/
-shop: lit
+shop: Betten
 ---

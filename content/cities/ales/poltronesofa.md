@@ -1,5 +1,5 @@
 ---
 title: "Poltronesofà"
 url: /ales/poltronesofa/
-shop: meubles
+shop: Möbel
 ---

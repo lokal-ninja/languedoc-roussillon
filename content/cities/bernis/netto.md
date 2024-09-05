@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /bernis/netto/
-shop: supermarché
+shop: Supermarkt
 ---

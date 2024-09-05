@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /lattes/intersport/
-shop: sports
+shop: Sport
 ---

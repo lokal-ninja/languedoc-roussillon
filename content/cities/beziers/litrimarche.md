@@ -1,5 +1,5 @@
 ---
 title: "Litrimarché"
 url: /beziers/litrimarche/
-shop: lit
+shop: Betten
 ---

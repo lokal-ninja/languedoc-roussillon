@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /nimes/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

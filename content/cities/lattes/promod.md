@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /lattes/promod/
-shop: vêtements
+shop: Kleidung
 ---

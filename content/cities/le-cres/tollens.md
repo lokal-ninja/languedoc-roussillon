@@ -1,5 +1,5 @@
 ---
 title: "Tollens"
 url: /le-cres/tollens/
-shop: peinture
+shop: Farben
 ---

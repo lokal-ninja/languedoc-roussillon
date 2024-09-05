@@ -1,5 +1,5 @@
 ---
 title: "Thomas"
 url: /nimes/thomas/
-shop: bijoux
+shop: Schmuck
 ---

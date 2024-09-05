@@ -1,5 +1,5 @@
 ---
 title: "Perlépompons"
 url: /nimes/perlepompons/
-shop: artisanat
+shop: Basteln
 ---

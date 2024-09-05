@@ -1,5 +1,5 @@
 ---
 title: "Sonepar"
 url: /saint-aunes/sonepar/
-shop: électrique
+shop: Elektrisch
 ---

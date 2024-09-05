@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /nimes/promod/
-shop: vêtements
+shop: Kleidung
 ---

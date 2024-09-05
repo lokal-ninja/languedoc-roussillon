@@ -1,5 +1,5 @@
 ---
 title: "Légumes Fruits"
 url: /marsillargues/legumes-fruits/
-shop: légumes
+shop: Gemüse & Obst
 ---

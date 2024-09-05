@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /agde/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

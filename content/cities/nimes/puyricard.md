@@ -1,5 +1,5 @@
 ---
 title: "Puyricard"
 url: /nimes/puyricard/
-shop: chocolat
+shop: Schokolade
 ---

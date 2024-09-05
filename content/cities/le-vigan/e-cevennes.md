@@ -1,5 +1,5 @@
 ---
 title: "e-Cevennes"
 url: /le-vigan/e-cevennes/
-shop: ordinateur
+shop: Computer
 ---

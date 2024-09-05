@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /lunel/zeeman/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Retrofutur"
 url: /montpellier/retrofutur/
-shop: vêtements
+shop: Kleidung
 ---

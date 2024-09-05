@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /nimes/intermarche-route-de-sauve/
-shop: supermarché
+shop: Supermarkt
 ---

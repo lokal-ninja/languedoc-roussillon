@@ -1,5 +1,5 @@
 ---
 title: "Alliance Carrelage"
 url: /mauguio/alliance-carrelage/
-shop: tuiles
+shop: Fliesen
 ---

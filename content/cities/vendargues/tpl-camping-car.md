@@ -1,5 +1,5 @@
 ---
 title: "TPL Camping car"
 url: /vendargues/tpl-camping-car/
-shop: caravane
+shop: Wohnwagen
 ---

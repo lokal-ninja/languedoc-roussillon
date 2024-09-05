@@ -1,5 +1,5 @@
 ---
 title: "Natur'Line"
 url: /montpellier/naturline/
-shop: beauté
+shop: Kosmetik
 ---

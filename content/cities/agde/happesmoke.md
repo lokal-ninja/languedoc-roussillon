@@ -1,5 +1,5 @@
 ---
 title: "Happesmoke"
 url: /agde/happesmoke/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

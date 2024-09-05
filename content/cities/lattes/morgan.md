@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /lattes/morgan/
-shop: vêtements
+shop: Kleidung
 ---

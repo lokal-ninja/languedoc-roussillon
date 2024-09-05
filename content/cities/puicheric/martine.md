@@ -1,5 +1,5 @@
 ---
 title: "Martine"
 url: /puicheric/martine/
-shop: coiffeur
+shop: Friseur
 ---

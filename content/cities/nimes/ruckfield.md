@@ -1,5 +1,5 @@
 ---
 title: "Ruckfield"
 url: /nimes/ruckfield/
-shop: vêtements
+shop: Kleidung
 ---

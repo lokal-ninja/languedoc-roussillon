@@ -1,5 +1,5 @@
 ---
 title: "La Rosée"
 url: /bedarieux/la-rosee/
-shop: légumes
+shop: Gemüse & Obst
 ---

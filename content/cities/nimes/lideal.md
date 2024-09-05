@@ -1,5 +1,5 @@
 ---
 title: "L'Ideal"
 url: /nimes/lideal/
-shop: vêtements
+shop: Kleidung
 ---

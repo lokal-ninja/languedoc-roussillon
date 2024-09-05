@@ -1,5 +1,5 @@
 ---
 title: "GrandOptical"
 url: /perpignan/grandoptical/
-shop: opticien
+shop: Optiker
 ---

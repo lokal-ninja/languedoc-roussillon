@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /nimes/coccimarket/
-shop: commodité
+shop: Lebensmittel
 ---

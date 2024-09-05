@@ -1,5 +1,5 @@
 ---
 title: "ATM Automobiles"
 url: /mauguio/atm-automobiles/
-shop: voiture
+shop: Autohaus
 ---

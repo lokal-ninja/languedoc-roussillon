@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /agde/citroen/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /perols/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

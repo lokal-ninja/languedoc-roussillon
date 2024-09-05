@@ -1,5 +1,5 @@
 ---
 title: "LandRover"
 url: /beziers/landrover/
-shop: voiture
+shop: Autohaus
 ---

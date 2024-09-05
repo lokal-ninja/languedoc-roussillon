@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /lezan/bigmat/
-shop: supermarché
+shop: Supermarkt
 ---

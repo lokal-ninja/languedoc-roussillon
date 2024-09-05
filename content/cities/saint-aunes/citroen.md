@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /saint-aunes/citroen/
-shop: voiture
+shop: Autohaus
 ---

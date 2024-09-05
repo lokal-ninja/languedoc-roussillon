@@ -1,5 +1,5 @@
 ---
 title: "Aloha"
 url: /perols/aloha/
-shop: vêtements
+shop: Kleidung
 ---

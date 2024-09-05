@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /perols/auchan/
-shop: gaz
+shop: Gasflaschen
 ---

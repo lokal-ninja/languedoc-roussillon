@@ -1,5 +1,5 @@
 ---
 title: "Smok'shop"
 url: /montpellier/smokshop/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

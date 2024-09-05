@@ -1,5 +1,5 @@
 ---
 title: "blaoblank"
 url: /maureillas/blaoblank/
-shop: alcool
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /lunel/vival/
-shop: commodité
+shop: Lebensmittel
 ---

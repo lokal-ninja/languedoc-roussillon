@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /le-cres/honda/
-shop: voiture
+shop: Autohaus
 ---

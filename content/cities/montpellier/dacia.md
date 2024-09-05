@@ -1,5 +1,5 @@
 ---
 title: "Dacia"
 url: /montpellier/dacia/
-shop: voiture
+shop: Autohaus
 ---

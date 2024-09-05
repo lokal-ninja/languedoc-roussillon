@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Nour"
 url: /beziers/boucherie-nour/
-shop: boucherie
+shop: Metzgerei
 ---

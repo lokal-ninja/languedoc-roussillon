@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /carcassonne/intersport/
-shop: sports
+shop: Sport
 ---

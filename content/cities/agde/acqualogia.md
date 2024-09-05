@@ -1,5 +1,5 @@
 ---
 title: "Acqualogia"
 url: /agde/acqualogia/
-shop: blanchisserie
+shop: Wäscherei
 ---

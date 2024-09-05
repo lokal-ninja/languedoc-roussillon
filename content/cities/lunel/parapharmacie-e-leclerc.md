@@ -1,5 +1,5 @@
 ---
 title: "Parapharmacie E. Leclerc"
 url: /lunel/parapharmacie-e-leclerc/
-shop: chimiste
+shop: Drogerie
 ---

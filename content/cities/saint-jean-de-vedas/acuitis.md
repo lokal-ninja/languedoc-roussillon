@@ -1,5 +1,5 @@
 ---
 title: "Acuitis"
 url: /saint-jean-de-vedas/acuitis/
-shop: opticien
+shop: Optiker
 ---

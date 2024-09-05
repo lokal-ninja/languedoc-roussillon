@@ -1,5 +1,5 @@
 ---
 title: "Souk du Sud"
 url: /beziers/souk-du-sud/
-shop: boucherie
+shop: Metzgerei
 ---

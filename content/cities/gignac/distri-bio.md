@@ -1,5 +1,5 @@
 ---
 title: "Distri Bio"
 url: /gignac/distri-bio/
-shop: commodité
+shop: Lebensmittel
 ---

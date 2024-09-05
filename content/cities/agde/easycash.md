@@ -1,5 +1,5 @@
 ---
 title: "Easycash"
 url: /agde/easycash/
-shop: charité
+shop: Gebrauchtwaren
 ---

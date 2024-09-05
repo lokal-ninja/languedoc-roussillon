@@ -1,5 +1,5 @@
 ---
 title: "Coupole services"
 url: /nimes/coupole-services/
-shop: serrurier
+shop: Schlüsseldienst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eveyeko"
 url: /nimes/eveyeko/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Desigual"
 url: /nimes/desigual/
-shop: vêtements
+shop: Kleidung
 ---

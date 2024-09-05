@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /nimes/claires-avenue-claude-baillet/
-shop: boutique
+shop: Modehaus
 ---

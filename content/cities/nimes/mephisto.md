@@ -1,5 +1,5 @@
 ---
 title: "Mephisto"
 url: /nimes/mephisto/
-shop: chaussures
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /carcassonne/darty/
-shop: électronique
+shop: Elektronik
 ---

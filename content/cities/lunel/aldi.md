@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /lunel/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

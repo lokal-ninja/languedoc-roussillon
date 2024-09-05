@@ -1,5 +1,5 @@
 ---
 title: "Hylton"
 url: /nimes/hylton/
-shop: chaussures
+shop: Schuhe
 ---

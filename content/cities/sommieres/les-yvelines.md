@@ -1,5 +1,5 @@
 ---
 title: "Les Yvelines"
 url: /sommieres/les-yvelines/
-shop: légumes
+shop: Gemüse & Obst
 ---

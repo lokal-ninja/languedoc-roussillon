@@ -1,5 +1,5 @@
 ---
 title: "Côté Granulés"
 url: /lunel-viel/cote-granules/
-shop: cheminée
+shop: Kamine & Öfen
 ---

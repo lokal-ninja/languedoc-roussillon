@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /nimes/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

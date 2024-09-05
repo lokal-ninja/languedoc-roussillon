@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /montady/spar/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TOSCANE"
 url: /perpignan/toscane/
-shop: vêtements
+shop: Kleidung
 ---

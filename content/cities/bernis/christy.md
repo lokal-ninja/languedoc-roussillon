@@ -1,5 +1,5 @@
 ---
 title: "Christy"
 url: /bernis/christy/
-shop: coiffeur
+shop: Friseur
 ---

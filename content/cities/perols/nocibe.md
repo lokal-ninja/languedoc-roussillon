@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /perols/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

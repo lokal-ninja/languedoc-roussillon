@@ -1,5 +1,5 @@
 ---
 title: "Majorel"
 url: /mende/majorel/
-shop: pâtisserie
+shop: Konditorei
 ---

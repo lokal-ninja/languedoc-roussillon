@@ -1,5 +1,5 @@
 ---
 title: "Pom d'Amour"
 url: /nimes/pom-damour/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D'Coiff"
 url: /valergues/dcoiff/
-shop: coiffeur
+shop: Friseur
 ---

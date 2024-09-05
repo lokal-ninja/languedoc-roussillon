@@ -1,5 +1,5 @@
 ---
 title: "lilodélo"
 url: /nimes/lilodelo/
-shop: bijoux
+shop: Schmuck
 ---

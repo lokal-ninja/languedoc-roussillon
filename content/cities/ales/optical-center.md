@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /ales/optical-center/
-shop: opticien
+shop: Optiker
 ---

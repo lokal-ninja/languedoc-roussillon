@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Le Samba"
 url: /le-grau-du-roi/tabac-presse-le-samba/
-shop: marchand de journaux
+shop: Zeitungen
 ---

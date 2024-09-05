@@ -1,5 +1,5 @@
 ---
 title: "Fancy"
 url: /sommieres/fancy/
-shop: bijoux
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /lunel/bonjour/
-shop: commodité
+shop: Lebensmittel
 ---

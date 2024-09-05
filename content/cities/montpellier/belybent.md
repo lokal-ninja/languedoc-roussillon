@@ -1,5 +1,5 @@
 ---
 title: "Belybent"
 url: /montpellier/belybent/
-shop: vêtements
+shop: Kleidung
 ---

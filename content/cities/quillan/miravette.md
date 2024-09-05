@@ -1,5 +1,5 @@
 ---
 title: "Miravette"
 url: /quillan/miravette/
-shop: hifi
+shop: Hifi
 ---

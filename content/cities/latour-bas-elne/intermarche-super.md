@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /latour-bas-elne/intermarche-super/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /pezenas/intersport/
-shop: sports
+shop: Sport
 ---

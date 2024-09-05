@@ -1,5 +1,5 @@
 ---
 title: "Magasin Bio Monde"
 url: /leucate/magasin-bio-monde/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meubles Gilbert"
 url: /le-vigan/meubles-gilbert/
-shop: meubles
+shop: Möbel
 ---

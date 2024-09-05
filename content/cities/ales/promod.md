@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /ales/promod/
-shop: vêtements
+shop: Kleidung
 ---

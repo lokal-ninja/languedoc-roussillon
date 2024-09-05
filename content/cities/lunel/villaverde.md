@@ -1,5 +1,5 @@
 ---
 title: "Villaverde"
 url: /lunel/villaverde/
-shop: centre de jardinage
+shop: Garten-Center
 ---

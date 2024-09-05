@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /carcassonne/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

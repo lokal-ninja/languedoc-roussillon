@@ -1,5 +1,5 @@
 ---
 title: "Majunga"
 url: /nimes/majunga/
-shop: vêtements
+shop: Kleidung
 ---

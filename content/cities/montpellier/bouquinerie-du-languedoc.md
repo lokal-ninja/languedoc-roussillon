@@ -1,5 +1,5 @@
 ---
 title: "Bouquinerie du Languedoc"
 url: /montpellier/bouquinerie-du-languedoc/
-shop: livres
+shop: Bücher
 ---

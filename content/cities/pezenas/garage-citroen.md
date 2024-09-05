@@ -1,5 +1,5 @@
 ---
 title: "Garage Citroën"
 url: /pezenas/garage-citroen/
-shop: voiture
+shop: Autohaus
 ---

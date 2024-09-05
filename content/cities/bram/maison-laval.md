@@ -1,5 +1,5 @@
 ---
 title: "Maison Laval"
 url: /bram/maison-laval/
-shop: boulangerie
+shop: Bäckerei
 ---

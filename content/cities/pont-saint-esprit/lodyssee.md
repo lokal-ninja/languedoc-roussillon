@@ -1,5 +1,5 @@
 ---
 title: "L'Odyssée"
 url: /pont-saint-esprit/lodyssee/
-shop: beauté
+shop: Kosmetik
 ---

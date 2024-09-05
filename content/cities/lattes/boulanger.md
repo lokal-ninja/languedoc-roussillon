@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /lattes/boulanger/
-shop: électronique
+shop: Elektronik
 ---

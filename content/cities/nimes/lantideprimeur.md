@@ -1,5 +1,5 @@
 ---
 title: "L'Antidéprimeur"
 url: /nimes/lantideprimeur/
-shop: légumes
+shop: Gemüse & Obst
 ---

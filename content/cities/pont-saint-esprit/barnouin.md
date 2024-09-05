@@ -1,5 +1,5 @@
 ---
 title: "Barnouin"
 url: /pont-saint-esprit/barnouin/
-shop: centre de jardinage
+shop: Garten-Center
 ---

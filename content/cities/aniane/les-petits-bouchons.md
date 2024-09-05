@@ -1,5 +1,5 @@
 ---
 title: "Les Petits Bouchons"
 url: /aniane/les-petits-bouchons/
-shop: alcool
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /nimes/etam/
-shop: vêtements
+shop: Kleidung
 ---

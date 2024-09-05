@@ -1,5 +1,5 @@
 ---
 title: "Khaan"
 url: /nimes/khaan/
-shop: vêtements
+shop: Kleidung
 ---

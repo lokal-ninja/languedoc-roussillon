@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /gignac/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

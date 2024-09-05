@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /marvejols/casino/
-shop: supermarché
+shop: Supermarkt
 ---

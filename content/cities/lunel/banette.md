@@ -1,5 +1,5 @@
 ---
 title: "Banette"
 url: /lunel/banette/
-shop: boulangerie
+shop: Bäckerei
 ---

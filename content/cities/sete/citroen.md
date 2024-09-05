@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /sete/citroen/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /bedarieux/atol/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "YAM34 Est"
 url: /mauguio/yam34-est/
-shop: moto
+shop: Motorrad
 ---

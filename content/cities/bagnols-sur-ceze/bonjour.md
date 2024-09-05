@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /bagnols-sur-ceze/bonjour/
-shop: commodité
+shop: Lebensmittel
 ---

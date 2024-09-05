@@ -1,5 +1,5 @@
 ---
 title: "Lachize"
 url: /nimes/lachize/
-shop: bijoux
+shop: Schmuck
 ---

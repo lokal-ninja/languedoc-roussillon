@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /lattes/pimkie/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jennyfer"
 url: /nimes/jennyfer/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Interflora"
 url: /lunel/interflora/
-shop: fleuriste
+shop: Blumen
 ---

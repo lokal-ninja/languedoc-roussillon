@@ -1,5 +1,5 @@
 ---
 title: "Interflora"
 url: /marsillargues/interflora/
-shop: fleuriste
+shop: Blumen
 ---

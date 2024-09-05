@@ -1,5 +1,5 @@
 ---
 title: "Namaste"
 url: /nimes/namaste/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seven Market"
 url: /beziers/seven-market/
-shop: commodité
+shop: Lebensmittel
 ---

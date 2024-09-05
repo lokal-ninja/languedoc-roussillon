@@ -1,5 +1,5 @@
 ---
 title: "Gard'n Vrac"
 url: /nimes/gardn-vrac/
-shop: supermarché
+shop: Supermarkt
 ---

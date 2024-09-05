@@ -1,5 +1,5 @@
 ---
 title: "Melya Boutique"
 url: /murviel-les-beziers/melya-boutique/
-shop: vêtements
+shop: Kleidung
 ---

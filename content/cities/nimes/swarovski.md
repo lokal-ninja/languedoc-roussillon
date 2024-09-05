@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /nimes/swarovski/
-shop: bijoux
+shop: Schmuck
 ---

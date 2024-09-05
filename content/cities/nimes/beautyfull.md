@@ -1,5 +1,5 @@
 ---
 title: "Beautyfull"
 url: /nimes/beautyfull/
-shop: beauté
+shop: Kosmetik
 ---

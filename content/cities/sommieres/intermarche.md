@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /sommieres/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

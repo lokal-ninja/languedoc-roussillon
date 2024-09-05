@@ -1,5 +1,5 @@
 ---
 title: "Nicotech"
 url: /nimes/nicotech/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

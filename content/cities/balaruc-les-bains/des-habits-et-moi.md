@@ -1,5 +1,5 @@
 ---
 title: "Des Habits et Moi"
 url: /balaruc-les-bains/des-habits-et-moi/
-shop: vêtements
+shop: Kleidung
 ---

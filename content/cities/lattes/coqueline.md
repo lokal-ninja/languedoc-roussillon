@@ -1,5 +1,5 @@
 ---
 title: "Coqueline"
 url: /lattes/coqueline/
-shop: vêtements
+shop: Kleidung
 ---

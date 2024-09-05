@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /nimes/vival/
-shop: commodité
+shop: Lebensmittel
 ---

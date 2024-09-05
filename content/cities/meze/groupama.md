@@ -1,5 +1,5 @@
 ---
 title: "Groupama"
 url: /meze/groupama/
-shop: shop
+shop: Allgemein
 ---

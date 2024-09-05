@@ -1,5 +1,5 @@
 ---
 title: "ATAS"
 url: /baillargues/atas/
-shop: pièces de voitures
+shop: Autoteile
 ---

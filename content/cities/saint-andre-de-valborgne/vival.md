@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /saint-andre-de-valborgne/vival/
-shop: commodité
+shop: Lebensmittel
 ---

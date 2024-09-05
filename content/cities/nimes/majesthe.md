@@ -1,5 +1,5 @@
 ---
 title: "Majesthé"
 url: /nimes/majesthe/
-shop: thé
+shop: Tee
 ---

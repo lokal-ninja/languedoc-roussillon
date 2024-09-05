@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /ales/schmidt/
-shop: cuisine
+shop: Küchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vision'aires"
 url: /quillan/visionaires/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Réseau Fourgons Vendargues"
 url: /vendargues/reseau-fourgons-vendargues/
-shop: caravane
+shop: Wohnwagen
 ---

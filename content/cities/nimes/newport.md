@@ -1,5 +1,5 @@
 ---
 title: "Newport"
 url: /nimes/newport/
-shop: vêtements
+shop: Kleidung
 ---

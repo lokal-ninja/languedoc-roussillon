@@ -1,5 +1,5 @@
 ---
 title: "Fébéo"
 url: /montpellier/febeo/
-shop: boucherie
+shop: Metzgerei
 ---

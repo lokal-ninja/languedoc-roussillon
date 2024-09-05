@@ -1,5 +1,5 @@
 ---
-title: "Péchés Gourmands"
+title: "Pechés Gourmands"
 url: /nimes/peches-gourmands/
-shop: charcuterie
+shop: Schokolade
 ---

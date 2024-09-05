@@ -1,5 +1,5 @@
 ---
 title: "Midi Market"
 url: /pont-saint-esprit/midi-market/
-shop: commodité
+shop: Lebensmittel
 ---

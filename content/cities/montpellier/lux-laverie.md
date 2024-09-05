@@ -1,5 +1,5 @@
 ---
 title: "Lux Laverie"
 url: /montpellier/lux-laverie/
-shop: blanchisserie
+shop: Wäscherei
 ---

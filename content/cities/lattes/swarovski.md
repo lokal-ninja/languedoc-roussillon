@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /lattes/swarovski/
-shop: bijoux
+shop: Schmuck
 ---

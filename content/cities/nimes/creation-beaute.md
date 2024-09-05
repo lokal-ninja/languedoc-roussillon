@@ -1,5 +1,5 @@
 ---
 title: "Création Beauté"
 url: /nimes/creation-beaute/
-shop: beauté
+shop: Kosmetik
 ---

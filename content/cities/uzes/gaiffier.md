@@ -1,5 +1,5 @@
 ---
 title: "Gaiffier"
 url: /uzes/gaiffier/
-shop: légumes
+shop: Gemüse & Obst
 ---

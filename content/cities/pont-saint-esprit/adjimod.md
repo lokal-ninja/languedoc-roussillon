@@ -1,5 +1,5 @@
 ---
 title: "Adji'Mod"
 url: /pont-saint-esprit/adjimod/
-shop: vêtements
+shop: Kleidung
 ---

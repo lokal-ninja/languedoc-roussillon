@@ -1,5 +1,5 @@
 ---
 title: "Flying CAT"
 url: /sete/flying-cat/
-shop: vélo
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /perpignan/spar/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GM Coiffure"
 url: /saint-aunes/gm-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bram/spar/
-shop: supermarché
+shop: Supermarkt
 ---

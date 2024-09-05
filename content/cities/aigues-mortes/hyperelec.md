@@ -1,5 +1,5 @@
 ---
 title: "Hyperelec"
 url: /aigues-mortes/hyperelec/
-shop: électrique
+shop: Elektrisch
 ---

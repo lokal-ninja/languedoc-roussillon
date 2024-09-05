@@ -1,5 +1,5 @@
 ---
 title: "Librairie Breithaupt"
 url: /carcassonne/librairie-breithaupt/
-shop: livres
+shop: Bücher
 ---

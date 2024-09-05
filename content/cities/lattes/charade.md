@@ -1,5 +1,5 @@
 ---
 title: "Charade"
 url: /lattes/charade/
-shop: vêtements
+shop: Kleidung
 ---

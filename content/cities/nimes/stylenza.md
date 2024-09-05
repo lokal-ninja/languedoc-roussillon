@@ -1,5 +1,5 @@
 ---
 title: "Stylenza"
 url: /nimes/stylenza/
-shop: bijoux
+shop: Schmuck
 ---

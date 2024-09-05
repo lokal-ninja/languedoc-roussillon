@@ -1,5 +1,5 @@
 ---
 title: "Peris"
 url: /magalas/peris/
-shop: agraire
+shop: Landwirtschaftlich
 ---

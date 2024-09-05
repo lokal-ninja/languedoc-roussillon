@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /ales/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

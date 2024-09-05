@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /perpignan/fnac/
-shop: livres
+shop: Bücher
 ---

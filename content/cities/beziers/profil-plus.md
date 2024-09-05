@@ -1,5 +1,5 @@
 ---
 title: "Profil Plus"
 url: /beziers/profil-plus/
-shop: pneus
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Regarde"
 url: /nimes/regarde/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crudi Vert"
 url: /nimes/crudi-vert/
-shop: légumes
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aurélie Coiffure"
 url: /bouzigues/aurelie-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

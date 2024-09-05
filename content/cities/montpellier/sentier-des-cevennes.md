@@ -1,5 +1,5 @@
 ---
 title: "Sentier des Cévennes"
 url: /montpellier/sentier-des-cevennes/
-shop: légumes
+shop: Gemüse & Obst
 ---

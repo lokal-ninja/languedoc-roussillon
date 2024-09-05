@@ -1,5 +1,5 @@
 ---
 title: "L'Amiral Tabac"
 url: /nimes/lamiral-tabac/
-shop: tabac
+shop: Tabak
 ---

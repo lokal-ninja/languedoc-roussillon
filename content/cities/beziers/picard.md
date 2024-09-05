@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /beziers/picard/
-shop: aliments surgelés
+shop: Tiefkühl
 ---

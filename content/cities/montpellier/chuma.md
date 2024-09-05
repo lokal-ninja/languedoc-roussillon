@@ -1,5 +1,5 @@
 ---
 title: "Chuma"
 url: /montpellier/chuma/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vin Piolong"
 url: /montaud/vin-piolong/
-shop: alcool
+shop: Spirituosen
 ---

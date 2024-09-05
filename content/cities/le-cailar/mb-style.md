@@ -1,5 +1,5 @@
 ---
 title: "Mb Style"
 url: /le-cailar/mb-style/
-shop: coiffeur
+shop: Friseur
 ---

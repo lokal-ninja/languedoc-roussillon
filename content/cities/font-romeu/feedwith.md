@@ -1,5 +1,5 @@
 ---
 title: "FEEDWITH"
 url: /font-romeu/feedwith/
-shop: shop
+shop: Allgemein
 ---

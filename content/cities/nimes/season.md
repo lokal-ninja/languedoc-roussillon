@@ -1,5 +1,5 @@
 ---
 title: "Season"
 url: /nimes/season/
-shop: opticien
+shop: Optiker
 ---

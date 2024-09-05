@@ -1,5 +1,5 @@
 ---
 title: "Moa"
 url: /nimes/moa/
-shop: boutique
+shop: Modehaus
 ---

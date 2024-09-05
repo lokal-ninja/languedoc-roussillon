@@ -1,5 +1,5 @@
 ---
 title: "Épicerie Racine"
 url: /la-grande-motte/epicerie-racine/
-shop: légumes
+shop: Gemüse & Obst
 ---

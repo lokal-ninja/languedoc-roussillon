@@ -1,5 +1,5 @@
 ---
 title: "Okaïdi"
 url: /lattes/okaidi/
-shop: vêtements
+shop: Kleidung
 ---

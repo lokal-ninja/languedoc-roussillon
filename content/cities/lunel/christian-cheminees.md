@@ -1,5 +1,5 @@
 ---
 title: "Christian Cheminées"
 url: /lunel/christian-cheminees/
-shop: cheminée
+shop: Kamine & Öfen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tendance Coiffure"
 url: /saint-aunes/tendance-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

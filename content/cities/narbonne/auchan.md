@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /narbonne/auchan/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maserati"
 url: /lattes/maserati/
-shop: voiture
+shop: Autohaus
 ---

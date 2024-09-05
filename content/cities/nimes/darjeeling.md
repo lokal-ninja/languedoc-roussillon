@@ -1,5 +1,5 @@
 ---
 title: "Darjeeling"
 url: /nimes/darjeeling/
-shop: vêtements
+shop: Kleidung
 ---

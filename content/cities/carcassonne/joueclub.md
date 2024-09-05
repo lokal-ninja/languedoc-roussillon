@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /carcassonne/joueclub/
-shop: jouets
+shop: Spielzeug
 ---
