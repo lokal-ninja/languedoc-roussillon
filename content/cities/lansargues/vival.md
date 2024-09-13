@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /lansargues/vival/
-shop: Lebensmittel
+shop: commodité
 ---

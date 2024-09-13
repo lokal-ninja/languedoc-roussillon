@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /le-vigan/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

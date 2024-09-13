@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /laroque/biocoop/
-shop: Supermarkt
+shop: supermarché
 ---

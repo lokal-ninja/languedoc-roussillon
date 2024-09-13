@@ -1,5 +1,5 @@
 ---
 title: "KLO"
 url: /carcassonne/klo/
-shop: Kramladen
+shop: magasin de variétés
 ---

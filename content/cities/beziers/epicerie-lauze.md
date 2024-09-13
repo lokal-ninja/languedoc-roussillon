@@ -1,5 +1,5 @@
 ---
 title: "Epicerie Lauze"
 url: /beziers/epicerie-lauze/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Espace Presse"
 url: /balaruc-le-vieux/espace-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

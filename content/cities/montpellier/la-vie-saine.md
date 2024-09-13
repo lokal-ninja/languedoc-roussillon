@@ -1,5 +1,5 @@
 ---
 title: "La Vie Saine"
 url: /montpellier/la-vie-saine/
-shop: Lebensmittel
+shop: commodité
 ---

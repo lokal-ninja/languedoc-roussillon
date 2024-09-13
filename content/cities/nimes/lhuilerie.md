@@ -1,5 +1,5 @@
 ---
 title: "L'Huilerie"
 url: /nimes/lhuilerie/
-shop: Feinkost
+shop: charcuterie
 ---

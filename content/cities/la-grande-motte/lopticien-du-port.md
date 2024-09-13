@@ -1,5 +1,5 @@
 ---
 title: "L'opticien du Port"
 url: /la-grande-motte/lopticien-du-port/
-shop: Optiker
+shop: opticien
 ---

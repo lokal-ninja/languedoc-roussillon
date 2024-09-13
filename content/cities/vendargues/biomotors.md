@@ -1,5 +1,5 @@
 ---
 title: "Biomotors"
 url: /vendargues/biomotors/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

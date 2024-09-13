@@ -1,5 +1,5 @@
 ---
 title: "Euro’Or"
 url: /lunel/euroor/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brocante"
 url: /montpellier/brocante/
-shop: Antiquitäten
+shop: antiquités
 ---

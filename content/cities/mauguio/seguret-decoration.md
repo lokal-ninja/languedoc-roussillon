@@ -1,5 +1,5 @@
 ---
 title: "Seguret Décoration"
 url: /mauguio/seguret-decoration/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Narguishop"
 url: /nimes/narguishop/
-shop: Dorfladen
+shop: magasin de campagne
 ---

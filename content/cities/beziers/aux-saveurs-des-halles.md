@@ -1,5 +1,5 @@
 ---
 title: "Aux Saveurs des Halles"
 url: /beziers/aux-saveurs-des-halles/
-shop: Bioladen
+shop: alimentation saine
 ---

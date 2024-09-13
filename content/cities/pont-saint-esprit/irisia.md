@@ -1,5 +1,5 @@
 ---
 title: "Irisia"
 url: /pont-saint-esprit/irisia/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

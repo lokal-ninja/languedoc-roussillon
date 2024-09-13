@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /sommieres/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

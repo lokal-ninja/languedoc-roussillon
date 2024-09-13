@@ -1,5 +1,5 @@
 ---
 title: "Golden Touch"
 url: /lunel/golden-touch/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toutesfrimouss"
 url: /teyran/toutesfrimouss/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

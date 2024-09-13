@@ -1,5 +1,5 @@
 ---
 title: "Vapostyl"
 url: /nimes/vapostyl/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

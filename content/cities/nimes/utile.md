@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /nimes/utile/
-shop: Lebensmittel
+shop: commodité
 ---

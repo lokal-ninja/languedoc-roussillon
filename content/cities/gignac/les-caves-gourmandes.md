@@ -1,5 +1,5 @@
 ---
 title: "Les Caves Gourmandes"
 url: /gignac/les-caves-gourmandes/
-shop: Spirituosen
+shop: alcool
 ---

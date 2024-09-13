@@ -1,5 +1,5 @@
 ---
 title: "Sylvie Coiffure"
 url: /saint-jean-du-gard/sylvie-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

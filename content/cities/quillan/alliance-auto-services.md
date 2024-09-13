@@ -1,5 +1,5 @@
 ---
 title: "Alliance Auto Services"
 url: /quillan/alliance-auto-services/
-shop: Autoteile
+shop: pièces de voitures
 ---

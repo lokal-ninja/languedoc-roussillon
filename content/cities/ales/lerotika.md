@@ -1,5 +1,5 @@
 ---
 title: "L'Erotika"
 url: /ales/lerotika/
-shop: Dorfladen
+shop: magasin de campagne
 ---

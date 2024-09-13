@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Le Gaulois"
 url: /capestang/tabac-presse-le-gaulois/
-shop: Zeitungen
+shop: marchand de journaux
 ---

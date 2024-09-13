@@ -1,5 +1,5 @@
 ---
 title: "Christine Laure"
 url: /perols/christine-laure/
-shop: Kleidung
+shop: vêtements
 ---

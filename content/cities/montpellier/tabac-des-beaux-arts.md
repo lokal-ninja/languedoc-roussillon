@@ -1,5 +1,5 @@
 ---
 title: "Tabac des Beaux-Arts"
 url: /montpellier/tabac-des-beaux-arts/
-shop: Zeitungen
+shop: marchand de journaux
 ---

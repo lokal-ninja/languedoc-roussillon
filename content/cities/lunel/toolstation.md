@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /lunel/toolstation/
-shop: Baumarkt
+shop: à faire soi-même
 ---

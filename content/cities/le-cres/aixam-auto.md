@@ -1,5 +1,5 @@
 ---
 title: "Aixam Auto"
 url: /le-cres/aixam-auto/
-shop: Autohaus
+shop: voiture
 ---

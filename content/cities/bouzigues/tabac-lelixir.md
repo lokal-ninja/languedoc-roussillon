@@ -1,5 +1,5 @@
 ---
 title: "Tabac l'Élixir"
 url: /bouzigues/tabac-lelixir/
-shop: Zeitungen
+shop: marchand de journaux
 ---

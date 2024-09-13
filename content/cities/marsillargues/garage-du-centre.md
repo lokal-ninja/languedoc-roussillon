@@ -1,5 +1,5 @@
 ---
 title: "Garage du Centre"
 url: /marsillargues/garage-du-centre/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

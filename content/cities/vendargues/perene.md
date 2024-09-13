@@ -1,5 +1,5 @@
 ---
 title: "Perene"
 url: /vendargues/perene/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

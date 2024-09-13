@@ -1,5 +1,5 @@
 ---
 title: "Garage GMH"
 url: /quillan/garage-gmh/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

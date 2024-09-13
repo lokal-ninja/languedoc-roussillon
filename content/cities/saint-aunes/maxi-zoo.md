@@ -1,5 +1,5 @@
 ---
 title: "Maxi Zoo"
 url: /saint-aunes/maxi-zoo/
-shop: Tiere
+shop: animal de compagnie
 ---

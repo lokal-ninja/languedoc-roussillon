@@ -1,5 +1,5 @@
 ---
 title: "La Boutique du Musée"
 url: /nimes/la-boutique-du-musee/
-shop: Andenken
+shop: cadeau
 ---

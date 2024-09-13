@@ -1,5 +1,5 @@
 ---
 title: "Bouygues Telecom"
 url: /saint-aunes/bouygues-telecom/
-shop: Handy
+shop: téléphone portable
 ---

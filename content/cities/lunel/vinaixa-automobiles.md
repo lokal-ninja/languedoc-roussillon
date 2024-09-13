@@ -1,5 +1,5 @@
 ---
 title: "Vinaixa Automobiles"
 url: /lunel/vinaixa-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

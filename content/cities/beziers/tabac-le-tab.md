@@ -1,5 +1,5 @@
 ---
 title: "Tabac Le Tab"
 url: /beziers/tabac-le-tab/
-shop: Zeitungen
+shop: marchand de journaux
 ---

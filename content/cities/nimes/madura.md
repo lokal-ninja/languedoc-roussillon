@@ -1,5 +1,5 @@
 ---
 title: "Madura"
 url: /nimes/madura/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

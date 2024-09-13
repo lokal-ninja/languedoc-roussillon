@@ -1,5 +1,5 @@
 ---
 title: "Decalc"
 url: /magalas/decalc/
-shop: Baumarkt
+shop: à faire soi-même
 ---

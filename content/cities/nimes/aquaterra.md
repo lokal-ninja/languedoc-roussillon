@@ -1,5 +1,5 @@
 ---
 title: "Aquaterra"
 url: /nimes/aquaterra/
-shop: Outdoor
+shop: extérieur
 ---

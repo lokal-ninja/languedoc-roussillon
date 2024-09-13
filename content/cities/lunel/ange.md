@@ -1,5 +1,5 @@
 ---
 title: "Ange"
 url: /lunel/ange/
-shop: Bäckerei
+shop: boulangerie
 ---

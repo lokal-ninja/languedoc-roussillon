@@ -1,5 +1,5 @@
 ---
 title: "Magne"
 url: /magalas/magne/
-shop: Landwirtschaftlich
+shop: agraire
 ---

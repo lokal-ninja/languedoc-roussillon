@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Librairie"
 url: /pinet/tabac-presse-librairie/
-shop: Zeitungen
+shop: marchand de journaux
 ---

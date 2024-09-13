@@ -1,5 +1,5 @@
 ---
 title: "Gandy"
 url: /nimes/gandy/
-shop: Leder
+shop: cuir
 ---

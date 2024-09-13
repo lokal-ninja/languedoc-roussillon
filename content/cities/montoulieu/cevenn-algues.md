@@ -1,5 +1,5 @@
 ---
 title: "Cévenn' Algues"
 url: /montoulieu/cevenn-algues/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /nimes/zeeman/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /nimes/micromania/
-shop: Videospiele
+shop: jeux vidéo
 ---

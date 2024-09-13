@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /perols/atol/
-shop: Optiker
+shop: opticien
 ---

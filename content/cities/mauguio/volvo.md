@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /mauguio/volvo/
-shop: Autohaus
+shop: voiture
 ---

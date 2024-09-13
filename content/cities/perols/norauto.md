@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /perols/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fringues et Vous"
 url: /lunel/fringues-et-vous/
-shop: Kleidung
+shop: vêtements
 ---

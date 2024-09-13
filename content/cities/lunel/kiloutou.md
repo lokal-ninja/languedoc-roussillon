@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /lunel/kiloutou/
-shop: Werkzeuge
+shop: outils
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vigier Tapisserie"
 url: /lunel/vigier-tapisserie/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

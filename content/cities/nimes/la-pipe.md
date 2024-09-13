@@ -1,5 +1,5 @@
 ---
 title: "La Pipe"
 url: /nimes/la-pipe/
-shop: Tabak
+shop: tabac
 ---

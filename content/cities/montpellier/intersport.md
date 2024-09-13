@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /montpellier/intersport/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stypique"
 url: /sete/stypique/
-shop: Friseur
+shop: coiffeur
 ---

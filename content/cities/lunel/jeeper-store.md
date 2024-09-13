@@ -1,5 +1,5 @@
 ---
 title: "Jeeper Store"
 url: /lunel/jeeper-store/
-shop: Autoteile
+shop: pièces de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'ancre"
 url: /sete/lancre/
-shop: Eisenwaren
+shop: matériel informatique
 ---

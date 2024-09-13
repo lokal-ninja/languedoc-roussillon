@@ -1,5 +1,5 @@
 ---
 title: "Animo Boutik"
 url: /lunel/animo-boutik/
-shop: Tiere
+shop: animal de compagnie
 ---

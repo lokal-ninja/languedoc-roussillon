@@ -1,5 +1,5 @@
 ---
 title: "Octave"
 url: /lunel/octave/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

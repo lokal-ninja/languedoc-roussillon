@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie FB"
 url: /lunel/poissonnerie-fb/
-shop: Fisch
+shop: fruits de mer
 ---

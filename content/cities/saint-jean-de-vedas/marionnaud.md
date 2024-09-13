@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /saint-jean-de-vedas/marionnaud/
-shop: Parfümerie
+shop: parfumerie
 ---

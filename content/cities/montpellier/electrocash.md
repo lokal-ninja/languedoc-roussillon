@@ -1,5 +1,5 @@
 ---
 title: "Electrocash"
 url: /montpellier/electrocash/
-shop: Möbel
+shop: meubles
 ---

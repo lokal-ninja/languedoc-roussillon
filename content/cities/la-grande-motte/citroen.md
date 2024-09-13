@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /la-grande-motte/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "King Jouet"
 url: /lunel/king-jouet/
-shop: Spielzeug
+shop: jouets
 ---

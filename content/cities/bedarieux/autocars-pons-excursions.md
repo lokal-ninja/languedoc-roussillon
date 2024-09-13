@@ -1,5 +1,5 @@
 ---
 title: "Autocars PONS Excursions"
 url: /bedarieux/autocars-pons-excursions/
-shop: Reisebüro
+shop: agence de voyage
 ---

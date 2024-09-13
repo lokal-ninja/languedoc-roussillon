@@ -1,5 +1,5 @@
 ---
 title: "Toto"
 url: /montpellier/toto/
-shop: Textil
+shop: tissu
 ---

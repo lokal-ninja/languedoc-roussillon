@@ -1,5 +1,5 @@
 ---
 title: "Garage Koubi"
 url: /caissargues/garage-koubi/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

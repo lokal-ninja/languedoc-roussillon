@@ -1,5 +1,5 @@
 ---
 title: "Loxam"
 url: /lunel/loxam/
-shop: Werkzeuge
+shop: outils
 ---

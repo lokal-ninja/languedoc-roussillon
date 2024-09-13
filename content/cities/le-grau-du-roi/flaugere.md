@@ -1,5 +1,5 @@
 ---
 title: "Flaugere"
 url: /le-grau-du-roi/flaugere/
-shop: Baumarkt
+shop: à faire soi-même
 ---

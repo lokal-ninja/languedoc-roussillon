@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /nimes/spar/
-shop: Supermarkt
+shop: supermarché
 ---

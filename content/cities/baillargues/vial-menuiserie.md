@@ -1,5 +1,5 @@
 ---
 title: "Vial Menuiserie"
 url: /baillargues/vial-menuiserie/
-shop: Baumarkt
+shop: à faire soi-même
 ---

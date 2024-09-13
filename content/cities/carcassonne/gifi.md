@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /carcassonne/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pastelle"
 url: /montpellier/pastelle/
-shop: Kosmetik
+shop: beauté
 ---

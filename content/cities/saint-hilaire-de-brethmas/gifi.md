@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /saint-hilaire-de-brethmas/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

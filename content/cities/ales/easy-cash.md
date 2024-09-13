@@ -1,5 +1,5 @@
 ---
 title: "Easy Cash"
 url: /ales/easy-cash/
-shop: Kramladen
+shop: magasin de variétés
 ---

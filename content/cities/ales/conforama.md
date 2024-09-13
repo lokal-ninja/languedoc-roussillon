@@ -1,5 +1,5 @@
 ---
 title: "Conforama"
 url: /ales/conforama/
-shop: Möbel
+shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gouiran"
 url: /jacou/gouiran/
-shop: Kosmetik
+shop: beauté
 ---

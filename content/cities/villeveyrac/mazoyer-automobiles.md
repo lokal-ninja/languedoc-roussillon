@@ -1,5 +1,5 @@
 ---
 title: "Mazoyer automobiles"
 url: /villeveyrac/mazoyer-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GDC"
 url: /ales/gdc/
-shop: Schuhe
+shop: chaussures
 ---

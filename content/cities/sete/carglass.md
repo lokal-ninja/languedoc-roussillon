@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /sete/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

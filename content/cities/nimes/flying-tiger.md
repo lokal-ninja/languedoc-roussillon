@@ -1,5 +1,5 @@
 ---
 title: "Flying Tiger"
 url: /nimes/flying-tiger/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

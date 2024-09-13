@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /quillan/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

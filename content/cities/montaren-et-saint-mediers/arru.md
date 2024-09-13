@@ -1,5 +1,5 @@
 ---
 title: "ARRU"
 url: /montaren-et-saint-mediers/arru/
-shop: Hofladen
+shop: ferme
 ---

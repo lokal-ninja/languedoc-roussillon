@@ -1,5 +1,5 @@
 ---
 title: "Transports Rossignol"
 url: /thuir/transports-rossignol/
-shop: Kramladen
+shop: magasin de variétés
 ---

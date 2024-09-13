@@ -1,5 +1,5 @@
 ---
 title: "Omega Products EU"
 url: /ales/omega-products-eu/
-shop: Eisenwaren
+shop: matériel informatique
 ---

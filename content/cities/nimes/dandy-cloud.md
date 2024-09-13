@@ -1,5 +1,5 @@
 ---
 title: "Dandy Cloud"
 url: /nimes/dandy-cloud/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

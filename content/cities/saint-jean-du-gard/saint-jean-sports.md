@@ -1,5 +1,5 @@
 ---
 title: "Saint-Jean Sports"
 url: /saint-jean-du-gard/saint-jean-sports/
-shop: Sport
+shop: sports
 ---

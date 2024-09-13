@@ -1,5 +1,5 @@
 ---
 title: "Institut Pom'beauté"
 url: /pomerols/institut-pombeaute/
-shop: Kosmetik
+shop: beauté
 ---

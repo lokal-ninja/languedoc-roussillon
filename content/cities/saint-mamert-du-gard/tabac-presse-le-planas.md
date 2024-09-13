@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse le Planas"
 url: /saint-mamert-du-gard/tabac-presse-le-planas/
-shop: Zeitungen
+shop: marchand de journaux
 ---

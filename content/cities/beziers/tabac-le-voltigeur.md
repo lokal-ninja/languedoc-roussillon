@@ -1,5 +1,5 @@
 ---
 title: "Tabac le Voltigeur"
 url: /beziers/tabac-le-voltigeur/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saint-Just Automobiles"
 url: /saint-just/saint-just-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

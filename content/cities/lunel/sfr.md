@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /lunel/sfr/
-shop: Handy
+shop: téléphone portable
 ---

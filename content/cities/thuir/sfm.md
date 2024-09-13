@@ -1,5 +1,5 @@
 ---
 title: "SFM"
 url: /thuir/sfm/
-shop: Kramladen
+shop: magasin de variétés
 ---

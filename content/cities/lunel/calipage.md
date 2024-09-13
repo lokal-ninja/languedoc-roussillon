@@ -1,5 +1,5 @@
 ---
 title: "Calipage"
 url: /lunel/calipage/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

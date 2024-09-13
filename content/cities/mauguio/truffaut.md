@@ -1,5 +1,5 @@
 ---
 title: "Truffaut"
 url: /mauguio/truffaut/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Faubourg Prohin"
 url: /nimes/faubourg-prohin/
-shop: Kleidung
+shop: vêtements
 ---

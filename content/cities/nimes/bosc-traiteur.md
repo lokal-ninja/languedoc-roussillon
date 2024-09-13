@@ -1,5 +1,5 @@
 ---
 title: "Bosc Traiteur"
 url: /nimes/bosc-traiteur/
-shop: Allgemein
+shop: shop
 ---

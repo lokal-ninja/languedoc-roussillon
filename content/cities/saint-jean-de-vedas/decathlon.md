@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /saint-jean-de-vedas/decathlon/
-shop: Sport
+shop: sports
 ---

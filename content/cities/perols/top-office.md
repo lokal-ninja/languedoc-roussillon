@@ -1,5 +1,5 @@
 ---
 title: "Top Office"
 url: /perols/top-office/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

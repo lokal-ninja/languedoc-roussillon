@@ -1,5 +1,5 @@
 ---
 title: "Le Fournil de Maguelone"
 url: /perols/le-fournil-de-maguelone/
-shop: Bäckerei
+shop: boulangerie
 ---

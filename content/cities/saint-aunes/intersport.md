@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /saint-aunes/intersport/
-shop: Sport
+shop: sports
 ---

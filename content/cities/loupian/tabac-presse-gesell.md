@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Gesell"
 url: /loupian/tabac-presse-gesell/
-shop: Zeitungen
+shop: marchand de journaux
 ---

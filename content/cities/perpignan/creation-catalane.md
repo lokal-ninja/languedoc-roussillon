@@ -1,5 +1,5 @@
 ---
 title: "Création Catalane"
 url: /perpignan/creation-catalane/
-shop: Schuhe
+shop: chaussures
 ---

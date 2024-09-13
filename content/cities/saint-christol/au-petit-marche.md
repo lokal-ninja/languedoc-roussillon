@@ -1,5 +1,5 @@
 ---
 title: "Au Petit Marché"
 url: /saint-christol/au-petit-marche/
-shop: Lebensmittel
+shop: commodité
 ---

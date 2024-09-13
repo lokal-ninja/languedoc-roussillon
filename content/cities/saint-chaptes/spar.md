@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /saint-chaptes/spar/
-shop: Lebensmittel
+shop: commodité
 ---

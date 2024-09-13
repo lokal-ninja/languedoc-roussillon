@@ -1,5 +1,5 @@
 ---
 title: "Groupauto"
 url: /castelnau-le-lez/groupauto/
-shop: Autoteile
+shop: pièces de voitures
 ---

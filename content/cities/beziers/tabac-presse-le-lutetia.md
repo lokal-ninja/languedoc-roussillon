@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Le Lutétia"
 url: /beziers/tabac-presse-le-lutetia/
-shop: Zeitungen
+shop: marchand de journaux
 ---

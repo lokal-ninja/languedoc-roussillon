@@ -1,5 +1,5 @@
 ---
 title: "Iveco"
 url: /beaucaire/iveco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

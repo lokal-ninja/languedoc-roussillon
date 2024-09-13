@@ -1,5 +1,5 @@
 ---
 title: "Sos Pc 34"
 url: /magalas/sos-pc-34/
-shop: Computer
+shop: ordinateur
 ---

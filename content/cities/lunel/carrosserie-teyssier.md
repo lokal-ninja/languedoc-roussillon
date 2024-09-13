@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Teyssier"
 url: /lunel/carrosserie-teyssier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

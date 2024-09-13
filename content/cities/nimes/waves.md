@@ -1,5 +1,5 @@
 ---
 title: "waves"
 url: /nimes/waves/
-shop: Kleidung
+shop: vêtements
 ---

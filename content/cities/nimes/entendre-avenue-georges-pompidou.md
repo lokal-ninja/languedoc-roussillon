@@ -1,5 +1,5 @@
 ---
 title: "Entendre"
 url: /nimes/entendre-avenue-georges-pompidou/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

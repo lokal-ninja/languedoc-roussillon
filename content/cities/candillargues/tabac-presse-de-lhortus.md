@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse de l'Hortus"
 url: /candillargues/tabac-presse-de-lhortus/
-shop: Zeitungen
+shop: marchand de journaux
 ---

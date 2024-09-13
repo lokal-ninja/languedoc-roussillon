@@ -1,5 +1,5 @@
 ---
 title: "Ovelo"
 url: /mauguio/ovelo/
-shop: Fahrrad
+shop: vélo
 ---

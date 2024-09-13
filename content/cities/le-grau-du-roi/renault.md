@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /le-grau-du-roi/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /castelnau-le-lez/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

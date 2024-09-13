@@ -1,5 +1,5 @@
 ---
 title: "Monsieur G"
 url: /saint-chaptes/monsieur-g/
-shop: Friseur
+shop: coiffeur
 ---

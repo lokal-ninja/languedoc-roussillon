@@ -1,5 +1,5 @@
 ---
 title: "Ilouna"
 url: /montpellier/ilouna/
-shop: Schuhe
+shop: chaussures
 ---

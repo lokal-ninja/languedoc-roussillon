@@ -1,5 +1,5 @@
 ---
 title: "Garage Gascons"
 url: /lignan-sur-orb/garage-gascons/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

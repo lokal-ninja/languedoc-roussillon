@@ -1,5 +1,5 @@
 ---
 title: "Canturla"
 url: /ales/canturla/
-shop: Lebensmittel
+shop: commodité
 ---

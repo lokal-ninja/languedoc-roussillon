@@ -1,5 +1,5 @@
 ---
 title: "Vapostore"
 url: /nimes/vapostore/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

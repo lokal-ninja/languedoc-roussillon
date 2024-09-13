@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Voyages"
 url: /saint-jean-de-vedas/carrefour-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

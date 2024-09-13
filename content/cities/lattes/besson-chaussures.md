@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /lattes/besson-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

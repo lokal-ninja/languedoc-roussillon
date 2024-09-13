@@ -1,5 +1,5 @@
 ---
 title: "Bouncewear"
 url: /lattes/bouncewear/
-shop: Kleidung
+shop: vêtements
 ---

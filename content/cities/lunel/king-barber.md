@@ -1,5 +1,5 @@
 ---
 title: "King Barber"
 url: /lunel/king-barber/
-shop: Friseur
+shop: coiffeur
 ---

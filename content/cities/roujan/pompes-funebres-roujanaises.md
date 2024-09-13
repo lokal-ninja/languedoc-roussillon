@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres Roujanaises"
 url: /roujan/pompes-funebres-roujanaises/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

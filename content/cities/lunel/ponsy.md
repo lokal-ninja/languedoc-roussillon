@@ -1,5 +1,5 @@
 ---
 title: "Ponsy"
 url: /lunel/ponsy/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

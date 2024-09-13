@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /nimes/sephora-avenue-claude-baillet/
-shop: Kosmetik
+shop: beauté
 ---

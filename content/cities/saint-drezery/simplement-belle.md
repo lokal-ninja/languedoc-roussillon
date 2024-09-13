@@ -1,5 +1,5 @@
 ---
 title: "Simplement belle"
 url: /saint-drezery/simplement-belle/
-shop: Kosmetik
+shop: beauté
 ---

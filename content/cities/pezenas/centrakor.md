@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /pezenas/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

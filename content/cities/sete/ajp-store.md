@@ -1,5 +1,5 @@
 ---
 title: "AJP Store"
 url: /sete/ajp-store/
-shop: Jalousien
+shop: store de fenêtre
 ---

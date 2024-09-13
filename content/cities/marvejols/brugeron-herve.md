@@ -1,5 +1,5 @@
 ---
 title: "Brugeron Hervé"
 url: /marvejols/brugeron-herve/
-shop: Friseur
+shop: coiffeur
 ---

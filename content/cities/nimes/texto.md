@@ -1,5 +1,5 @@
 ---
 title: "Texto"
 url: /nimes/texto/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matériel médical"
 url: /sete/materiel-medical/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

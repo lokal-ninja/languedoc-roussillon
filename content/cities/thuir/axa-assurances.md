@@ -1,5 +1,5 @@
 ---
 title: "Axa Assurances"
 url: /thuir/axa-assurances/
-shop: Kramladen
+shop: magasin de variétés
 ---

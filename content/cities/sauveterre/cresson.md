@@ -1,5 +1,5 @@
 ---
 title: "Cresson"
 url: /sauveterre/cresson/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

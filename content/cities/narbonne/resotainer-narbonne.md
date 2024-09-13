@@ -1,5 +1,5 @@
 ---
 title: "Resotainer Narbonne"
 url: /narbonne/resotainer-narbonne/
-shop: Mieten
+shop: location de stockage
 ---

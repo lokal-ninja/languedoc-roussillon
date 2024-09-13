@@ -1,5 +1,5 @@
 ---
 title: "Audio confort"
 url: /sete/audio-confort/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

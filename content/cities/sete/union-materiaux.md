@@ -1,5 +1,5 @@
 ---
 title: "Union Matériaux"
 url: /sete/union-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barber Men"
 url: /perols/barber-men/
-shop: Friseur
+shop: coiffeur
 ---

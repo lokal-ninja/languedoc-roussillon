@@ -1,5 +1,5 @@
 ---
 title: "Garage Mourgues"
 url: /uzes/garage-mourgues/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

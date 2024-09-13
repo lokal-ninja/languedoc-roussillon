@@ -1,5 +1,5 @@
 ---
 title: "Leader Coiffure"
 url: /saint-aunes/leader-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

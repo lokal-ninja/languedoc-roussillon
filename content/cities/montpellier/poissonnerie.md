@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie"
 url: /montpellier/poissonnerie/
-shop: Fisch
+shop: fruits de mer
 ---

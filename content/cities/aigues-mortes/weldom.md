@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /aigues-mortes/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

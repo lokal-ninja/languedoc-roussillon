@@ -1,5 +1,5 @@
 ---
 title: "Domaine Maspiquet"
 url: /grabels/domaine-maspiquet/
-shop: Spirituosen
+shop: alcool
 ---

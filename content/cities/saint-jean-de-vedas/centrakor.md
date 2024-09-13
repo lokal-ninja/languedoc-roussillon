@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /saint-jean-de-vedas/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Renault"
 url: /assas/garage-renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

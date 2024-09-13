@@ -1,5 +1,5 @@
 ---
 title: "Presse des Arcades"
 url: /villeneuve-les-maguelone/presse-des-arcades/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dienox"
 url: /nimes/dienox/
-shop: Kleidung
+shop: vêtements
 ---

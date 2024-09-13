@@ -1,5 +1,5 @@
 ---
 title: "Famaliving"
 url: /mauguio/famaliving/
-shop: Möbel
+shop: meubles
 ---

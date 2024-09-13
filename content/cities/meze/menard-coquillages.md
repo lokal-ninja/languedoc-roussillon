@@ -1,5 +1,5 @@
 ---
 title: "Menard Coquillages"
 url: /meze/menard-coquillages/
-shop: Fisch
+shop: fruits de mer
 ---

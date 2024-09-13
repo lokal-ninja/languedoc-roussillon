@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /agde/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

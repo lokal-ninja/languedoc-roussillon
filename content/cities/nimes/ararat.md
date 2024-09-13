@@ -1,5 +1,5 @@
 ---
 title: "Ararat"
 url: /nimes/ararat/
-shop: Dorfladen
+shop: magasin de campagne
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pompes funèbres Aliaga"
 url: /saint-gely-du-fesc/pompes-funebres-aliaga/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

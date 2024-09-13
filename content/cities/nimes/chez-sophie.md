@@ -1,5 +1,5 @@
 ---
 title: "Chez Sophie"
 url: /nimes/chez-sophie/
-shop: Dorfladen
+shop: magasin de campagne
 ---

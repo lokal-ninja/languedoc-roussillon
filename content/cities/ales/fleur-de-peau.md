@@ -1,5 +1,5 @@
 ---
 title: "Fleur de Peau"
 url: /ales/fleur-de-peau/
-shop: Kosmetik
+shop: beauté
 ---

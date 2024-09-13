@@ -1,5 +1,5 @@
 ---
 title: "Océane Coquillages"
 url: /lunel/oceane-coquillages/
-shop: Fisch
+shop: fruits de mer
 ---

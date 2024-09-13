@@ -1,5 +1,5 @@
 ---
 title: "Sud Musique"
 url: /perpignan/sud-musique/
-shop: Instrumente
+shop: instrument de musique
 ---

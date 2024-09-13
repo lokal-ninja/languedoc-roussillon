@@ -1,5 +1,5 @@
 ---
 title: "Calipage Office"
 url: /saint-aunes/calipage-office/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

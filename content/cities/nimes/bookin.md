@@ -1,5 +1,5 @@
 ---
 title: "Book'in"
 url: /nimes/bookin/
-shop: Bücher
+shop: livres
 ---

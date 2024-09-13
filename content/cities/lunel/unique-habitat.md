@@ -1,5 +1,5 @@
 ---
 title: "Unique Habitat"
 url: /lunel/unique-habitat/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

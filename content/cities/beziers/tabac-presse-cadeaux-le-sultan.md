@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Cadeaux Le Sultan"
 url: /beziers/tabac-presse-cadeaux-le-sultan/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /mauguio/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

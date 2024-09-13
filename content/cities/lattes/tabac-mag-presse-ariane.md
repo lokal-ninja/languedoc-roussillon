@@ -1,5 +1,5 @@
 ---
 title: "Tabac Mag Presse Ariane"
 url: /lattes/tabac-mag-presse-ariane/
-shop: Zeitungen
+shop: marchand de journaux
 ---

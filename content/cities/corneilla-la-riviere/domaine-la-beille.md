@@ -1,5 +1,5 @@
 ---
 title: "Domaine La Beille"
 url: /corneilla-la-riviere/domaine-la-beille/
-shop: Wein
+shop: vin
 ---

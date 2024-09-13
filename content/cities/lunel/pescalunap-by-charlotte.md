@@ -1,5 +1,5 @@
 ---
 title: "Pescalunap by Charlotte"
 url: /lunel/pescalunap-by-charlotte/
-shop: Partyzubehör
+shop: fête
 ---

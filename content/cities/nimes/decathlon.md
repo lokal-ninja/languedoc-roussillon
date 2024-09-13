@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /nimes/decathlon/
-shop: Sport
+shop: sports
 ---

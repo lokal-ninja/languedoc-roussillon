@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /lattes/sfr/
-shop: Handy
+shop: téléphone portable
 ---

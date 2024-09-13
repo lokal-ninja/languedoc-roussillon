@@ -1,5 +1,5 @@
 ---
 title: "Camar'Dog"
 url: /aimargues/camardog/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

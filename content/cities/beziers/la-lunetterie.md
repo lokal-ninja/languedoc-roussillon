@@ -1,5 +1,5 @@
 ---
 title: "La Lunetterie"
 url: /beziers/la-lunetterie/
-shop: Optiker
+shop: opticien
 ---

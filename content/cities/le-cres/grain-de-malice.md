@@ -1,5 +1,5 @@
 ---
 title: "Grain de Malice"
 url: /le-cres/grain-de-malice/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nath'hair Coiffure"
 url: /lunel/nathhair-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /saint-chinian/spar/
-shop: Lebensmittel
+shop: commodité
 ---

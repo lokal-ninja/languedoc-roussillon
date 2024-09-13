@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /meze/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

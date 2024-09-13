@@ -1,5 +1,5 @@
 ---
 title: "Jad'hair"
 url: /beaucaire/jadhair/
-shop: Friseur
+shop: coiffeur
 ---

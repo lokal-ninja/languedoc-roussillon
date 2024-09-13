@@ -1,5 +1,5 @@
 ---
 title: "EVermeille"
 url: /collioure/evermeille/
-shop: Kunst
+shop: art
 ---

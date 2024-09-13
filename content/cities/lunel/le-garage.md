@@ -1,5 +1,5 @@
 ---
 title: "Le Garage"
 url: /lunel/le-garage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

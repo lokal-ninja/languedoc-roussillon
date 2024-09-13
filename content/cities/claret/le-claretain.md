@@ -1,5 +1,5 @@
 ---
 title: "Le Claretain"
 url: /claret/le-claretain/
-shop: Bäckerei
+shop: boulangerie
 ---

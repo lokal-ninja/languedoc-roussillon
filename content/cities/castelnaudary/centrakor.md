@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /castelnaudary/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

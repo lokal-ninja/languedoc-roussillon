@@ -1,5 +1,5 @@
 ---
 title: "Ducati"
 url: /mauguio/ducati/
-shop: Motorrad
+shop: moto
 ---

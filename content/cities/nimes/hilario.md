@@ -1,5 +1,5 @@
 ---
 title: "Hilario"
 url: /nimes/hilario/
-shop: Kleidung
+shop: vêtements
 ---

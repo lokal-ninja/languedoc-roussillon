@@ -1,5 +1,5 @@
 ---
 title: "Union-Materiaux Lunel Est"
 url: /lunel/union-materiaux-lunel-est/
-shop: Baumarkt
+shop: à faire soi-même
 ---

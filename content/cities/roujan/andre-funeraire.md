@@ -1,5 +1,5 @@
 ---
 title: "André Funéraire"
 url: /roujan/andre-funeraire/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

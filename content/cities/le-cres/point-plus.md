@@ -1,5 +1,5 @@
 ---
 title: "Point Plus"
 url: /le-cres/point-plus/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audi Espace Prestige Automobile"
 url: /nimes/audi-espace-prestige-automobile/
-shop: Autohaus
+shop: voiture
 ---

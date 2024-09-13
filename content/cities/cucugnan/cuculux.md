@@ -1,5 +1,5 @@
 ---
 title: "Cuculux"
 url: /cucugnan/cuculux/
-shop: Andenken
+shop: cadeau
 ---

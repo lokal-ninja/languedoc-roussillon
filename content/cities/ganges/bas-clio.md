@@ -1,5 +1,5 @@
 ---
 title: "Bas Clio"
 url: /ganges/bas-clio/
-shop: Kleidung
+shop: vêtements
 ---

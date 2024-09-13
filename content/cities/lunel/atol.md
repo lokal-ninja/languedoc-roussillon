@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /lunel/atol/
-shop: Optiker
+shop: opticien
 ---

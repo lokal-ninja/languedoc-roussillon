@@ -1,5 +1,5 @@
 ---
 title: "Tabac La Civette"
 url: /sete/tabac-la-civette/
-shop: Zeitungen
+shop: marchand de journaux
 ---

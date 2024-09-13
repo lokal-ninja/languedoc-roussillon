@@ -1,5 +1,5 @@
 ---
 title: "Rodrigues"
 url: /nimes/rodrigues/
-shop: Friseur
+shop: coiffeur
 ---

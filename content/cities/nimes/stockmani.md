@@ -1,5 +1,5 @@
 ---
 title: "Stockmani"
 url: /nimes/stockmani/
-shop: Kramladen
+shop: magasin de variétés
 ---

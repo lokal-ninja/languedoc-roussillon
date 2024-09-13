@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /nimes/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

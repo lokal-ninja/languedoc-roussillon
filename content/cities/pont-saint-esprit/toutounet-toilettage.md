@@ -1,5 +1,5 @@
 ---
 title: "Toutounet Toilettage"
 url: /pont-saint-esprit/toutounet-toilettage/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

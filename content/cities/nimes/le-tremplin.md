@@ -1,5 +1,5 @@
 ---
 title: "Le Tremplin"
 url: /nimes/le-tremplin/
-shop: Supermarkt
+shop: supermarché
 ---

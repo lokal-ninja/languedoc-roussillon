@@ -1,5 +1,5 @@
 ---
 title: "Maman Africa"
 url: /beziers/maman-africa/
-shop: Friseur
+shop: coiffeur
 ---

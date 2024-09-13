@@ -1,5 +1,5 @@
 ---
 title: "Le Duplex"
 url: /ales/le-duplex/
-shop: Kleidung
+shop: vêtements
 ---

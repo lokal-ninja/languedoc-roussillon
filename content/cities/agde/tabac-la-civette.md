@@ -1,5 +1,5 @@
 ---
 title: "Tabac La Civette"
 url: /agde/tabac-la-civette/
-shop: Zeitungen
+shop: marchand de journaux
 ---

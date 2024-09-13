@@ -1,5 +1,5 @@
 ---
 title: "Mini Auto Sud"
 url: /beziers/mini-auto-sud/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

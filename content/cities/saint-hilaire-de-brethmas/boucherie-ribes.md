@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Ribes"
 url: /saint-hilaire-de-brethmas/boucherie-ribes/
-shop: Metzgerei
+shop: boucherie
 ---

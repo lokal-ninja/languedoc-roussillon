@@ -1,5 +1,5 @@
 ---
 title: "Adopt'"
 url: /lattes/adopt/
-shop: Parfümerie
+shop: parfumerie
 ---

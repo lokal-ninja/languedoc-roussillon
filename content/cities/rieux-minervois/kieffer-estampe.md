@@ -1,5 +1,5 @@
 ---
 title: "Kieffer Estampe"
 url: /rieux-minervois/kieffer-estampe/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Un Autre Pain"
 url: /la-grande-motte/un-autre-pain/
-shop: Bäckerei
+shop: boulangerie
 ---

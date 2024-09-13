@@ -1,5 +1,5 @@
 ---
 title: "Klein Coiffure"
 url: /thuir/klein-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

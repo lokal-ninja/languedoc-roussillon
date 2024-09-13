@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /ganges/peugeot/
-shop: Autohaus
+shop: voiture
 ---

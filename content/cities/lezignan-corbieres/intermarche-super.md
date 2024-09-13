@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /lezignan-corbieres/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

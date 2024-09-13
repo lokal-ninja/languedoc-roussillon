@@ -1,5 +1,5 @@
 ---
 title: "Sète Croisières"
 url: /sete/sete-croisieres/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caruso Moto"
 url: /sete/caruso-moto/
-shop: Autohaus
+shop: voiture
 ---

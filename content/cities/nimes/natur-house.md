@@ -1,5 +1,5 @@
 ---
 title: "Natur House"
 url: /nimes/natur-house/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

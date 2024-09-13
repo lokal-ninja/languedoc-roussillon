@@ -1,5 +1,5 @@
 ---
 title: "Laverie Wash"
 url: /serignan-plage/laverie-wash/
-shop: Wäscherei
+shop: blanchisserie
 ---

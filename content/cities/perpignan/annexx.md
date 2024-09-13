@@ -1,5 +1,5 @@
 ---
 title: "Annexx"
 url: /perpignan/annexx/
-shop: Mieten
+shop: location de stockage
 ---

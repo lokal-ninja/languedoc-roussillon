@@ -1,5 +1,5 @@
 ---
 title: "Goro"
 url: /lunel/goro/
-shop: Kunst
+shop: art
 ---

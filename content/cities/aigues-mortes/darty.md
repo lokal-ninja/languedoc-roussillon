@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /aigues-mortes/darty/
-shop: Elektronik
+shop: électronique
 ---

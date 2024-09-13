@@ -1,5 +1,5 @@
 ---
 title: "BM Automobile"
 url: /teyran/bm-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

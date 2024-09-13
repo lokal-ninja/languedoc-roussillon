@@ -1,5 +1,5 @@
 ---
 title: "Au Vieux Pétrin"
 url: /nimes/au-vieux-petrin/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Redk"
 url: /montpellier/redk/
-shop: Kleidung
+shop: vêtements
 ---

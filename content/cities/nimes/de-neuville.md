@@ -1,5 +1,5 @@
 ---
 title: "De Neuville"
 url: /nimes/de-neuville/
-shop: Schokolade
+shop: chocolat
 ---

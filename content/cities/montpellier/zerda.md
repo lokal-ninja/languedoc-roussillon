@@ -1,5 +1,5 @@
 ---
 title: "Zerda"
 url: /montpellier/zerda/
-shop: Kleidung
+shop: vêtements
 ---

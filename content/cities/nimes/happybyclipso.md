@@ -1,5 +1,5 @@
 ---
 title: "HappybyClipso"
 url: /nimes/happybyclipso/
-shop: Kleidung
+shop: vêtements
 ---

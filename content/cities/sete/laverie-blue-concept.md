@@ -1,5 +1,5 @@
 ---
 title: "Laverie blue concept"
 url: /sete/laverie-blue-concept/
-shop: Wäscherei
+shop: blanchisserie
 ---

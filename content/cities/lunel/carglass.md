@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /lunel/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

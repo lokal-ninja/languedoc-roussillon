@@ -1,5 +1,5 @@
 ---
 title: "Le Moussaillon"
 url: /narbonne/le-moussaillon/
-shop: Fisch
+shop: fruits de mer
 ---

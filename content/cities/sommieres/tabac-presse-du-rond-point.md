@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse du Rond-Point"
 url: /sommieres/tabac-presse-du-rond-point/
-shop: Zeitungen
+shop: marchand de journaux
 ---

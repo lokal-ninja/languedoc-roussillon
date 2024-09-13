@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Le Garden"
 url: /la-grande-motte/tabac-presse-le-garden/
-shop: Zeitungen
+shop: marchand de journaux
 ---

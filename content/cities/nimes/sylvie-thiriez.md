@@ -1,5 +1,5 @@
 ---
 title: "Sylvie THIRIEZ"
 url: /nimes/sylvie-thiriez/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

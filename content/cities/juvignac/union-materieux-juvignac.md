@@ -1,5 +1,5 @@
 ---
 title: "Union Matérieux Juvignac"
 url: /juvignac/union-materieux-juvignac/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /saint-hippolyte-du-fort/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

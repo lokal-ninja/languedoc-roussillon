@@ -1,5 +1,5 @@
 ---
 title: "Château Beaubois"
 url: /franquevaux-beauvoisin/chateau-beaubois/
-shop: Spirituosen
+shop: alcool
 ---

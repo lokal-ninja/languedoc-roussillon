@@ -1,5 +1,5 @@
 ---
 title: "Pier Luce"
 url: /saint-christol-les-ales/pier-luce/
-shop: Leder
+shop: cuir
 ---

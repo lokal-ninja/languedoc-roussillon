@@ -1,5 +1,5 @@
 ---
 title: "Darker than Black"
 url: /ales/darker-than-black/
-shop: Tattoo
+shop: tatouage
 ---

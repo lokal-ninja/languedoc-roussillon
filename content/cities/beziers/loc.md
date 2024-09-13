@@ -1,5 +1,5 @@
 ---
 title: "Loc+"
 url: /beziers/loc/
-shop: Mieten
+shop: location de stockage
 ---

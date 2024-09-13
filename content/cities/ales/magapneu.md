@@ -1,5 +1,5 @@
 ---
 title: "Magapneu"
 url: /ales/magapneu/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centre Auto Laurent"
 url: /le-vigan/centre-auto-laurent/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

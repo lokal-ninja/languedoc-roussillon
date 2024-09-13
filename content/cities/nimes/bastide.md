@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /nimes/bastide/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

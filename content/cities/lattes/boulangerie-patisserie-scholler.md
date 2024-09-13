@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pâtisserie Scholler"
 url: /lattes/boulangerie-patisserie-scholler/
-shop: Bäckerei
+shop: boulangerie
 ---

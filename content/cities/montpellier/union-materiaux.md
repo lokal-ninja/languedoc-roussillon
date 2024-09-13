@@ -1,5 +1,5 @@
 ---
 title: "Union Materiaux"
 url: /montpellier/union-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

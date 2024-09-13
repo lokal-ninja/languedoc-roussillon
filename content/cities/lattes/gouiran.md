@@ -1,5 +1,5 @@
 ---
 title: "Gouiran"
 url: /lattes/gouiran/
-shop: Kosmetik
+shop: beauté
 ---

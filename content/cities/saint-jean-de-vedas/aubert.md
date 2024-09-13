@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /saint-jean-de-vedas/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

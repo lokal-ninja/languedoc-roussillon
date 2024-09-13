@@ -1,5 +1,5 @@
 ---
 title: "Cérémya Shoes"
 url: /pont-saint-esprit/ceremya-shoes/
-shop: Schuhe
+shop: chaussures
 ---

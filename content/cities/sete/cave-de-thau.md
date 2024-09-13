@@ -1,5 +1,5 @@
 ---
 title: "Cave de Thau"
 url: /sete/cave-de-thau/
-shop: Spirituosen
+shop: alcool
 ---

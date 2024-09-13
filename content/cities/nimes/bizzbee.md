@@ -1,5 +1,5 @@
 ---
 title: "Bizzbee"
 url: /nimes/bizzbee/
-shop: Kleidung
+shop: vêtements
 ---

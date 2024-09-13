@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /beziers/total/
-shop: Lebensmittel
+shop: commodité
 ---

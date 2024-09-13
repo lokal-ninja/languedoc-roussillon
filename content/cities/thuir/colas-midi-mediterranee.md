@@ -1,5 +1,5 @@
 ---
 title: "Colas Midi Méditerranée"
 url: /thuir/colas-midi-mediterranee/
-shop: Kramladen
+shop: magasin de variétés
 ---

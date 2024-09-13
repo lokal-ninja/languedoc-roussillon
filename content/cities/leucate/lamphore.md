@@ -1,5 +1,5 @@
 ---
 title: "L'Amphore"
 url: /leucate/lamphore/
-shop: Fisch
+shop: fruits de mer
 ---

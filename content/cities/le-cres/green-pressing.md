@@ -1,5 +1,5 @@
 ---
 title: "Green Pressing"
 url: /le-cres/green-pressing/
-shop: Wäscherei
+shop: blanchisserie
 ---

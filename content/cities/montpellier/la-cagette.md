@@ -1,5 +1,5 @@
 ---
 title: "La Cagette"
 url: /montpellier/la-cagette/
-shop: Supermarkt
+shop: supermarché
 ---

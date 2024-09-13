@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /la-grande-motte/superdry/
-shop: Kleidung
+shop: vêtements
 ---

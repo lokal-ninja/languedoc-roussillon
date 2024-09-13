@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /ganges/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

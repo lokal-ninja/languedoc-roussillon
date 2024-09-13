@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /carcassonne/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guitarreria"
 url: /lunel/guitarreria/
-shop: Instrumente
+shop: instrument de musique
 ---

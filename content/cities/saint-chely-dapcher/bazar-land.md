@@ -1,5 +1,5 @@
 ---
 title: "Bazar land"
 url: /saint-chely-dapcher/bazar-land/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Florial Fleurs"
 url: /sommieres/florial-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Vestiaire d’Alex"
 url: /lunel/le-vestiaire-dalex/
-shop: Kleidung
+shop: vêtements
 ---

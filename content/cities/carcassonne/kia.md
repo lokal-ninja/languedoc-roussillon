@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /carcassonne/kia/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LDLC"
 url: /lattes/ldlc/
-shop: Computer
+shop: ordinateur
 ---

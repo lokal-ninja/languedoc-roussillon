@@ -1,5 +1,5 @@
 ---
 title: "GOODTIMES KAWASAKI"
 url: /villeneuve-les-beziers/goodtimes-kawasaki/
-shop: Motorrad
+shop: moto
 ---

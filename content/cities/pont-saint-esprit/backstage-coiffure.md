@@ -1,5 +1,5 @@
 ---
 title: "Backstage Coiffure"
 url: /pont-saint-esprit/backstage-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

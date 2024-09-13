@@ -1,5 +1,5 @@
 ---
 title: "TrésOr"
 url: /saint-jean-de-vedas/tresor/
-shop: Schmuck
+shop: bijoux
 ---

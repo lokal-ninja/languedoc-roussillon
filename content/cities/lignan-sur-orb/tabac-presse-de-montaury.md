@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse de Montaury"
 url: /lignan-sur-orb/tabac-presse-de-montaury/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miss Vendome"
 url: /nimes/miss-vendome/
-shop: Kleidung
+shop: vêtements
 ---

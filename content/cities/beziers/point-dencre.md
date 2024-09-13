@@ -1,5 +1,5 @@
 ---
 title: "Point d'encre"
 url: /beziers/point-dencre/
-shop: Kopieren
+shop: copyshop
 ---

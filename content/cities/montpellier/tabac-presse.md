@@ -1,5 +1,5 @@
 ---
 title: "Tabac presse"
 url: /montpellier/tabac-presse/
-shop: Tabak
+shop: tabac
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sud Croquettes"
 url: /cabestany/sud-croquettes/
-shop: Tiere
+shop: animal de compagnie
 ---

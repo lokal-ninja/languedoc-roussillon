@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /vauvert/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chez Christian"
 url: /saint-andre-de-sangonis/chez-christian/
-shop: Metzgerei
+shop: boucherie
 ---

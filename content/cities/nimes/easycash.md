@@ -1,5 +1,5 @@
 ---
 title: "Easycash"
 url: /nimes/easycash/
-shop: Gebrauchtwaren
+shop: charité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage des Cévennes"
 url: /aveze/garage-des-cevennes/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

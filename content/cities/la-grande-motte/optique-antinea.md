@@ -1,5 +1,5 @@
 ---
 title: "Optique Antinéa"
 url: /la-grande-motte/optique-antinea/
-shop: Optiker
+shop: opticien
 ---

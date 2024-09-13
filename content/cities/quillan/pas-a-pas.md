@@ -1,5 +1,5 @@
 ---
 title: "Pas à Pas"
 url: /quillan/pas-a-pas/
-shop: Schuhe
+shop: chaussures
 ---

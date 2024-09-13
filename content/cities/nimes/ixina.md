@@ -1,5 +1,5 @@
 ---
 title: "Ixina"
 url: /nimes/ixina/
-shop: Küchen
+shop: cuisine
 ---

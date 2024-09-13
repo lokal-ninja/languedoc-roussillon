@@ -1,5 +1,5 @@
 ---
 title: "Digital"
 url: /ganges/digital/
-shop: Computer
+shop: ordinateur
 ---

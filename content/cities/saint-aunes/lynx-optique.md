@@ -1,5 +1,5 @@
 ---
 title: "Lynx optique"
 url: /saint-aunes/lynx-optique/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Victoire"
 url: /candillargues/boulangerie-victoire/
-shop: Bäckerei
+shop: boulangerie
 ---

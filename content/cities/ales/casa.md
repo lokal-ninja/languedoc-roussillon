@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /ales/casa/
-shop: Möbel
+shop: meubles
 ---

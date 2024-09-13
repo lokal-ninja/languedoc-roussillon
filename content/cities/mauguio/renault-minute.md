@@ -1,5 +1,5 @@
 ---
 title: "Renault Minute"
 url: /mauguio/renault-minute/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

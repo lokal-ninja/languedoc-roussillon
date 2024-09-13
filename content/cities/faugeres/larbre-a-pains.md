@@ -1,5 +1,5 @@
 ---
 title: "L'Arbre à Pains"
 url: /faugeres/larbre-a-pains/
-shop: Bäckerei
+shop: boulangerie
 ---

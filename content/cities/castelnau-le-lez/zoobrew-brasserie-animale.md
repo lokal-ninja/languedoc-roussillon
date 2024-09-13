@@ -1,5 +1,5 @@
 ---
 title: "Zoobrew Brasserie Animale"
 url: /castelnau-le-lez/zoobrew-brasserie-animale/
-shop: Spirituosen
+shop: alcool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caveau de Roujan"
 url: /roujan/caveau-de-roujan/
-shop: Spirituosen
+shop: alcool
 ---

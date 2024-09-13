@@ -1,5 +1,5 @@
 ---
 title: "Nicotech"
 url: /saint-aunes/nicotech/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

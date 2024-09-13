@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /teyran/renault/
-shop: Autohaus
+shop: voiture
 ---

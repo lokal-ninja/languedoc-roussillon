@@ -1,5 +1,5 @@
 ---
 title: "Lunel Médical"
 url: /lunel/lunel-medical/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

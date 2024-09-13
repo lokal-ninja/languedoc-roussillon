@@ -1,5 +1,5 @@
 ---
 title: "Bédacier"
 url: /villemagne-largentiere/bedacier/
-shop: Eisenwaren
+shop: matériel informatique
 ---

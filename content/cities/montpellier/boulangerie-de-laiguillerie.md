@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie de l'Aiguillerie"
 url: /montpellier/boulangerie-de-laiguillerie/
-shop: Bäckerei
+shop: boulangerie
 ---

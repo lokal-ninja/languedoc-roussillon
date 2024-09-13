@@ -1,5 +1,5 @@
 ---
 title: "MedOrganic"
 url: /bedarieux/medorganic/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autodistribution"
 url: /ganges/autodistribution/
-shop: Autoteile
+shop: pièces de voitures
 ---

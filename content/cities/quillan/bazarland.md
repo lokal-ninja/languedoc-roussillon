@@ -1,5 +1,5 @@
 ---
 title: "Bazarland"
 url: /quillan/bazarland/
-shop: Kramladen
+shop: magasin de variétés
 ---

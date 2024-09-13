@@ -1,5 +1,5 @@
 ---
 title: "Thérond Flavier"
 url: /ganges/therond-flavier/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "So Pretty"
 url: /saint-chaptes/so-pretty/
-shop: Kosmetik
+shop: beauté
 ---

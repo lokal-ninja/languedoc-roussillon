@@ -1,5 +1,5 @@
 ---
 title: "Clim Energie"
 url: /thuir/clim-energie/
-shop: Kramladen
+shop: magasin de variétés
 ---

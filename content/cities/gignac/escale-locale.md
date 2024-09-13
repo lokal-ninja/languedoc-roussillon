@@ -1,5 +1,5 @@
 ---
 title: "Escale Locale"
 url: /gignac/escale-locale/
-shop: Supermarkt
+shop: supermarché
 ---

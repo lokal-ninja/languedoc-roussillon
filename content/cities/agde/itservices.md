@@ -1,5 +1,5 @@
 ---
 title: "ItServices"
 url: /agde/itservices/
-shop: Handy
+shop: téléphone portable
 ---

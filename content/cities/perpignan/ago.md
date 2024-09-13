@@ -1,5 +1,5 @@
 ---
 title: "Ago"
 url: /perpignan/ago/
-shop: Möbel
+shop: meubles
 ---

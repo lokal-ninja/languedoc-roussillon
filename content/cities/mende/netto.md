@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /mende/netto/
-shop: Supermarkt
+shop: supermarché
 ---

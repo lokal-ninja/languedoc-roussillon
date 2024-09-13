@@ -1,5 +1,5 @@
 ---
 title: "Intimissimi"
 url: /nimes/intimissimi/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minitone"
 url: /nimes/minitone/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /perols/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Jour d'après"
 url: /clapiers/le-jour-dapres/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

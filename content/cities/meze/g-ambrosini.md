@@ -1,5 +1,5 @@
 ---
 title: "G. Ambrosini"
 url: /meze/g-ambrosini/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

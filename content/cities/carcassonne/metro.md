@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /carcassonne/metro/
-shop: Großhandel
+shop: vente en gros
 ---

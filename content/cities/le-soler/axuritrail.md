@@ -1,5 +1,5 @@
 ---
 title: "AxuriTrail"
 url: /le-soler/axuritrail/
-shop: Reisebüro
+shop: agence de voyage
 ---

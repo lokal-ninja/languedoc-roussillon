@@ -1,5 +1,5 @@
 ---
 title: "Baobab"
 url: /beziers/baobab/
-shop: Garten-Center
+shop: centre de jardinage
 ---

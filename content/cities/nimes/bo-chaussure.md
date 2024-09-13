@@ -1,5 +1,5 @@
 ---
 title: "Bo Chaussure"
 url: /nimes/bo-chaussure/
-shop: Schuhe
+shop: chaussures
 ---

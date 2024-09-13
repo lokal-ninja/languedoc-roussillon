@@ -1,5 +1,5 @@
 ---
 title: "Esprit"
 url: /nimes/esprit/
-shop: Kleidung
+shop: vêtements
 ---

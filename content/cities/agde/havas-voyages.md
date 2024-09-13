@@ -1,5 +1,5 @@
 ---
 title: "Havas Voyages"
 url: /agde/havas-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

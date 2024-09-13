@@ -1,5 +1,5 @@
 ---
 title: "Tabac Le Graffiti"
 url: /marseillan/tabac-le-graffiti/
-shop: Tabak
+shop: tabac
 ---

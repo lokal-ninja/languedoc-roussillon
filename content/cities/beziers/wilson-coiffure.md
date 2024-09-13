@@ -1,5 +1,5 @@
 ---
 title: "Wilson Coiffure"
 url: /beziers/wilson-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

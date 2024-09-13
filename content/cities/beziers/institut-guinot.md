@@ -1,5 +1,5 @@
 ---
 title: "Institut Guinot"
 url: /beziers/institut-guinot/
-shop: Kosmetik
+shop: beauté
 ---

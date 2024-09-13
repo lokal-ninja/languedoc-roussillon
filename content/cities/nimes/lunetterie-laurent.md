@@ -1,5 +1,5 @@
 ---
 title: "Lunetterie Laurent"
 url: /nimes/lunetterie-laurent/
-shop: Optiker
+shop: opticien
 ---

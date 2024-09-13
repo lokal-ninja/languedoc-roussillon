@@ -1,5 +1,5 @@
 ---
 title: "Le cygne"
 url: /nimes/le-cygne/
-shop: Tabak
+shop: tabac
 ---

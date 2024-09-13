@@ -1,5 +1,5 @@
 ---
 title: "Le Pain et Levain"
 url: /nimes/le-pain-et-levain/
-shop: Bäckerei
+shop: boulangerie
 ---

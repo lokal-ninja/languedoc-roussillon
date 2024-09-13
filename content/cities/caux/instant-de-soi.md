@@ -1,5 +1,5 @@
 ---
 title: "Instant de soi"
 url: /caux/instant-de-soi/
-shop: Kosmetik
+shop: beauté
 ---

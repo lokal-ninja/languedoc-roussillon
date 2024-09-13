@@ -1,5 +1,5 @@
 ---
 title: "Gaïa"
 url: /sommieres/gaia/
-shop: Schmuck
+shop: bijoux
 ---

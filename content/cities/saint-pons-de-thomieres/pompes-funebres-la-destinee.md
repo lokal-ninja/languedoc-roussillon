@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres la Destinée"
 url: /saint-pons-de-thomieres/pompes-funebres-la-destinee/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

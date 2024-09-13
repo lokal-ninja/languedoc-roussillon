@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /lunel/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

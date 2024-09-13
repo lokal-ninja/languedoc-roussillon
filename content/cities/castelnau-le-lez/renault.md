@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /castelnau-le-lez/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

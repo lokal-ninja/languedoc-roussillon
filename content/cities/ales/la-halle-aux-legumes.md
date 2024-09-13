@@ -1,5 +1,5 @@
 ---
 title: "La Halle aux Légumes"
 url: /ales/la-halle-aux-legumes/
-shop: Gemüse & Obst
+shop: légumes
 ---

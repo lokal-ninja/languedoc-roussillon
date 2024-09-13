@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse La Corniche"
 url: /sete/tabac-presse-la-corniche/
-shop: Zeitungen
+shop: marchand de journaux
 ---

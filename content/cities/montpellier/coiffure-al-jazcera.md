@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Al Jazcera"
 url: /montpellier/coiffure-al-jazcera/
-shop: Friseur
+shop: coiffeur
 ---

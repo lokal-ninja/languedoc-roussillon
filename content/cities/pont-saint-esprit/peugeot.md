@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /pont-saint-esprit/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

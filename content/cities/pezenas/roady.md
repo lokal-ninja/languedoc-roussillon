@@ -1,5 +1,5 @@
 ---
 title: "Roady"
 url: /pezenas/roady/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

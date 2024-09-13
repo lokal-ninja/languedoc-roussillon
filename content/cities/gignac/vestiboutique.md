@@ -1,5 +1,5 @@
 ---
 title: "VestiBoutique"
 url: /gignac/vestiboutique/
-shop: Gebrauchtwaren
+shop: charité
 ---

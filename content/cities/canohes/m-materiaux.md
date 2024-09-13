@@ -1,5 +1,5 @@
 ---
 title: "m+ Matériaux"
 url: /canohes/m-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

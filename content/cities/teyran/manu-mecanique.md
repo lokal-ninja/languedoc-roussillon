@@ -1,5 +1,5 @@
 ---
 title: "Manu Mécanique"
 url: /teyran/manu-mecanique/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

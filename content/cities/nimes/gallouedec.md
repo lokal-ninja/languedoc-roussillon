@@ -1,5 +1,5 @@
 ---
 title: "Gallouedec"
 url: /nimes/gallouedec/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

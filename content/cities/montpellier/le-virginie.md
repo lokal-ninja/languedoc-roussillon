@@ -1,5 +1,5 @@
 ---
 title: "Le Virginie"
 url: /montpellier/le-virginie/
-shop: Zeitungen
+shop: marchand de journaux
 ---

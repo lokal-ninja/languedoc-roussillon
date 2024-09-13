@@ -1,5 +1,5 @@
 ---
 title: "Lopez peintures"
 url: /beziers/lopez-peintures/
-shop: Eisenwaren
+shop: matériel informatique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Loto Michel Prophète"
 url: /beziers/tabac-presse-loto-michel-prophete/
-shop: Zeitungen
+shop: marchand de journaux
 ---

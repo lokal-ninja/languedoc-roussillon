@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /lunel/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

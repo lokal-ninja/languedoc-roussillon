@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /nimes/casa/
-shop: Möbel
+shop: meubles
 ---

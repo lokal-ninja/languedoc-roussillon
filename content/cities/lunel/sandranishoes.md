@@ -1,5 +1,5 @@
 ---
 title: "Sandranishoes"
 url: /lunel/sandranishoes/
-shop: Kleidung
+shop: vêtements
 ---

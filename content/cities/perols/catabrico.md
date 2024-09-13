@@ -1,5 +1,5 @@
 ---
 title: "Catabrico"
 url: /perols/catabrico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

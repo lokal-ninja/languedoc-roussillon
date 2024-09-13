@@ -1,5 +1,5 @@
 ---
 title: "Béziers Pièces Auto"
 url: /beziers/beziers-pieces-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

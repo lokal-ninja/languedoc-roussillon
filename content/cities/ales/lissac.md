@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /ales/lissac/
-shop: Optiker
+shop: opticien
 ---

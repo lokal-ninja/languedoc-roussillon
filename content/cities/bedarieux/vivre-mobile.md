@@ -1,5 +1,5 @@
 ---
 title: "Vivre Mobile"
 url: /bedarieux/vivre-mobile/
-shop: Handy
+shop: téléphone portable
 ---

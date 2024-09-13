@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /carcassonne/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

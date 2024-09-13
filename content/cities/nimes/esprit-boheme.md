@@ -1,5 +1,5 @@
 ---
 title: "Esprit bohème"
 url: /nimes/esprit-boheme/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

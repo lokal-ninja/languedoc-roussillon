@@ -1,5 +1,5 @@
 ---
 title: "Chez Nadine"
 url: /corbere-les-cabanes/chez-nadine/
-shop: Lebensmittel
+shop: commodité
 ---

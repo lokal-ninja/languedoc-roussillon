@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /nimes/darty/
-shop: Elektronik
+shop: électronique
 ---

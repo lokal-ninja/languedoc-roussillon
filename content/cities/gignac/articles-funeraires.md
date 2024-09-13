@@ -1,5 +1,5 @@
 ---
 title: "Articles Funéraires"
 url: /gignac/articles-funeraires/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

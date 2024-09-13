@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /lunel/gemo/
-shop: Kleidung
+shop: vêtements
 ---

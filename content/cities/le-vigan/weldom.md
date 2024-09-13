@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /le-vigan/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

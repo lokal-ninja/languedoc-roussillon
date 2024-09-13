@@ -1,5 +1,5 @@
 ---
 title: "Napapijri"
 url: /perpignan/napapijri/
-shop: Kleidung
+shop: vêtements
 ---

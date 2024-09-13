@@ -1,5 +1,5 @@
 ---
 title: "Garage AD Expert"
 url: /lunel/garage-ad-expert/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

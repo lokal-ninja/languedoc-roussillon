@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /agde/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

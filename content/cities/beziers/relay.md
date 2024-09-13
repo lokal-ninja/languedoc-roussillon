@@ -1,5 +1,5 @@
 ---
 title: "Relay"
 url: /beziers/relay/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Au Raton Laveur"
 url: /lunel/au-raton-laveur/
-shop: Wäscherei
+shop: blanchisserie
 ---

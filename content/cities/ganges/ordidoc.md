@@ -1,5 +1,5 @@
 ---
 title: "Ordidoc"
 url: /ganges/ordidoc/
-shop: Computer
+shop: ordinateur
 ---

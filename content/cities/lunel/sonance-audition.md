@@ -1,5 +1,5 @@
 ---
 title: "Sonance Audition"
 url: /lunel/sonance-audition/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

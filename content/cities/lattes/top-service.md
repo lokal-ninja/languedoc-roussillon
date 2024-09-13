@@ -1,5 +1,5 @@
 ---
 title: "Top Service"
 url: /lattes/top-service/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meminello"
 url: /sete/meminello/
-shop: Fisch
+shop: fruits de mer
 ---

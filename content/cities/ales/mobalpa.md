@@ -1,5 +1,5 @@
 ---
 title: "Mobalpa"
 url: /ales/mobalpa/
-shop: Möbel
+shop: meubles
 ---

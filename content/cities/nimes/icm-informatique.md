@@ -1,5 +1,5 @@
 ---
 title: "ICM Informatique"
 url: /nimes/icm-informatique/
-shop: Computer
+shop: ordinateur
 ---

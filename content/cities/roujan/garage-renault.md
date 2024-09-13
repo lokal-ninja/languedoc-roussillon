@@ -1,5 +1,5 @@
 ---
 title: "Garage Renault"
 url: /roujan/garage-renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

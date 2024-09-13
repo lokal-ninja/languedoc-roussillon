@@ -1,5 +1,5 @@
 ---
 title: "Valdeyron Matériaux - Tout Faire"
 url: /vauvert/valdeyron-materiaux-tout-faire/
-shop: Baumarkt
+shop: à faire soi-même
 ---

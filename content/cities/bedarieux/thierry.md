@@ -1,5 +1,5 @@
 ---
 title: "Thierry"
 url: /bedarieux/thierry/
-shop: Friseur
+shop: coiffeur
 ---

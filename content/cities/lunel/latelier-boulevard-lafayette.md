@@ -1,5 +1,5 @@
 ---
 title: "L’Atelier"
 url: /lunel/latelier-boulevard-lafayette/
-shop: Basteln
+shop: artisanat
 ---

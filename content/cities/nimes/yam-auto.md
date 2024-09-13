@@ -1,5 +1,5 @@
 ---
 title: "Yam Auto"
 url: /nimes/yam-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

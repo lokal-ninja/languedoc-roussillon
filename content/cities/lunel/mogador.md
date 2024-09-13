@@ -1,5 +1,5 @@
 ---
 title: "Mogador"
 url: /lunel/mogador/
-shop: Metzgerei
+shop: boucherie
 ---

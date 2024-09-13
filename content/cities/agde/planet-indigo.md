@@ -1,5 +1,5 @@
 ---
 title: "Planet' Indigo"
 url: /agde/planet-indigo/
-shop: Kleidung
+shop: vêtements
 ---

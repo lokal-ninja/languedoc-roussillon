@@ -1,5 +1,5 @@
 ---
 title: "Maxilivres"
 url: /nimes/maxilivres/
-shop: Bücher
+shop: livres
 ---

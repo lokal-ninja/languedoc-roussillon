@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Pecriaux"
 url: /lattes/tabac-presse-pecriaux/
-shop: Zeitungen
+shop: marchand de journaux
 ---

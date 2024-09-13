@@ -1,5 +1,5 @@
 ---
 title: "Le Rubens"
 url: /perpignan/le-rubens/
-shop: Tabak
+shop: tabac
 ---

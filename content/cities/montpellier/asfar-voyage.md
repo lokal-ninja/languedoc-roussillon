@@ -1,5 +1,5 @@
 ---
 title: "Asfar Voyage"
 url: /montpellier/asfar-voyage/
-shop: Reisebüro
+shop: agence de voyage
 ---

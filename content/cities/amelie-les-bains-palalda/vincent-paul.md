@@ -1,5 +1,5 @@
 ---
 title: "Vincent Paul"
 url: /amelie-les-bains-palalda/vincent-paul/
-shop: Tabak
+shop: tabac
 ---

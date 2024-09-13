@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Montpellier"
 url: /montpellier/peugeot-montpellier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

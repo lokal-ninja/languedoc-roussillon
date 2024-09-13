@@ -1,5 +1,5 @@
 ---
 title: "Heytens"
 url: /nimes/heytens/
-shop: Gardinen
+shop: rideau
 ---

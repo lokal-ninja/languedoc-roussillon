@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /perols/marionnaud/
-shop: Parfümerie
+shop: parfumerie
 ---

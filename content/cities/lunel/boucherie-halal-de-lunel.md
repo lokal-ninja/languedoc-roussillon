@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Halal de Lunel"
 url: /lunel/boucherie-halal-de-lunel/
-shop: Metzgerei
+shop: boucherie
 ---

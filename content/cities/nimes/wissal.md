@@ -1,5 +1,5 @@
 ---
 title: "Wissal"
 url: /nimes/wissal/
-shop: Handy
+shop: téléphone portable
 ---

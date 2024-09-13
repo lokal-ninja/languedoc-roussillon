@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres du Roy"
 url: /la-grande-motte/pompes-funebres-du-roy/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

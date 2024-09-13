@@ -1,5 +1,5 @@
 ---
 title: "Mag Presse Le Saint-Claude"
 url: /sauvian/mag-presse-le-saint-claude/
-shop: Zeitungen
+shop: marchand de journaux
 ---

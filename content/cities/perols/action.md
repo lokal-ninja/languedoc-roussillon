@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /perols/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

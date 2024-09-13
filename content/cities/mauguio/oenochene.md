@@ -1,5 +1,5 @@
 ---
 title: "Oenochêne"
 url: /mauguio/oenochene/
-shop: Baustoffe
+shop: commerce
 ---

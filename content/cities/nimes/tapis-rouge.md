@@ -1,5 +1,5 @@
 ---
 title: "Tapis Rouge"
 url: /nimes/tapis-rouge/
-shop: Kleidung
+shop: vêtements
 ---

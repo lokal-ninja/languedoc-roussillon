@@ -1,5 +1,5 @@
 ---
 title: "Damart"
 url: /montpellier/damart/
-shop: Kleidung
+shop: vêtements
 ---

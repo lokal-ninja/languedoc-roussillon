@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /vias/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /ales/kiloutou/
-shop: Mieten
+shop: location de stockage
 ---

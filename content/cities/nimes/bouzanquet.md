@@ -1,5 +1,5 @@
 ---
 title: "Bouzanquet"
 url: /nimes/bouzanquet/
-shop: Bäckerei
+shop: boulangerie
 ---

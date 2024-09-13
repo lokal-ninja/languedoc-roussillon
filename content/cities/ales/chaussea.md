@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /ales/chaussea/
-shop: Schuhe
+shop: chaussures
 ---

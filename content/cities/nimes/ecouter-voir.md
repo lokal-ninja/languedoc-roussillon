@@ -1,5 +1,5 @@
 ---
 title: "Écouter Voir"
 url: /nimes/ecouter-voir/
-shop: Optiker
+shop: opticien
 ---

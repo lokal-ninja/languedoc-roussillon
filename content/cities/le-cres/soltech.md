@@ -1,5 +1,5 @@
 ---
 title: "Soltech"
 url: /le-cres/soltech/
-shop: Baustoffe
+shop: commerce
 ---

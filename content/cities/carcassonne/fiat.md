@@ -1,5 +1,5 @@
 ---
 title: "Fiat"
 url: /carcassonne/fiat/
-shop: Autohaus
+shop: voiture
 ---

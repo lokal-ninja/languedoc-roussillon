@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /lunel/intermarche/
-shop: Lebensmittel
+shop: commodité
 ---

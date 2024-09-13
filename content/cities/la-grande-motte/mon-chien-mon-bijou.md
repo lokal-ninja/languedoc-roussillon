@@ -1,5 +1,5 @@
 ---
 title: "Mon Chien Mon Bijou"
 url: /la-grande-motte/mon-chien-mon-bijou/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

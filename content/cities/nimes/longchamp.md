@@ -1,5 +1,5 @@
 ---
 title: "Longchamp"
 url: /nimes/longchamp/
-shop: Modehaus
+shop: boutique
 ---

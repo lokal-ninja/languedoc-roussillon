@@ -1,5 +1,5 @@
 ---
 title: "Bleu Libellule"
 url: /saint-aunes/bleu-libellule/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plantes et Santé"
 url: /amelie-les-bains-palalda/plantes-et-sante/
-shop: Kräuter
+shop: herboriste
 ---

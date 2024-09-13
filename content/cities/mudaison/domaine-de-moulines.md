@@ -1,5 +1,5 @@
 ---
 title: "Domaine de Moulines"
 url: /mudaison/domaine-de-moulines/
-shop: Spirituosen
+shop: alcool
 ---

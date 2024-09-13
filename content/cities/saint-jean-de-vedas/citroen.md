@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /saint-jean-de-vedas/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Energyson"
 url: /mauguio/energyson/
-shop: Musik
+shop: musique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cité de l'automobile"
 url: /carcassonne/cite-de-lautomobile/
-shop: Autohaus
+shop: voiture
 ---

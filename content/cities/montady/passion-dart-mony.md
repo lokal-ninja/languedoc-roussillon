@@ -1,5 +1,5 @@
 ---
 title: "Passion d'Art-Mony"
 url: /montady/passion-dart-mony/
-shop: Blumen
+shop: fleuriste
 ---

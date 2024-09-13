@@ -1,5 +1,5 @@
 ---
 title: "RESOTAINER Agde / Bessan"
 url: /bessan/resotainer-agde-bessan/
-shop: Mieten
+shop: location de stockage
 ---

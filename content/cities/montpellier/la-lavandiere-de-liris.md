@@ -1,5 +1,5 @@
 ---
 title: "La lavandière de l'Iris"
 url: /montpellier/la-lavandiere-de-liris/
-shop: Wäscherei
+shop: blanchisserie
 ---

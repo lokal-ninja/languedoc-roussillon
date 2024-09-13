@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /perols/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HOMEBOX"
 url: /perpignan/homebox/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /sommieres/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

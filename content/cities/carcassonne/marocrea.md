@@ -1,5 +1,5 @@
 ---
 title: "Marocréa"
 url: /carcassonne/marocrea/
-shop: Leder
+shop: cuir
 ---

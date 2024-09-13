@@ -1,5 +1,5 @@
 ---
 title: "Les Secrets de Louise"
 url: /nimes/les-secrets-de-louise/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /nimes/marionnaud/
-shop: Parfümerie
+shop: parfumerie
 ---

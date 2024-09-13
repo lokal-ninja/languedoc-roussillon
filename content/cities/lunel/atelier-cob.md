@@ -1,5 +1,5 @@
 ---
 title: "Atelier Cob"
 url: /lunel/atelier-cob/
-shop: Friseur
+shop: coiffeur
 ---

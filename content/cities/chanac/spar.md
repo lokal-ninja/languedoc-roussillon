@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /chanac/spar/
-shop: Supermarkt
+shop: supermarché
 ---

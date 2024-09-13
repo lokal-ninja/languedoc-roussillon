@@ -1,5 +1,5 @@
 ---
 title: "Au blé d'or"
 url: /caves/au-ble-dor/
-shop: Bäckerei
+shop: boulangerie
 ---

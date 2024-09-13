@@ -1,5 +1,5 @@
 ---
 title: "Ma Câlinerie"
 url: /lunel/ma-calinerie/
-shop: Babysachen
+shop: produits pour bébés
 ---

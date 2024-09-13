@@ -1,5 +1,5 @@
 ---
 title: "Maurin Presse Tabac"
 url: /lattes/maurin-presse-tabac/
-shop: Zeitungen
+shop: marchand de journaux
 ---

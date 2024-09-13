@@ -1,5 +1,5 @@
 ---
 title: "Rhul"
 url: /lattes/rhul/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chausson"
 url: /prades/chausson/
-shop: Baumarkt
+shop: à faire soi-même
 ---

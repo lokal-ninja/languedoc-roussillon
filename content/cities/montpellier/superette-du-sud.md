@@ -1,5 +1,5 @@
 ---
 title: "Supérette du Sud"
 url: /montpellier/superette-du-sud/
-shop: Lebensmittel
+shop: commodité
 ---

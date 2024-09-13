@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /saint-aunes/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

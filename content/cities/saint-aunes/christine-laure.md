@@ -1,5 +1,5 @@
 ---
 title: "Christine Laure"
 url: /saint-aunes/christine-laure/
-shop: Kleidung
+shop: vêtements
 ---

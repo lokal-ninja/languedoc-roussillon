@@ -1,5 +1,5 @@
 ---
 title: "Wizzie"
 url: /nimes/wizzie/
-shop: Handy
+shop: téléphone portable
 ---

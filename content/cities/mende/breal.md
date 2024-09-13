@@ -1,5 +1,5 @@
 ---
 title: "Bréal"
 url: /mende/breal/
-shop: Kleidung
+shop: vêtements
 ---

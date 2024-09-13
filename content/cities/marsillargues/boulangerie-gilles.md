@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Gilles"
 url: /marsillargues/boulangerie-gilles/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Katy Flor"
 url: /thuir/katy-flor/
-shop: Blumen
+shop: fleuriste
 ---

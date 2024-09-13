@@ -1,5 +1,5 @@
 ---
 title: "Amt Custom"
 url: /bouillargues/amt-custom/
-shop: Dorfladen
+shop: magasin de campagne
 ---

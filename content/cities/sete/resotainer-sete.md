@@ -1,5 +1,5 @@
 ---
 title: "RESOTAINER Sète"
 url: /sete/resotainer-sete/
-shop: Mieten
+shop: location de stockage
 ---

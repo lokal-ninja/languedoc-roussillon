@@ -1,5 +1,5 @@
 ---
 title: "Hmk"
 url: /nimes/hmk/
-shop: Modehaus
+shop: boutique
 ---

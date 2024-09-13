@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /claira/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /mauguio/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

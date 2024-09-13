@@ -1,5 +1,5 @@
 ---
 title: "Top Garage"
 url: /lunel/top-garage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

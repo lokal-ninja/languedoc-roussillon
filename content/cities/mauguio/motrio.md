@@ -1,5 +1,5 @@
 ---
 title: "Motrio"
 url: /mauguio/motrio/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

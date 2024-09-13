@@ -1,5 +1,5 @@
 ---
 title: "Prolians - Baurès"
 url: /lunel/prolians-baures/
-shop: Baumarkt
+shop: à faire soi-même
 ---

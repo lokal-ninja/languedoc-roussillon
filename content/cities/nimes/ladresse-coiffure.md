@@ -1,5 +1,5 @@
 ---
 title: "L'adresse coiffure"
 url: /nimes/ladresse-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

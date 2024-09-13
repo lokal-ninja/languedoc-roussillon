@@ -1,5 +1,5 @@
 ---
 title: "Atout'Animaux"
 url: /magalas/atoutanimaux/
-shop: Tiere
+shop: animal de compagnie
 ---

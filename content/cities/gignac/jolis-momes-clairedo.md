@@ -1,5 +1,5 @@
 ---
 title: "Jolis Mômes Clairedo"
 url: /gignac/jolis-momes-clairedo/
-shop: Kleidung
+shop: vêtements
 ---

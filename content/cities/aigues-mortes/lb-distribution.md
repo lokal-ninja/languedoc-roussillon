@@ -1,5 +1,5 @@
 ---
 title: "LB Distribution"
 url: /aigues-mortes/lb-distribution/
-shop: Baumarkt
+shop: à faire soi-même
 ---

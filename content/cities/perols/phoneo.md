@@ -1,5 +1,5 @@
 ---
 title: "Phoneo"
 url: /perols/phoneo/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RESOTAINER Poussan"
 url: /poussan/resotainer-poussan/
-shop: Mieten
+shop: location de stockage
 ---

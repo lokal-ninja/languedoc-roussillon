@@ -1,5 +1,5 @@
 ---
 title: "Michel Équipement"
 url: /ales/michel-equipement/
-shop: Landwirtschaftlich
+shop: agraire
 ---

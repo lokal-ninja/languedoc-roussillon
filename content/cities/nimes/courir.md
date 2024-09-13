@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /nimes/courir/
-shop: Schuhe
+shop: chaussures
 ---

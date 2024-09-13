@@ -1,5 +1,5 @@
 ---
 title: "Roady"
 url: /agde/roady/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

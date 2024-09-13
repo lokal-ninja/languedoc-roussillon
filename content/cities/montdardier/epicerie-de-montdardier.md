@@ -1,5 +1,5 @@
 ---
 title: "Épicerie de Montdardier"
 url: /montdardier/epicerie-de-montdardier/
-shop: Lebensmittel
+shop: commodité
 ---

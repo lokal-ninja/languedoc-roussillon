@@ -1,5 +1,5 @@
 ---
 title: "Komako"
 url: /beziers/komako/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

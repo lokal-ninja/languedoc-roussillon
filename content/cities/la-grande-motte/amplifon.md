@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /la-grande-motte/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

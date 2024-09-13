@@ -1,5 +1,5 @@
 ---
 title: "Net Pneus"
 url: /saussines/net-pneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

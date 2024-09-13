@@ -1,5 +1,5 @@
 ---
 title: "Pascal Coste"
 url: /nimes/pascal-coste/
-shop: Friseur
+shop: coiffeur
 ---

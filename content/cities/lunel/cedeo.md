@@ -1,5 +1,5 @@
 ---
 title: "Cedeo"
 url: /lunel/cedeo/
-shop: Baumarkt
+shop: à faire soi-même
 ---

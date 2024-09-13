@@ -1,5 +1,5 @@
 ---
 title: "Studaphot"
 url: /le-cres/studaphot/
-shop: Foto
+shop: photo
 ---

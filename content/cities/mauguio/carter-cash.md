@@ -1,5 +1,5 @@
 ---
 title: "Carter-Cash"
 url: /mauguio/carter-cash/
-shop: Autoteile
+shop: pièces de voitures
 ---

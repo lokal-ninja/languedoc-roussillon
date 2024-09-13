@@ -1,5 +1,5 @@
 ---
 title: "Delphine Coiffure"
 url: /saint-chaptes/delphine-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

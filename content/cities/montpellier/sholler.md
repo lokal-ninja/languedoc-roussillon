@@ -1,5 +1,5 @@
 ---
 title: "Sholler"
 url: /montpellier/sholler/
-shop: Bäckerei
+shop: boulangerie
 ---

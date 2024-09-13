@@ -1,5 +1,5 @@
 ---
 title: "Gold Service"
 url: /nimes/gold-service/
-shop: Leiher
+shop: prêteur sur gages
 ---

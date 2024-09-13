@@ -1,5 +1,5 @@
 ---
 title: "Zakeo"
 url: /nimes/zakeo/
-shop: Kleidung
+shop: vêtements
 ---

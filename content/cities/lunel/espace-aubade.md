@@ -1,5 +1,5 @@
 ---
 title: "Espace Aubade"
 url: /lunel/espace-aubade/
-shop: Baumarkt
+shop: à faire soi-même
 ---

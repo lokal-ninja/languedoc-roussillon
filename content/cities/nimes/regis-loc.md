@@ -1,5 +1,5 @@
 ---
 title: "REGIS LOC"
 url: /nimes/regis-loc/
-shop: Mieten
+shop: location de stockage
 ---

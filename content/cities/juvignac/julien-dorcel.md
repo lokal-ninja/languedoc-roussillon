@@ -1,5 +1,5 @@
 ---
 title: "Julien d'Orcel"
 url: /juvignac/julien-dorcel/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Entrepôt du Bricolage"
 url: /nimes/entrepot-du-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valette Funéraire"
 url: /quillan/valette-funeraire/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

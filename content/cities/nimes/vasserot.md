@@ -1,5 +1,5 @@
 ---
 title: "Vasserot"
 url: /nimes/vasserot/
-shop: Eisenwaren
+shop: matériel informatique
 ---

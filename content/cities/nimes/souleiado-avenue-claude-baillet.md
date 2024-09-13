@@ -1,5 +1,5 @@
 ---
 title: "Souléïado"
 url: /nimes/souleiado-avenue-claude-baillet/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Relay"
 url: /mauguio/relay/
-shop: Zeitungen
+shop: marchand de journaux
 ---

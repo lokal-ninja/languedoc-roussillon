@@ -1,5 +1,5 @@
 ---
 title: "AD"
 url: /mauguio/ad/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

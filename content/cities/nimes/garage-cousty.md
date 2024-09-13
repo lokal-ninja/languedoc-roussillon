@@ -1,5 +1,5 @@
 ---
 title: "Garage Cousty"
 url: /nimes/garage-cousty/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

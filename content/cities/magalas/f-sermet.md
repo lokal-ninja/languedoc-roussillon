@@ -1,5 +1,5 @@
 ---
 title: "F. Sermet"
 url: /magalas/f-sermet/
-shop: Metzgerei
+shop: boucherie
 ---

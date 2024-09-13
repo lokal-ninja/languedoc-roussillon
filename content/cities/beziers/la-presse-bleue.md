@@ -1,5 +1,5 @@
 ---
 title: "La Presse Bleue"
 url: /beziers/la-presse-bleue/
-shop: Zeitungen
+shop: marchand de journaux
 ---

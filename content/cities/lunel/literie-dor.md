@@ -1,5 +1,5 @@
 ---
 title: "Literie d’Or"
 url: /lunel/literie-dor/
-shop: Betten
+shop: lit
 ---

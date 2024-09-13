@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /beziers/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

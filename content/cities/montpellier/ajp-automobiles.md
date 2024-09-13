@@ -1,5 +1,5 @@
 ---
 title: "AJP Automobiles"
 url: /montpellier/ajp-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

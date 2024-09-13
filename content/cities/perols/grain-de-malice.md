@@ -1,5 +1,5 @@
 ---
 title: "Grain de Malice"
 url: /perols/grain-de-malice/
-shop: Kleidung
+shop: vêtements
 ---

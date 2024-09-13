@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /laroque/intermarche/
-shop: Gasflaschen
+shop: gaz
 ---

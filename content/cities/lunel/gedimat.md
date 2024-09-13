@@ -1,5 +1,5 @@
 ---
 title: "Gedimat"
 url: /lunel/gedimat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

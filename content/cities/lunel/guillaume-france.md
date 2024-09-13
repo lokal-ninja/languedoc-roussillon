@@ -1,5 +1,5 @@
 ---
 title: "Guillaume France"
 url: /lunel/guillaume-france/
-shop: Schokolade
+shop: chocolat
 ---

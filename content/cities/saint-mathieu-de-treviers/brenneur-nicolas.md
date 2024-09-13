@@ -1,5 +1,5 @@
 ---
 title: "Brenneur Nicolas"
 url: /saint-mathieu-de-treviers/brenneur-nicolas/
-shop: Sport
+shop: sports
 ---

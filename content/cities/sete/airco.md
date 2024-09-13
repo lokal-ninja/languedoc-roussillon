@@ -1,5 +1,5 @@
 ---
 title: "AirCo"
 url: /sete/airco/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

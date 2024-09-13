@@ -1,5 +1,5 @@
 ---
 title: "Bricoservice"
 url: /la-grande-motte/bricoservice/
-shop: Baumarkt
+shop: à faire soi-même
 ---

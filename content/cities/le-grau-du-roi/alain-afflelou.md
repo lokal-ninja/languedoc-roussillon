@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /le-grau-du-roi/alain-afflelou/
-shop: Optiker
+shop: opticien
 ---

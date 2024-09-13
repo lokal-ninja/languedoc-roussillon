@@ -1,5 +1,5 @@
 ---
 title: "Top Office"
 url: /ales/top-office/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rose Citron"
 url: /leucate-village/rose-citron/
-shop: Andenken
+shop: cadeau
 ---

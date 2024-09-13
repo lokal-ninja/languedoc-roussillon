@@ -1,5 +1,5 @@
 ---
 title: "Boucherie royal"
 url: /montpellier/boucherie-royal/
-shop: Metzgerei
+shop: boucherie
 ---

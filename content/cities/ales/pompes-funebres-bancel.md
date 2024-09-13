@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres Bancel"
 url: /ales/pompes-funebres-bancel/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

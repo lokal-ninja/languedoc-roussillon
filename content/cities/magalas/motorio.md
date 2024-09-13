@@ -1,5 +1,5 @@
 ---
 title: "Motorio"
 url: /magalas/motorio/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

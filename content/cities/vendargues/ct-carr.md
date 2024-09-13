@@ -1,5 +1,5 @@
 ---
 title: "CT Carr"
 url: /vendargues/ct-carr/
-shop: Autoteile
+shop: pièces de voitures
 ---

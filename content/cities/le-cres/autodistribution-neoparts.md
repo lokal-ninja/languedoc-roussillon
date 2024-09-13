@@ -1,5 +1,5 @@
 ---
 title: "Autodistribution Neoparts"
 url: /le-cres/autodistribution-neoparts/
-shop: Autoteile
+shop: pièces de voitures
 ---

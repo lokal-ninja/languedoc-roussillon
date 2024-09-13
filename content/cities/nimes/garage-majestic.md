@@ -1,5 +1,5 @@
 ---
 title: "Garage Majestic"
 url: /nimes/garage-majestic/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

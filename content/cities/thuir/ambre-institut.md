@@ -1,5 +1,5 @@
 ---
 title: "Ambre institut"
 url: /thuir/ambre-institut/
-shop: Kramladen
+shop: magasin de variétés
 ---

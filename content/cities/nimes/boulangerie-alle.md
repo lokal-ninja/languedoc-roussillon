@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie ALLE"
 url: /nimes/boulangerie-alle/
-shop: Bäckerei
+shop: boulangerie
 ---

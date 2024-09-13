@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /montpellier/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

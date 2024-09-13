@@ -1,5 +1,5 @@
 ---
 title: "Minelli"
 url: /nimes/minelli/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bouygues Télécom"
 url: /montpellier/bouygues-telecom/
-shop: Handy
+shop: téléphone portable
 ---

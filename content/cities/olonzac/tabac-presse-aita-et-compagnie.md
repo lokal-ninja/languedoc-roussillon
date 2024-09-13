@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Aita et Compagnie"
 url: /olonzac/tabac-presse-aita-et-compagnie/
-shop: Zeitungen
+shop: marchand de journaux
 ---

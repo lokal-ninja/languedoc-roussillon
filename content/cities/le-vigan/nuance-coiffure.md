@@ -1,5 +1,5 @@
 ---
 title: "Nuance Coiffure"
 url: /le-vigan/nuance-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

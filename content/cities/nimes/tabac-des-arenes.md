@@ -1,5 +1,5 @@
 ---
 title: "Tabac des Arènes"
 url: /nimes/tabac-des-arenes/
-shop: Zeitungen
+shop: marchand de journaux
 ---

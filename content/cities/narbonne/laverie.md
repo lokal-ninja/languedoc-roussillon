@@ -1,5 +1,5 @@
 ---
 title: "Laverie"
 url: /narbonne/laverie/
-shop: Wäscherei
+shop: blanchisserie
 ---

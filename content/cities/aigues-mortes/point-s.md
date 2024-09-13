@@ -1,5 +1,5 @@
 ---
 title: "Point S"
 url: /aigues-mortes/point-s/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

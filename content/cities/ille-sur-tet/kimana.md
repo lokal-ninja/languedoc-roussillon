@@ -1,5 +1,5 @@
 ---
 title: "Kimana"
 url: /ille-sur-tet/kimana/
-shop: Schuhe
+shop: chaussures
 ---

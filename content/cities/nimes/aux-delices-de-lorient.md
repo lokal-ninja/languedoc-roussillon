@@ -1,5 +1,5 @@
 ---
 title: "Aux délices de l'Orient"
 url: /nimes/aux-delices-de-lorient/
-shop: Konditorei
+shop: pâtisserie
 ---

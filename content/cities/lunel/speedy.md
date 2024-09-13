@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /lunel/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

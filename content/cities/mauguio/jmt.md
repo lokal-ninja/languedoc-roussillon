@@ -1,5 +1,5 @@
 ---
 title: "JMT"
 url: /mauguio/jmt/
-shop: Tiere
+shop: animal de compagnie
 ---

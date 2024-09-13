@@ -1,5 +1,5 @@
 ---
 title: "Retif"
 url: /mauguio/retif/
-shop: Baustoffe
+shop: commerce
 ---

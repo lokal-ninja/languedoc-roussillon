@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /millas/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

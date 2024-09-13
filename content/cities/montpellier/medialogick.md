@@ -1,5 +1,5 @@
 ---
 title: "Medialogick"
 url: /montpellier/medialogick/
-shop: Computer
+shop: ordinateur
 ---

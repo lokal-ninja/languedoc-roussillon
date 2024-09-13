@@ -1,5 +1,5 @@
 ---
 title: "Uzege Matériaux"
 url: /uzes/uzege-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

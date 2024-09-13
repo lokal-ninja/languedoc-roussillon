@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /nimes/intersport/
-shop: Sport
+shop: sports
 ---

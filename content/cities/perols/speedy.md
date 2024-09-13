@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /perols/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

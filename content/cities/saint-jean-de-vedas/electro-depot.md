@@ -1,5 +1,5 @@
 ---
 title: "Electro Dépot"
 url: /saint-jean-de-vedas/electro-depot/
-shop: Elektronik
+shop: électronique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librairie Papeterie Olle"
 url: /nimes/librairie-papeterie-olle/
-shop: Bücher
+shop: livres
 ---

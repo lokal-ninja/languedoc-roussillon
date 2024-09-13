@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /lattes/courir/
-shop: Schuhe
+shop: chaussures
 ---

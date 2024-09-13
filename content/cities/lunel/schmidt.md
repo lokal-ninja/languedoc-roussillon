@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /lunel/schmidt/
-shop: Küchen
+shop: cuisine
 ---

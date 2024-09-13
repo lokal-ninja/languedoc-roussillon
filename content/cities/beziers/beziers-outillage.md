@@ -1,5 +1,5 @@
 ---
 title: "BÉZIERS OUTILLAGE"
 url: /beziers/beziers-outillage/
-shop: Autoteile
+shop: pièces de voitures
 ---

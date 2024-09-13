@@ -1,5 +1,5 @@
 ---
 title: "VIP Store"
 url: /la-grande-motte/vip-store/
-shop: Kleidung
+shop: vêtements
 ---

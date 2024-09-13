@@ -1,5 +1,5 @@
 ---
 title: "Montcalm Coiffure"
 url: /nimes/montcalm-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

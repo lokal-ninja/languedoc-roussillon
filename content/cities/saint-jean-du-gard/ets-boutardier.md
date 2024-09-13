@@ -1,5 +1,5 @@
 ---
 title: "Ets Boutardier"
 url: /saint-jean-du-gard/ets-boutardier/
-shop: Eisenwaren
+shop: matériel informatique
 ---

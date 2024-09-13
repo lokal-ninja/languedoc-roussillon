@@ -1,5 +1,5 @@
 ---
 title: "Union-Matériaux Narbonne"
 url: /narbonne/union-materiaux-narbonne/
-shop: Baumarkt
+shop: à faire soi-même
 ---

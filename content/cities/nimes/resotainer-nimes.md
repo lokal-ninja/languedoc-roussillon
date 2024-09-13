@@ -1,5 +1,5 @@
 ---
 title: "RESOTAINER Nîmes"
 url: /nimes/resotainer-nimes/
-shop: Mieten
+shop: location de stockage
 ---

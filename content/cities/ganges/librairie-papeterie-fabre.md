@@ -1,5 +1,5 @@
 ---
 title: "Librairie Papeterie Fabre"
 url: /ganges/librairie-papeterie-fabre/
-shop: Bücher
+shop: livres
 ---

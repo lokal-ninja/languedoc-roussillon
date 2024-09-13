@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /quillan/spar/
-shop: Lebensmittel
+shop: commodité
 ---

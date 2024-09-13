@@ -1,5 +1,5 @@
 ---
 title: "Rastop"
 url: /ganges/rastop/
-shop: Schädlingsbekämpfung
+shop: contrôle des nuisibles
 ---

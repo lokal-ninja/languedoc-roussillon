@@ -1,5 +1,5 @@
 ---
 title: "Le local paysan"
 url: /nimes/le-local-paysan/
-shop: Feinkost
+shop: charcuterie
 ---

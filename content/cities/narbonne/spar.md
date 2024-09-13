@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /narbonne/spar/
-shop: Supermarkt
+shop: supermarché
 ---

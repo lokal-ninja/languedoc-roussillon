@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ceret/spar/
-shop: Lebensmittel
+shop: commodité
 ---

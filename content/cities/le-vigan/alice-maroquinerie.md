@@ -1,5 +1,5 @@
 ---
 title: "Alice Maroquinerie"
 url: /le-vigan/alice-maroquinerie/
-shop: Leder
+shop: cuir
 ---

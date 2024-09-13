@@ -1,5 +1,5 @@
 ---
 title: "Garage Renault"
 url: /vendargues/garage-renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

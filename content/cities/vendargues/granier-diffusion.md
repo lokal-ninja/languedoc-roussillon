@@ -1,5 +1,5 @@
 ---
 title: "Granier Diffusion"
 url: /vendargues/granier-diffusion/
-shop: Baustoffe
+shop: commerce
 ---

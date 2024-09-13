@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /saint-jean-de-vedas/orange/
-shop: Handy
+shop: téléphone portable
 ---

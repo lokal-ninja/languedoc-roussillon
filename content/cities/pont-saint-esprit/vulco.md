@@ -1,5 +1,5 @@
 ---
 title: "Vulco"
 url: /pont-saint-esprit/vulco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

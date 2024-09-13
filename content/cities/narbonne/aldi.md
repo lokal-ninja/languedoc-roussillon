@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /narbonne/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

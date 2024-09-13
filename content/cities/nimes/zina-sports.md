@@ -1,5 +1,5 @@
 ---
 title: "Zina Sports"
 url: /nimes/zina-sports/
-shop: Sport
+shop: sports
 ---

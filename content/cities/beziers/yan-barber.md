@@ -1,5 +1,5 @@
 ---
 title: "Yan Barber"
 url: /beziers/yan-barber/
-shop: Friseur
+shop: coiffeur
 ---

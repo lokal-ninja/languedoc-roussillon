@@ -1,5 +1,5 @@
 ---
 title: "Cuisines Et Soleil"
 url: /nimes/cuisines-et-soleil/
-shop: Möbel
+shop: meubles
 ---

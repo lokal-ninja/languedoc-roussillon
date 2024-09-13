@@ -1,5 +1,5 @@
 ---
 title: "Carlance"
 url: /bagnols-sur-ceze/carlance/
-shop: Kosmetik
+shop: beauté
 ---

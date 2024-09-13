@@ -1,5 +1,5 @@
 ---
 title: "AudioLab"
 url: /le-vigan/audiolab/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

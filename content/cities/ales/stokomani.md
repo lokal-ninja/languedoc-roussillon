@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /ales/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

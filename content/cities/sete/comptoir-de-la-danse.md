@@ -1,5 +1,5 @@
 ---
 title: "Comptoir de la danse"
 url: /sete/comptoir-de-la-danse/
-shop: Sport
+shop: sports
 ---

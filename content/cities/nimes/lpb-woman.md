@@ -1,5 +1,5 @@
 ---
 title: "LPB Woman"
 url: /nimes/lpb-woman/
-shop: Kleidung
+shop: vêtements
 ---

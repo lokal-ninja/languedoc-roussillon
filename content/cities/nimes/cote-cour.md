@@ -1,5 +1,5 @@
 ---
 title: "Côté Cour"
 url: /nimes/cote-cour/
-shop: Friseur
+shop: coiffeur
 ---

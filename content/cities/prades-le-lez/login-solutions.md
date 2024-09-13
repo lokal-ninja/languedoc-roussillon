@@ -1,5 +1,5 @@
 ---
 title: "LOG'IN solutions"
 url: /prades-le-lez/login-solutions/
-shop: Computer
+shop: ordinateur
 ---

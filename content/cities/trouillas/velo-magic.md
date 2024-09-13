@@ -1,5 +1,5 @@
 ---
 title: "Vélo Magic"
 url: /trouillas/velo-magic/
-shop: Fahrrad
+shop: vélo
 ---

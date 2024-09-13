@@ -1,5 +1,5 @@
 ---
 title: "Look Coiffure"
 url: /lunel/look-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

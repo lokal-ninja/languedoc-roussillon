@@ -1,5 +1,5 @@
 ---
 title: "Jardiland"
 url: /carcassonne/jardiland/
-shop: Garten-Center
+shop: centre de jardinage
 ---

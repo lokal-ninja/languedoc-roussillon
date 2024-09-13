@@ -1,5 +1,5 @@
 ---
 title: "Dessange"
 url: /nimes/dessange/
-shop: Friseur
+shop: coiffeur
 ---

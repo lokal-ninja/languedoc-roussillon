@@ -1,5 +1,5 @@
 ---
 title: "La Maison de la Presse"
 url: /nimes/la-maison-de-la-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

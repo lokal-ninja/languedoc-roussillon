@@ -1,5 +1,5 @@
 ---
 title: "Les P'tits Plaisirs"
 url: /vendargues/les-ptits-plaisirs/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /perpignan/orange/
-shop: Handy
+shop: téléphone portable
 ---

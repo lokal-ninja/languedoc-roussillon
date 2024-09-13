@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /lunel/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

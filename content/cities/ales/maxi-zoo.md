@@ -1,5 +1,5 @@
 ---
 title: "Maxi Zoo"
 url: /ales/maxi-zoo/
-shop: Tiere
+shop: animal de compagnie
 ---

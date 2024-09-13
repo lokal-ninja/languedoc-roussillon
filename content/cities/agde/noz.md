@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /agde/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

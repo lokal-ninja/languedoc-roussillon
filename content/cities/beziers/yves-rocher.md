@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /beziers/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

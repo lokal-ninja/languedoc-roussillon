@@ -1,5 +1,5 @@
 ---
 title: "Cabesto"
 url: /mauguio/cabesto/
-shop: Angeln
+shop: pêche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Tomatologue"
 url: /lattes/le-tomatologue/
-shop: Hofladen
+shop: ferme
 ---

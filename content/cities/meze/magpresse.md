@@ -1,5 +1,5 @@
 ---
 title: "MagPresse"
 url: /meze/magpresse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

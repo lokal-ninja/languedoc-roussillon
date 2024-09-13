@@ -1,5 +1,5 @@
 ---
 title: "Elinoï Coiffure"
 url: /nimes/elinoi-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

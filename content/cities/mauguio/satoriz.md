@@ -1,5 +1,5 @@
 ---
 title: "Satoriz"
 url: /mauguio/satoriz/
-shop: Supermarkt
+shop: supermarché
 ---

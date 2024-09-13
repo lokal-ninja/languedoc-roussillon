@@ -1,5 +1,5 @@
 ---
 title: "Spencer Store"
 url: /sommieres/spencer-store/
-shop: Kleidung
+shop: vêtements
 ---

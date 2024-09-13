@@ -1,5 +1,5 @@
 ---
 title: "Ecocuisine"
 url: /perols/ecocuisine/
-shop: Küchen
+shop: cuisine
 ---

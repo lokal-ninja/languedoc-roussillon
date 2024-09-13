@@ -1,5 +1,5 @@
 ---
 title: "Zen Optic"
 url: /mauguio/zen-optic/
-shop: Optiker
+shop: opticien
 ---

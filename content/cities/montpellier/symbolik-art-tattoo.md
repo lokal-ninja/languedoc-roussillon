@@ -1,5 +1,5 @@
 ---
 title: "Symbolik Art Tattoo"
 url: /montpellier/symbolik-art-tattoo/
-shop: Tattoo
+shop: tatouage
 ---

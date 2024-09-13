@@ -1,5 +1,5 @@
 ---
 title: "Gard Pompes"
 url: /ales/gard-pompes/
-shop: Eisenwaren
+shop: matériel informatique
 ---

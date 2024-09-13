@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /lattes/alain-afflelou/
-shop: Optiker
+shop: opticien
 ---

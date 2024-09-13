@@ -1,5 +1,5 @@
 ---
 title: "Allary"
 url: /leucate/allary/
-shop: Fisch
+shop: fruits de mer
 ---

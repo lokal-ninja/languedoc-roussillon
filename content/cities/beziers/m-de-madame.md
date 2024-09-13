@@ -1,5 +1,5 @@
 ---
 title: "M de Madame"
 url: /beziers/m-de-madame/
-shop: Kosmetik
+shop: beauté
 ---

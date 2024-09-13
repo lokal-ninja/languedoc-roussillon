@@ -1,5 +1,5 @@
 ---
 title: "Descamp"
 url: /nimes/descamp/
-shop: Allgemein
+shop: shop
 ---

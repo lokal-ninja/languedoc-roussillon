@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pâtisserie Artisan"
 url: /les-angles/boulangerie-patisserie-artisan/
-shop: Bäckerei
+shop: boulangerie
 ---

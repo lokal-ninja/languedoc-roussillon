@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /vauvert/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

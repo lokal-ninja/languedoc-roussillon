@@ -1,5 +1,5 @@
 ---
 title: "Domaine de Puilacher"
 url: /puilacher/domaine-de-puilacher/
-shop: Spirituosen
+shop: alcool
 ---

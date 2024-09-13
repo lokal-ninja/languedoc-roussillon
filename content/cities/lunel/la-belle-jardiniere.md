@@ -1,5 +1,5 @@
 ---
 title: "La Belle Jardinière"
 url: /lunel/la-belle-jardiniere/
-shop: Gemüse & Obst
+shop: légumes
 ---

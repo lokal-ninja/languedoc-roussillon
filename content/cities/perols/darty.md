@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /perols/darty/
-shop: Elektronik
+shop: électronique
 ---

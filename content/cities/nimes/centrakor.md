@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /nimes/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

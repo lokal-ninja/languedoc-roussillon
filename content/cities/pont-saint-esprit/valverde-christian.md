@@ -1,5 +1,5 @@
 ---
 title: "Valverde Christian"
 url: /pont-saint-esprit/valverde-christian/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

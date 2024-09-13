@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /saint-drezery/spar/
-shop: Lebensmittel
+shop: commodité
 ---

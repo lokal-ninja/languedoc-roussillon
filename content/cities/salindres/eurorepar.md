@@ -1,5 +1,5 @@
 ---
 title: "Eurorepar"
 url: /salindres/eurorepar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

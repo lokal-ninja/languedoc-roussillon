@@ -1,5 +1,5 @@
 ---
 title: "Art Camping car"
 url: /couiza/art-camping-car/
-shop: Wohnwagen
+shop: caravane
 ---

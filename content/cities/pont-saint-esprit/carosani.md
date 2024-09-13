@@ -1,5 +1,5 @@
 ---
 title: "Carosani"
 url: /pont-saint-esprit/carosani/
-shop: Baumarkt
+shop: à faire soi-même
 ---

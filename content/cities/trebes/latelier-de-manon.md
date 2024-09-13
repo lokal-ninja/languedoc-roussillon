@@ -1,5 +1,5 @@
 ---
 title: "L'atelier de Manon"
 url: /trebes/latelier-de-manon/
-shop: Blumen
+shop: fleuriste
 ---

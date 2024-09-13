@@ -1,5 +1,5 @@
 ---
 title: "Armaelian Parfumerie"
 url: /le-vigan/armaelian-parfumerie/
-shop: Kosmetik
+shop: beauté
 ---

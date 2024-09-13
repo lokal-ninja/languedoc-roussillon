@@ -1,5 +1,5 @@
 ---
 title: "Moshi Moshi"
 url: /le-cres/moshi-moshi/
-shop: Handy
+shop: téléphone portable
 ---

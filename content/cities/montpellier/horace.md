@@ -1,5 +1,5 @@
 ---
 title: "Horace"
 url: /montpellier/horace/
-shop: Kosmetik
+shop: beauté
 ---

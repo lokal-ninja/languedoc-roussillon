@@ -1,5 +1,5 @@
 ---
 title: "SEB117.FR"
 url: /montpellier/seb117-fr/
-shop: Handy
+shop: téléphone portable
 ---

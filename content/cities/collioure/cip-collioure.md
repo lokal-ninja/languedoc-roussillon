@@ -1,5 +1,5 @@
 ---
 title: "CIP Collioure"
 url: /collioure/cip-collioure/
-shop: Tauchen
+shop: plongée
 ---

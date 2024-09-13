@@ -1,5 +1,5 @@
 ---
 title: "Michel"
 url: /nimes/michel/
-shop: Metzgerei
+shop: boucherie
 ---

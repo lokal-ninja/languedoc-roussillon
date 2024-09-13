@@ -1,5 +1,5 @@
 ---
 title: "La Librairie Nomade"
 url: /balaruc-les-bains/la-librairie-nomade/
-shop: Bücher
+shop: livres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /saint-aunes/pimkie/
-shop: Kleidung
+shop: vêtements
 ---

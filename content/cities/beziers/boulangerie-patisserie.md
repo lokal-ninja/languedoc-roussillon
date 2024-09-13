@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patisserie"
 url: /beziers/boulangerie-patisserie/
-shop: Bäckerei
+shop: boulangerie
 ---

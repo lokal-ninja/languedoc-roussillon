@@ -1,5 +1,5 @@
 ---
 title: "BR Filtration"
 url: /saint-chaptes/br-filtration/
-shop: Autoteile
+shop: pièces de voitures
 ---

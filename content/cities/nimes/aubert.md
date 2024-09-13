@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /nimes/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

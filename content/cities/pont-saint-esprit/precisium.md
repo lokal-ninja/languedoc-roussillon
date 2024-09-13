@@ -1,5 +1,5 @@
 ---
 title: "Precisium"
 url: /pont-saint-esprit/precisium/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

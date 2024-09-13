@@ -1,5 +1,5 @@
 ---
 title: "Univers du Sommeil"
 url: /perols/univers-du-sommeil/
-shop: Betten
+shop: lit
 ---

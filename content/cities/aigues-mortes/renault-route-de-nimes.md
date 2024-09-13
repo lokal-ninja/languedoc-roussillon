@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /aigues-mortes/renault-route-de-nimes/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

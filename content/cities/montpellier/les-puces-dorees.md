@@ -1,5 +1,5 @@
 ---
 title: "Les Puces Dorées"
 url: /montpellier/les-puces-dorees/
-shop: Kleidung
+shop: vêtements
 ---

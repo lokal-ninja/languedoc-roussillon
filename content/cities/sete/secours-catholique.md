@@ -1,5 +1,5 @@
 ---
 title: "Secours catholique"
 url: /sete/secours-catholique/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /florac-trois-rivieres/toyota/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

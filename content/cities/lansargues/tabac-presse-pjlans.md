@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Pjlans"
 url: /lansargues/tabac-presse-pjlans/
-shop: Zeitungen
+shop: marchand de journaux
 ---

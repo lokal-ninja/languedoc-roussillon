@@ -1,5 +1,5 @@
 ---
 title: "Chaubet Didier"
 url: /quillan/chaubet-didier/
-shop: Elektronik
+shop: électronique
 ---

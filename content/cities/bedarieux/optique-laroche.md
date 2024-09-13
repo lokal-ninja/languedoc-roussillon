@@ -1,5 +1,5 @@
 ---
 title: "Optique Laroche"
 url: /bedarieux/optique-laroche/
-shop: Optiker
+shop: opticien
 ---

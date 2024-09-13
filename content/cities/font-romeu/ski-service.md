@@ -1,5 +1,5 @@
 ---
 title: "Ski Service"
 url: /font-romeu/ski-service/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plus Belle Laverie"
 url: /sommieres/plus-belle-laverie/
-shop: Wäscherei
+shop: blanchisserie
 ---

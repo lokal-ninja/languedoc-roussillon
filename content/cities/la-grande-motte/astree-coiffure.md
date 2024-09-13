@@ -1,5 +1,5 @@
 ---
 title: "Astrée Coiffure"
 url: /la-grande-motte/astree-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Culinarion"
 url: /nimes/culinarion/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hérault Voyages"
 url: /montpellier/herault-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

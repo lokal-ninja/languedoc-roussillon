@@ -1,5 +1,5 @@
 ---
 title: "Tabac Les Deux D"
 url: /sete/tabac-les-deux-d/
-shop: Tabak
+shop: tabac
 ---

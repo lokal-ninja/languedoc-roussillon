@@ -1,5 +1,5 @@
 ---
 title: "Roc-Eclerc"
 url: /sommieres/roc-eclerc/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

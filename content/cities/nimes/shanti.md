@@ -1,5 +1,5 @@
 ---
 title: "Shanti"
 url: /nimes/shanti/
-shop: Modehaus
+shop: boutique
 ---

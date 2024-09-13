@@ -1,5 +1,5 @@
 ---
 title: "Virginie Lopez"
 url: /magalas/virginie-lopez/
-shop: Friseur
+shop: coiffeur
 ---

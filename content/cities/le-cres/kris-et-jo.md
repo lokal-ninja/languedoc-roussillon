@@ -1,5 +1,5 @@
 ---
 title: "kris et jo"
 url: /le-cres/kris-et-jo/
-shop: Konditorei
+shop: pâtisserie
 ---

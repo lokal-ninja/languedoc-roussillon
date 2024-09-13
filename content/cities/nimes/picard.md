@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /nimes/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

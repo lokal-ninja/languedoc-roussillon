@@ -1,5 +1,5 @@
 ---
 title: "Dyna Style"
 url: /montpellier/dyna-style/
-shop: Kleidung
+shop: vêtements
 ---

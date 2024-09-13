@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /sommieres/netto/
-shop: Supermarkt
+shop: supermarché
 ---

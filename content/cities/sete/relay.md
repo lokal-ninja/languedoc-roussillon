@@ -1,5 +1,5 @@
 ---
 title: "Relay"
 url: /sete/relay/
-shop: Zeitungen
+shop: marchand de journaux
 ---

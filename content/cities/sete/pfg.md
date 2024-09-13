@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /sete/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---
