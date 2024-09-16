@@ -4,8 +4,8 @@ latitude: 43.55934
 longitude: 4.08415
 postcode: "34280"
 city: La Grande-Motte
-street: "Rue du Port"
-housenumber: 104
+street: Rue du Port
+housenumber: "104"
 phone: ""
-opening_hours: "08:00-23:00"
-website: "https://www.spar.fr"
+opening_hours: 08:00-23:00
+website: https://www.spar.fr

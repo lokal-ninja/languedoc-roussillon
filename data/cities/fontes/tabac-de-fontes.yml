@@ -1,11 +1,11 @@
 id: 233934752
-type: way
+type: node
 latitude: 43.54032
 longitude: 3.37956
 postcode: "34320"
 city: Fontès
-street: "Boulevard de la République"
-housenumber: 16
-phone: "+33 4 30 41 13 54"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Boulevard de la République
+housenumber: "16"
+phone: +33 4 30 41 13 54
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

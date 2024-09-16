@@ -4,8 +4,8 @@ latitude: 43.83953
 longitude: 4.35962
 postcode: "30000"
 city: Nîmes
-street: "Passage du Mûrier d'Espagne"
-housenumber: 3
-phone: "+33 6 32 66 30 49"
-opening_hours: "Tu 14:00-18:00"
-website: "facebook"
+street: Passage du Mûrier d'Espagne
+housenumber: "3"
+phone: +33 6 32 66 30 49
+opening_hours: Tu 14:00-18:00
+website: facebook

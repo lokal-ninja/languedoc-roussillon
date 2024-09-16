@@ -4,8 +4,8 @@ latitude: 43.83638
 longitude: 4.34788
 postcode: "30900"
 city: Nîmes
-street: "Rue Traversière"
-housenumber: 21
-phone: "+33 4 66 23 38 84"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00"
-website: "www.groussetcycles.com"
+street: Rue Traversière
+housenumber: "21"
+phone: +33 4 66 23 38 84
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00
+website: www.groussetcycles.com

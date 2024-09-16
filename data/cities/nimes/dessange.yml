@@ -4,8 +4,8 @@ latitude: 43.83613
 longitude: 4.35998
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 27
-phone: "+33 4 66 36 64 30"
-opening_hours: "Tu-Sa 09:00-18:00"
-website: "https://salon.dessange.com/salon-coiffure/nimes/"
+street: Rue de l'Aspic
+housenumber: "27"
+phone: +33 4 66 36 64 30
+opening_hours: Tu-Sa 09:00-18:00
+website: https://salon.dessange.com/salon-coiffure/nimes/

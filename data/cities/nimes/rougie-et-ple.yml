@@ -4,8 +4,8 @@ latitude: 43.83823
 longitude: 4.35909
 postcode: "30000"
 city: Nîmes
-street: "Rue de la Madeleine"
-housenumber: 6
-phone: "+33 4 66 67 77 83"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "www.rougié-ple.fr"
+street: Rue de la Madeleine
+housenumber: "6"
+phone: +33 4 66 67 77 83
+opening_hours: Mo-Sa 10:00-19:00
+website: www.rougié-ple.fr

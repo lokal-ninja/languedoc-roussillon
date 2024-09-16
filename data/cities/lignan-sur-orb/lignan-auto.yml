@@ -1,11 +1,11 @@
 id: 393909330
-type: way
+type: node
 latitude: 43.37782
 longitude: 3.17825
 postcode: "34490"
 city: Lignan-sur-Orb
-street: "Rue Jacqueline Maillan"
-housenumber: 5
-phone: "+33 4 67 31 40 65"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.ad.fr"
+street: Rue Jacqueline Maillan
+housenumber: "5"
+phone: +33 4 67 31 40 65
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.ad.fr

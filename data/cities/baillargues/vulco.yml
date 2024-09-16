@@ -1,11 +1,11 @@
 id: 125412020
-type: way
+type: node
 latitude: 43.65525
 longitude: 3.99883
 postcode: "34670"
 city: Baillargues
-street: "Rue Charles Gide"
-housenumber: 4
-phone: "+33 4 67 70 48 68"
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-19:00"
-website: "http://www.vulco.com"
+street: Rue Charles Gide
+housenumber: "4"
+phone: +33 4 67 70 48 68
+opening_hours: Mo-Fr 08:30-12:00, 14:00-19:00
+website: http://www.vulco.com

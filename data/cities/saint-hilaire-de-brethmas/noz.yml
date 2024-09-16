@@ -1,11 +1,11 @@
 id: 197966428
-type: way
+type: node
 latitude: 44.09405
 longitude: 4.10879
 postcode: "30380"
 city: Saint-Hilaire-de-Brethmas
-street: "Route de Nîmes"
-housenumber: 1600
+street: Route de Nîmes
+housenumber: "1600"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/saint-hilaire-de-brethmas/"
+website: https://nozarrivages.com/magasin/saint-hilaire-de-brethmas/

@@ -1,11 +1,11 @@
 id: 970672009
-type: way
+type: node
 latitude: 43.81318
 longitude: 4.36342
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 64 00 81"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.brice.fr"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 64 00 81
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.brice.fr

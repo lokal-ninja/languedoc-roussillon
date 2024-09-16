@@ -1,11 +1,11 @@
 id: 413352446
-type: way
+type: node
 latitude: 43.58211
 longitude: 3.92949
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 64 60 13"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 64 60 13
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.99125
 longitude: 3.60649
 postcode: "30120"
 city: Le Vigan
-street: "Place du Quai"
-housenumber: 21
-phone: "+33 4 67 81 00 19"
-opening_hours: "Tu-Sa 10:00-12:00,15:00-19:00"
+street: Place du Quai
+housenumber: "21"
+phone: +33 4 67 81 00 19
+opening_hours: Tu-Sa 10:00-12:00,15:00-19:00
 website: ""

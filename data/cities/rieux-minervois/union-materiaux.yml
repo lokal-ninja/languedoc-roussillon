@@ -1,11 +1,11 @@
 id: 221482498
-type: way
+type: node
 latitude: 43.28065
 longitude: 2.59528
 postcode: "11160"
 city: RIEUX MINERVOIS
-street: "Route de la redorte"
-housenumber: 
+street: Route de la redorte
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
+opening_hours: Mo-Fr 07:30-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.2124
 longitude: 2.3523
 postcode: "11000"
 city: Carcassonne
-street: "Rue de Verdun"
-housenumber: 37
+street: Rue de Verdun
+housenumber: "37"
 phone: ""
-opening_hours: "Tu-Sa 09:30-12:15,14:00-19:00; Mo 14:00-19:00"
+opening_hours: Tu-Sa 09:30-12:15,14:00-19:00; Mo 14:00-19:00
 website: ""

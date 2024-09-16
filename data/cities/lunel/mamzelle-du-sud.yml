@@ -1,11 +1,11 @@
 id: 907027534
-type: way
+type: node
 latitude: 43.68316
 longitude: 4.15362
 postcode: "34400"
 city: Lunel
-street: "Avenue les Portes de la Mer"
-housenumber: 
-phone: "+33 6 32 33 72 80"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://mamzelles-du-sud.business.site"
+street: Avenue les Portes de la Mer
+housenumber: ""
+phone: +33 6 32 33 72 80
+opening_hours: Mo-Sa 09:30-19:30
+website: https://mamzelles-du-sud.business.site

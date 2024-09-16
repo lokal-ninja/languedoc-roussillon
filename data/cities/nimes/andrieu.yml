@@ -4,8 +4,8 @@ latitude: 43.83778
 longitude: 4.35869
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 1
-phone: "+33 4 66 21 33 64"
-opening_hours: "Tu-Sa 10:00-18:45"
-website: "https://www.facebook.com/bijouterie.andrieu"
+street: Rue de l'Aspic
+housenumber: "1"
+phone: +33 4 66 21 33 64
+opening_hours: Tu-Sa 10:00-18:45
+website: https://www.facebook.com/bijouterie.andrieu

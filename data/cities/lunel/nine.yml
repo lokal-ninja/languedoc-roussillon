@@ -4,8 +4,8 @@ latitude: 43.67578
 longitude: 4.13383
 postcode: "34400"
 city: Lunel
-street: "Rue de la Libération"
-housenumber: 128
-phone: "+33 4 67 71 52 65"
-opening_hours: "Tu-Sa 09:00-12:00,15:00-18:30; Su 10:00-12:00"
+street: Rue de la Libération
+housenumber: "128"
+phone: +33 4 67 71 52 65
+opening_hours: Tu-Sa 09:00-12:00,15:00-18:30; Su 10:00-12:00
 website: ""

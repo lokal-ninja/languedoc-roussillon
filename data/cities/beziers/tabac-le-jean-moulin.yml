@@ -4,8 +4,8 @@ latitude: 43.34973
 longitude: 3.22611
 postcode: "34500"
 city: Béziers
-street: "Avenue Jean Moulin"
-housenumber: 115
-phone: "+33 4 67 30 60 42"
-opening_hours: "Mo-Fr 07:00-19:30; Sa 08:00-12:30; Su off"
+street: Avenue Jean Moulin
+housenumber: "115"
+phone: +33 4 67 30 60 42
+opening_hours: Mo-Fr 07:00-19:30; Sa 08:00-12:30; Su off
 website: ""

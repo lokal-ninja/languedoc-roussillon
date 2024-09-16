@@ -1,11 +1,11 @@
 id: 970678931
-type: way
+type: node
 latitude: 43.81273
 longitude: 4.36267
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 9 80 67 72 97"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://fr.calzedonia.com"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 9 80 67 72 97
+opening_hours: Mo-Sa 09:30-20:00
+website: http://fr.calzedonia.com

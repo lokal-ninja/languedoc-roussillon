@@ -1,11 +1,11 @@
 id: 25753409
-type: way
+type: node
 latitude: 43.58437
 longitude: 3.92721
 postcode: "34970"
 city: Lattes
-street: "Rond-Point Jean-François Champollion"
-housenumber: 
+street: Rond-Point Jean-François Champollion
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

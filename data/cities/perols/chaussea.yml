@@ -1,11 +1,11 @@
 id: 114965180
-type: way
+type: node
 latitude: 43.57619
 longitude: 3.93438
 postcode: "34470"
 city: Pérols
-street: "Allée de l'Expansion"
-housenumber: 
-phone: "+33 4 67 64 81 62"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.chaussea.com"
+street: Allée de l'Expansion
+housenumber: ""
+phone: +33 4 67 64 81 62
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.chaussea.com

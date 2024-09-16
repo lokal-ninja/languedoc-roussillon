@@ -4,8 +4,8 @@ latitude: 43.82787
 longitude: 4.35347
 postcode: "30900"
 city: Nîmes
-street: "Avenue Jean Jaurès"
-housenumber: 67
-phone: "+33 4 66 67 46 21"
-opening_hours: "Mo-Fr 08:00-19:00; Sat 09:00-17:00; Sun 09:0-12:30"
-website: "https://www.spar.fr/"
+street: Avenue Jean Jaurès
+housenumber: "67"
+phone: +33 4 66 67 46 21
+opening_hours: Mo-Fr 08:00-19:00; Sat 09:00-17:00; Sun 09:0-12:30
+website: https://www.spar.fr/

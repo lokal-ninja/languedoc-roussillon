@@ -1,11 +1,11 @@
 id: 114967539
-type: way
+type: node
 latitude: 43.57291
 longitude: 3.94647
 postcode: "34470"
 city: Pérols
-street: "Route de la Foire"
-housenumber: 
-phone: "+33 4 67 50 36 00"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-18:30"
-website: "https://www.porcelanosa.com"
+street: Route de la Foire
+housenumber: ""
+phone: +33 4 67 50 36 00
+opening_hours: Mo-Sa 09:30-12:30,14:00-18:30
+website: https://www.porcelanosa.com

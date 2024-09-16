@@ -1,11 +1,11 @@
 id: 62732048
-type: way
+type: node
 latitude: 43.68283
 longitude: 4.15324
 postcode: "34400"
 city: Lunel
-street: "Avenue les Portes de la Mer"
-housenumber: 
-phone: "+33 4 67 83 66 05"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.kiabi.com/magasin/kiabi-LUNEL_FMLUNEL"
+street: Avenue les Portes de la Mer
+housenumber: ""
+phone: +33 4 67 83 66 05
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.kiabi.com/magasin/kiabi-LUNEL_FMLUNEL

@@ -1,11 +1,11 @@
 id: 63342608
-type: way
+type: node
 latitude: 42.77362
 longitude: 2.9977
 postcode: "66250"
 city: Saint-Laurent-de-la-Salanque
-street: "Allées de la Méditerranée"
-housenumber: 19
+street: Allées de la Méditerranée
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

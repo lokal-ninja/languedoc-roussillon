@@ -1,11 +1,11 @@
 id: 1123864174
-type: way
+type: node
 latitude: 43.65442
 longitude: 4.13808
 postcode: "34400"
 city: Lunel
-street: "Route du Mas Desports"
-housenumber: 1983
+street: Route du Mas Desports
+housenumber: "1983"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.perles-de-pierres.com/"
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.perles-de-pierres.com/

@@ -4,8 +4,8 @@ latitude: 43.67806
 longitude: 4.11784
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 23
-phone: "+33 4 67 08 15 53"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 07:30-20:00; Su 07:30-13:30"
-website: "https://www.boulangerie-ange.fr"
+street: Rue des Fournels
+housenumber: "23"
+phone: +33 4 67 08 15 53
+opening_hours: Mo-Fr 06:30-20:00; Sa 07:30-20:00; Su 07:30-13:30
+website: https://www.boulangerie-ange.fr

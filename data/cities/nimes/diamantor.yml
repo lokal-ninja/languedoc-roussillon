@@ -4,8 +4,8 @@ latitude: 43.80866
 longitude: 4.36007
 postcode: "30900"
 city: Nîmes
-street: "Rue Jean Lauret"
-housenumber: 148
-phone: "+33 4 66 23 48 85"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:30"
-website: "https://www.diamantor.fr"
+street: Rue Jean Lauret
+housenumber: "148"
+phone: +33 4 66 23 48 85
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:30
+website: https://www.diamantor.fr

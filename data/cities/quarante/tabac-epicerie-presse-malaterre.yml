@@ -4,8 +4,8 @@ latitude: 43.34444
 longitude: 2.96462
 postcode: "34310"
 city: Quarante
-street: "Plan des Écoles"
-housenumber: 5
-phone: "+33 4 67 89 72 31"
-opening_hours: "Mo-Sa 07:00-12:30, 16:00-19:00; Su 08:00-12:30"
+street: Plan des Écoles
+housenumber: "5"
+phone: +33 4 67 89 72 31
+opening_hours: Mo-Sa 07:00-12:30, 16:00-19:00; Su 08:00-12:30
 website: ""

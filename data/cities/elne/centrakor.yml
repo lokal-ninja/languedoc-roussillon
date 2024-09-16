@@ -4,8 +4,8 @@ latitude: 42.60434
 longitude: 2.98038
 postcode: "66200"
 city: Elne
-street: "Rue Nicolas Appert"
-housenumber: 16
-phone: "+33 4 68 28 72 38"
-opening_hours: "Mo-Sa 09:00-19:15; Su 09:30-12:30,14:00-18:30"
-website: "https://www.centrakor.com/"
+street: Rue Nicolas Appert
+housenumber: "16"
+phone: +33 4 68 28 72 38
+opening_hours: Mo-Sa 09:00-19:15; Su 09:30-12:30,14:00-18:30
+website: https://www.centrakor.com/

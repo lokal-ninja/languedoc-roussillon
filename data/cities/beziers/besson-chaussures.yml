@@ -4,8 +4,8 @@ latitude: 43.3482
 longitude: 3.25727
 postcode: "34500"
 city: Béziers
-street: "Rue Zenobe Gramme"
-housenumber: 2
+street: Rue Zenobe Gramme
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-12:30, 14:30-18:30"
-website: "https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-beziers_beziers_34500/180.html"
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-12:30, 14:30-18:30
+website: https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-beziers_beziers_34500/180.html

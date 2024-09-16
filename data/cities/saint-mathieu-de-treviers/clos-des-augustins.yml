@@ -1,11 +1,11 @@
 id: 732465118
-type: way
+type: node
 latitude: 43.77437
 longitude: 3.87137
 postcode: "34270"
 city: Saint Mathieu de Treviers
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33622302044"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 10:00-12:30,14:00-18:00; Su 10:00-12:30"
-website: "https://www.closdesaugustins.com/"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 10:00-12:30,14:00-18:00; Su 10:00-12:30
+website: https://www.closdesaugustins.com/

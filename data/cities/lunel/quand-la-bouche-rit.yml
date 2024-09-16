@@ -4,8 +4,8 @@ latitude: 43.67241
 longitude: 4.14134
 postcode: "34400"
 city: Lunel
-street: "Boulevard Sainte-Claire"
-housenumber: 355
-phone: "+33 4 67 27 57 63"
-opening_hours: "Mo-Sa 07:30-13:00,16:00-19:30; Su 08:30-13:00"
-website: "https://www.quandlaboucherit.fr"
+street: Boulevard Sainte-Claire
+housenumber: "355"
+phone: +33 4 67 27 57 63
+opening_hours: Mo-Sa 07:30-13:00,16:00-19:30; Su 08:30-13:00
+website: https://www.quandlaboucherit.fr

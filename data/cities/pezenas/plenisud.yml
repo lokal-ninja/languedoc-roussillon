@@ -4,8 +4,9 @@ latitude: 43.44803
 longitude: 3.41411
 postcode: "34120"
 city: Pézenas
-street: "Rue Alfred Maurel"
-housenumber: 
-phone: "+33 4 67 307 037"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 09:00-12:30,14:00-18:30; Sa 10:00-12:00,14:00-18:00; PH off"
+street: Rue Alfred Maurel
+housenumber: ""
+phone: +33 4 67 307 037
+opening_hours: Mo 14:00-18:30; Tu-Fr 09:00-12:30,14:00-18:30; Sa 10:00-12:00,14:00-18:00;
+    PH off
 website: ""

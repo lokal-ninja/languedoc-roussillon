@@ -1,11 +1,11 @@
 id: 201190967
-type: way
+type: node
 latitude: 43.49815
 longitude: 3.17083
 postcode: "34480"
 city: Autignac
-street: "Rue de l'Égalité"
-housenumber: 6
-phone: "+33 4 67 90 27 02"
+street: Rue de l'Égalité
+housenumber: "6"
+phone: +33 4 67 90 27 02
 opening_hours: ""
 website: ""

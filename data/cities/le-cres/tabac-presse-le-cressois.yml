@@ -4,8 +4,8 @@ latitude: 43.6464
 longitude: 3.93865
 postcode: "34920"
 city: Le Crès
-street: "Square de la Poste"
-housenumber: 12
-phone: "+33 4 67 91 21 80"
-opening_hours: "Mo-Sa 07:00-19:00; Su 07:30-12:30; PH 07:30-12:30"
+street: Square de la Poste
+housenumber: "12"
+phone: +33 4 67 91 21 80
+opening_hours: Mo-Sa 07:00-19:00; Su 07:30-12:30; PH 07:30-12:30
 website: ""

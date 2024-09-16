@@ -1,11 +1,11 @@
 id: 274270717
-type: way
+type: node
 latitude: 43.45475
 longitude: 3.4091
 postcode: "34120"
 city: Pézenas
-street: "Route de Tourbes"
-housenumber: 
-phone: "+33 4 67 98 15 99"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:00; PH Mo-Sa 08:30-20:00; PH Su 09:00-12:00"
+street: Route de Tourbes
+housenumber: ""
+phone: +33 4 67 98 15 99
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:00; PH Mo-Sa 08:30-20:00; PH Su 09:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.73979
 longitude: 2.89104
 postcode: "66000"
 city: Perpignan
-street: "Avenue du Languedoc"
-housenumber: 2095
+street: Avenue du Languedoc
+housenumber: "2095"
 phone: "+33412400280"
-opening_hours: "Mo-Sa 09:30-19:00; Su Off"
-website: "https://www.maxizoo.fr/stores/maxi-zoo-perpignan-nord/"
+opening_hours: Mo-Sa 09:30-19:00; Su Off
+website: https://www.maxizoo.fr/stores/maxi-zoo-perpignan-nord/

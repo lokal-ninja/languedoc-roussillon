@@ -1,11 +1,11 @@
 id: 62731985
-type: way
+type: node
 latitude: 43.67923
 longitude: 4.14855
 postcode: "34400"
 city: Lunel
-street: "Rue Gustave Eiffel"
-housenumber: 139
-phone: "+33 9 73 88 24 50"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00; Jul-Aug Mo-Sa 09:00-12:00,14:00-19:00"
+street: Rue Gustave Eiffel
+housenumber: "139"
+phone: +33 9 73 88 24 50
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00; Jul-Aug Mo-Sa 09:00-12:00,14:00-19:00
 website: ""

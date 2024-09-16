@@ -1,11 +1,11 @@
 id: 76199441
-type: way
+type: node
 latitude: 43.62574
 longitude: 3.88182
 postcode: "34090"
 city: Montpellier
-street: "Avenue de la Justice de Castelnau"
-housenumber: 940
-phone: "+33 4 67 02 48 06"
-opening_hours: "Mo-Fr 07:00-13:00,15:00-20:00;Sa 07:00-20:00;Su 07:00-19:00"
-website: "https://www.scholler.fr/"
+street: Avenue de la Justice de Castelnau
+housenumber: "940"
+phone: +33 4 67 02 48 06
+opening_hours: Mo-Fr 07:00-13:00,15:00-20:00;Sa 07:00-20:00;Su 07:00-19:00
+website: https://www.scholler.fr/

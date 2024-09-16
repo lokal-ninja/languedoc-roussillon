@@ -4,8 +4,8 @@ latitude: 43.69739
 longitude: 4.03434
 postcode: "34160"
 city: Saint-Geniès-des-Mourgues
-street: "Avenue de Saint-Christol"
-housenumber: 101
-phone: "+33 4 67 92 65 07"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-18:00"
+street: Avenue de Saint-Christol
+housenumber: "101"
+phone: +33 4 67 92 65 07
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-18:00
 website: ""

@@ -5,7 +5,7 @@ longitude: 3.21019
 postcode: "34500"
 city: Béziers
 street: ""
-housenumber: 6
-phone: "+33 4 67 28 89 16"
-opening_hours: "Mo-Sa 07:00-12:30, 15:00-19:00; Su 08:00-12:30; PH 08:00-12:30"
+housenumber: "6"
+phone: +33 4 67 28 89 16
+opening_hours: Mo-Sa 07:00-12:30, 15:00-19:00; Su 08:00-12:30; PH 08:00-12:30
 website: ""

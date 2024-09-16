@@ -4,8 +4,8 @@ latitude: 42.48551
 longitude: 2.74909
 postcode: "66400"
 city: Céret
-street: "Avenue Michel Aribaud"
-housenumber: 1
-phone: "+33 4 68 87 68 38"
-opening_hours: "Tu-Sa 09:30-12:30, 15:30-18:30"
-website: "https://www.lechevaldanslarbre.fr/"
+street: Avenue Michel Aribaud
+housenumber: "1"
+phone: +33 4 68 87 68 38
+opening_hours: Tu-Sa 09:30-12:30, 15:30-18:30
+website: https://www.lechevaldanslarbre.fr/

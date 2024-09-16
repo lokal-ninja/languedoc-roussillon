@@ -1,11 +1,11 @@
 id: 625226842
-type: way
+type: node
 latitude: 43.64104
 longitude: 3.93452
 postcode: "34920"
 city: Le Crès
-street: "Rue des Pointes"
-housenumber: 2
-phone: "+33 9 86 11 12 71"
-opening_hours: "Tu-Sa 09:00-12:15,14:00-19:00"
-website: "https://krisetjo.com"
+street: Rue des Pointes
+housenumber: "2"
+phone: +33 9 86 11 12 71
+opening_hours: Tu-Sa 09:00-12:15,14:00-19:00
+website: https://krisetjo.com

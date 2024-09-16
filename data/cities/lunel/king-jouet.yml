@@ -4,8 +4,8 @@ latitude: 43.67789
 longitude: 4.12129
 postcode: "34400"
 city: Lunel
-street: "Chemin des Merles"
-housenumber: 130
-phone: "+33 4 67 42 87 86"
-opening_hours: "Mo-Sa 09:30-12:00,14:00-19:30"
-website: "https://www.king-jouet-lunel.fr/"
+street: Chemin des Merles
+housenumber: "130"
+phone: +33 4 67 42 87 86
+opening_hours: Mo-Sa 09:30-12:00,14:00-19:30
+website: https://www.king-jouet-lunel.fr/

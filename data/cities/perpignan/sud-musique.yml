@@ -1,11 +1,11 @@
 id: 81590452
-type: way
+type: node
 latitude: 42.68777
 longitude: 2.875
 postcode: "66000"
 city: Perpignan
-street: "Rue Mathieu de Dombasle"
-housenumber: 61
-phone: "+33 4 68 55 15 55"
+street: Rue Mathieu de Dombasle
+housenumber: "61"
+phone: +33 4 68 55 15 55
 opening_hours: ""
-website: "https://sudmusique.fr/"
+website: https://sudmusique.fr/

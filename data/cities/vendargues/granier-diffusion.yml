@@ -1,11 +1,11 @@
 id: 449509934
-type: way
+type: node
 latitude: 43.64852
 longitude: 3.95469
 postcode: "34740"
 city: Vendargues
-street: "Avenue de Saint-Aunès"
-housenumber: 530
-phone: "+33 4 67 70 39 32"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.granier-diffusion.com"
+street: Avenue de Saint-Aunès
+housenumber: "530"
+phone: +33 4 67 70 39 32
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.granier-diffusion.com

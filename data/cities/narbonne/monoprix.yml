@@ -4,8 +4,8 @@ latitude: 43.18368
 longitude: 3.00453
 postcode: "11100"
 city: Narbonne
-street: "Place de l'Hôtel de Ville"
-housenumber: 2
-phone: "+33 4 68 32 23 93"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:45"
-website: "https://www.monoprix.fr/828.html"
+street: Place de l'Hôtel de Ville
+housenumber: "2"
+phone: +33 4 68 32 23 93
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:45
+website: https://www.monoprix.fr/828.html

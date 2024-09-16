@@ -4,8 +4,8 @@ latitude: 43.65126
 longitude: 4.07284
 postcode: "34130"
 city: Lansargues
-street: "Place Saint-Jean"
-housenumber: 12
-phone: "+33 4 67 86 32 77"
-opening_hours: "Mo-Sa 08:00-12:30,17:00-19:30"
-website: "https://magasins.vival.fr/fr/s/vival-lansargues"
+street: Place Saint-Jean
+housenumber: "12"
+phone: +33 4 67 86 32 77
+opening_hours: Mo-Sa 08:00-12:30,17:00-19:30
+website: https://magasins.vival.fr/fr/s/vival-lansargues

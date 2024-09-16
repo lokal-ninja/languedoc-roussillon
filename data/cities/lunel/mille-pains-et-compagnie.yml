@@ -4,8 +4,8 @@ latitude: 43.67628
 longitude: 4.12693
 postcode: "34400"
 city: Lunel
-street: "Avenue du Maréchal de Lattre de Tassigny"
-housenumber: 399
-phone: "+33 4 99 64 56 86"
-opening_hours: "06:00-21:00"
+street: Avenue du Maréchal de Lattre de Tassigny
+housenumber: "399"
+phone: +33 4 99 64 56 86
+opening_hours: 06:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.18093
 longitude: 3.00977
 postcode: "11100"
 city: Narbonne
-street: "Quai Victor Hugo"
-housenumber: 17
+street: Quai Victor Hugo
+housenumber: "17"
 phone: "+33434273394"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:00"
-website: "https://www.gold.fr/comptoirs-achat-vente-or/narbonne/"
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:00
+website: https://www.gold.fr/comptoirs-achat-vente-or/narbonne/

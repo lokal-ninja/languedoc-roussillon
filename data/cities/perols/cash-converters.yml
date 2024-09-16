@@ -1,11 +1,11 @@
 id: 374099930
-type: way
+type: node
 latitude: 43.57353
 longitude: 3.94239
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 68 19 32"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.cashconverters.fr/cash-converters-perols"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 68 19 32
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.cashconverters.fr/cash-converters-perols

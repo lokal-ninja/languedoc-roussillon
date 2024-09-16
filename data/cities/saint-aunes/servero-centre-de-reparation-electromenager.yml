@@ -4,8 +4,8 @@ latitude: 43.64916
 longitude: 3.97425
 postcode: "34130"
 city: Saint-Aunès
-street: "Rue de la Garriguette"
-housenumber: 175
-phone: "+33 4 67 79 85 50"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00; Su off"
-website: "https://servero.fr/"
+street: Rue de la Garriguette
+housenumber: "175"
+phone: +33 4 67 79 85 50
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00; Su off
+website: https://servero.fr/

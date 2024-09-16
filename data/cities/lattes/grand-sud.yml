@@ -1,11 +1,11 @@
 id: 114959967
-type: way
+type: node
 latitude: 43.58233
 longitude: 3.93085
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 64 11 11"
-opening_hours: "Mo-Fr 08:30-22:00"
-website: "https://grand-sud.klepierre.fr"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 64 11 11
+opening_hours: Mo-Fr 08:30-22:00
+website: https://grand-sud.klepierre.fr

@@ -1,11 +1,11 @@
 id: 98014897
-type: way
+type: node
 latitude: 43.63165
 longitude: 3.43156
 postcode: "34800"
 city: Clermont l'Hérault
-street: "Avenue de la Piscine"
-housenumber: 
-phone: "+33 4 67 96 21 00"
-opening_hours: "Lun. au Sam. 08:00 à 20:00                 Dim. 09:00 à 13:00"
-website: "https://www.carrefour.fr/magasin/contact-clermont-l-herault"
+street: Avenue de la Piscine
+housenumber: ""
+phone: +33 4 67 96 21 00
+opening_hours: Lun. au Sam. 08:00 à 20:00                 Dim. 09:00 à 13:00
+website: https://www.carrefour.fr/magasin/contact-clermont-l-herault

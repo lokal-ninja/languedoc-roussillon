@@ -4,8 +4,8 @@ latitude: 43.58747
 longitude: 3.93003
 postcode: "34970"
 city: Lattes
-street: "Avenue de Figuières"
-housenumber: 467
-phone: "+33 4 99 64 62 61"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-19:00"
-website: "https://scholler.fr"
+street: Avenue de Figuières
+housenumber: "467"
+phone: +33 4 99 64 62 61
+opening_hours: Mo-Sa 07:00-20:00; Su 07:00-19:00
+website: https://scholler.fr

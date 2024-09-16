@@ -1,11 +1,11 @@
 id: 401786121
-type: way
+type: node
 latitude: 43.59126
 longitude: 3.52768
 postcode: "34230"
 city: Le Pouget
-street: "Rue de la Poste"
-housenumber: 7
-phone: "+33 467887746"
+street: Rue de la Poste
+housenumber: "7"
+phone: +33 467887746
 opening_hours: ""
 website: ""

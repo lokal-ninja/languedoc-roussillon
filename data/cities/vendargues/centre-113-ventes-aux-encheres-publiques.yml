@@ -1,11 +1,11 @@
 id: 75716292
-type: way
+type: node
 latitude: 43.64559
 longitude: 3.95084
 postcode: "34740"
 city: Vendargues
-street: "Rue des Portes Domitiennes"
-housenumber: 390
-phone: "+33 4 67 70 63 00"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-17:00"
-website: "https://www.encheres113.com/"
+street: Rue des Portes Domitiennes
+housenumber: "390"
+phone: +33 4 67 70 63 00
+opening_hours: Mo-Fr 10:00-12:00,14:00-17:00
+website: https://www.encheres113.com/

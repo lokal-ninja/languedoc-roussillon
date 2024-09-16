@@ -4,8 +4,8 @@ latitude: 43.41113
 longitude: 3.67905
 postcode: "34200"
 city: Sète
-street: "Boulevard de Verdun"
-housenumber: 1128
-phone: "+33 4 67 51 08 36"
-opening_hours: "Mo-Sa 06:30-12:30, 13:30-19:30; Su 08:00-12:30"
+street: Boulevard de Verdun
+housenumber: "1128"
+phone: +33 4 67 51 08 36
+opening_hours: Mo-Sa 06:30-12:30, 13:30-19:30; Su 08:00-12:30
 website: ""

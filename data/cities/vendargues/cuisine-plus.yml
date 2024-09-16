@@ -1,11 +1,11 @@
 id: 135539750
-type: way
+type: node
 latitude: 43.65279
 longitude: 3.97347
 postcode: "34740"
 city: Vendargues
-street: "Placette de la Calypso"
-housenumber: 4
-phone: "+33 4 67 17 04 04"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://magasins.cuisine-plus.fr/fr/magasins/france-fra/vendargues/cuisine-plus-montpellier-vendargues-CPFR0334"
+street: Placette de la Calypso
+housenumber: "4"
+phone: +33 4 67 17 04 04
+opening_hours: Mo-Sa 09:30-19:00
+website: https://magasins.cuisine-plus.fr/fr/magasins/france-fra/vendargues/cuisine-plus-montpellier-vendargues-CPFR0334

@@ -1,11 +1,11 @@
 id: 907027523
-type: way
+type: node
 latitude: 43.68448
 longitude: 4.15381
 postcode: "34400"
 city: Lunel
-street: "Avenue les Portes de la Mer"
-housenumber: 
-phone: "+33 4 34 43 98 57"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://boutique.sfr.fr/occitanie/herault/lunel/c-cial-les-portes-de-la-mer"
+street: Avenue les Portes de la Mer
+housenumber: ""
+phone: +33 4 34 43 98 57
+opening_hours: Mo-Sa 09:00-19:30
+website: https://boutique.sfr.fr/occitanie/herault/lunel/c-cial-les-portes-de-la-mer

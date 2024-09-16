@@ -4,8 +4,8 @@ latitude: 43.83814
 longitude: 4.36335
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Amiral Courbet"
-housenumber: 18
-phone: "+33 4 66 21 31 46"
-opening_hours: "Mo-Sa 09:00-13:00, 14:00-19:00"
-website: "https://www.ecoutervoir.fr/"
+street: Boulevard Amiral Courbet
+housenumber: "18"
+phone: +33 4 66 21 31 46
+opening_hours: Mo-Sa 09:00-13:00, 14:00-19:00
+website: https://www.ecoutervoir.fr/

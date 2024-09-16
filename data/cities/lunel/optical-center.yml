@@ -4,8 +4,8 @@ latitude: 43.68026
 longitude: 4.14595
 postcode: "34400"
 city: Lunel
-street: "Avenue du Vidourle"
-housenumber: 29
-phone: "+33 4 11 93 99 99"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.optical-center.fr"
+street: Avenue du Vidourle
+housenumber: "29"
+phone: +33 4 11 93 99 99
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.optical-center.fr

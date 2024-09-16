@@ -4,8 +4,8 @@ latitude: 43.67494
 longitude: 4.13463
 postcode: "34400"
 city: Lunel
-street: "Rue Capitaine Menard"
-housenumber: 1
-phone: "+33 4 67 71 18 01"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 08:30-13:00"
+street: Rue Capitaine Menard
+housenumber: "1"
+phone: +33 4 67 71 18 01
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 08:30-13:00
 website: ""

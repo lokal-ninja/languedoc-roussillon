@@ -1,11 +1,11 @@
 id: 66501939
-type: way
+type: node
 latitude: 44.52719
 longitude: 3.47653
 postcode: "48000"
 city: Mende
-street: "Rue Copernic"
-housenumber: 3
+street: Rue Copernic
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

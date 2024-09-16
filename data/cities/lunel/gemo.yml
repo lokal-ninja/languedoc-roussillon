@@ -1,11 +1,11 @@
 id: 536841836
-type: way
+type: node
 latitude: 43.68232
 longitude: 4.1525
 postcode: "34400"
 city: Lunel
-street: "Avenue les Portes de la Mer"
-housenumber: 
-phone: "+33 4 67 83 51 97"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.gemo.fr/magasin/gemo-lunel-chaussures/GEMO_1624"
+street: Avenue les Portes de la Mer
+housenumber: ""
+phone: +33 4 67 83 51 97
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.gemo.fr/magasin/gemo-lunel-chaussures/GEMO_1624

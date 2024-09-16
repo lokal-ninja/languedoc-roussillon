@@ -1,11 +1,11 @@
 id: 374099947
-type: way
+type: node
 latitude: 43.57241
 longitude: 3.9423
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 9 83 01 89 07"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://laboiteabijoux.company.site"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 9 83 01 89 07
+opening_hours: Mo-Sa 10:00-19:00
+website: https://laboiteabijoux.company.site

@@ -1,11 +1,11 @@
 id: 62742306
-type: way
+type: node
 latitude: 43.67744
 longitude: 4.12148
 postcode: "34400"
 city: Lunel
-street: "Rue de l'Industrie"
-housenumber: 30
-phone: "+33 4 99 51 64 14"
-opening_hours: "Mo-Fr 07:30-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "http://couleursdargence.fr"
+street: Rue de l'Industrie
+housenumber: "30"
+phone: +33 4 99 51 64 14
+opening_hours: Mo-Fr 07:30-12:00,14:00-18:00; Sa 08:00-12:00
+website: http://couleursdargence.fr

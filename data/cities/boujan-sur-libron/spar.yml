@@ -4,8 +4,8 @@ latitude: 43.37133
 longitude: 3.24875
 postcode: "34760"
 city: Boujan-sur-Libron
-street: "Avenue Charles de Gaulle"
-housenumber: 
-phone: "+33 4 99 47 98 02"
-opening_hours: "Mo-Sa 08:00-13:00,15:00-19:30; Su 08:30-12:30"
-website: "https://www.spar.fr"
+street: Avenue Charles de Gaulle
+housenumber: ""
+phone: +33 4 99 47 98 02
+opening_hours: Mo-Sa 08:00-13:00,15:00-19:30; Su 08:30-12:30
+website: https://www.spar.fr

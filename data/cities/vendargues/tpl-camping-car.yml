@@ -4,8 +4,8 @@ latitude: 43.64533
 longitude: 3.95137
 postcode: "34740"
 city: Vendargues
-street: "Rue des Portes Domitiennes"
-housenumber: 690
-phone: "+33 4 67 20 02 00"
-opening_hours: "Mo 14:00-18:30; Tu-Sa 09:00-12:00,14:00-18:30"
-website: "https://www.tpl.fr"
+street: Rue des Portes Domitiennes
+housenumber: "690"
+phone: +33 4 67 20 02 00
+opening_hours: Mo 14:00-18:30; Tu-Sa 09:00-12:00,14:00-18:30
+website: https://www.tpl.fr

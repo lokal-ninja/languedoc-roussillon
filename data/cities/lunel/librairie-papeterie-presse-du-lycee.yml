@@ -4,8 +4,8 @@ latitude: 43.66952
 longitude: 4.12266
 postcode: "34400"
 city: Lunel
-street: "Avenue Gaston Baissette"
-housenumber: 15
-phone: "+33 4 67 71 10 81"
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "http://www.mlfourniturescolaire.mlprestations.fr"
+street: Avenue Gaston Baissette
+housenumber: "15"
+phone: +33 4 67 71 10 81
+opening_hours: Mo-Fr 09:00-18:30
+website: http://www.mlfourniturescolaire.mlprestations.fr

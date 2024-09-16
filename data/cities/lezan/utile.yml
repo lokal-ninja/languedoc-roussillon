@@ -1,11 +1,11 @@
 id: 299236701
-type: way
+type: node
 latitude: 44.01629
 longitude: 4.05056
 postcode: "30350"
 city: lézan
-street: "Avenue de la Gare"
-housenumber: 9
-phone: "+33 4 66 55 38 13"
-opening_hours: "Mo-Sa 08:30-13:00,16:00-19:30; Su 09:00-13:00"
+street: Avenue de la Gare
+housenumber: "9"
+phone: +33 4 66 55 38 13
+opening_hours: Mo-Sa 08:30-13:00,16:00-19:30; Su 09:00-13:00
 website: ""

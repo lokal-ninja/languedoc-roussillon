@@ -1,11 +1,11 @@
 id: 83594722
-type: way
+type: node
 latitude: 43.93004
 longitude: 3.71331
 postcode: "34190"
 city: Laroque
-street: "Avenue de l'Europe"
-housenumber: 945
-phone: "+33 4 99 53 11 02"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://bioensemble.biocoop.net/"
+street: Avenue de l'Europe
+housenumber: "945"
+phone: +33 4 99 53 11 02
+opening_hours: Mo-Fr 09:00-19:00
+website: https://bioensemble.biocoop.net/

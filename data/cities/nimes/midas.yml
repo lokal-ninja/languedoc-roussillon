@@ -4,8 +4,8 @@ latitude: 43.81467
 longitude: 4.3345
 postcode: "30900"
 city: Nîmes
-street: "Avenue du Maréchal Juin"
-housenumber: 2040
-phone: "+33 4 66 64 96 25"
+street: Avenue du Maréchal Juin
+housenumber: "2040"
+phone: +33 4 66 64 96 25
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

@@ -1,11 +1,11 @@
 id: 103672971
-type: way
+type: node
 latitude: 43.63885
 longitude: 3.92831
 postcode: "34170"
 city: Castelnau-le-Lez
-street: "Rue Alphonse Beau de Rochas"
-housenumber: 145
-phone: "+33 4 67 02 90 60"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.tressol-chabrier.com/montimaran-montpellier-hyundai-suzuki-ssangyong"
+street: Rue Alphonse Beau de Rochas
+housenumber: "145"
+phone: +33 4 67 02 90 60
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.tressol-chabrier.com/montimaran-montpellier-hyundai-suzuki-ssangyong

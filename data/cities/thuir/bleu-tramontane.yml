@@ -1,11 +1,11 @@
 id: 64070510
-type: way
+type: node
 latitude: 42.63405
 longitude: 2.75482
 postcode: "66300"
 city: Thuir
-street: "Rue Pasteur"
-housenumber: 2
+street: Rue Pasteur
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

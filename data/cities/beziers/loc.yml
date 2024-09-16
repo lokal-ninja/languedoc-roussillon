@@ -1,11 +1,11 @@
 id: 133154024
-type: way
+type: node
 latitude: 43.33073
 longitude: 3.24934
 postcode: "34500"
 city: Béziers
-street: "Rue Évariste Galois"
-housenumber: 3
-phone: "+33 4 67 76 13 25"
-opening_hours: "Mo-Fr 07:00-12:00,13:30-18:00"
-website: "https://www.locplus-loc.fr"
+street: Rue Évariste Galois
+housenumber: "3"
+phone: +33 4 67 76 13 25
+opening_hours: Mo-Fr 07:00-12:00,13:30-18:00
+website: https://www.locplus-loc.fr

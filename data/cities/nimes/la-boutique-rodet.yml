@@ -4,8 +4,8 @@ latitude: 43.83554
 longitude: 4.35121
 postcode: "30000"
 city: Nîmes
-street: "Avenue Jean Jaurès"
-housenumber: 19
-phone: "+33 4 66 21 43 14"
-opening_hours: "Mo-Sa 9:00-18:00"
-website: "https://vetementsrodet.fr/"
+street: Avenue Jean Jaurès
+housenumber: "19"
+phone: +33 4 66 21 43 14
+opening_hours: Mo-Sa 9:00-18:00
+website: https://vetementsrodet.fr/

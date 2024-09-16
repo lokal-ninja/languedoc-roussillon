@@ -1,11 +1,11 @@
 id: 907027543
-type: way
+type: node
 latitude: 43.68371
 longitude: 4.15365
 postcode: "34400"
 city: Lunel
-street: "Avenue les Portes de la Mer"
-housenumber: 
-phone: "+33 4 67 83 66 22"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.lecollectifdeslunetiers.fr"
+street: Avenue les Portes de la Mer
+housenumber: ""
+phone: +33 4 67 83 66 22
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.lecollectifdeslunetiers.fr

@@ -1,11 +1,11 @@
 id: 992910708
-type: way
+type: node
 latitude: 43.58992
 longitude: 3.52808
 postcode: "34230"
 city: Le Pouget
-street: "Av. des Condamines"
-housenumber: 
+street: Av. des Condamines
+housenumber: ""
 phone: "+33467967747"
-opening_hours: "Mo-Fr 08:30-12:00 14:00-18:00"
-website: "ad.fr"
+opening_hours: Mo-Fr 08:30-12:00 14:00-18:00
+website: ad.fr

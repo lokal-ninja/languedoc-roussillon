@@ -4,8 +4,8 @@ latitude: 43.18049
 longitude: 3.00473
 postcode: "11100"
 city: Narbonne
-street: "Boulevard Docteur Ferroul"
-housenumber: 25
+street: Boulevard Docteur Ferroul
+housenumber: "25"
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-21:00"
-website: "https://laverie-du-narbonnais-06.webself.net/accueil"
+opening_hours: PH,Mo-Su 07:00-21:00
+website: https://laverie-du-narbonnais-06.webself.net/accueil

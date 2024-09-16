@@ -1,11 +1,11 @@
 id: 970986221
-type: way
+type: node
 latitude: 43.81273
 longitude: 4.36228
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 28 73 15"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://stores.go-sport.com/fr-fr/magasin-sport/nmes/go-sport-nimes-costieres/1195"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 28 73 15
+opening_hours: Mo-Sa 09:30-20:00
+website: https://stores.go-sport.com/fr-fr/magasin-sport/nmes/go-sport-nimes-costieres/1195

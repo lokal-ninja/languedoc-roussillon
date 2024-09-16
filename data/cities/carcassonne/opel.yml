@@ -4,8 +4,8 @@ latitude: 43.20514
 longitude: 2.30288
 postcode: "11000"
 city: Carcassonne
-street: "Rue Gustave Eiffel"
-housenumber: 3
+street: Rue Gustave Eiffel
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00"
+opening_hours: Mo-Sa 08:30-19:00
 website: ""

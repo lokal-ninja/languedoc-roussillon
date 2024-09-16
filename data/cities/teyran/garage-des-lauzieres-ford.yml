@@ -1,11 +1,11 @@
 id: 193468522
-type: way
+type: node
 latitude: 43.69452
 longitude: 3.92762
 postcode: "34820"
 city: Teyran
-street: "Avenue de l'Industrie"
-housenumber: 130
-phone: "+33 467870530"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30"
-website: "https://www.garagedeslauzieres-fordteyran.com"
+street: Avenue de l'Industrie
+housenumber: "130"
+phone: +33 467870530
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30
+website: https://www.garagedeslauzieres-fordteyran.com

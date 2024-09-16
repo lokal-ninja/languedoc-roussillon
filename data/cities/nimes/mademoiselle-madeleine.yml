@@ -4,8 +4,8 @@ latitude: 43.83696
 longitude: 4.35678
 postcode: "30000"
 city: Nîmes
-street: "Rue de la Madeleine"
-housenumber: 37
+street: Rue de la Madeleine
+housenumber: "37"
 phone: "+33466679192"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.facebook.com/mademoisellemadeleinenimes/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.facebook.com/mademoisellemadeleinenimes/

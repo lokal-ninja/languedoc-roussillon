@@ -1,11 +1,11 @@
 id: 65540454
-type: way
+type: node
 latitude: 43.07465
 longitude: 2.21944
 postcode: "11300"
 city: Limoux
-street: "Allée de la Piège"
-housenumber: 1
+street: Allée de la Piège
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

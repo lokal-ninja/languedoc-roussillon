@@ -4,8 +4,8 @@ latitude: 43.61235
 longitude: 3.87659
 postcode: "34000"
 city: Montpellier
-street: "Rue de l'Université"
-housenumber: 15
-phone: "+33 7 56 87 30 71"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Rue de l'Université
+housenumber: "15"
+phone: +33 7 56 87 30 71
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

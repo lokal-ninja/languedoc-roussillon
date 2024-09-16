@@ -4,8 +4,9 @@ latitude: 43.45814
 longitude: 3.23331
 postcode: "34480"
 city: Puissalicon
-street: "Avenue de Béziers"
-housenumber: 97
-phone: "+33 6 23 56 87 29"
-opening_hours: "Mo 10:00-12:00,14:00-17:00; We,Fr 09:00-12:00,14:00-19:00; Th 09:00-12:00,14:00-18:00; Sa 09:00-13:00"
+street: Avenue de Béziers
+housenumber: "97"
+phone: +33 6 23 56 87 29
+opening_hours: Mo 10:00-12:00,14:00-17:00; We,Fr 09:00-12:00,14:00-19:00; Th 09:00-12:00,14:00-18:00;
+    Sa 09:00-13:00
 website: ""

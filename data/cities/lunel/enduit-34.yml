@@ -1,11 +1,11 @@
 id: 745355996
-type: way
+type: node
 latitude: 43.67966
 longitude: 4.11566
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 211
-phone: "+33 4 67 50 99 34"
-opening_hours: "Mo-Fr 07:00-12:15,13:45-17:30; Sa 07:00-12:00"
+street: Rue des Fournels
+housenumber: "211"
+phone: +33 4 67 50 99 34
+opening_hours: Mo-Fr 07:00-12:15,13:45-17:30; Sa 07:00-12:00
 website: ""

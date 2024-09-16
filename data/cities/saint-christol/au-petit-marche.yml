@@ -4,8 +4,8 @@ latitude: 43.72758
 longitude: 4.07958
 postcode: "34400"
 city: Saint-Christol
-street: "Avenue de la Bouvine"
-housenumber: 1
-phone: "+33 4 67 86 06 06"
-opening_hours: "Mo-Sa 08:30-12:30,16:00-19:30; Su 09:00-12:30"
+street: Avenue de la Bouvine
+housenumber: "1"
+phone: +33 4 67 86 06 06
+opening_hours: Mo-Sa 08:30-12:30,16:00-19:30; Su 09:00-12:30
 website: ""

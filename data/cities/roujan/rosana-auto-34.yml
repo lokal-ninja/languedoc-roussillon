@@ -1,11 +1,11 @@
 id: 948174622
-type: way
+type: node
 latitude: 43.50112
 longitude: 3.32122
 postcode: "34320"
 city: Roujan
-street: "Rue du Pont Second"
-housenumber: 20
-phone: "+33 6 98 85 35 55"
+street: Rue du Pont Second
+housenumber: "20"
+phone: +33 6 98 85 35 55
 opening_hours: ""
 website: ""

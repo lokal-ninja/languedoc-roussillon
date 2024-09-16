@@ -4,8 +4,8 @@ latitude: 43.28095
 longitude: 3.27477
 postcode: "34410"
 city: Sérignan
-street: "Avenue Roger Audoux"
-housenumber: 114
-phone: "+33 4 67 32 23 26"
-opening_hours: "Mo-Sa 09:00-12:00,15:00-18:00; May-Sep off"
-website: "https://www.vignerons-serignan.com/"
+street: Avenue Roger Audoux
+housenumber: "114"
+phone: +33 4 67 32 23 26
+opening_hours: Mo-Sa 09:00-12:00,15:00-18:00; May-Sep off
+website: https://www.vignerons-serignan.com/

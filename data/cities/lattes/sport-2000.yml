@@ -1,11 +1,11 @@
 id: 837812370
-type: way
+type: node
 latitude: 43.58365
 longitude: 3.93449
 postcode: "34970"
 city: Lattes
-street: "Rue René Clair"
-housenumber: 
-phone: "+33 4 67 99 43 20"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.sport2000.fr/magasins/fiche/341211-sport-2000-montpellier-lattes"
+street: Rue René Clair
+housenumber: ""
+phone: +33 4 67 99 43 20
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.sport2000.fr/magasins/fiche/341211-sport-2000-montpellier-lattes

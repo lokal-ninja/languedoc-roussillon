@@ -4,8 +4,8 @@ latitude: 43.84115
 longitude: 4.35604
 postcode: "30000"
 city: Nîmes
-street: "Rue Clérisseau"
-housenumber: 36
-phone: "+33 6 73 79 49 73"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Rue Clérisseau
+housenumber: "36"
+phone: +33 6 73 79 49 73
+opening_hours: Mo-Su 07:00-21:00
 website: ""

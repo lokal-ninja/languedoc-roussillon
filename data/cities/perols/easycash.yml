@@ -4,8 +4,8 @@ latitude: 43.57564
 longitude: 3.93528
 postcode: "34470"
 city: Pérols
-street: "Avenue du Languedoc"
-housenumber: 62
-phone: "+33 4 99 64 65 66"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:30,14:00-19:00"
-website: "https://www.easycash.fr"
+street: Avenue du Languedoc
+housenumber: "62"
+phone: +33 4 99 64 65 66
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:30,14:00-19:00
+website: https://www.easycash.fr

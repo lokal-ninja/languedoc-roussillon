@@ -4,8 +4,8 @@ latitude: 43.34686
 longitude: 3.20968
 postcode: "34500"
 city: Béziers
-street: "Rue des Ramiers"
-housenumber: 1
-phone: "+33 9 60 09 28 89"
-opening_hours: "Mo-Fr 07:00-12:30, 15:30-19:30; Sa 07:00-12:30; Su 08:00-12:30"
-website: "https://tabac-four-a-chaux.business.site/"
+street: Rue des Ramiers
+housenumber: "1"
+phone: +33 9 60 09 28 89
+opening_hours: Mo-Fr 07:00-12:30, 15:30-19:30; Sa 07:00-12:30; Su 08:00-12:30
+website: https://tabac-four-a-chaux.business.site/

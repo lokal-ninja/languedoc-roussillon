@@ -1,11 +1,11 @@
 id: 413352442
-type: way
+type: node
 latitude: 43.5822
 longitude: 3.92922
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 22 03 50"
-opening_hours: "Mo-Sa 09:30-20:30"
-website: "https://www.bijouterie-briant.fr/"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 22 03 50
+opening_hours: Mo-Sa 09:30-20:30
+website: https://www.bijouterie-briant.fr/

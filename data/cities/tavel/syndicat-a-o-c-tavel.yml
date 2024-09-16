@@ -1,11 +1,11 @@
 id: 129949682
-type: way
+type: node
 latitude: 44.01325
 longitude: 4.69416
 postcode: "30126"
 city: Tavel
-street: "Chemin de la Croix d'Alix"
-housenumber: 56
-phone: "+33 4 66 50 32 34"
+street: Chemin de la Croix d'Alix
+housenumber: "56"
+phone: +33 4 66 50 32 34
 opening_hours: ""
-website: "http://www.vin-tavel.com/"
+website: http://www.vin-tavel.com/

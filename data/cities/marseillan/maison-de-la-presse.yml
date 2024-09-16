@@ -4,8 +4,8 @@ latitude: 43.35604
 longitude: 3.52788
 postcode: "34340"
 city: Marseillan
-street: "Rue Général de Gaulle"
-housenumber: 7
-phone: "+33 4 67 77 21 50"
-opening_hours: "Mo-Sa 06:30-12:30, 15:00-19:30; Su 06:30-12:30"
-website: "https://www.maisondelapresse.com/magasin/MaisondelaPresse-34340-marseillan.html"
+street: Rue Général de Gaulle
+housenumber: "7"
+phone: +33 4 67 77 21 50
+opening_hours: Mo-Sa 06:30-12:30, 15:00-19:30; Su 06:30-12:30
+website: https://www.maisondelapresse.com/magasin/MaisondelaPresse-34340-marseillan.html

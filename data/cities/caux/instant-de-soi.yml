@@ -4,8 +4,8 @@ latitude: 43.50781
 longitude: 3.36775
 postcode: "34720"
 city: Caux
-street: "Place du Jeu de Ballon"
-housenumber: 2
-phone: "+33 4 67 77 08 46"
-opening_hours: "Mo-Tu 09:00-18:00; Th-Fr 09:00-18:00; Sa 09:00-12:00"
+street: Place du Jeu de Ballon
+housenumber: "2"
+phone: +33 4 67 77 08 46
+opening_hours: Mo-Tu 09:00-18:00; Th-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

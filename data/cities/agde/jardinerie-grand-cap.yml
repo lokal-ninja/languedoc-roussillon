@@ -1,11 +1,11 @@
 id: 72446479
-type: way
+type: node
 latitude: 43.29841
 longitude: 3.47809
 postcode: "34300"
 city: Agde
-street: "Rue Grand Cap"
-housenumber: 
-phone: "+33 4 67 94 74 60"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00; Su 09:00-12:30,14:00-18:00"
-website: "https://jardinerie-grandcap.com"
+street: Rue Grand Cap
+housenumber: ""
+phone: +33 4 67 94 74 60
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00; Su 09:00-12:30,14:00-18:00
+website: https://jardinerie-grandcap.com

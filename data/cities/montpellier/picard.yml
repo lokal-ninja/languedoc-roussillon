@@ -4,8 +4,8 @@ latitude: 43.5993
 longitude: 3.90204
 postcode: "34000"
 city: Montpellier
-street: "Avenue Raymond Dugrand"
-housenumber: 760
-phone: "04 67 85 42 08"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/633-picard-montpellier-port-marianne"
+street: Avenue Raymond Dugrand
+housenumber: "760"
+phone: 04 67 85 42 08
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/633-picard-montpellier-port-marianne

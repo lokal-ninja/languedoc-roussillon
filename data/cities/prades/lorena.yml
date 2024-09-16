@@ -1,11 +1,11 @@
 id: 147200831
-type: way
+type: node
 latitude: 42.61677
 longitude: 2.42295
 postcode: "66500"
 city: Prades
-street: "Rue Jean Jaurès"
-housenumber: 24
+street: Rue Jean Jaurès
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

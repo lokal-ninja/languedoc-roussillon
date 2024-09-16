@@ -1,11 +1,11 @@
 id: 640134579
-type: way
+type: node
 latitude: 42.60409
 longitude: 2.97961
 postcode: "66200"
 city: Elne
-street: "Boulevard Jacques Albert"
-housenumber: 
+street: Boulevard Jacques Albert
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.marieblachere.com/"
+website: https://www.marieblachere.com/

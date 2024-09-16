@@ -1,11 +1,11 @@
 id: 133166964
-type: way
+type: node
 latitude: 43.34708
 longitude: 3.25673
 postcode: "34500"
 city: Béziers
-street: "Rue Zénobe Gramme"
-housenumber: 3
+street: Rue Zénobe Gramme
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/beziers/"
+website: https://nozarrivages.com/magasin/beziers/

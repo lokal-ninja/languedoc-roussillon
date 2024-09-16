@@ -1,11 +1,11 @@
 id: 920979459
-type: way
+type: node
 latitude: 43.57024
 longitude: 3.84099
 postcode: "34430"
 city: Saint-Jean-de-Védas
-street: "Avenue de la Condamine"
-housenumber: 211
-phone: "+33 4 99 52 80 90"
-opening_hours: "Mo-Fr 07:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-19:00"
-website: "https://www.supcaro-montpellier.fr"
+street: Avenue de la Condamine
+housenumber: "211"
+phone: +33 4 99 52 80 90
+opening_hours: Mo-Fr 07:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-19:00
+website: https://www.supcaro-montpellier.fr

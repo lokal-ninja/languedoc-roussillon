@@ -1,11 +1,11 @@
 id: 64066296
-type: way
+type: node
 latitude: 42.63438
 longitude: 2.75457
 postcode: "66300"
 city: Thuir
-street: "Boulevard Violet"
-housenumber: 17
+street: Boulevard Violet
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

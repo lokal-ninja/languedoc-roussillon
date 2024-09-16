@@ -1,11 +1,11 @@
 id: 374099943
-type: way
+type: node
 latitude: 43.57176
 longitude: 3.94105
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 99 53 72 18"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://therapcbd.com/"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 99 53 72 18
+opening_hours: Mo-Sa 10:00-20:00
+website: https://therapcbd.com/

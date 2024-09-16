@@ -4,8 +4,8 @@ latitude: 43.60396
 longitude: 3.87326
 postcode: "34000"
 city: Montpellier
-street: "Avenue Georges Clemenceau"
-housenumber: 19
+street: Avenue Georges Clemenceau
+housenumber: "19"
 phone: ""
-opening_hours: "Mo 14:00-20:30; Tu-Sa 08:00-20:30"
-website: "https://lacagette-coop.fr/"
+opening_hours: Mo 14:00-20:30; Tu-Sa 08:00-20:30
+website: https://lacagette-coop.fr/

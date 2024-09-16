@@ -4,8 +4,8 @@ latitude: 43.83854
 longitude: 4.35843
 postcode: "30000"
 city: Nîmes
-street: "Rue Guizot"
-housenumber: 4
-phone: "+33 4 66 67 26 27"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/nimes/nimes-centre-ville/S-FRYROC24"
+street: Rue Guizot
+housenumber: "4"
+phone: +33 4 66 67 26 27
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/nimes/nimes-centre-ville/S-FRYROC24

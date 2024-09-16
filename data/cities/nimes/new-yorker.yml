@@ -4,8 +4,8 @@ latitude: 43.83987
 longitude: 4.35845
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Gambetta"
-housenumber: 22
-phone: "+33 4 66 28 87 00"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-19:30"
-website: "https://www.newyorker.de"
+street: Boulevard Gambetta
+housenumber: "22"
+phone: +33 4 66 28 87 00
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-19:30
+website: https://www.newyorker.de

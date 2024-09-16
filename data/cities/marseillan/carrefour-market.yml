@@ -1,11 +1,11 @@
 id: 640825587
-type: way
+type: node
 latitude: 43.35671
 longitude: 3.51938
 postcode: "34340"
 city: Marseillan
-street: "Route de Bessan"
-housenumber: 
-phone: "+33 4 67 77 29 10"
-opening_hours: "Mo-Sa 08:30-20:30; Su 08:30-13:00"
-website: "https://www.carrefour.fr/magasin/market-marseillan"
+street: Route de Bessan
+housenumber: ""
+phone: +33 4 67 77 29 10
+opening_hours: Mo-Sa 08:30-20:30; Su 08:30-13:00
+website: https://www.carrefour.fr/magasin/market-marseillan

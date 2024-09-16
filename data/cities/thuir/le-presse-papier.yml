@@ -1,11 +1,11 @@
 id: 64072903
-type: way
+type: node
 latitude: 42.63284
 longitude: 2.75593
 postcode: "66300"
 city: Thuir
-street: "Rue François Arago"
-housenumber: 13
+street: Rue François Arago
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

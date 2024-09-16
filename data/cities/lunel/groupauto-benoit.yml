@@ -4,8 +4,8 @@ latitude: 43.67789
 longitude: 4.11865
 postcode: "34400"
 city: Lunel
-street: "Rue de l'Industrie"
-housenumber: 246
-phone: "+33 4 67 71 40 36"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "http://distributeur.groupauto.fr/603720-benoit-groupe-vidalauto"
+street: Rue de l'Industrie
+housenumber: "246"
+phone: +33 4 67 71 40 36
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: http://distributeur.groupauto.fr/603720-benoit-groupe-vidalauto

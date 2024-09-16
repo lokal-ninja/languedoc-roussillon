@@ -4,8 +4,8 @@ latitude: 42.65142
 longitude: 2.83663
 postcode: "66680"
 city: Canohès
-street: "Rue du 11 Novembre"
-housenumber: 22
-phone: "+33 4 68 54 24 02"
-opening_hours: "Tu 09:00-12:00,14:00-20:00; We-Fr 09:00-12:00,14:00-18:00; Sa 09:00-16:00"
+street: Rue du 11 Novembre
+housenumber: "22"
+phone: +33 4 68 54 24 02
+opening_hours: Tu 09:00-12:00,14:00-20:00; We-Fr 09:00-12:00,14:00-18:00; Sa 09:00-16:00
 website: ""

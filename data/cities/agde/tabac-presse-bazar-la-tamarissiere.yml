@@ -4,8 +4,9 @@ latitude: 43.28599
 longitude: 3.44278
 postcode: "34300"
 city: Agde
-street: "Rue Commandant Malet"
-housenumber: 17
-phone: "+33 4 67 21 43 59"
-opening_hours: "Apr-Jun: Mo-Su 08:30-12:30,15:30-19:00; Jul-Aug: Mo-Su 08:30-20:00; Sep: Mo-Su 08:30-12:30,15:30-19:00; Oct-Mar: off"
+street: Rue Commandant Malet
+housenumber: "17"
+phone: +33 4 67 21 43 59
+opening_hours: 'Apr-Jun: Mo-Su 08:30-12:30,15:30-19:00; Jul-Aug: Mo-Su 08:30-20:00;
+    Sep: Mo-Su 08:30-12:30,15:30-19:00; Oct-Mar: off'
 website: ""

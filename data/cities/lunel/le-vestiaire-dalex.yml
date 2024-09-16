@@ -4,8 +4,8 @@ latitude: 43.68047
 longitude: 4.145
 postcode: "34400"
 city: Lunel
-street: "Chemin de Provence"
-housenumber: 9
-phone: "+33 4 67 83 29 19"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00"
-website: "https://levestiairedalex.fr"
+street: Chemin de Provence
+housenumber: "9"
+phone: +33 4 67 83 29 19
+opening_hours: Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00
+website: https://levestiairedalex.fr

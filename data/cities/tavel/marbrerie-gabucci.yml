@@ -1,11 +1,11 @@
 id: 814299866
-type: way
+type: node
 latitude: 44.01358
 longitude: 4.6965
 postcode: "30126"
 city: Tavel
-street: "Rue des Carrières"
-housenumber: 143
-phone: "+33 4 66 50 07 68"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.marbreriegabucci.fr/"
+street: Rue des Carrières
+housenumber: "143"
+phone: +33 4 66 50 07 68
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.marbreriegabucci.fr/

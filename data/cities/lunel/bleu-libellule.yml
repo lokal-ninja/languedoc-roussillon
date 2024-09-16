@@ -1,11 +1,11 @@
 id: 62729070
-type: way
+type: node
 latitude: 43.68036
 longitude: 4.14849
 postcode: "34400"
 city: Lunel
-street: "Rue Gustave Eiffel"
-housenumber: 11
-phone: "+33 4 67 91 06 82"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.bleulibellule.com/magasins/bleu-libellule-lunel.html"
+street: Rue Gustave Eiffel
+housenumber: "11"
+phone: +33 4 67 91 06 82
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.bleulibellule.com/magasins/bleu-libellule-lunel.html

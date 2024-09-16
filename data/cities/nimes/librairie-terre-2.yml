@@ -4,8 +4,8 @@ latitude: 43.83904
 longitude: 4.36177
 postcode: "30000"
 city: Nîmes
-street: "Place du Château"
-housenumber: 8
-phone: "+33 4 66 36 17 01"
+street: Place du Château
+housenumber: "8"
+phone: +33 4 66 36 17 01
 opening_hours: ""
-website: "https://www.terre-2.com/"
+website: https://www.terre-2.com/

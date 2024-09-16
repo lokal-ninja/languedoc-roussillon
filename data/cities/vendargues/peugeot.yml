@@ -1,11 +1,11 @@
 id: 75375731
-type: way
+type: node
 latitude: 43.65302
 longitude: 3.97292
 postcode: "34740"
 city: Vendargues
-street: "Placette de la Calypso"
-housenumber: 2
-phone: "+33 4 67 70 01 65"
-opening_hours: "Mo-Th 07:45-12:00,14:00-18:45; Fr 07:45-12:00,14:00-17:45"
-website: "https://agents.peugeot.fr/vendargues"
+street: Placette de la Calypso
+housenumber: "2"
+phone: +33 4 67 70 01 65
+opening_hours: Mo-Th 07:45-12:00,14:00-18:45; Fr 07:45-12:00,14:00-17:45
+website: https://agents.peugeot.fr/vendargues

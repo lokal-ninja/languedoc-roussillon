@@ -4,8 +4,8 @@ latitude: 43.58802
 longitude: 3.88591
 postcode: "34000"
 city: Montpellier
-street: "Rue du Lantissargues"
-housenumber: 9
-phone: "+33 4 67 58 72 43"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+street: Rue du Lantissargues
+housenumber: "9"
+phone: +33 4 67 58 72 43
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: ""

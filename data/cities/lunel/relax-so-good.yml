@@ -4,8 +4,8 @@ latitude: 43.67248
 longitude: 4.13579
 postcode: "34400"
 city: Lunel
-street: "Boulevard Saint-Fructueux"
-housenumber: 266
-phone: "+33 6 95 35 37 31"
-opening_hours: "Mo 15:30-18:30; Tu-Sa 09:30-12:30,15:30-18:30; Su 09:30-12:30"
-website: "https://relax-so-good.business.site"
+street: Boulevard Saint-Fructueux
+housenumber: "266"
+phone: +33 6 95 35 37 31
+opening_hours: Mo 15:30-18:30; Tu-Sa 09:30-12:30,15:30-18:30; Su 09:30-12:30
+website: https://relax-so-good.business.site

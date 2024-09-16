@@ -4,8 +4,8 @@ latitude: 42.65389
 longitude: 2.8319
 postcode: "66680"
 city: Canohès
-street: "Place Jean Ferrat"
-housenumber: 1
-phone: "+33 4 68 81 98 49"
-opening_hours: "Tu-Fr 09:00-12:15, 16:00-19:15;Sa-Su 09:00-12:00;Mo off"
+street: Place Jean Ferrat
+housenumber: "1"
+phone: +33 4 68 81 98 49
+opening_hours: Tu-Fr 09:00-12:15, 16:00-19:15;Sa-Su 09:00-12:00;Mo off
 website: ""

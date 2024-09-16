@@ -4,8 +4,8 @@ latitude: 43.84012
 longitude: 4.31761
 postcode: "30900"
 city: Nîmes
-street: "Rue des Goélands"
-housenumber: 70
-phone: "+33 4 66 29 77 31"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa off; Su off"
-website: "http://www.icmteam.fr/notre-point-daccueil/"
+street: Rue des Goélands
+housenumber: "70"
+phone: +33 4 66 29 77 31
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa off; Su off
+website: http://www.icmteam.fr/notre-point-daccueil/

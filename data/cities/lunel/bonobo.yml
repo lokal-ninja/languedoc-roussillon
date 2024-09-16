@@ -1,11 +1,11 @@
 id: 62738201
-type: way
+type: node
 latitude: 43.68211
 longitude: 4.1522
 postcode: "34400"
 city: Lunel
-street: "Avenue les Portes de la Mer"
-housenumber: 
-phone: "+33 4 67 64 02 27"
-opening_hours: "Mo 10:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://www.bonoboplanet.com/magasins-herault-34-lunel-4878.html"
+street: Avenue les Portes de la Mer
+housenumber: ""
+phone: +33 4 67 64 02 27
+opening_hours: Mo 10:00-19:00; Tu-Sa 09:30-19:00
+website: https://www.bonoboplanet.com/magasins-herault-34-lunel-4878.html

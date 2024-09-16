@@ -4,8 +4,8 @@ latitude: 43.40298
 longitude: 3.69478
 postcode: "34200"
 city: Sète
-street: "Rue Alsace Lorraine"
-housenumber: 7
-phone: "+33 4 67 74 43 21"
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-13:00"
-website: "https://www.nouvellelibrairiesetoise.fr/"
+street: Rue Alsace Lorraine
+housenumber: "7"
+phone: +33 4 67 74 43 21
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-13:00
+website: https://www.nouvellelibrairiesetoise.fr/

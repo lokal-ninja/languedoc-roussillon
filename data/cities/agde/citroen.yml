@@ -4,8 +4,8 @@ latitude: 43.29797
 longitude: 3.47828
 postcode: "34300"
 city: Agde
-street: "Route de Rochelongue"
-housenumber: 72
-phone: "+33 4 67 94 24 84"
-opening_hours: "Mo-Sa 08:00-12:00,14:00-19:00"
-website: "https://reseau.citroen.fr/agde"
+street: Route de Rochelongue
+housenumber: "72"
+phone: +33 4 67 94 24 84
+opening_hours: Mo-Sa 08:00-12:00,14:00-19:00
+website: https://reseau.citroen.fr/agde

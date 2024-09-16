@@ -1,11 +1,11 @@
 id: 326245627
-type: way
+type: node
 latitude: 43.38409
 longitude: 3.17011
 postcode: "34490"
 city: Lignan-sur-Orb
-street: "Avenue Joseph Sire"
-housenumber: 259
-phone: "+33 9 70 35 10 45"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.garage-martinez.fr"
+street: Avenue Joseph Sire
+housenumber: "259"
+phone: +33 9 70 35 10 45
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.garage-martinez.fr

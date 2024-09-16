@@ -1,11 +1,11 @@
 id: 184209423
-type: way
+type: node
 latitude: 43.77958
 longitude: 4.07904
 postcode: "30250"
 city: Sommières
-street: "Route de Saussines"
-housenumber: 
-phone: "+33 4 66 80 26 35"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-18:00"
-website: "https://www.afflelou.com/opticien/sommieres/afflelou-zac-des-garrigues-30250"
+street: Route de Saussines
+housenumber: ""
+phone: +33 4 66 80 26 35
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-18:00
+website: https://www.afflelou.com/opticien/sommieres/afflelou-zac-des-garrigues-30250

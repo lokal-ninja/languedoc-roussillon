@@ -1,11 +1,11 @@
 id: 512239628
-type: way
+type: node
 latitude: 43.64805
 longitude: 3.95341
 postcode: "34740"
 city: Vendargues
-street: "Avenue de Saint-Aunès"
-housenumber: 702
-phone: "+33 4 67 04 80 02"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.marcel-et-fils.com"
+street: Avenue de Saint-Aunès
+housenumber: "702"
+phone: +33 4 67 04 80 02
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.marcel-et-fils.com

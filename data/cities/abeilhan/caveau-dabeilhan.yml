@@ -4,8 +4,8 @@ latitude: 43.45145
 longitude: 3.29427
 postcode: "34290"
 city: Abeilhan
-street: "Boulevard Louis Pasteur"
-housenumber: 8
-phone: "+33 4 67 39 00 20"
-opening_hours: "Mo,We,Fr 09:00-12:00"
-website: "https://lescavesmoliere.com/"
+street: Boulevard Louis Pasteur
+housenumber: "8"
+phone: +33 4 67 39 00 20
+opening_hours: Mo,We,Fr 09:00-12:00
+website: https://lescavesmoliere.com/

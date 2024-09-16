@@ -1,11 +1,11 @@
 id: 368140474
-type: way
+type: node
 latitude: 43.77995
 longitude: 4.07796
 postcode: "30250"
 city: Sommières
-street: "Route de Saussines"
-housenumber: 
-phone: "+33 8 92 01 10 10"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00"
-website: "https://magasin.darty.com/553-darty-sommieres"
+street: Route de Saussines
+housenumber: ""
+phone: +33 8 92 01 10 10
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00
+website: https://magasin.darty.com/553-darty-sommieres

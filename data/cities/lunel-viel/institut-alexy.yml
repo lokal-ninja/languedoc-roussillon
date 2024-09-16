@@ -4,8 +4,8 @@ latitude: 43.67763
 longitude: 4.08678
 postcode: "34400"
 city: Lunel-Viel
-street: "Avenue de la République"
-housenumber: 283
-phone: "+33 4 99 92 08 24"
-opening_hours: "Mo 12:00-18:00; Tu-Fr 09:30-18:00; We,Sa 09:30-16:00"
-website: "https://www.linstitutdalexy.com"
+street: Avenue de la République
+housenumber: "283"
+phone: +33 4 99 92 08 24
+opening_hours: Mo 12:00-18:00; Tu-Fr 09:30-18:00; We,Sa 09:30-16:00
+website: https://www.linstitutdalexy.com

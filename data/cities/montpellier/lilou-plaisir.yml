@@ -4,8 +4,8 @@ latitude: 43.60826
 longitude: 3.87697
 postcode: "34000"
 city: Montpellier
-street: "Place Saint-Côme"
-housenumber: 9
-phone: "+33 4 67 58 33 76"
-opening_hours: "Mo-Th 12:00-20:00; Fr,Sa 10:00-20:00"
-website: "https://www.lilouplaisir.com/"
+street: Place Saint-Côme
+housenumber: "9"
+phone: +33 4 67 58 33 76
+opening_hours: Mo-Th 12:00-20:00; Fr,Sa 10:00-20:00
+website: https://www.lilouplaisir.com/

@@ -4,8 +4,8 @@ latitude: 43.81009
 longitude: 4.36267
 postcode: "30900"
 city: Nîmes
-street: "Rue Jean Lauret"
-housenumber: 148
-phone: "+33 8 11 87 29 72"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.c-and-a.com"
+street: Rue Jean Lauret
+housenumber: "148"
+phone: +33 8 11 87 29 72
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.c-and-a.com

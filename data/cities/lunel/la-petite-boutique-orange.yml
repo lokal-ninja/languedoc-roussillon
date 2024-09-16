@@ -4,8 +4,8 @@ latitude: 43.67749
 longitude: 4.14091
 postcode: "34400"
 city: Lunel
-street: "Avenue du Général de Gaulle"
-housenumber: 228
-phone: "+33 9 69 37 03 64"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-18:00"
-website: "https://agence.orange.fr/1140-la-petite-boutique-orange-lunel"
+street: Avenue du Général de Gaulle
+housenumber: "228"
+phone: +33 9 69 37 03 64
+opening_hours: Tu-Sa 10:00-13:00,14:00-18:00
+website: https://agence.orange.fr/1140-la-petite-boutique-orange-lunel

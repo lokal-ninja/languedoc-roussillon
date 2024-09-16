@@ -4,8 +4,8 @@ latitude: 43.6402
 longitude: 3.93917
 postcode: "34920"
 city: Le Crès
-street: "Route de Nîmes"
-housenumber: 680
+street: Route de Nîmes
+housenumber: "680"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://concessions.peugeot.fr/ggh-le-cres"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
+website: https://concessions.peugeot.fr/ggh-le-cres

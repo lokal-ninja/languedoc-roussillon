@@ -4,8 +4,8 @@ latitude: 43.64848
 longitude: 3.94322
 postcode: "34920"
 city: Le Crès
-street: "Place du Général de Gaulle"
-housenumber: 9
-phone: "+33 4 99 23 91 17"
-opening_hours: "Mo-Th 09:00-12:00,14:00-17:30; Fr 09:00-12:00"
-website: "https://soltech-france.fr"
+street: Place du Général de Gaulle
+housenumber: "9"
+phone: +33 4 99 23 91 17
+opening_hours: Mo-Th 09:00-12:00,14:00-17:30; Fr 09:00-12:00
+website: https://soltech-france.fr

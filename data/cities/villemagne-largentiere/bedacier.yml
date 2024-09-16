@@ -1,11 +1,11 @@
 id: 323344170
-type: way
+type: node
 latitude: 43.59655
 longitude: 3.13105
 postcode: "34600"
 city: Villemagne-l'Argentière
-street: "Route de Saint-Pons"
-housenumber: 
-phone: "+33 4 67 95 06 38"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; PH off"
-website: "https://sas-bedacier.business.site/"
+street: Route de Saint-Pons
+housenumber: ""
+phone: +33 4 67 95 06 38
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; PH off
+website: https://sas-bedacier.business.site/

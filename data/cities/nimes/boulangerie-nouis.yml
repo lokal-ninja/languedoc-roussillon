@@ -4,8 +4,8 @@ latitude: 43.83724
 longitude: 4.34529
 postcode: "30000"
 city: Nîmes
-street: "Avenue Georges Pompidou"
-housenumber: 61
+street: Avenue Georges Pompidou
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Su 7:00-19:00"
+opening_hours: Mo-Su 7:00-19:00
 website: ""

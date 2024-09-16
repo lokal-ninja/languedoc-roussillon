@@ -4,8 +4,8 @@ latitude: 42.66758
 longitude: 2.89945
 postcode: "66000"
 city: Perpignan
-street: "Chemin de la Fauceille"
-housenumber: 1063
-phone: "+33 4 68667665"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.moto-axxe.fr/Perpignan/fr/s01_home/s01p01_home.php"
+street: Chemin de la Fauceille
+housenumber: "1063"
+phone: +33 4 68667665
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-18:00; Su,PH off
+website: https://www.moto-axxe.fr/Perpignan/fr/s01_home/s01p01_home.php

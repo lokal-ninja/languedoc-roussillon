@@ -4,8 +4,9 @@ latitude: 42.85874
 longitude: 2.71853
 postcode: "11350"
 city: Paziols
-street: "La Placette"
-housenumber: 
+street: La Placette
+housenumber: ""
 phone: "+33468454604"
-opening_hours: "Lundi : fermé   Mardi-Mercredi-Jeudi :9h-12h/14h-18h30   Vendredi-Samedi : 9h-18h30   Dimanche:fermé"
+opening_hours: 'Lundi : fermé   Mardi-Mercredi-Jeudi :9h-12h/14h-18h30   Vendredi-Samedi
+    : 9h-18h30   Dimanche:fermé'
 website: ""

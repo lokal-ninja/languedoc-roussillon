@@ -1,11 +1,11 @@
 id: 62724381
-type: way
+type: node
 latitude: 43.68523
 longitude: 4.14597
 postcode: "34400"
 city: Lunel
-street: "Rue Thomas Edison"
-housenumber: 150
-phone: "+33 4 67 71 11 48"
-opening_hours: "Mo-Fr 07:45-12:00,13:45-19:00; Sa 08:30-12:00,14:00-18:00"
-website: "https://www.garagebrunel.com/"
+street: Rue Thomas Edison
+housenumber: "150"
+phone: +33 4 67 71 11 48
+opening_hours: Mo-Fr 07:45-12:00,13:45-19:00; Sa 08:30-12:00,14:00-18:00
+website: https://www.garagebrunel.com/

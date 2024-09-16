@@ -1,11 +1,11 @@
 id: 120537799
-type: way
+type: node
 latitude: 44.01212
 longitude: 4.419
 postcode: "30700"
 city: Uzès
-street: "Place aux Herbes"
-housenumber: 7
-phone: "+33 4 66 22 69 47"
+street: Place aux Herbes
+housenumber: "7"
+phone: +33 4 66 22 69 47
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 965151298
-type: way
+type: node
 latitude: 43.71525
 longitude: 4.2001
 postcode: "30670"
 city: Aigues-Vives
-street: "Vieille Route"
-housenumber: 
-phone: "+33 4 66 73 20 85"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-19:00"
-website: "https://www.labottegardiane.com"
+street: Vieille Route
+housenumber: ""
+phone: +33 4 66 73 20 85
+opening_hours: Mo-Fr 08:00-19:00; Sa 10:00-19:00
+website: https://www.labottegardiane.com

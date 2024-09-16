@@ -4,8 +4,9 @@ latitude: 44.1645
 longitude: 4.61973
 postcode: "30200"
 city: Bagnols-sur-Cèze
-street: "Rue de la République"
-housenumber: 65
+street: Rue de la République
+housenumber: "65"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Th 09:00-12:30, 14:00-19:00; Fr 09:00-19:00; Sa 09:00-12:30, 14:00-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/bagnols-sur-ceze/bagnols-sur-ceze/S-FRYROC298"
+opening_hours: Mo 14:00-19:00; Tu-Th 09:00-12:30, 14:00-19:00; Fr 09:00-19:00; Sa
+    09:00-12:30, 14:00-19:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/bagnols-sur-ceze/bagnols-sur-ceze/S-FRYROC298

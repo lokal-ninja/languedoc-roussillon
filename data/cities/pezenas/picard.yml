@@ -4,8 +4,8 @@ latitude: 43.45253
 longitude: 3.4186
 postcode: "34120"
 city: Pézenas
-street: "Avenue de Verdun"
-housenumber: 36
-phone: "+33 4 99 47 21 01"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/741-picard-pezenas"
+street: Avenue de Verdun
+housenumber: "36"
+phone: +33 4 99 47 21 01
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/741-picard-pezenas

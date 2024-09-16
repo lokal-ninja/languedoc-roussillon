@@ -4,8 +4,8 @@ latitude: 43.80832
 longitude: 4.35736
 postcode: "30900"
 city: Nîmes
-street: "Place André Bazile"
-housenumber: 59
-phone: "+33 4 66 70 94 00"
-opening_hours: "Mo-Sa 07:30-19:00"
-website: "https://www.entrepot-du-bricolage.fr/mon-magasin/nimes"
+street: Place André Bazile
+housenumber: "59"
+phone: +33 4 66 70 94 00
+opening_hours: Mo-Sa 07:30-19:00
+website: https://www.entrepot-du-bricolage.fr/mon-magasin/nimes

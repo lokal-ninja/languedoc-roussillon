@@ -1,11 +1,11 @@
 id: 82382259
-type: way
+type: node
 latitude: 43.57617
 longitude: 3.91133
 postcode: "34970"
 city: Lattes
-street: "Avenue de la Fontvin"
-housenumber: 16
+street: Avenue de la Fontvin
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

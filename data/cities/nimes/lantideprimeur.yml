@@ -4,8 +4,8 @@ latitude: 43.84061
 longitude: 4.35501
 postcode: "30000"
 city: Nîmes
-street: "Place de la Révolution"
-housenumber: 6
-phone: "+33 6 28 23 58 40"
-opening_hours: "Mo-Sa 07:45-12:30,15:30-20:00"
-website: "http://antideprimeur.bigcartel.com/"
+street: Place de la Révolution
+housenumber: "6"
+phone: +33 6 28 23 58 40
+opening_hours: Mo-Sa 07:45-12:30,15:30-20:00
+website: http://antideprimeur.bigcartel.com/

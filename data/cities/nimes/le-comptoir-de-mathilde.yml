@@ -4,8 +4,8 @@ latitude: 43.83767
 longitude: 4.35881
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 3
+street: Rue de l'Aspic
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:00-13:00,14:00-18:00"
+opening_hours: Mo-Sa 10:00-19:00; Su 10:00-13:00,14:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.93007
 longitude: 3.70542
 postcode: "34190"
 city: Ganges
-street: "Rue des Calquières"
-housenumber: 1
-phone: "+33 4 67 73 44 23"
-opening_hours: "Mo-Fr 08:00-12:30,14:00-17:00; We 08:00-12:00"
-website: "https://www.rastop.fr"
+street: Rue des Calquières
+housenumber: "1"
+phone: +33 4 67 73 44 23
+opening_hours: Mo-Fr 08:00-12:30,14:00-17:00; We 08:00-12:00
+website: https://www.rastop.fr

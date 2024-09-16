@@ -4,8 +4,9 @@ latitude: 42.74482
 longitude: 2.91851
 postcode: "66380"
 city: Pia
-street: "Avenue Maréchal Joffre"
-housenumber: 4
+street: Avenue Maréchal Joffre
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:30,14:00-19:30; Th off; Sa 06:30-12:30,16:00-19:30; Su 08:00-12:30"
+opening_hours: Mo-Fr 06:30-12:30,14:00-19:30; Th off; Sa 06:30-12:30,16:00-19:30;
+    Su 08:00-12:30
 website: ""

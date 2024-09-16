@@ -1,11 +1,11 @@
 id: 60905307
-type: way
+type: node
 latitude: 43.70134
 longitude: 3.8105
 postcode: "34980"
 city: Saint-Gély-du-Fesc
-street: "Route de Prades"
-housenumber: 111
+street: Route de Prades
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.apfaliaga.com/"
+website: https://www.apfaliaga.com/

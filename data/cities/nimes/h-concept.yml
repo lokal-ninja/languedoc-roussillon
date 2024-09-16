@@ -4,8 +4,8 @@ latitude: 43.83865
 longitude: 4.3577
 postcode: "30000"
 city: Nîmes
-street: "Rue du Général Perrier"
-housenumber: 7
-phone: "+33 4 66 38 11 91"
-opening_hours: "Tu-Sa 10:00-12:30, 14:30-18:30"
-website: "facebook"
+street: Rue du Général Perrier
+housenumber: "7"
+phone: +33 4 66 38 11 91
+opening_hours: Tu-Sa 10:00-12:30, 14:30-18:30
+website: facebook

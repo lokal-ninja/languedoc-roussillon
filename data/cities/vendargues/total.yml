@@ -1,11 +1,11 @@
 id: 74662720
-type: way
+type: node
 latitude: 43.65373
 longitude: 3.96668
 postcode: "34740"
 city: Vendargues
-street: "Avenue de Montpellier"
-housenumber: 7
-phone: "+33 4 67 70 19 31"
-opening_hours: "Mo-Fr 06:00-21:30; PH,Sa,Su 07:00-21:30"
-website: "https://www.total.fr"
+street: Avenue de Montpellier
+housenumber: "7"
+phone: +33 4 67 70 19 31
+opening_hours: Mo-Fr 06:00-21:30; PH,Sa,Su 07:00-21:30
+website: https://www.total.fr

@@ -4,8 +4,8 @@ latitude: 43.83796
 longitude: 4.3599
 postcode: "30000"
 city: Nîmes
-street: "Rue des Marchands"
-housenumber: 3
-phone: "+33 9 82 60 76 96"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://janimes.fr/"
+street: Rue des Marchands
+housenumber: "3"
+phone: +33 9 82 60 76 96
+opening_hours: Tu-Sa 10:00-19:00
+website: https://janimes.fr/

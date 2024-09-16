@@ -4,8 +4,8 @@ latitude: 43.67692
 longitude: 4.13356
 postcode: "34400"
 city: Lunel
-street: "Avenue Victor Hugo"
-housenumber: 2
-phone: "+33 9 63 22 20 40"
-opening_hours: "Mo-Fr 05:30-19:30; Sa-Su 06:00-19:30"
+street: Avenue Victor Hugo
+housenumber: "2"
+phone: +33 9 63 22 20 40
+opening_hours: Mo-Fr 05:30-19:30; Sa-Su 06:00-19:30
 website: ""

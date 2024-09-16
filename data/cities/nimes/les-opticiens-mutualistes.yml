@@ -4,8 +4,8 @@ latitude: 43.83181
 longitude: 4.35797
 postcode: "30000"
 city: Nîmes
-street: "Place Montcalm"
-housenumber: 23
-phone: "+33 4 66 36 16 87"
-opening_hours: "Tu-Fr 09:30-12:30, 14:00-16:00, Sa 09:30-12:30"
-website: "www.ecouteetvoir.fr"
+street: Place Montcalm
+housenumber: "23"
+phone: +33 4 66 36 16 87
+opening_hours: Tu-Fr 09:30-12:30, 14:00-16:00, Sa 09:30-12:30
+website: www.ecouteetvoir.fr

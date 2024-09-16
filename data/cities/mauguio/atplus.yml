@@ -4,8 +4,8 @@ latitude: 43.59008
 longitude: 3.93599
 postcode: "34130"
 city: Mauguio
-street: "Rue Roland Garros"
-housenumber: 2
-phone: "+33 4 67 46 92 32"
-opening_hours: "Mo-Fr 08:30-12:30,13:30-17:30"
-website: "https://www.atplus.fr"
+street: Rue Roland Garros
+housenumber: "2"
+phone: +33 4 67 46 92 32
+opening_hours: Mo-Fr 08:30-12:30,13:30-17:30
+website: https://www.atplus.fr

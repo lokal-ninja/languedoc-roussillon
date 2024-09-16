@@ -4,8 +4,8 @@ latitude: 43.64902
 longitude: 3.94342
 postcode: "34920"
 city: Le Crès
-street: "Place du Général de Gaulle"
-housenumber: 6
-phone: "+33 6 50 26 52 93"
-opening_hours: "Mo 09:00-17:30; Tu-Fr 09:00-21:00"
-website: "https://www.un-espritzen.fr"
+street: Place du Général de Gaulle
+housenumber: "6"
+phone: +33 6 50 26 52 93
+opening_hours: Mo 09:00-17:30; Tu-Fr 09:00-21:00
+website: https://www.un-espritzen.fr

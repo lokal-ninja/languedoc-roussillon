@@ -4,8 +4,8 @@ latitude: 43.58153
 longitude: 3.94197
 postcode: "34130"
 city: Mauguio
-street: "Rue Hélène Boucher"
-housenumber: 257
-phone: "+33 6 20 99 49 27"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:30"
-website: "https://www.automobiles-raoul-moco.com"
+street: Rue Hélène Boucher
+housenumber: "257"
+phone: +33 6 20 99 49 27
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:30
+website: https://www.automobiles-raoul-moco.com

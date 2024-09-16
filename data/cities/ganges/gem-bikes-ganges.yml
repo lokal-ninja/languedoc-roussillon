@@ -4,8 +4,8 @@ latitude: 43.93229
 longitude: 3.71039
 postcode: "34190"
 city: Ganges
-street: "Avenue du Mont Aigoual"
-housenumber: 22
-phone: "+33 4 99 64 91 73"
-opening_hours: "Mo 14:30-19:00; Tu-Sa 09:30-12:30,14:30-19:00"
-website: "https://www.gem-bikes.com"
+street: Avenue du Mont Aigoual
+housenumber: "22"
+phone: +33 4 99 64 91 73
+opening_hours: Mo 14:30-19:00; Tu-Sa 09:30-12:30,14:30-19:00
+website: https://www.gem-bikes.com

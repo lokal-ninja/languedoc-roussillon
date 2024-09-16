@@ -4,8 +4,8 @@ latitude: 43.57779
 longitude: 4.1988
 postcode: "30220"
 city: Aigues-Mortes
-street: "Route de Nîmes"
-housenumber: 1121
-phone: "+33 4 66 53 08 06"
-opening_hours: "Tu-Sa 09:30-13:00,14:45-18:45"
-website: "https://www.lecollectifdeslunetiers.fr"
+street: Route de Nîmes
+housenumber: "1121"
+phone: +33 4 66 53 08 06
+opening_hours: Tu-Sa 09:30-13:00,14:45-18:45
+website: https://www.lecollectifdeslunetiers.fr

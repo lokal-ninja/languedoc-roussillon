@@ -4,8 +4,8 @@ latitude: 43.28321
 longitude: 3.45375
 postcode: "34300"
 city: Agde
-street: "Avenue de Saint-Vincent"
-housenumber: 6
-phone: "+33 4 67 94 84 39"
-opening_hours: "Mo-Su 07:00-19:00"
+street: Avenue de Saint-Vincent
+housenumber: "6"
+phone: +33 4 67 94 84 39
+opening_hours: Mo-Su 07:00-19:00
 website: ""

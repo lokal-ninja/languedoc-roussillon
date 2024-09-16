@@ -4,8 +4,8 @@ latitude: 43.83632
 longitude: 4.35984
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 23
-phone: "+33 4 66 76 18 04"
-opening_hours: "Mo 11:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.cestdeuxeuros.com/"
+street: Rue de l'Aspic
+housenumber: "23"
+phone: +33 4 66 76 18 04
+opening_hours: Mo 11:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.cestdeuxeuros.com/

@@ -1,11 +1,11 @@
 id: 889786305
-type: way
+type: node
 latitude: 43.6804
 longitude: 4.14761
 postcode: "34400"
 city: Lunel
-street: "Rue du Levant"
-housenumber: 125
-phone: "+33 4 67 85 03 54"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://lunela-bijoux.business.site"
+street: Rue du Levant
+housenumber: "125"
+phone: +33 4 67 85 03 54
+opening_hours: Mo-Sa 09:00-19:00
+website: https://lunela-bijoux.business.site

@@ -1,11 +1,11 @@
 id: 374099937
-type: way
+type: node
 latitude: 43.5726
 longitude: 3.94167
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 50 43 00"
-opening_hours: "Mo-Sa 08:00-21:30; Su 08:30-12:30"
-website: "https://www.auchan.fr/magasins/montpellier/sl-64"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 50 43 00
+opening_hours: Mo-Sa 08:00-21:30; Su 08:30-12:30
+website: https://www.auchan.fr/magasins/montpellier/sl-64

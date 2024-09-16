@@ -4,8 +4,8 @@ latitude: 42.61642
 longitude: 2.42395
 postcode: "66500"
 city: Prades
-street: "Avenue du Général de Gaulle"
-housenumber: 137
+street: Avenue du Général de Gaulle
+housenumber: "137"
 phone: ""
-opening_hours: "Tu-Sa 09:30-12:00, 14:30-19:00"
-website: "http://yves-rocher.fr/prades"
+opening_hours: Tu-Sa 09:30-12:00, 14:30-19:00
+website: http://yves-rocher.fr/prades

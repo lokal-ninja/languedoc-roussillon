@@ -1,11 +1,11 @@
 id: 951439504
-type: way
+type: node
 latitude: 43.64271
 longitude: 3.94174
 postcode: "34920"
 city: Le Crès
-street: "Route de Nîmes"
-housenumber: 
-phone: "+33 6 86 03 70 50"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://moshimoshi-telephonie.com"
+street: Route de Nîmes
+housenumber: ""
+phone: +33 6 86 03 70 50
+opening_hours: Mo-Sa 09:00-20:00
+website: https://moshimoshi-telephonie.com

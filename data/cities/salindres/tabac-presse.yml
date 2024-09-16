@@ -1,11 +1,11 @@
 id: 442731940
-type: way
+type: node
 latitude: 44.16964
 longitude: 4.15705
 postcode: "30340"
 city: Salindres
-street: "Rue Henri Merle"
-housenumber: 59
+street: Rue Henri Merle
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

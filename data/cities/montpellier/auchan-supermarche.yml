@@ -1,11 +1,11 @@
 id: 75755713
-type: way
+type: node
 latitude: 43.59591
 longitude: 3.86804
 postcode: "34070"
 city: Montpellier
-street: "Avenue Villeneuve d'Angoulême"
-housenumber: 
+street: Avenue Villeneuve d'Angoulême
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:30
 website: ""

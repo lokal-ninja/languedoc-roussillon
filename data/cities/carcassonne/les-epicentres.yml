@@ -1,11 +1,11 @@
 id: 68363849
-type: way
+type: node
 latitude: 43.2099
 longitude: 2.35138
 postcode: "11000"
 city: Carcassonne
-street: "Place du Général de Gaulle"
-housenumber: 3
+street: Place du Général de Gaulle
+housenumber: "3"
 phone: ""
-opening_hours: "Tu 18:00-19:30"
-website: "https://www.lesepicentres.fr/"
+opening_hours: Tu 18:00-19:30
+website: https://www.lesepicentres.fr/

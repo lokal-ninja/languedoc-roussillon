@@ -4,8 +4,8 @@ latitude: 43.84059
 longitude: 4.36185
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Gambetta"
-housenumber: 43
-phone: "+33 4 66 76 18 90"
-opening_hours: "Mo-Th 8:00-20:00"
-website: "https://www.lereveildumidi.fr/"
+street: Boulevard Gambetta
+housenumber: "43"
+phone: +33 4 66 76 18 90
+opening_hours: Mo-Th 8:00-20:00
+website: https://www.lereveildumidi.fr/

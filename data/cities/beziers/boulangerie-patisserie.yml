@@ -1,11 +1,11 @@
 id: 133250581
-type: way
+type: node
 latitude: 43.34698
 longitude: 3.22981
 postcode: "34500"
 city: Béziers
-street: "Boulevard Alexandre Dumas"
-housenumber: 
+street: Boulevard Alexandre Dumas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

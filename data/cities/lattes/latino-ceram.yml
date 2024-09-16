@@ -1,11 +1,11 @@
 id: 837812358
-type: way
+type: node
 latitude: 43.58994
 longitude: 3.93348
 postcode: "34970"
 city: Lattes
-street: "Plan du Néga Cat"
-housenumber: 7
-phone: "+33 4 26 85 06 46"
-opening_hours: "Mo-Sa 09:00-12:00,13:30-18:30"
-website: "https://www.latino-ceram.fr"
+street: Plan du Néga Cat
+housenumber: "7"
+phone: +33 4 26 85 06 46
+opening_hours: Mo-Sa 09:00-12:00,13:30-18:30
+website: https://www.latino-ceram.fr

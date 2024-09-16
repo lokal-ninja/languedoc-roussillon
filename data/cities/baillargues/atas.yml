@@ -4,8 +4,8 @@ latitude: 43.65499
 longitude: 3.9989
 postcode: "34670"
 city: Baillargues
-street: "Rue Charles Gide"
-housenumber: 179
-phone: "+33 4 67 87 25 05"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
-website: "https://atas.fr"
+street: Rue Charles Gide
+housenumber: "179"
+phone: +33 4 67 87 25 05
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
+website: https://atas.fr

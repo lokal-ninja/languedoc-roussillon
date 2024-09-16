@@ -4,8 +4,8 @@ latitude: 43.68066
 longitude: 4.14531
 postcode: "34400"
 city: Lunel
-street: "Avenue du Vidourle"
-housenumber: 40
-phone: "+33 4 67 73 86 65"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "http://vapinstore.site-solocal.com"
+street: Avenue du Vidourle
+housenumber: "40"
+phone: +33 4 67 73 86 65
+opening_hours: Tu-Sa 10:00-19:00
+website: http://vapinstore.site-solocal.com

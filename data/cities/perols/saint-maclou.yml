@@ -1,11 +1,11 @@
 id: 114964036
-type: way
+type: node
 latitude: 43.57594
 longitude: 3.93863
 postcode: "34470"
 city: Pérols
-street: "Avenue Méditerranée"
-housenumber: 
-phone: "+33 4 67 50 01 69"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.saint-maclou.com/magasin-deco/montpellier-perols"
+street: Avenue Méditerranée
+housenumber: ""
+phone: +33 4 67 50 01 69
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
+website: https://www.saint-maclou.com/magasin-deco/montpellier-perols

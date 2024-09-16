@@ -4,8 +4,8 @@ latitude: 43.58342
 longitude: 3.92318
 postcode: "34970"
 city: Lattes
-street: "Allée du Levant"
-housenumber: 
+street: Allée du Levant
+housenumber: ""
 phone: "+33467223700"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:15; We 10:00-19:15; Sa 09:30-19:30"
-website: "https://www.intersport.fr"
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:15; We 10:00-19:15; Sa 09:30-19:30
+website: https://www.intersport.fr

@@ -4,8 +4,8 @@ latitude: 43.67778
 longitude: 4.11943
 postcode: "34400"
 city: Lunel
-street: "Rue de l'Industrie"
-housenumber: 188
-phone: "+33 9 77 40 19 37"
-opening_hours: "Mo-Fr 08:00-12:15,13:45-18:00; Sa 08:00-12:15,13:45-17:00"
-website: "https://www.carglass.fr/centre/34400-757512/lunel-pp"
+street: Rue de l'Industrie
+housenumber: "188"
+phone: +33 9 77 40 19 37
+opening_hours: Mo-Fr 08:00-12:15,13:45-18:00; Sa 08:00-12:15,13:45-17:00
+website: https://www.carglass.fr/centre/34400-757512/lunel-pp

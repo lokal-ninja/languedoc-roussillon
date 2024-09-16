@@ -4,8 +4,8 @@ latitude: 43.43071
 longitude: 3.61038
 postcode: "34140"
 city: Mèze
-street: "Avenue de Montpellier"
-housenumber: 
+street: Avenue de Montpellier
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.enistation.fr"
+opening_hours: 24/7
+website: https://www.enistation.fr

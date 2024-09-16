@@ -1,11 +1,11 @@
 id: 221506511
-type: way
+type: node
 latitude: 43.93888
 longitude: 4.56872
 postcode: "30210"
 city: Remoulins
-street: "Place de la Gare"
-housenumber: 12
+street: Place de la Gare
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

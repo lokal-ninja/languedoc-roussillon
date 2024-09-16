@@ -4,8 +4,8 @@ latitude: 42.67308
 longitude: 2.89116
 postcode: "66000"
 city: Perpignan
-street: "Chemin de la Fossella"
-housenumber: 
+street: Chemin de la Fossella
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:30, 14:00-18:35"
-website: "https://www.agem-perpignan.fr/"
+opening_hours: Mo-Sa 10:00-12:30, 14:00-18:35
+website: https://www.agem-perpignan.fr/

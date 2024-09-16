@@ -1,11 +1,11 @@
 id: 413332663
-type: way
+type: node
 latitude: 43.58204
 longitude: 3.92905
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 65 15 80"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.jeff-de-bruges.com"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 65 15 80
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.jeff-de-bruges.com

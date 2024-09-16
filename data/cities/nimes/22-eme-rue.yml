@@ -4,8 +4,8 @@ latitude: 43.80906
 longitude: 4.36416
 postcode: "30000"
 city: Nîmes
-street: "Rue Paul Laurent"
-housenumber: 199
-phone: "+33 4 66 63 46 53"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Rue Paul Laurent
+housenumber: "199"
+phone: +33 4 66 63 46 53
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 948174618
-type: way
+type: node
 latitude: 43.50184
 longitude: 3.3201
 postcode: "34320"
 city: Roujan
-street: "Rue du Pont Second"
-housenumber: 10
-phone: "+33 4 48 20 15 18"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-12:00"
-website: "https://www.bigmat.fr/points-de-vente/roujan"
+street: Rue du Pont Second
+housenumber: "10"
+phone: +33 4 48 20 15 18
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-12:00
+website: https://www.bigmat.fr/points-de-vente/roujan

@@ -4,8 +4,8 @@ latitude: 43.83246
 longitude: 4.36565
 postcode: "30000"
 city: Nîmes
-street: "Avenue Feuchères"
-housenumber: 18
-phone: "+33 4 66 67 39 16"
-opening_hours: "MO-Fr 06:00-21:00; Sa,Su 08:00-21:00"
+street: Avenue Feuchères
+housenumber: "18"
+phone: +33 4 66 67 39 16
+opening_hours: MO-Fr 06:00-21:00; Sa,Su 08:00-21:00
 website: ""

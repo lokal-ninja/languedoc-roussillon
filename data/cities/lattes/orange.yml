@@ -1,11 +1,11 @@
 id: 413332658
-type: way
+type: node
 latitude: 43.58197
 longitude: 3.92961
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
+street: Avenue Georges Frêche
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://agence.orange.fr/5862-boutique-orange-lattes"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://agence.orange.fr/5862-boutique-orange-lattes

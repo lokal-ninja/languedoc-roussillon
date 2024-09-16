@@ -1,11 +1,11 @@
 id: 960691361
-type: way
+type: node
 latitude: 43.42911
 longitude: 3.60726
 postcode: "34140"
 city: Mèze
-street: "Avenue de Montpellier"
-housenumber: 43
-phone: "+33 4 67 18 77 93"
-opening_hours: "06:30-19:30; We off"
+street: Avenue de Montpellier
+housenumber: "43"
+phone: +33 4 67 18 77 93
+opening_hours: 06:30-19:30; We off
 website: ""

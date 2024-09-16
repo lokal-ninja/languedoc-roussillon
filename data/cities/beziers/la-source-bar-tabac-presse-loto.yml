@@ -4,8 +4,8 @@ latitude: 43.33802
 longitude: 3.23623
 postcode: "34500"
 city: Béziers
-street: "Boulevard Antonin Injalbert"
-housenumber: 47
-phone: "+33 4 67 62 02 63"
-opening_hours: "Mo-Sa 07:00-20:00; We Off; Su Off"
+street: Boulevard Antonin Injalbert
+housenumber: "47"
+phone: +33 4 67 62 02 63
+opening_hours: Mo-Sa 07:00-20:00; We Off; Su Off
 website: ""

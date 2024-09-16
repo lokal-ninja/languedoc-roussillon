@@ -1,11 +1,11 @@
 id: 497355157
-type: way
+type: node
 latitude: 43.30615
 longitude: 3.49253
 postcode: "34300"
 city: Agde
-street: "Boulevard René Cassin"
-housenumber: 
-phone: "+33 4 67 30 09 00"
-opening_hours: "Mo-Sa 10:00-12:30,14:00-19:00"
-website: "https://magasins.easycash.fr/Herault-34/ENT76-Agde-34300"
+street: Boulevard René Cassin
+housenumber: ""
+phone: +33 4 67 30 09 00
+opening_hours: Mo-Sa 10:00-12:30,14:00-19:00
+website: https://magasins.easycash.fr/Herault-34/ENT76-Agde-34300

@@ -4,8 +4,8 @@ latitude: 44.01298
 longitude: 4.41794
 postcode: "30700"
 city: Uzès
-street: "Boulevard Gambetta"
-housenumber: 30
+street: Boulevard Gambetta
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; So 09:30-13:00"
-website: "https://www.monoprix.fr/monoprix-uzes--uzes-30700-s"
+opening_hours: Mo-Sa 09:00-19:00; So 09:30-13:00
+website: https://www.monoprix.fr/monoprix-uzes--uzes-30700-s

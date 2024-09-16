@@ -1,11 +1,11 @@
 id: 682208711
-type: way
+type: node
 latitude: 43.43211
 longitude: 3.59639
 postcode: "34140"
 city: Mèze
-street: "Chemin du Romany"
-housenumber: 345
+street: Chemin du Romany
+housenumber: "345"
 phone: ""
 opening_hours: ""
 website: ""

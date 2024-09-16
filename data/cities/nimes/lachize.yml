@@ -4,8 +4,8 @@ latitude: 43.83721
 longitude: 4.35723
 postcode: "30000"
 city: Nîmes
-street: "Rue de la Madeleine"
-housenumber: 31
-phone: "+33 4 66 21 07 15"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.lachize-joaillier.com/"
+street: Rue de la Madeleine
+housenumber: "31"
+phone: +33 4 66 21 07 15
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.lachize-joaillier.com/

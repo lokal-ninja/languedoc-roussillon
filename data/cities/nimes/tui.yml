@@ -4,8 +4,8 @@ latitude: 43.83601
 longitude: 4.36309
 postcode: "30000"
 city: Nîmes
-street: "Boulevard de Prague"
-housenumber: 1
-phone: "+33 4 66 67 38 94"
-opening_hours: "Tu 10:00-12:00, Th 10:00-12:00; Fr 10:00-13:00"
-website: "https://agences-de-voyages.tui.fr/nimes-C30189/tui-store-FNI2"
+street: Boulevard de Prague
+housenumber: "1"
+phone: +33 4 66 67 38 94
+opening_hours: Tu 10:00-12:00, Th 10:00-12:00; Fr 10:00-13:00
+website: https://agences-de-voyages.tui.fr/nimes-C30189/tui-store-FNI2

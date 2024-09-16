@@ -4,8 +4,8 @@ latitude: 43.7815
 longitude: 4.08234
 postcode: "30250"
 city: Sommières
-street: "Route de Saussines"
-housenumber: 32
-phone: "+33 4 66 80 29 43"
-opening_hours: "Tu-Sa 08:00-12:00,15:00-19:00"
+street: Route de Saussines
+housenumber: "32"
+phone: +33 4 66 80 29 43
+opening_hours: Tu-Sa 08:00-12:00,15:00-19:00
 website: ""

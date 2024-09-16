@@ -4,8 +4,8 @@ latitude: 43.311
 longitude: 3.54399
 postcode: "34340"
 city: Marseillan
-street: "Avenue des Campings"
-housenumber: 325
-phone: "+33 4 67 21 20 28"
-opening_hours: "Apr-Sep: Mo-Su 08:00-13:00,14:00-19:30; Oct-Mar: off"
+street: Avenue des Campings
+housenumber: "325"
+phone: +33 4 67 21 20 28
+opening_hours: 'Apr-Sep: Mo-Su 08:00-13:00,14:00-19:30; Oct-Mar: off'
 website: ""

@@ -1,11 +1,11 @@
 id: 112733714
-type: way
+type: node
 latitude: 43.59031
 longitude: 3.93636
 postcode: "34130"
 city: Mauguio
-street: "Rue Roland Garros"
-housenumber: 91
-phone: "+33 4 67 99 69 69"
-opening_hours: "Mo-Sa 10:30-19:00"
-website: "https://www.paradise-boutik.com"
+street: Rue Roland Garros
+housenumber: "91"
+phone: +33 4 67 99 69 69
+opening_hours: Mo-Sa 10:30-19:00
+website: https://www.paradise-boutik.com

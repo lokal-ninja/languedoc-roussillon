@@ -4,8 +4,8 @@ latitude: 43.83968
 longitude: 4.35886
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Gambetta"
-housenumber: 22
-phone: "+33 4 66 67 11 13"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-19:30"
-website: "https://www.pascalcoste-shopping.com/"
+street: Boulevard Gambetta
+housenumber: "22"
+phone: +33 4 66 67 11 13
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-19:30
+website: https://www.pascalcoste-shopping.com/

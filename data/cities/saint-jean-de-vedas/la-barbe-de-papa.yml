@@ -1,11 +1,11 @@
 id: 423095022
-type: way
+type: node
 latitude: 43.57236
 longitude: 3.84828
 postcode: "34430"
 city: Saint-Jean-de-Védas
-street: "Route de Sète"
-housenumber: 
-phone: "+33 4 48 14 02 40"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://labarbedepapa.fr"
+street: Route de Sète
+housenumber: ""
+phone: +33 4 48 14 02 40
+opening_hours: Mo-Sa 09:00-20:00
+website: https://labarbedepapa.fr

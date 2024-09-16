@@ -1,11 +1,11 @@
 id: 99849555
-type: way
+type: node
 latitude: 43.66919
 longitude: 3.8619
 postcode: ""
 city: Saint-Clément-de-Rivière
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33467594018"
-opening_hours: "Mo-Su 06:00-20:00"
-website: "https://bpclaudette.fr/"
+opening_hours: Mo-Su 06:00-20:00
+website: https://bpclaudette.fr/

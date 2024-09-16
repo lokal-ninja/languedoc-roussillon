@@ -4,8 +4,8 @@ latitude: 43.83636
 longitude: 4.36011
 postcode: "30000"
 city: Nîmes
-street: "Place de l'Hôtel de Ville"
-housenumber: 4
-phone: "+33 6 60 86 61 66"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.facebook.com/lilodelo/"
+street: Place de l'Hôtel de Ville
+housenumber: "4"
+phone: +33 6 60 86 61 66
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.facebook.com/lilodelo/

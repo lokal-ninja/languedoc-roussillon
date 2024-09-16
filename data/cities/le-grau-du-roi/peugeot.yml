@@ -1,11 +1,11 @@
 id: 66482315
-type: way
+type: node
 latitude: 43.54186
 longitude: 4.13861
 postcode: "30240"
 city: Le Grau-du-Roi
-street: "Rue des Médards"
-housenumber: 242
-phone: "+33 4 66 53 12 30"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://agents.peugeot.fr/le-grau-du-roi"
+street: Rue des Médards
+housenumber: "242"
+phone: +33 4 66 53 12 30
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://agents.peugeot.fr/le-grau-du-roi

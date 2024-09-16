@@ -1,11 +1,11 @@
 id: 302518251
-type: way
+type: node
 latitude: 43.69779
 longitude: 4.60072
 postcode: "30300"
 city: Fourques
-street: "Rue Barthélemy Contestin"
-housenumber: 28
-phone: "+33 4 90 93 46 38"
+street: Rue Barthélemy Contestin
+housenumber: "28"
+phone: +33 4 90 93 46 38
 opening_hours: ""
-website: "https://www.maisonperez.com/"
+website: https://www.maisonperez.com/

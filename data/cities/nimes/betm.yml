@@ -1,11 +1,11 @@
 id: 40305699
-type: way
+type: node
 latitude: 43.81381
 longitude: 4.35074
 postcode: "30000"
 city: Nîmes
-street: "Avenue Jean Prouvé"
-housenumber: 230
+street: Avenue Jean Prouvé
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-19:00"
-website: "https://www.bmstores.fr"
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-19:00
+website: https://www.bmstores.fr

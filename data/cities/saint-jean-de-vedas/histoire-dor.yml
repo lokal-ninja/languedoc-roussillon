@@ -1,11 +1,11 @@
 id: 423095033
-type: way
+type: node
 latitude: 43.57193
 longitude: 3.84709
 postcode: "34430"
 city: Saint-Jean-de-Védas
-street: "Route de Sète"
-housenumber: 
-phone: "+33 4 67 69 13 40"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.histoiredor.com/fr_FR/details/magasin/?storeID=433"
+street: Route de Sète
+housenumber: ""
+phone: +33 4 67 69 13 40
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.histoiredor.com/fr_FR/details/magasin/?storeID=433

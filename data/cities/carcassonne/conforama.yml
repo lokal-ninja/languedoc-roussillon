@@ -4,8 +4,8 @@ latitude: 43.20388
 longitude: 2.30849
 postcode: "11000"
 city: Carcassonne
-street: "Rue Paul Henri Mouton"
-housenumber: 440
+street: Rue Paul Henri Mouton
+housenumber: "440"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.conforama.fr/magasins-conforama/carcassonne?lat=43.204144&long=2.308568&name=CARCASSONNE"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.conforama.fr/magasins-conforama/carcassonne?lat=43.204144&long=2.308568&name=CARCASSONNE

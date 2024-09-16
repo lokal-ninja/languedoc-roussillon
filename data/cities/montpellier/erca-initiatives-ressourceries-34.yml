@@ -1,11 +1,11 @@
 id: 75009945
-type: way
+type: node
 latitude: 43.588
 longitude: 3.88693
 postcode: "34070"
 city: Montpellier
-street: "Rue du Lantissargues"
-housenumber: 9
+street: Rue du Lantissargues
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.gammes.org/erca/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.gammes.org/erca/

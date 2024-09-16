@@ -1,11 +1,11 @@
 id: 66484106
-type: way
+type: node
 latitude: 43.54163
 longitude: 4.13793
 postcode: "30240"
 city: Le Grau-du-Roi
-street: "Rue des Médards"
-housenumber: 189
-phone: "+33 4 66 53 17 31"
-opening_hours: "Mo-Fr 09:00-12:00,14:30-18:30"
+street: Rue des Médards
+housenumber: "189"
+phone: +33 4 66 53 17 31
+opening_hours: Mo-Fr 09:00-12:00,14:30-18:30
 website: ""

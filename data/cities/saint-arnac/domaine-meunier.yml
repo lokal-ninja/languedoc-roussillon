@@ -1,11 +1,11 @@
 id: 79351862
-type: way
+type: node
 latitude: 42.78058
 longitude: 2.53026
 postcode: "66220"
 city: Saint-Arnac
-street: "Route de Lansac"
-housenumber: 
-phone: "+33 4 68 08 40 98"
-opening_hours: "sur rendez vous au 04 68 08 40 98"
+street: Route de Lansac
+housenumber: ""
+phone: +33 4 68 08 40 98
+opening_hours: '"sur rendez vous au 04 68 08 40 98"'
 website: ""

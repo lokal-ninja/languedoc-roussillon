@@ -4,8 +4,8 @@ latitude: 43.31175
 longitude: 3.47663
 postcode: "34300"
 city: Agde
-street: "Avenue du Général de Gaulle"
-housenumber: 31
-phone: "+33 4 67 21 87 75"
-opening_hours: "Mo-Sa 09:30-12:30"
-website: "https://www.vins-doc34.fr/"
+street: Avenue du Général de Gaulle
+housenumber: "31"
+phone: +33 4 67 21 87 75
+opening_hours: Mo-Sa 09:30-12:30
+website: https://www.vins-doc34.fr/

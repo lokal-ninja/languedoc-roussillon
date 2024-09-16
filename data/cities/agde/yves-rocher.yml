@@ -1,11 +1,11 @@
 id: 997723445
-type: way
+type: node
 latitude: 43.29835
 longitude: 3.47507
 postcode: "34300"
 city: Agde
-street: "Boulevard Maurice Pacull"
-housenumber: 
-phone: "+33 4 67 30 72 71"
-opening_hours: "Mo-Sa 09:00-19:15"
-website: "https://www.yves-rocher.fr/magasins-instituts-de-beaute/agde/S-FRYROC858"
+street: Boulevard Maurice Pacull
+housenumber: ""
+phone: +33 4 67 30 72 71
+opening_hours: Mo-Sa 09:00-19:15
+website: https://www.yves-rocher.fr/magasins-instituts-de-beaute/agde/S-FRYROC858

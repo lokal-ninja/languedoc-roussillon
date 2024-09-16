@@ -1,11 +1,11 @@
 id: 534264253
-type: way
+type: node
 latitude: 43.89641
 longitude: 4.69177
 postcode: "30390"
 city: Aramon
-street: "Avenue Général de Gaulle"
-housenumber: 760
-phone: "+33 4 66 57 13 09"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-aramon"
+street: Avenue Général de Gaulle
+housenumber: "760"
+phone: +33 4 66 57 13 09
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-aramon

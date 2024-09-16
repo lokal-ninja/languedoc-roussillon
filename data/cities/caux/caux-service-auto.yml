@@ -4,8 +4,8 @@ latitude: 43.50552
 longitude: 3.37168
 postcode: "34720"
 city: Caux
-street: "Avenue de Pézenas"
-housenumber: 31
-phone: "+33 4 67 31 46 91"
-opening_hours: "Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00"
+street: Avenue de Pézenas
+housenumber: "31"
+phone: +33 4 67 31 46 91
+opening_hours: Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00
 website: ""

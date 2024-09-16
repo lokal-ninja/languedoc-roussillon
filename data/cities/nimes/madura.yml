@@ -4,8 +4,9 @@ latitude: 43.83881
 longitude: 4.35816
 postcode: "30000"
 city: Nîmes
-street: "Rue du Général Perrier"
-housenumber: 8
-phone: "+33 9 51 76 37 74"
-opening_hours: "Mo 11:00-13:00,14:00-19:00; Tu 10:00-19:00; We 10:00-13:00,14:00-19:00; Th-Sa 10:00-19:00"
-website: "https://www.madura.fr/fr_fr"
+street: Rue du Général Perrier
+housenumber: "8"
+phone: +33 9 51 76 37 74
+opening_hours: Mo 11:00-13:00,14:00-19:00; Tu 10:00-19:00; We 10:00-13:00,14:00-19:00;
+    Th-Sa 10:00-19:00
+website: https://www.madura.fr/fr_fr

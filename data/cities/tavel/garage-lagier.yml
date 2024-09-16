@@ -1,11 +1,11 @@
 id: 129947410
-type: way
+type: node
 latitude: 44.0112
 longitude: 4.7041
 postcode: "30126"
 city: Tavel
-street: "Route de la Commanderie"
-housenumber: 165
-phone: "+33 4 66 82 06 84"
+street: Route de la Commanderie
+housenumber: "165"
+phone: +33 4 66 82 06 84
 opening_hours: ""
 website: ""

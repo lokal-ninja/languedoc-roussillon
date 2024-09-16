@@ -4,8 +4,9 @@ latitude: 43.32513
 longitude: 1.75589
 postcode: "11410"
 city: Saint-Michel-de-Lanès
-street: "Place de la Mairie"
+street: Place de la Mairie
 housenumber: 2 bis
-phone: "+334 68 23 40 06"
-opening_hours: "Mo-Tu 07:00-13:00,16:00-20:00; We off; Th-Sa 07:00-13:00,16:00-20:00; Su 07:00-13:00"
+phone: +334 68 23 40 06
+opening_hours: Mo-Tu 07:00-13:00,16:00-20:00; We off; Th-Sa 07:00-13:00,16:00-20:00;
+    Su 07:00-13:00
 website: ""

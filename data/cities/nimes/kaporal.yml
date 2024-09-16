@@ -1,11 +1,11 @@
 id: 970639966
-type: way
+type: node
 latitude: 43.81229
 longitude: 4.36176
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 26 69 25"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.kaporal.com/fr_fr/shops/kaporal-store-nimes-cap-costieres"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 26 69 25
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.kaporal.com/fr_fr/shops/kaporal-store-nimes-cap-costieres

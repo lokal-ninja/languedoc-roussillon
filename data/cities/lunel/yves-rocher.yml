@@ -1,11 +1,11 @@
 id: 907027539
-type: way
+type: node
 latitude: 43.68403
 longitude: 4.15365
 postcode: "34400"
 city: Lunel
-street: "Avenue les Portes de la Mer"
-housenumber: 
-phone: "+33 4 67 69 14 85"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/lunel/lunel/S-FRYROC512"
+street: Avenue les Portes de la Mer
+housenumber: ""
+phone: +33 4 67 69 14 85
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/lunel/lunel/S-FRYROC512

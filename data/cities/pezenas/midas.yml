@@ -4,8 +4,8 @@ latitude: 43.45242
 longitude: 3.41846
 postcode: "34120"
 city: Pézenas
-street: "Avenue de Verdun"
-housenumber: 36
-phone: "+33 4 48 20 05 01"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-12:00; PH off"
-website: "https://www.midas.fr/"
+street: Avenue de Verdun
+housenumber: "36"
+phone: +33 4 48 20 05 01
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-12:00; PH off
+website: https://www.midas.fr/

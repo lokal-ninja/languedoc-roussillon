@@ -4,8 +4,8 @@ latitude: 43.33082
 longitude: 3.12361
 postcode: "34310"
 city: Montady
-street: "Avenue de Béziers"
-housenumber: 14
+street: Avenue de Béziers
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://www.facebook.com/omontadynois/"
+opening_hours: Mo-Su 07:00-19:00
+website: https://www.facebook.com/omontadynois/

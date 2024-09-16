@@ -4,8 +4,8 @@ latitude: 43.8391
 longitude: 4.35596
 postcode: "30000"
 city: Nîmes
-street: "Rue Auguste"
-housenumber: 10
-phone: "+33 4 66 67 58 15"
-opening_hours: "Mo-Tu 10:00-19:00; Th-Sa 10:00-19:00"
-website: "http://www.institutpausedetente.fr/"
+street: Rue Auguste
+housenumber: "10"
+phone: +33 4 66 67 58 15
+opening_hours: Mo-Tu 10:00-19:00; Th-Sa 10:00-19:00
+website: http://www.institutpausedetente.fr/

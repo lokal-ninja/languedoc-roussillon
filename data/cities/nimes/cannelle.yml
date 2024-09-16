@@ -4,8 +4,8 @@ latitude: 43.83731
 longitude: 4.36019
 postcode: "30000"
 city: Nîmes
-street: "Rue du Chapitre"
-housenumber: 4
-phone: "+33 4 66 36 06 27"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:30,14:00-19:00"
-website: "https://www.karin-cannelle.com/"
+street: Rue du Chapitre
+housenumber: "4"
+phone: +33 4 66 36 06 27
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:30,14:00-19:00
+website: https://www.karin-cannelle.com/

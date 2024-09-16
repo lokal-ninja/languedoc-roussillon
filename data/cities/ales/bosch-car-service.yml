@@ -4,8 +4,8 @@ latitude: 44.11153
 longitude: 4.1084
 postcode: "30100"
 city: Alès
-street: "Route d'Uzès"
-housenumber: 914
-phone: "+33 4 66 30 15 21"
-opening_hours: "Mo-Fr 08:00-12:00, 13:45-18:00"
-website: "https://www.bcs30.fr/"
+street: Route d'Uzès
+housenumber: "914"
+phone: +33 4 66 30 15 21
+opening_hours: Mo-Fr 08:00-12:00, 13:45-18:00
+website: https://www.bcs30.fr/

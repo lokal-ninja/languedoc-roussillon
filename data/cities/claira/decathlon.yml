@@ -1,11 +1,11 @@
 id: 96010979
-type: way
+type: node
 latitude: 42.7731
 longitude: 2.91781
 postcode: "66530"
 city: Claira
-street: "Espace Roussillon Est"
-housenumber: 
+street: Espace Roussillon Est
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_224"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_224

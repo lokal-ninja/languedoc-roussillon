@@ -4,8 +4,8 @@ latitude: 43.83962
 longitude: 4.35881
 postcode: "30000"
 city: Nîmes
-street: "Rue des Halles"
-housenumber: 5
-phone: "+33 4 66 36 17 97"
-opening_hours: "Mo-Sa 09:30-19:00"
+street: Rue des Halles
+housenumber: "5"
+phone: +33 4 66 36 17 97
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

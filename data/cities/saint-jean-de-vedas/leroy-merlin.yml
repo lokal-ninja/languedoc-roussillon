@@ -1,11 +1,11 @@
 id: 109888377
-type: way
+type: node
 latitude: 43.57058
 longitude: 3.84351
 postcode: "34430"
 city: Saint-Jean-de-Védas
-street: "Avenue de la Condamine"
-housenumber: 
-phone: "+33 4 67 69 24 25"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.leroymerlin.fr/magasins/saint-jean-de-vedas-montpellier.html"
+street: Avenue de la Condamine
+housenumber: ""
+phone: +33 4 67 69 24 25
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.leroymerlin.fr/magasins/saint-jean-de-vedas-montpellier.html

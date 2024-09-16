@@ -4,8 +4,8 @@ latitude: 43.50546
 longitude: 3.31053
 postcode: "34320"
 city: Roujan
-street: "Rue du Jeu de Ballon"
-housenumber: 12
-phone: "+33 4 67 24 61 26"
-opening_hours: "Mo-Sa 07:30-12:30,16:00-19:00; Th 07:30-12:30"
-website: "https://magasins.vival.fr/fr/s/vival-roujan"
+street: Rue du Jeu de Ballon
+housenumber: "12"
+phone: +33 4 67 24 61 26
+opening_hours: Mo-Sa 07:30-12:30,16:00-19:00; Th 07:30-12:30
+website: https://magasins.vival.fr/fr/s/vival-roujan

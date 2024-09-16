@@ -1,11 +1,11 @@
 id: 329651300
-type: way
+type: node
 latitude: 43.66764
 longitude: 4.14154
 postcode: "34400"
 city: Lunel
-street: "Chemin du Cantadou"
-housenumber: 135
+street: Chemin du Cantadou
+housenumber: "135"
 phone: ""
-opening_hours: "Mo 13:30-17:00; Tu-Fr 10:00-18:00"
-website: "https://www.dessus-dessous.fr"
+opening_hours: Mo 13:30-17:00; Tu-Fr 10:00-18:00
+website: https://www.dessus-dessous.fr

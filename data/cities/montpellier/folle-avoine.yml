@@ -4,8 +4,8 @@ latitude: 43.61623
 longitude: 3.88061
 postcode: ""
 city: Montpellier
-street: "Rue Proudhon"
-housenumber: 18
+street: Rue Proudhon
+housenumber: "18"
 phone: "+33983297353"
-opening_hours: "Tu-Fr 09:30-13:00, 14:00-19:00; Sa 09:30-13:00"
-website: "https://epiceriefolleavoine.wordpress.com"
+opening_hours: Tu-Fr 09:30-13:00, 14:00-19:00; Sa 09:30-13:00
+website: https://epiceriefolleavoine.wordpress.com

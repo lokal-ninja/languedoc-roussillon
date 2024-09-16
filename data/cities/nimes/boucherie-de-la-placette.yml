@@ -4,8 +4,8 @@ latitude: 43.83378
 longitude: 4.35392
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Hotel-Dieu"
-housenumber: 20
-phone: "+33 4 66 70 04 63"
-opening_hours: "Mo-Sa 09:00-13:00,14:00-17:30"
+street: Rue de l'Hotel-Dieu
+housenumber: "20"
+phone: +33 4 66 70 04 63
+opening_hours: Mo-Sa 09:00-13:00,14:00-17:30
 website: ""

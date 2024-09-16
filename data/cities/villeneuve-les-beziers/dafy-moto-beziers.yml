@@ -1,11 +1,11 @@
 id: 134556670
-type: way
+type: node
 latitude: 43.33438
 longitude: 3.27458
 postcode: "34500"
 city: Villeneuve-lès-Béziers
-street: "Rue Poséïdon"
-housenumber: 
-phone: "+33 4 67 76 76 76"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00; Su,Mo,PH off"
-website: "https://power34.fr"
+street: Rue Poséïdon
+housenumber: ""
+phone: +33 4 67 76 76 76
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00; Su,Mo,PH off
+website: https://power34.fr

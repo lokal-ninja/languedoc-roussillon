@@ -1,11 +1,11 @@
 id: 25753403
-type: way
+type: node
 latitude: 43.58512
 longitude: 3.92821
 postcode: "34970"
 city: Lattes
-street: "Rond-Point Jean-François Champollion"
-housenumber: 
-phone: "+33 8 26 08 10 12"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.conforama.fr/magasins-conforama/montpellier?lat=0&long=0&name=MONTPELLIER"
+street: Rond-Point Jean-François Champollion
+housenumber: ""
+phone: +33 8 26 08 10 12
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.conforama.fr/magasins-conforama/montpellier?lat=0&long=0&name=MONTPELLIER

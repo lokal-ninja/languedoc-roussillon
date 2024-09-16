@@ -1,11 +1,11 @@
 id: 133249285
-type: way
+type: node
 latitude: 43.3443
 longitude: 3.21958
 postcode: "34500"
 city: Béziers
-street: "Avenue du 22 Août 1944"
-housenumber: 
+street: Avenue du 22 Août 1944
+housenumber: ""
 phone: ""
-opening_hours: "09:00-16:00"
+opening_hours: 09:00-16:00
 website: ""

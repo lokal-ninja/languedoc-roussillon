@@ -4,8 +4,8 @@ latitude: 43.8373
 longitude: 4.34471
 postcode: "30000"
 city: Nîmes
-street: "Rue de Sauve"
-housenumber: 28
-phone: "+33 4 66 64 03 04"
-opening_hours: "Mo-Fr 7:00-12:00, 14:00-18:00"
+street: Rue de Sauve
+housenumber: "28"
+phone: +33 4 66 64 03 04
+opening_hours: Mo-Fr 7:00-12:00, 14:00-18:00
 website: ""

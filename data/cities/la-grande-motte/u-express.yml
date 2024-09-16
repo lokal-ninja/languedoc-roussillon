@@ -1,11 +1,11 @@
 id: 66621922
-type: way
+type: node
 latitude: 43.56105
 longitude: 4.07425
 postcode: "34280"
 city: La Grande-Motte
-street: "Rue des Artisans"
-housenumber: 205
-phone: "+33 4 67 29 89 15"
-opening_hours: "08:30-20:00; Su 08:30-12:30"
-website: "https://www.magasins-u.com/magasin/uexpress-lagrandemotte"
+street: Rue des Artisans
+housenumber: "205"
+phone: +33 4 67 29 89 15
+opening_hours: 08:30-20:00; Su 08:30-12:30
+website: https://www.magasins-u.com/magasin/uexpress-lagrandemotte

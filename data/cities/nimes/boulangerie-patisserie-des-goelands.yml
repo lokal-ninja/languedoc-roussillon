@@ -4,8 +4,8 @@ latitude: 43.83943
 longitude: 4.31754
 postcode: "30900"
 city: Nîmes
-street: "Place des Goélands"
-housenumber: 103
-phone: "+33 4 66 64 38 01"
-opening_hours: "Mo-Su 05:00-21:00"
-website: "https://www.boulangerieperras.fr/"
+street: Place des Goélands
+housenumber: "103"
+phone: +33 4 66 64 38 01
+opening_hours: Mo-Su 05:00-21:00
+website: https://www.boulangerieperras.fr/

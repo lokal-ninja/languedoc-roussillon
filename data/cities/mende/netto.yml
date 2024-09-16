@@ -1,11 +1,11 @@
 id: 66501410
-type: way
+type: node
 latitude: 44.51732
 longitude: 3.48721
 postcode: "48000"
 city: Mende
-street: "Route du Chapitre"
-housenumber: 2
+street: Route du Chapitre
+housenumber: "2"
 phone: "+33.466484064"
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://magasin.netto.fr/179-netto-mende"
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://magasin.netto.fr/179-netto-mende

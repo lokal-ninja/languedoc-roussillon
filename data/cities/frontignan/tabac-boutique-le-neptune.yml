@@ -4,8 +4,8 @@ latitude: 43.44578
 longitude: 3.79865
 postcode: "34110"
 city: Frontignan
-street: "Avenue d'Ingril"
-housenumber: 62
-phone: "+33 4 67 43 07 03"
-opening_hours: "Apr-Sep: Mo-Su 07:30-19:30; Oct-Mar: Off"
+street: Avenue d'Ingril
+housenumber: "62"
+phone: +33 4 67 43 07 03
+opening_hours: 'Apr-Sep: Mo-Su 07:30-19:30; Oct-Mar: Off'
 website: ""

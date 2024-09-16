@@ -1,11 +1,11 @@
 id: 254925924
-type: way
+type: node
 latitude: 42.9102
 longitude: 3.02845
 postcode: "11370"
 city: Leucate village
-street: "Rue Jean Jaurès"
-housenumber: 73
-phone: "+33 4 68 27 57 98"
+street: Rue Jean Jaurès
+housenumber: "73"
+phone: +33 4 68 27 57 98
 opening_hours: ""
-website: "https://rose-citron.com/"
+website: https://rose-citron.com/

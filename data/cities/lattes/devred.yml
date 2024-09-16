@@ -1,11 +1,11 @@
 id: 413309490
-type: way
+type: node
 latitude: 43.58239
 longitude: 3.93054
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 42 60 22"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.devred.com"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 42 60 22
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.devred.com

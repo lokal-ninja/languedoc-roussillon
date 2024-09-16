@@ -4,8 +4,8 @@ latitude: 43.82994
 longitude: 4.35589
 postcode: "30000"
 city: Nîmes
-street: "Rue de la République"
-housenumber: 50
-phone: "+33 6 11 21 16 89"
-opening_hours: "Tu-Sa 10:00-13:00"
+street: Rue de la République
+housenumber: "50"
+phone: +33 6 11 21 16 89
+opening_hours: Tu-Sa 10:00-13:00
 website: ""

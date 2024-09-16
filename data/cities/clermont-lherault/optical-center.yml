@@ -4,8 +4,8 @@ latitude: 43.618
 longitude: 3.45236
 postcode: "34890"
 city: Clermont-l'Hérault
-street: "Rue du Servent"
-housenumber: 4
-phone: "+33 4 67 44 96 16"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://opticien.optical-center.fr/143-opticien-clermont-l-herault-optical-center"
+street: Rue du Servent
+housenumber: "4"
+phone: +33 4 67 44 96 16
+opening_hours: Mo-Sa 09:00-19:00
+website: https://opticien.optical-center.fr/143-opticien-clermont-l-herault-optical-center

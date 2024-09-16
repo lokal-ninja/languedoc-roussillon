@@ -4,8 +4,8 @@ latitude: 43.67355
 longitude: 4.13231
 postcode: "34400"
 city: Lunel
-street: "Quai Voltaire"
-housenumber: 142
-phone: "+33 4 67 73 24 11"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
+street: Quai Voltaire
+housenumber: "142"
+phone: +33 4 67 73 24 11
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
 website: ""

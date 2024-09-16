@@ -1,11 +1,11 @@
 id: 710496617
-type: way
+type: node
 latitude: 44.0973
 longitude: 4.08111
 postcode: "30380"
 city: Saint-Christol-lès-Alès
-street: "Route de Montèze"
+street: Route de Montèze
 housenumber: 120 A
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:00, 14:00-18:30"
-website: "https://www.sanit2000.com/"
+opening_hours: Mo-Sa 08:30-12:00, 14:00-18:30
+website: https://www.sanit2000.com/

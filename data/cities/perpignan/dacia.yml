@@ -1,11 +1,11 @@
 id: 366701151
-type: way
+type: node
 latitude: 42.67189
 longitude: 2.88713
 postcode: "66000"
 city: Perpignan
-street: "Avenue d'Espagne"
-housenumber: 1935
-phone: "+33 4 68 56 24 24"
-opening_hours: "Mo-Tu 08:00-12:00,14:00-18:00; Th-Sa 08:00-12:00,14:00-18:00"
-website: "https://reseau.dacia.fr/perpignan.html"
+street: Avenue d'Espagne
+housenumber: "1935"
+phone: +33 4 68 56 24 24
+opening_hours: Mo-Tu 08:00-12:00,14:00-18:00; Th-Sa 08:00-12:00,14:00-18:00
+website: https://reseau.dacia.fr/perpignan.html

@@ -4,8 +4,8 @@ latitude: 43.67509
 longitude: 4.13434
 postcode: "34400"
 city: Lunel
-street: "Place des Martyrs de la Résistance"
-housenumber: 35
-phone: "+33 4 67 04 81 74"
-opening_hours: "We-Sa 10:00-12:30, 15:00-19:00; Su 10:00-12:00"
+street: Place des Martyrs de la Résistance
+housenumber: "35"
+phone: +33 4 67 04 81 74
+opening_hours: We-Sa 10:00-12:30, 15:00-19:00; Su 10:00-12:00
 website: ""

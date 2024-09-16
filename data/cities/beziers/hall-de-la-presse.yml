@@ -4,8 +4,8 @@ latitude: 43.35498
 longitude: 3.22876
 postcode: "34500"
 city: Béziers
-street: "Avenue du Docteur Jean-Marie Fabre"
-housenumber: 15
-phone: "+33 9 60 44 90 21"
-opening_hours: "Mo-Sa 08:00-19:15+; Su 08:30-12:00+"
+street: Avenue du Docteur Jean-Marie Fabre
+housenumber: "15"
+phone: +33 9 60 44 90 21
+opening_hours: Mo-Sa 08:00-19:15+; Su 08:30-12:00+
 website: ""

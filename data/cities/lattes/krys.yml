@@ -1,11 +1,11 @@
 id: 413332681
-type: way
+type: node
 latitude: 43.58237
 longitude: 3.92837
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 64 14 73"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.krys.com/opticien/france/herault/opticien-lattes/lattes-grandsud"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 64 14 73
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.krys.com/opticien/france/herault/opticien-lattes/lattes-grandsud

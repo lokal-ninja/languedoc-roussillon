@@ -1,11 +1,11 @@
 id: 73762188
-type: way
+type: node
 latitude: 44.25517
 longitude: 4.64556
 postcode: "30130"
 city: Pont-Saint-Esprit
-street: "Avenue Gaston Doumergue"
-housenumber: 154
-phone: "+33 4 66 39 14 47"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:45"
-website: "https://www.intermarche.com"
+street: Avenue Gaston Doumergue
+housenumber: "154"
+phone: +33 4 66 39 14 47
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:45
+website: https://www.intermarche.com

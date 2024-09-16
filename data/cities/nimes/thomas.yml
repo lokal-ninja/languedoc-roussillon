@@ -4,8 +4,8 @@ latitude: 43.83617
 longitude: 4.35918
 postcode: "30000"
 city: Nîmes
-street: "Place du Marché"
-housenumber: 13
-phone: "+33 4 66 67 44 59"
-opening_hours: "Mo 14:30-18:30, Tu-Sa 10:00-12:00, 14:30-18:30"
-website: "https://thomas-joaillier.com/"
+street: Place du Marché
+housenumber: "13"
+phone: +33 4 66 67 44 59
+opening_hours: Mo 14:30-18:30, Tu-Sa 10:00-12:00, 14:30-18:30
+website: https://thomas-joaillier.com/

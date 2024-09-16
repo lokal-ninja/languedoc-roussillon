@@ -1,11 +1,11 @@
 id: 997723446
-type: way
+type: node
 latitude: 43.29835
 longitude: 3.4751
 postcode: "34300"
 city: Agde
-street: "Boulevard Maurice Pacull"
-housenumber: 
-phone: "+33 4 67 98 30 39"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.blue-box.fr"
+street: Boulevard Maurice Pacull
+housenumber: ""
+phone: +33 4 67 98 30 39
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.blue-box.fr

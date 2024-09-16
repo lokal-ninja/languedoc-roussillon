@@ -1,11 +1,11 @@
 id: 852071251
-type: way
+type: node
 latitude: 42.73863
 longitude: 2.89116
 postcode: "66000"
 city: Perpignan
-street: "Avenue du Languedoc"
-housenumber: 1995
+street: Avenue du Languedoc
+housenumber: "1995"
 phone: ""
 opening_hours: ""
-website: "https://boulangeries.marieblachere.com/Perpignan%20Avenue%20Du%20Languedoc"
+website: https://boulangeries.marieblachere.com/Perpignan%20Avenue%20Du%20Languedoc

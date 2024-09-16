@@ -4,8 +4,8 @@ latitude: 43.83982
 longitude: 4.35603
 postcode: "30000"
 city: Nîmes
-street: "Place de la Bouquerie"
-housenumber: 5
-phone: "+33 4 66 29 02 31"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://www.facebook.com/Courtin-Chocolati%C3%A8res-108890750483686/"
+street: Place de la Bouquerie
+housenumber: "5"
+phone: +33 4 66 29 02 31
+opening_hours: Tu-Sa 09:00-19:00
+website: https://www.facebook.com/Courtin-Chocolati%C3%A8res-108890750483686/

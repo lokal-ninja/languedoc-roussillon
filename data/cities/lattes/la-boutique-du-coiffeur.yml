@@ -1,11 +1,11 @@
 id: 413332684
-type: way
+type: node
 latitude: 43.58232
 longitude: 3.92848
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 13 26 26"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.laboutiqueducoiffeur.com"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 13 26 26
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.laboutiqueducoiffeur.com

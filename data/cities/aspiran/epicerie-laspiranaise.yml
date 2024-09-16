@@ -1,11 +1,12 @@
 id: 96078383
-type: way
+type: node
 latitude: 43.56785
 longitude: 3.45128
 postcode: "34800"
 city: Aspiran
-street: "Chemin Neuf"
-housenumber: 5
+street: Chemin Neuf
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Tu,Fr,Sa 08:00-12:30,16:30-19:30; We 08:00-12:30; Th 16:00-19:30; Su 09:30-12:30"
+opening_hours: Mo,Tu,Fr,Sa 08:00-12:30,16:30-19:30; We 08:00-12:30; Th 16:00-19:30;
+    Su 09:30-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.99146
 longitude: 3.60716
 postcode: "30120"
 city: Le Vigan
-street: "Place du Quai"
-housenumber: 4
-phone: "+33 4 67 81 01 48"
-opening_hours: "Tu-Sa 09:00-18:00"
-website: "https://www.atger.fr"
+street: Place du Quai
+housenumber: "4"
+phone: +33 4 67 81 01 48
+opening_hours: Tu-Sa 09:00-18:00
+website: https://www.atger.fr

@@ -4,8 +4,8 @@ latitude: 43.60992
 longitude: 3.87928
 postcode: "34000"
 city: Montpellier
-street: "Rue Jacques Coeur"
-housenumber: 18
+street: Rue Jacques Coeur
+housenumber: "18"
 phone: "+33467340652"
-opening_hours: "Tu-Sa 09:00-13:00,14:00-18:30"
+opening_hours: Tu-Sa 09:00-13:00,14:00-18:30
 website: ""

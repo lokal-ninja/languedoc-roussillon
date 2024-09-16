@@ -4,8 +4,8 @@ latitude: 43.8354
 longitude: 4.35313
 postcode: "30900"
 city: Nîmes
-street: "Rue Émile Jamais"
-housenumber: 26
-phone: "+33 4 66 21 18 79"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "citron-vert.fr"
+street: Rue Émile Jamais
+housenumber: "26"
+phone: +33 4 66 21 18 79
+opening_hours: Mo-Sa 10:00-19:00
+website: citron-vert.fr

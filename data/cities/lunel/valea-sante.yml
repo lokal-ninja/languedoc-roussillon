@@ -4,8 +4,8 @@ latitude: 43.69023
 longitude: 4.14526
 postcode: "34400"
 city: Lunel
-street: "Rue de la ZAC de Petite Camargue"
-housenumber: 245
-phone: "+33 4 67 42 10 70"
-opening_hours: "Mo-Th 08:30-12:30,14:00-18:00; Fr 08:30-12:30,14:00-17:00"
-website: "https://www.valeasante.fr"
+street: Rue de la ZAC de Petite Camargue
+housenumber: "245"
+phone: +33 4 67 42 10 70
+opening_hours: Mo-Th 08:30-12:30,14:00-18:00; Fr 08:30-12:30,14:00-17:00
+website: https://www.valeasante.fr

@@ -4,8 +4,9 @@ latitude: 43.97033
 longitude: 4.27824
 postcode: "30190"
 city: Saint-Chaptes
-street: "Place de l'Ancienne Mairie"
-housenumber: 30
-phone: "+33 4 66 63 84 99"
-opening_hours: "Mo-Tu 09:00-12:00, 14:00-19:00; Th-Fr 09:00-12:00, 14:00-19:00; Sa 08:30-16:30"
-website: "https://delphinecoiffure-hairsalon.business.site/"
+street: Place de l'Ancienne Mairie
+housenumber: "30"
+phone: +33 4 66 63 84 99
+opening_hours: Mo-Tu 09:00-12:00, 14:00-19:00; Th-Fr 09:00-12:00, 14:00-19:00; Sa
+    08:30-16:30
+website: https://delphinecoiffure-hairsalon.business.site/

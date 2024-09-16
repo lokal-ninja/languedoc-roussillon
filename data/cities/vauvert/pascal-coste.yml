@@ -4,8 +4,8 @@ latitude: 43.70648
 longitude: 4.26891
 postcode: "30600"
 city: Vauvert
-street: "Avenue du Mas Saint-Laurent"
-housenumber: 76
-phone: "+33 4 66 77 50 88"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.pascalcoste.com"
+street: Avenue du Mas Saint-Laurent
+housenumber: "76"
+phone: +33 4 66 77 50 88
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.pascalcoste.com

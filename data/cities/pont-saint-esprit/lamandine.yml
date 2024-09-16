@@ -1,11 +1,11 @@
 id: 73764248
-type: way
+type: node
 latitude: 44.25287
 longitude: 4.64713
 postcode: "30130"
 city: Pont-Saint-Esprit
-street: "Avenue Général de Gaulle"
-housenumber: 33
-phone: "+33 4 66 39 09 48"
-opening_hours: "Tu-Su 06:00-19:30"
-website: "https://boulangerieamandine.wixsite.com/amandine"
+street: Avenue Général de Gaulle
+housenumber: "33"
+phone: +33 4 66 39 09 48
+opening_hours: Tu-Su 06:00-19:30
+website: https://boulangerieamandine.wixsite.com/amandine

@@ -4,8 +4,8 @@ latitude: 43.83134
 longitude: 4.35245
 postcode: "30000"
 city: Nîmes
-street: "Avenue Jean Jaurès"
-housenumber: 49
-phone: "+33 4 66 36 29 14"
-opening_hours: "Mo-Fr 9:00-12:00, 13:30-18:00"
-website: "https://www.amplifon.com/fr/"
+street: Avenue Jean Jaurès
+housenumber: "49"
+phone: +33 4 66 36 29 14
+opening_hours: Mo-Fr 9:00-12:00, 13:30-18:00
+website: https://www.amplifon.com/fr/

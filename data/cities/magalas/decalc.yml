@@ -1,11 +1,11 @@
 id: 437992975
-type: way
+type: node
 latitude: 43.46907
 longitude: 3.20486
 postcode: "34480"
 city: Magalas
-street: "Rue de l'Audacieuse 2"
-housenumber: 21
-phone: "+33 9 85 01  31 33"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://decalc.fr"
+street: Rue de l'Audacieuse 2
+housenumber: "21"
+phone: +33 9 85 01  31 33
+opening_hours: Mo-Fr 09:00-18:00
+website: https://decalc.fr

@@ -4,8 +4,8 @@ latitude: 43.83978
 longitude: 4.31838
 postcode: "30900"
 city: Nîmes
-street: "Place des Goélands"
-housenumber: 103
-phone: "+33 4 66 64 56 98"
-opening_hours: "Mo off; Tu-Fr 07:30-12:30,16:00-19:30; Sa-Su 07:30-12:30"
+street: Place des Goélands
+housenumber: "103"
+phone: +33 4 66 64 56 98
+opening_hours: Mo off; Tu-Fr 07:30-12:30,16:00-19:30; Sa-Su 07:30-12:30
 website: ""

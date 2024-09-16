@@ -1,11 +1,11 @@
 id: 233574147
-type: way
+type: node
 latitude: 43.33704
 longitude: 3.24004
 postcode: "34536"
 city: Béziers
-street: "Avenue du Puech de Valras"
-housenumber: 
-phone: "+33 4 67 62 82 82"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.e.leclerc/mag/e-leclerc-beziers"
+street: Avenue du Puech de Valras
+housenumber: ""
+phone: +33 4 67 62 82 82
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.e.leclerc/mag/e-leclerc-beziers

@@ -1,11 +1,11 @@
 id: 970683120
-type: way
+type: node
 latitude: 43.81313
 longitude: 4.36234
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 8 05 08 88 88"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www2.hm.com/fr_fr/index.html"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 8 05 08 88 88
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www2.hm.com/fr_fr/index.html

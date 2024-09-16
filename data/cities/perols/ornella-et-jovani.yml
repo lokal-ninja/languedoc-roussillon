@@ -1,11 +1,11 @@
 id: 888392489
-type: way
+type: node
 latitude: 43.5723
 longitude: 3.94135
 postcode: "34470"
 city: Pérols
 street: ""
-housenumber: 
-phone: "+33 4 34 26 09 30"
-opening_hours: "Mo-Sa 09:30-20:00"
+housenumber: ""
+phone: +33 4 34 26 09 30
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

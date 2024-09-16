@@ -1,11 +1,11 @@
 id: 100887361
-type: way
+type: node
 latitude: 43.6153
 longitude: 3.1586
 postcode: "34600"
 city: Bédarieux
-street: "Rue Sur le Puits"
-housenumber: 11
+street: Rue Sur le Puits
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

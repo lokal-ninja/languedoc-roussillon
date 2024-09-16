@@ -4,8 +4,8 @@ latitude: 43.83902
 longitude: 4.35596
 postcode: "30000"
 city: Nîmes
-street: "Rue Auguste"
-housenumber: 8
-phone: "+33 4 66 67 68 06"
-opening_hours: "Tu-Sa 08:30-18:00"
-website: "https://www.atelierderaphael.fr/"
+street: Rue Auguste
+housenumber: "8"
+phone: +33 4 66 67 68 06
+opening_hours: Tu-Sa 08:30-18:00
+website: https://www.atelierderaphael.fr/

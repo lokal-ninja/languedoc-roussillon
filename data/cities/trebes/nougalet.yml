@@ -1,11 +1,11 @@
 id: 1101522910
-type: way
+type: node
 latitude: 43.20402
 longitude: 2.42099
 postcode: "11800"
 city: Trèbes
-street: "Rue Averroès"
-housenumber: 240
-phone: "+33 4 68 74 02 63"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.nougalet.com"
+street: Rue Averroès
+housenumber: "240"
+phone: +33 4 68 74 02 63
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.nougalet.com

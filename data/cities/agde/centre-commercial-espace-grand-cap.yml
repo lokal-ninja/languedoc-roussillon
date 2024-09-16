@@ -1,11 +1,11 @@
 id: 72446396
-type: way
+type: node
 latitude: 43.29899
 longitude: 3.47329
 postcode: "34300"
 city: Agde
-street: "Boulevard Maurice Pacull"
-housenumber: 
-phone: "+33 4 67 01 06 80"
-opening_hours: "Mo-Sa 08:30-21:00; Su 08:30-13:30"
-website: "https://www.magasins-u.com/magasin/hyperu-agde"
+street: Boulevard Maurice Pacull
+housenumber: ""
+phone: +33 4 67 01 06 80
+opening_hours: Mo-Sa 08:30-21:00; Su 08:30-13:30
+website: https://www.magasins-u.com/magasin/hyperu-agde

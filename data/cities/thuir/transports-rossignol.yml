@@ -1,11 +1,11 @@
 id: 64074523
-type: way
+type: node
 latitude: 42.63331
 longitude: 2.75725
 postcode: "66300"
 city: Thuir
-street: "Boulevard Léon-Jean Grégory"
-housenumber: 15
+street: Boulevard Léon-Jean Grégory
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

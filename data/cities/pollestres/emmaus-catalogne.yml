@@ -1,11 +1,11 @@
 id: 144159132
-type: way
+type: node
 latitude: 42.62538
 longitude: 2.86771
 postcode: "66450"
 city: Pollestres
-street: "Mas de Garria"
-housenumber: 
-phone: "+33 4 68 54 59 60"
+street: Mas de Garria
+housenumber: ""
+phone: +33 4 68 54 59 60
 opening_hours: ""
-website: "https://www.emmaus-catalogne.com/"
+website: https://www.emmaus-catalogne.com/

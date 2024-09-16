@@ -1,11 +1,11 @@
 id: 212098692
-type: way
+type: node
 latitude: 43.82062
 longitude: 3.64897
 postcode: "34380"
 city: CAUSSE DE LA SELLE
-street: "Route de Saint Jean de Bueges"
-housenumber: 
-phone: "+334 67731057"
+street: Route de Saint Jean de Bueges
+housenumber: ""
+phone: +334 67731057
 opening_hours: ""
-website: "https://www.domainedebrunet.com/accueil"
+website: https://www.domainedebrunet.com/accueil

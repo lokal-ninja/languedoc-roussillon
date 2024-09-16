@@ -1,11 +1,11 @@
 id: 970678911
-type: way
+type: node
 latitude: 43.81219
 longitude: 4.36095
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 29 41 37"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.kookai.fr"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 29 41 37
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.kookai.fr

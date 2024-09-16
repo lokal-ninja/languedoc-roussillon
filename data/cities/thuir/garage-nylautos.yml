@@ -1,11 +1,11 @@
 id: 64069236
-type: way
+type: node
 latitude: 42.63198
 longitude: 2.76409
 postcode: "66300"
 city: Thuir
-street: "Avenue des Corbières"
-housenumber: 21
+street: Avenue des Corbières
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

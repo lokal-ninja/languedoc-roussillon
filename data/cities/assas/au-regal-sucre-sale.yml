@@ -1,11 +1,11 @@
 id: 240192102
-type: way
+type: node
 latitude: 43.70172
 longitude: 3.89977
 postcode: "34820"
 city: Assas
-street: "Grand'Rue"
-housenumber: 116
+street: Grand'Rue
+housenumber: "116"
 phone: ""
-opening_hours: "Tu-Sa 06:30-12:30,16:00-19:00; Su 06:30-12:30"
+opening_hours: Tu-Sa 06:30-12:30,16:00-19:00; Su 06:30-12:30
 website: ""

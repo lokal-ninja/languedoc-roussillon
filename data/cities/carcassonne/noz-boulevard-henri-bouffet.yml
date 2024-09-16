@@ -1,11 +1,11 @@
 id: 358334224
-type: way
+type: node
 latitude: 43.21033
 longitude: 2.30412
 postcode: "11000"
 city: Carcassonne
-street: "Boulevard Henri Bouffet"
-housenumber: 
+street: Boulevard Henri Bouffet
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/carcassonne-2/"
+website: https://nozarrivages.com/magasin/carcassonne-2/

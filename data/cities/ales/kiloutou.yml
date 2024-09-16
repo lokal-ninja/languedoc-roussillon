@@ -1,11 +1,11 @@
 id: 130840725
-type: way
+type: node
 latitude: 44.10928
 longitude: 4.10321
 postcode: "30100"
 city: Alès
-street: "Rue des Mésanges"
-housenumber: 50
-phone: "+33 4 28 29 06 28"
-opening_hours: "Mo-Fr 07:00-12:00, 13:30-18:00"
-website: "https://www.kiloutou.fr/agences/occitanie/gard/ales/0542"
+street: Rue des Mésanges
+housenumber: "50"
+phone: +33 4 28 29 06 28
+opening_hours: Mo-Fr 07:00-12:00, 13:30-18:00
+website: https://www.kiloutou.fr/agences/occitanie/gard/ales/0542

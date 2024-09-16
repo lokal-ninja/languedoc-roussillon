@@ -1,11 +1,11 @@
 id: 66630067
-type: way
+type: node
 latitude: 43.56045
 longitude: 4.07686
 postcode: "34280"
 city: La Grande-Motte
-street: "Rue de l'Industrie"
-housenumber: 64
+street: Rue de l'Industrie
+housenumber: "64"
 phone: "+33467589081"
-opening_hours: "Tu-Sa 09:00-12:30,14:00-18:30"
-website: "http://www.cheminsdoceans.com/"
+opening_hours: Tu-Sa 09:00-12:30,14:00-18:30
+website: http://www.cheminsdoceans.com/

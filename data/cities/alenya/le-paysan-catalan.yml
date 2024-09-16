@@ -4,8 +4,8 @@ latitude: 42.63327
 longitude: 2.98467
 postcode: "66200"
 city: Alénya
-street: "Route de Saint-Cyprien"
-housenumber: 
+street: Route de Saint-Cyprien
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,16:00-19:00; Su 09:00-12:30"
-website: "https://www.paysancatalan.fr/"
+opening_hours: Mo-Sa 09:00-12:30,16:00-19:00; Su 09:00-12:30
+website: https://www.paysancatalan.fr/

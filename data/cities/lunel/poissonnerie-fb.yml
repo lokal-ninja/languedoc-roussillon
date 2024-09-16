@@ -1,11 +1,11 @@
 id: 1124492083
-type: way
+type: node
 latitude: 43.67511
 longitude: 4.13343
 postcode: "34400"
 city: Lunel
-street: "Cours Gabriel Péri"
-housenumber: 79
-phone: "+33 4 67 83 23 93"
-opening_hours: "Tu-Fr 07:00-13:30; Sa,Su 07:00-14:00"
+street: Cours Gabriel Péri
+housenumber: "79"
+phone: +33 4 67 83 23 93
+opening_hours: Tu-Fr 07:00-13:30; Sa,Su 07:00-14:00
 website: ""

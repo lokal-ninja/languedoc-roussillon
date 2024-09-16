@@ -1,11 +1,11 @@
 id: 798440389
-type: way
+type: node
 latitude: 43.46797
 longitude: 3.20839
 postcode: "34480"
 city: Magalas
-street: "Rue de l'Audacieuse"
-housenumber: 
+street: Rue de l'Audacieuse
+housenumber: ""
 phone: ""
-opening_hours: "07:00-20:00"
+opening_hours: 07:00-20:00
 website: ""

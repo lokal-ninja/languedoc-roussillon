@@ -1,11 +1,11 @@
 id: 73451621
-type: way
+type: node
 latitude: 43.93739
 longitude: 3.71858
 postcode: "34190"
 city: Ganges
-street: "Chemin des Broues"
-housenumber: 
-phone: "+33 4 67 73 83 98"
+street: Chemin des Broues
+housenumber: ""
+phone: +33 4 67 73 83 98
 opening_hours: ""
-website: "https://therondflavier.fr"
+website: https://therondflavier.fr

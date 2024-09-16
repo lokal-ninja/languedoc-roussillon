@@ -1,11 +1,11 @@
 id: 62739201
-type: way
+type: node
 latitude: 43.67245
 longitude: 4.14841
 postcode: "34400"
 city: Lunel
-street: "Route de la Mer"
-housenumber: 
-phone: "+33 4 67 91 91 11"
-opening_hours: "Mo-Sa 08:30-12:00,14:00-19:00"
-website: "https://www.renault-retail-group.fr/concessions-renault/details/36-lunel.html"
+street: Route de la Mer
+housenumber: ""
+phone: +33 4 67 91 91 11
+opening_hours: Mo-Sa 08:30-12:00,14:00-19:00
+website: https://www.renault-retail-group.fr/concessions-renault/details/36-lunel.html

@@ -4,8 +4,8 @@ latitude: 43.83748
 longitude: 4.35962
 postcode: "30000"
 city: Nîmes
-street: "Rue des Marchands"
-housenumber: 22
-phone: "+33 4 66 64 76 20"
-opening_hours: "Tu-Sa 10:00-13:00, 14:00-18:30"
-website: "Facebook"
+street: Rue des Marchands
+housenumber: "22"
+phone: +33 4 66 64 76 20
+opening_hours: Tu-Sa 10:00-13:00, 14:00-18:30
+website: Facebook

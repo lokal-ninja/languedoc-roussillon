@@ -1,11 +1,11 @@
 id: 130822682
-type: way
+type: node
 latitude: 44.10509
 longitude: 4.08458
 postcode: "30100"
 city: Alès
-street: "Avenue Olivier de Serres"
-housenumber: 225
-phone: "+33 4 66 52 72 38"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://marceletfils.com/pages/ales-rocade"
+street: Avenue Olivier de Serres
+housenumber: "225"
+phone: +33 4 66 52 72 38
+opening_hours: Mo-Sa 09:00-19:30
+website: https://marceletfils.com/pages/ales-rocade

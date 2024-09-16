@@ -4,8 +4,8 @@ latitude: 43.68028
 longitude: 4.10634
 postcode: "34400"
 city: Lunel
-street: "Rue des Compagnons"
-housenumber: 180
-phone: "+33 4 67 65 84 12"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00"
+street: Rue des Compagnons
+housenumber: "180"
+phone: +33 4 67 65 84 12
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00
 website: ""

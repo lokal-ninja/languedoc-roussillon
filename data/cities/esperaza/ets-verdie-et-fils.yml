@@ -1,11 +1,11 @@
 id: 242528712
-type: way
+type: node
 latitude: 42.93476
 longitude: 2.22711
 postcode: "11260"
 city: Espéraza
-street: "Avenue de Carcassonne"
-housenumber: 23
+street: Avenue de Carcassonne
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

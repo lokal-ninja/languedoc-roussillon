@@ -4,8 +4,8 @@ latitude: 43.64134
 longitude: 3.93461
 postcode: "34920"
 city: Le Crès
-street: "Avenue de Castelnau"
-housenumber: 11
-phone: "+33 6 17 20 31 36"
-opening_hours: "Tu-Fr 09:30-14:00,15:00-19:00; Sa 09:30-13:00,14:00-17:30"
-website: "https://www.hombarbershop.fr/"
+street: Avenue de Castelnau
+housenumber: "11"
+phone: +33 6 17 20 31 36
+opening_hours: Tu-Fr 09:30-14:00,15:00-19:00; Sa 09:30-13:00,14:00-17:30
+website: https://www.hombarbershop.fr/

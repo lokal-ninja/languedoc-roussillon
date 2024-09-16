@@ -4,8 +4,8 @@ latitude: 43.33829
 longitude: 3.20622
 postcode: "34500"
 city: Béziers
-street: "Place Émile Ain"
-housenumber: 2
-phone: "+33 4 67 49 16 45"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 09:00-12:00"
+street: Place Émile Ain
+housenumber: "2"
+phone: +33 4 67 49 16 45
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; Sa 09:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.83723
 longitude: 4.35914
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 9
-phone: "+33 9 86 73 95 84"
-opening_hours: "Tu-Sa 09:30-19:00"
-website: "https://www.calisson.com"
+street: Rue de l'Aspic
+housenumber: "9"
+phone: +33 9 86 73 95 84
+opening_hours: Tu-Sa 09:30-19:00
+website: https://www.calisson.com

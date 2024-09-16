@@ -1,11 +1,11 @@
 id: 236423598
-type: way
+type: node
 latitude: 43.69637
 longitude: 3.50501
 postcode: "34150"
 city: Montpeyroux
-street: "Place de l'Horloge"
-housenumber: 
+street: Place de l'Horloge
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

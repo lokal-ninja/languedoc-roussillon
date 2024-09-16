@@ -5,7 +5,7 @@ longitude: 3.20994
 postcode: "34500"
 city: Béziers
 street: ""
-housenumber: 4
-phone: "+33 4 67 48 83 91"
-opening_hours: "Mo-Su 09:00-03:00"
-website: "https://www.facebook.com/%C3%89picerie-PROXI-Faubourg-B%C3%A9ziers-134191357115928/"
+housenumber: "4"
+phone: +33 4 67 48 83 91
+opening_hours: Mo-Su 09:00-03:00
+website: https://www.facebook.com/%C3%89picerie-PROXI-Faubourg-B%C3%A9ziers-134191357115928/

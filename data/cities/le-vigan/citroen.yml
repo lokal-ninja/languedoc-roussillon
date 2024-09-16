@@ -4,8 +4,8 @@ latitude: 43.99209
 longitude: 3.60947
 postcode: "30120"
 city: Le Vigan
-street: "Avenue Emmanuel d'Alzon"
-housenumber: 24
-phone: "+33 4 67 81 03 11"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://reseau.citroen.fr/reparateur-le-vigan"
+street: Avenue Emmanuel d'Alzon
+housenumber: "24"
+phone: +33 4 67 81 03 11
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://reseau.citroen.fr/reparateur-le-vigan

@@ -1,11 +1,11 @@
 id: 62741216
-type: way
+type: node
 latitude: 43.68721
 longitude: 4.15487
 postcode: "34400"
 city: Lunel
-street: "Chemin du Mas des Oranges"
+street: Chemin du Mas des Oranges
 housenumber: 20B
-phone: "+33 4 67 83 31 21"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00"
+phone: +33 4 67 83 31 21
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00
 website: ""

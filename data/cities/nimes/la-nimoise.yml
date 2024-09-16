@@ -4,8 +4,8 @@ latitude: 43.83582
 longitude: 4.35393
 postcode: "30900"
 city: Nîmes
-street: "Rue Émile Jamais"
-housenumber: 18
-phone: "+33 4 34 28 67 43"
-opening_hours: "Tu-Sa 09:00-12:30"
-website: "https://www.lanimoise.fr/"
+street: Rue Émile Jamais
+housenumber: "18"
+phone: +33 4 34 28 67 43
+opening_hours: Tu-Sa 09:00-12:30
+website: https://www.lanimoise.fr/

@@ -4,8 +4,8 @@ latitude: 43.67714
 longitude: 4.11759
 postcode: "34400"
 city: Lunel
-street: "Avenue des Quatre Saisons"
-housenumber: 91
+street: Avenue des Quatre Saisons
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:30; Sa 09:30-18:30"
-website: "https://www.maboutiquealternative-lunel.fr"
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:30; Sa 09:30-18:30
+website: https://www.maboutiquealternative-lunel.fr

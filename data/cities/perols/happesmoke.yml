@@ -1,11 +1,11 @@
 id: 374099971
-type: way
+type: node
 latitude: 43.57242
 longitude: 3.9418
 postcode: "34470"
 city: Pérols
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.happesmoke.com/blog/cigarette-electronique-perols-montpellier"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.happesmoke.com/blog/cigarette-electronique-perols-montpellier

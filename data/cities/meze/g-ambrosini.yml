@@ -4,8 +4,8 @@ latitude: 43.42551
 longitude: 3.6058
 postcode: "34140"
 city: Mèze
-street: "Boulevard du Maréchal Foch"
-housenumber: 32
-phone: "+33 4 67 43 94 64"
-opening_hours: "Mo-Fr 09:00-12:00,14:30-18:30"
-website: "https://www.pfambrosini.fr"
+street: Boulevard du Maréchal Foch
+housenumber: "32"
+phone: +33 4 67 43 94 64
+opening_hours: Mo-Fr 09:00-12:00,14:30-18:30
+website: https://www.pfambrosini.fr

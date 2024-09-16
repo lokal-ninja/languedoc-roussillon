@@ -1,11 +1,11 @@
 id: 817727542
-type: way
+type: node
 latitude: 43.56183
 longitude: 3.84445
 postcode: "34430"
 city: Saint-Jean-de-Vedas
-street: "Rue Saint-Exupéry"
-housenumber: 17
-phone: "+33 4 99 13 28 28"
-opening_hours: "Sa,Su off; Mo 14:00-17:30; Tu-Fr 09:30-12:00,14:00-17:30"
-website: "https://www.esl-france.com/"
+street: Rue Saint-Exupéry
+housenumber: "17"
+phone: +33 4 99 13 28 28
+opening_hours: Sa,Su off; Mo 14:00-17:30; Tu-Fr 09:30-12:00,14:00-17:30
+website: https://www.esl-france.com/

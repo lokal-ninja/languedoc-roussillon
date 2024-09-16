@@ -1,11 +1,11 @@
 id: 1157405731
-type: way
+type: node
 latitude: 43.78896
 longitude: 4.11408
 postcode: "30250"
 city: Aujargues
-street: "Rue des Narcisses"
-housenumber: 3
-phone: "+33 6 42 68 86 54"
+street: Rue des Narcisses
+housenumber: "3"
+phone: +33 6 42 68 86 54
 opening_hours: ""
 website: ""

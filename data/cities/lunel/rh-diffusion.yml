@@ -1,11 +1,11 @@
 id: 62729939
-type: way
+type: node
 latitude: 43.67768
 longitude: 4.14218
 postcode: "34400"
 city: Lunel
-street: "Avenue du Général de Gaulle"
-housenumber: 325
-phone: "+33 4 67 83 57 35"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30"
-website: "https://www.rh-diffusion.fr/"
+street: Avenue du Général de Gaulle
+housenumber: "325"
+phone: +33 4 67 83 57 35
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30
+website: https://www.rh-diffusion.fr/

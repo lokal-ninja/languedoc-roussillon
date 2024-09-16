@@ -4,8 +4,8 @@ latitude: 43.55938
 longitude: 4.08847
 postcode: "34280"
 city: La Grande-Motte
-street: "Rue Frédéric Mistral"
-housenumber: 20
-phone: "+33 4 67 56 80 48"
-opening_hours: "Mo-Fr 06:30-13:00,15:00-19:30; Sa,Su 06:30-19:30"
-website: "https://www.banette.fr"
+street: Rue Frédéric Mistral
+housenumber: "20"
+phone: +33 4 67 56 80 48
+opening_hours: Mo-Fr 06:30-13:00,15:00-19:30; Sa,Su 06:30-19:30
+website: https://www.banette.fr

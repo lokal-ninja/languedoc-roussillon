@@ -1,11 +1,11 @@
 id: 75081198
-type: way
+type: node
 latitude: 43.58961
 longitude: 3.88561
 postcode: "34000"
 city: Montpellier
-street: "Rue de l'Industrie"
-housenumber: 59
+street: Rue de l'Industrie
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:30"
+opening_hours: Mo-Sa 08:30-20:30
 website: ""

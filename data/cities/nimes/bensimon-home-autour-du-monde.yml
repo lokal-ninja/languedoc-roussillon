@@ -4,8 +4,8 @@ latitude: 43.83623
 longitude: 4.36033
 postcode: "30000"
 city: Nîmes
-street: "Rue Régale"
-housenumber: 3
-phone: "+33 1 42 77 16 18"
-opening_hours: "Mo 14:30-19:00; Tu-Sa 10:00-12:30,14:30-19:00"
-website: "Https://www.facebook.com/bensimonnimes/"
+street: Rue Régale
+housenumber: "3"
+phone: +33 1 42 77 16 18
+opening_hours: Mo 14:30-19:00; Tu-Sa 10:00-12:30,14:30-19:00
+website: Https://www.facebook.com/bensimonnimes/

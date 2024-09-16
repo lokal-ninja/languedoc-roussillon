@@ -1,11 +1,11 @@
 id: 75991022
-type: way
+type: node
 latitude: 43.61123
 longitude: 3.84037
 postcode: "34070"
 city: Montpellier
-street: "Avenue de Lodève"
-housenumber: 129
-phone: "+33 4 99 77 34 00"
-opening_hours: "Mo-Sa 08:30-21:00; Su 08:30-12:30"
-website: "https://magasins.geantcasino.fr/magasin/montpellier-celleneuve/CG210"
+street: Avenue de Lodève
+housenumber: "129"
+phone: +33 4 99 77 34 00
+opening_hours: Mo-Sa 08:00-21:00; Su 08:30-12:30
+website: https://www.auchan.fr/magasins/hypermarche/auchan-hypermarche-montpellier-celleneuve/s-277

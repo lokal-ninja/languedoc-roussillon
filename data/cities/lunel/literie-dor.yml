@@ -4,8 +4,8 @@ latitude: 43.6773
 longitude: 4.11791
 postcode: "34400"
 city: Lunel
-street: "Avenue des Quatre Saisons"
-housenumber: 91
-phone: "+33 4 67 83 94 99"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "http://www.literiedorlunel.fr"
+street: Avenue des Quatre Saisons
+housenumber: "91"
+phone: +33 4 67 83 94 99
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: http://www.literiedorlunel.fr

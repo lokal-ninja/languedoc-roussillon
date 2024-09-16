@@ -4,8 +4,8 @@ latitude: 43.83629
 longitude: 4.35656
 postcode: "30000"
 city: Nîmes
-street: "Rue Tedenat"
-housenumber: 7
-phone: "+33 9 80 61 09 08"
-opening_hours: "Mo-Su 15:00-00:00"
+street: Rue Tedenat
+housenumber: "7"
+phone: +33 9 80 61 09 08
+opening_hours: Mo-Su 15:00-00:00
 website: ""

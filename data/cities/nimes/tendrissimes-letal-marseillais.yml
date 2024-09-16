@@ -4,8 +4,8 @@ latitude: 43.83852
 longitude: 4.3589
 postcode: "30000"
 city: Nîmes
-street: "Rue des Petits Souliers"
-housenumber: 7
-phone: "+33 4 66 67 42 29"
-opening_hours: "Mo-Sa 07:30-12:30,15:00-19:00"
-website: "https://fr-fr.facebook.com/tendrissimesboucherie"
+street: Rue des Petits Souliers
+housenumber: "7"
+phone: +33 4 66 67 42 29
+opening_hours: Mo-Sa 07:30-12:30,15:00-19:00
+website: https://fr-fr.facebook.com/tendrissimesboucherie

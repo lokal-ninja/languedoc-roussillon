@@ -1,11 +1,11 @@
 id: 68384021
-type: way
+type: node
 latitude: 43.20408
 longitude: 2.30892
 postcode: "11000"
 city: Carcassonne
-street: "Rue Paul Henri Mouton"
-housenumber: 420
+street: Rue Paul Henri Mouton
+housenumber: "420"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

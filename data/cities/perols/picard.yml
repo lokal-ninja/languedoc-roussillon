@@ -1,11 +1,11 @@
 id: 457008065
-type: way
+type: node
 latitude: 43.57418
 longitude: 3.9365
 postcode: "34470"
 city: Pérols
-street: "Avenue du Languedoc"
-housenumber: 
-phone: "+33 4 67 50 32 44"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://magasins.picard.fr/731-picard-perols"
+street: Avenue du Languedoc
+housenumber: ""
+phone: +33 4 67 50 32 44
+opening_hours: Mo-Sa 09:00-19:30
+website: https://magasins.picard.fr/731-picard-perols

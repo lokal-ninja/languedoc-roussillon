@@ -4,8 +4,8 @@ latitude: 43.67481
 longitude: 4.13447
 postcode: "34400"
 city: Lunel
-street: "Place Fruiterie"
-housenumber: 26
-phone: "+33 4 67 83 14 14"
-opening_hours: "Tu-Fr 09:00-13:00,16:00-18:00; We,Sa 09:00-13:00,16:00-18:30"
-website: "https://librairie-ab.com/"
+street: Place Fruiterie
+housenumber: "26"
+phone: +33 4 67 83 14 14
+opening_hours: Tu-Fr 09:00-13:00,16:00-18:00; We,Sa 09:00-13:00,16:00-18:30
+website: https://librairie-ab.com/

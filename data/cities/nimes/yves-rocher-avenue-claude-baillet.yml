@@ -1,11 +1,11 @@
 id: 970678935
-type: way
+type: node
 latitude: 43.81265
 longitude: 4.3623
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 04 16 42"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/nimes/nimes-c-cial-cap-costieres/S-FRYROC786"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 04 16 42
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/nimes/nimes-c-cial-cap-costieres/S-FRYROC786

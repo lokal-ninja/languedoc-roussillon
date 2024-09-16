@@ -1,11 +1,11 @@
 id: 75680345
-type: way
+type: node
 latitude: 42.6055
 longitude: 2.97627
 postcode: "66200"
 city: Elne
 street: ""
-housenumber: 10
-phone: "+33 4 68 22 04 56"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:45"
-website: "https://www.intermarche.com/magasins/06829/elne-66200/infos-pratiques"
+housenumber: "10"
+phone: +33 4 68 22 04 56
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:45
+website: https://www.intermarche.com/magasins/06829/elne-66200/infos-pratiques

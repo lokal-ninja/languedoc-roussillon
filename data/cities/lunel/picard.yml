@@ -4,8 +4,8 @@ latitude: 43.6808
 longitude: 4.14546
 postcode: "34400"
 city: Lunel
-street: "Chemin de la Vidourlenque"
-housenumber: 101
-phone: "+33 4 67 07 94 53"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://magasins.picard.fr/523-picard-lunel"
+street: Chemin de la Vidourlenque
+housenumber: "101"
+phone: +33 4 67 07 94 53
+opening_hours: Mo-Sa 09:00-19:30
+website: https://magasins.picard.fr/523-picard-lunel

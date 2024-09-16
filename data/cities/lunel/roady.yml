@@ -1,11 +1,11 @@
 id: 62724321
-type: way
+type: node
 latitude: 43.68414
 longitude: 4.1519
 postcode: "34400"
 city: Lunel
-street: "Avenue du Vidourle"
-housenumber: 
-phone: "+33 4 28 29 41 09"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-19:00"
-website: "https://www.roady-lunel.fr"
+street: Avenue du Vidourle
+housenumber: ""
+phone: +33 4 28 29 41 09
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-19:00
+website: https://www.roady-lunel.fr

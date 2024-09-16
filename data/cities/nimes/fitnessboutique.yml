@@ -4,8 +4,8 @@ latitude: 43.80957
 longitude: 4.35944
 postcode: "30900"
 city: Nîmes
-street: "Rue Jean Lauret"
-housenumber: 148
-phone: "+33 4 66 08 59 14"
-opening_hours: "Mo-Fr 10:00-13:00,14:30-19:00; Sa 10:00-19:00"
-website: "https://nimes.fitnessboutique.fr"
+street: Rue Jean Lauret
+housenumber: "148"
+phone: +33 4 66 08 59 14
+opening_hours: Mo-Fr 10:00-13:00,14:30-19:00; Sa 10:00-19:00
+website: https://nimes.fitnessboutique.fr

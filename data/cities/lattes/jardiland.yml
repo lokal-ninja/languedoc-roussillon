@@ -1,11 +1,11 @@
 id: 82417505
-type: way
+type: node
 latitude: 43.5843
 longitude: 3.93225
 postcode: "34970"
 city: Lattes
-street: "Rue Marcel Carné"
-housenumber: 
-phone: "+33 4 67 15 60 60"
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-12:30,14:00-19:00"
-website: "https://www.jardiland.com/nos-magasins/jardiland-montpellier-lattes.html"
+street: Rue Marcel Carné
+housenumber: ""
+phone: +33 4 67 15 60 60
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-12:30,14:00-19:00
+website: https://www.jardiland.com/nos-magasins/jardiland-montpellier-lattes.html

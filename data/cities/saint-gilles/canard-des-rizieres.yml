@@ -4,8 +4,8 @@ latitude: 43.6081
 longitude: 4.44866
 postcode: "30800"
 city: Saint-Gilles
-street: "Route de Sylveréal"
-housenumber: 
-phone: "+33 6 33 44 68 90"
-opening_hours: "Sur rendez-vous"
-website: "https://canard-desrizieres.fr/"
+street: Route de Sylveréal
+housenumber: ""
+phone: +33 6 33 44 68 90
+opening_hours: '"Sur rendez-vous"'
+website: https://canard-desrizieres.fr/

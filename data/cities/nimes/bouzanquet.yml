@@ -4,8 +4,8 @@ latitude: 43.8381
 longitude: 4.36591
 postcode: "30000"
 city: Nimes
-street: "Rue Séguier"
-housenumber: 16
-phone: "+33 4 66 21 07 94"
-opening_hours: "Tu-Su 5:45-19:00"
+street: Rue Séguier
+housenumber: "16"
+phone: +33 4 66 21 07 94
+opening_hours: Tu-Su 5:45-19:00
 website: ""

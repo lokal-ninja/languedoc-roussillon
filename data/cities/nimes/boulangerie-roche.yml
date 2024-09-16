@@ -4,8 +4,8 @@ latitude: 43.83225
 longitude: 4.36223
 postcode: "30000"
 city: Nîmes
-street: "Place du Guesclin"
-housenumber: 6
-phone: "+33 4 30 67 85 19"
-opening_hours: "Mo-Fr 06:00-18:00"
+street: Place du Guesclin
+housenumber: "6"
+phone: +33 4 30 67 85 19
+opening_hours: Mo-Fr 06:00-18:00
 website: ""

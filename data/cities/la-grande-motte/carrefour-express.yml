@@ -4,8 +4,8 @@ latitude: 43.55919
 longitude: 4.08997
 postcode: "34280"
 city: La Grande-Motte
-street: "Avenue de l'Europe"
-housenumber: 115
-phone: "+33 4 67 56 93 34"
-opening_hours: "08:00-20:00"
-website: "https://www.carrefour.fr/magasin/express-la-grande-motte"
+street: Avenue de l'Europe
+housenumber: "115"
+phone: +33 4 67 56 93 34
+opening_hours: 08:00-20:00
+website: https://www.carrefour.fr/magasin/express-la-grande-motte

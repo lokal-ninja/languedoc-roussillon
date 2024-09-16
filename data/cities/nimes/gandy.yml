@@ -4,8 +4,8 @@ latitude: 43.80961
 longitude: 4.36663
 postcode: "30900"
 city: Nîmes
-street: "Rue Paul Laurent"
-housenumber: 155
-phone: "+33 4 66 87 05 67"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.gandy.fr"
+street: Rue Paul Laurent
+housenumber: "155"
+phone: +33 4 66 87 05 67
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.gandy.fr

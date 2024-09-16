@@ -4,8 +4,8 @@ latitude: 43.67857
 longitude: 4.11909
 postcode: "34400"
 city: Lunel
-street: "Rue de l'Artisanat"
-housenumber: 130
-phone: "+33 4 67 50 02 98"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://latelier34.fr"
+street: Rue de l'Artisanat
+housenumber: "130"
+phone: +33 4 67 50 02 98
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://latelier34.fr

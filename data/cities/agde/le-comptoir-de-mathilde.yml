@@ -1,11 +1,11 @@
 id: 997723432
-type: way
+type: node
 latitude: 43.29842
 longitude: 3.47382
 postcode: "34300"
 city: Agde
-street: "Boulevard Maurice Pacull"
-housenumber: 
-phone: "+33 4 67 94 81 48"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.lecomptoirdemathilde.com"
+street: Boulevard Maurice Pacull
+housenumber: ""
+phone: +33 4 67 94 81 48
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.lecomptoirdemathilde.com

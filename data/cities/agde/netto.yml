@@ -1,11 +1,11 @@
 id: 72441931
-type: way
+type: node
 latitude: 43.30725
 longitude: 3.49509
 postcode: "34300"
 city: Agde
-street: "Route de Sète"
-housenumber: 
-phone: "+33 4 67 94 95 92"
-opening_hours: "Mo-Sa 09:30-19:30; Su 08:30-12:30"
-website: "https://magasin.netto.fr/123-netto-agde"
+street: Route de Sète
+housenumber: ""
+phone: +33 4 67 94 95 92
+opening_hours: Mo-Sa 09:30-19:30; Su 08:30-12:30
+website: https://magasin.netto.fr/123-netto-agde

@@ -1,11 +1,11 @@
 id: 120538355
-type: way
+type: node
 latitude: 44.01309
 longitude: 4.42235
 postcode: "30700"
 city: Uzès
-street: "Rue Saint-Julien"
-housenumber: 2
-phone: "+33 4 66 03 83 77"
+street: Rue Saint-Julien
+housenumber: "2"
+phone: +33 4 66 03 83 77
 opening_hours: ""
 website: ""

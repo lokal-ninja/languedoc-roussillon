@@ -4,8 +4,8 @@ latitude: 43.65858
 longitude: 3.90126
 postcode: "34830"
 city: Jacou
-street: "Rue Louis Breguet"
-housenumber: 4
+street: Rue Louis Breguet
+housenumber: "4"
 phone: "0448190297"
 opening_hours: ""
-website: "https://bodyhouse.fr/"
+website: https://bodyhouse.fr/

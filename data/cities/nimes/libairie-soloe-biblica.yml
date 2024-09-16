@@ -4,8 +4,8 @@ latitude: 43.83889
 longitude: 4.36311
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Amiral Courbet"
-housenumber: 23
-phone: "+33 4 66 67 88 01"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.librairiesiloebiblica.fr/"
+street: Boulevard Amiral Courbet
+housenumber: "23"
+phone: +33 4 66 67 88 01
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.librairiesiloebiblica.fr/

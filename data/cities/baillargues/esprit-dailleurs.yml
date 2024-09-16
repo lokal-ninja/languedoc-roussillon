@@ -4,8 +4,8 @@ latitude: 43.65853
 longitude: 4.01454
 postcode: "34670"
 city: Baillargues
-street: "Rue de Colombiers"
-housenumber: 40
-phone: "+33 4 67 52 92 27"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.espritdailleurs.fr"
+street: Rue de Colombiers
+housenumber: "40"
+phone: +33 4 67 52 92 27
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.espritdailleurs.fr

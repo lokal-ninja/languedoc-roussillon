@@ -1,11 +1,11 @@
 id: 133154056
-type: way
+type: node
 latitude: 43.33121
 longitude: 3.24988
 postcode: "34500"
 city: Béziers
-street: "Avenue Jean Foucault"
-housenumber: 2
-phone: "+33 1 81 09 78 25"
-opening_hours: "Mo-Sa 08:30-0:00; Su 08:30-12:30"
-website: "https://www.aldi.fr"
+street: Avenue Jean Foucault
+housenumber: "2"
+phone: +33 1 81 09 78 25
+opening_hours: Mo-Sa 08:30-0:00; Su 08:30-12:30
+website: https://www.aldi.fr

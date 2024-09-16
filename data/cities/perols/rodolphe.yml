@@ -1,11 +1,11 @@
 id: 374099952
-type: way
+type: node
 latitude: 43.57225
 longitude: 3.94126
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 64 18 93"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 64 18 93
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

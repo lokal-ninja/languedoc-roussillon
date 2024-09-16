@@ -1,11 +1,11 @@
 id: 413309485
-type: way
+type: node
 latitude: 43.58252
 longitude: 3.93064
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 64 46 23"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.claires.com"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 64 46 23
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.claires.com

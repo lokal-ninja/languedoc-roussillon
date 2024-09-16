@@ -1,11 +1,11 @@
 id: 73756875
-type: way
+type: node
 latitude: 44.24638
 longitude: 4.64307
 postcode: "30130"
 city: Pont-Saint-Esprit
-street: "Avenue Général de Gaulle"
-housenumber: 1086
-phone: "+33 4 66 39 69 00"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.ad-neoparts.com"
+street: Avenue Général de Gaulle
+housenumber: "1086"
+phone: +33 4 66 39 69 00
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.ad-neoparts.com

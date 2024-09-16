@@ -1,11 +1,11 @@
 id: 1008967783
-type: way
+type: node
 latitude: 42.7172
 longitude: 2.60683
 postcode: "66720"
 city: Bélesta
-street: "Place de la Mairie"
-housenumber: 
+street: Place de la Mairie
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Th-Fr 08:30-14:00,16:30-21:00; We 16:30-21:00; Sa-Su 10:00-14:00,16:30-21:00"
+opening_hours: Mo,Th-Fr 08:30-14:00,16:30-21:00; We 16:30-21:00; Sa-Su 10:00-14:00,16:30-21:00
 website: ""

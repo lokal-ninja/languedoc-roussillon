@@ -4,8 +4,8 @@ latitude: 43.83596
 longitude: 4.35987
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 32
-phone: "+33 4 66 76 27 17"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://www.franckprovost.com/"
+street: Rue de l'Aspic
+housenumber: "32"
+phone: +33 4 66 76 27 17
+opening_hours: Tu-Sa 09:00-19:00
+website: https://www.franckprovost.com/

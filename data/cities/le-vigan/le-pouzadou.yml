@@ -4,8 +4,8 @@ latitude: 43.99059
 longitude: 3.6062
 postcode: "30120"
 city: Le Vigan
-street: "Place de Bonald"
-housenumber: 5
-phone: "+33 4 67 81 20 02"
-opening_hours: "Tu-Sa 09:30-12:30,15:00-19:00"
+street: Place de Bonald
+housenumber: "5"
+phone: +33 4 67 81 20 02
+opening_hours: Tu-Sa 09:30-12:30,15:00-19:00
 website: ""

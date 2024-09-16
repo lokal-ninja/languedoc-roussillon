@@ -1,11 +1,11 @@
 id: 457008062
-type: way
+type: node
 latitude: 43.57434
 longitude: 3.93766
 postcode: "34470"
 city: Pérols
-street: "Allée de la Bouvine"
-housenumber: 
-phone: "+33 9 83 06 11 45"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://www.chausseur-access-mode.fr"
+street: Allée de la Bouvine
+housenumber: ""
+phone: +33 9 83 06 11 45
+opening_hours: Mo-Fr 10:00-19:00
+website: https://www.chausseur-access-mode.fr

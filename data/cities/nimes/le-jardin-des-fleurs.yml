@@ -4,8 +4,8 @@ latitude: 43.83986
 longitude: 4.35621
 postcode: "30000"
 city: Nîmes
-street: "Square de la Bouquerie"
-housenumber: 3
-phone: "+33 4 66 23 22 18"
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://www.lejardindesfleurs.com/magasins/nimes-sud.html"
+street: Square de la Bouquerie
+housenumber: "3"
+phone: +33 4 66 23 22 18
+opening_hours: Mo-Su 08:30-20:30
+website: https://www.lejardindesfleurs.com/magasins/nimes-sud.html

@@ -4,8 +4,8 @@ latitude: 43.58397
 longitude: 3.93322
 postcode: "34970"
 city: Lattes
-street: "Rue Marcel Carné"
-housenumber: 3
-phone: "+33 4 67 82 60 42"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.boulangerie-ange.fr"
+street: Rue Marcel Carné
+housenumber: "3"
+phone: +33 4 67 82 60 42
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.boulangerie-ange.fr

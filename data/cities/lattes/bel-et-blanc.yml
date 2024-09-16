@@ -1,11 +1,11 @@
 id: 413332674
-type: way
+type: node
 latitude: 43.58261
 longitude: 3.92789
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 64 65 63"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://beletblanc.fr"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 64 65 63
+opening_hours: Mo-Sa 09:30-19:30
+website: https://beletblanc.fr

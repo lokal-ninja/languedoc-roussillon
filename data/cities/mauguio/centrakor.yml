@@ -1,11 +1,11 @@
 id: 112736428
-type: way
+type: node
 latitude: 43.6259
 longitude: 4.01615
 postcode: "34130"
 city: Mauguio
-street: "Rue Merlot"
-housenumber: 282
-phone: "+33 4 67 67 95 70"
-opening_hours: "Mo-Sa 09:30-19:00"
+street: Rue Merlot
+housenumber: "282"
+phone: +33 4 67 67 95 70
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

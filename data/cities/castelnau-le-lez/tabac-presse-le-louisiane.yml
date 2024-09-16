@@ -4,8 +4,8 @@ latitude: 43.6329
 longitude: 3.90357
 postcode: "34170"
 city: Castelnau-le-Lez
-street: "Avenue du Jeu de Mail"
-housenumber: 19
-phone: "+33 9 66 88 40 23"
-opening_hours: "Mo-Fr 07:00-19:30; Sa 08:00-19:30; Su 08:00-13:00"
+street: Avenue du Jeu de Mail
+housenumber: "19"
+phone: +33 9 66 88 40 23
+opening_hours: Mo-Fr 07:00-19:30; Sa 08:00-19:30; Su 08:00-13:00
 website: ""

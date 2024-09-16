@@ -1,11 +1,11 @@
 id: 246497506
-type: way
+type: node
 latitude: 43.45538
 longitude: 3.2962
 postcode: "34290"
 city: Abeilhan
-street: "Rue Denis Papin"
-housenumber: 1
-phone: "+33 9 70 35 61 07"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.garage-abeilhan.fr"
+street: Rue Denis Papin
+housenumber: "1"
+phone: +33 9 70 35 61 07
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.garage-abeilhan.fr

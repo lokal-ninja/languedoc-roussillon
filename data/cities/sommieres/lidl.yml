@@ -1,11 +1,11 @@
 id: 184207120
-type: way
+type: node
 latitude: 43.78887
 longitude: 4.08951
 postcode: "30250"
 city: Sommières
-street: "Avenue Raoul Gaussen"
+street: Avenue Raoul Gaussen
 housenumber: 2 Bis
-phone: "+33 8 00 90 03 43"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.lidl.fr"
+phone: +33 8 00 90 03 43
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.lidl.fr

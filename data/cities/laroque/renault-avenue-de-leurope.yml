@@ -1,11 +1,11 @@
 id: 83595465
-type: way
+type: node
 latitude: 43.92749
 longitude: 3.7156
 postcode: "34190"
 city: Laroque
-street: "Avenue de l'Europe"
-housenumber: 555
-phone: "+33 4 67 73 18 00"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.tressol-chabrier.com/metropole-automobile-laroque-renault"
+street: Avenue de l'Europe
+housenumber: "555"
+phone: +33 4 67 73 18 00
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.tressol-chabrier.com/metropole-automobile-laroque-renault

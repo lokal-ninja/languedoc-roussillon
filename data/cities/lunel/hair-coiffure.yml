@@ -4,8 +4,8 @@ latitude: 43.67477
 longitude: 4.13307
 postcode: "34400"
 city: Lunel
-street: "Cours Gabriel Péri"
-housenumber: 106
-phone: "+33 4 67 71 09 80"
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 08:30-19:00; Sa 08:30-18:00"
+street: Cours Gabriel Péri
+housenumber: "106"
+phone: +33 4 67 71 09 80
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 08:30-19:00; Sa 08:30-18:00
 website: ""

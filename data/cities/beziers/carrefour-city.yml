@@ -4,8 +4,8 @@ latitude: 43.34631
 longitude: 3.21877
 postcode: "34500"
 city: Béziers
-street: "Avenue Jean Moulin"
-housenumber: 
-phone: "+33 4 67 28 89 13"
-opening_hours: "8:30-21:00"
-website: "https://www.carrefour.fr/magasin/city-beziers-moulin"
+street: Avenue Jean Moulin
+housenumber: ""
+phone: +33 4 67 28 89 13
+opening_hours: 8:30-21:00
+website: https://www.carrefour.fr/magasin/city-beziers-moulin

@@ -1,11 +1,11 @@
 id: 201614203
-type: way
+type: node
 latitude: 43.73034
 longitude: 3.9827
 postcode: "34160"
 city: Saint-Drézéry
-street: "Avenue de la Méditerranée"
-housenumber: 25
-phone: "+33 4 67 86 91 33"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30"
-website: "https://garage-salvador.business.site"
+street: Avenue de la Méditerranée
+housenumber: "25"
+phone: +33 4 67 86 91 33
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30
+website: https://garage-salvador.business.site

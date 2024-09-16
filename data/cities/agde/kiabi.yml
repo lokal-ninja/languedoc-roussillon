@@ -1,11 +1,11 @@
 id: 497355155
-type: way
+type: node
 latitude: 43.30665
 longitude: 3.49251
 postcode: "34300"
 city: Agde
-street: "Boulevard René Cassin"
-housenumber: 
-phone: "+33 9 75 92 38 44"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.kiabi.com/magasin/kiabi-AGDE_FMAGDE0"
+street: Boulevard René Cassin
+housenumber: ""
+phone: +33 9 75 92 38 44
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.kiabi.com/magasin/kiabi-AGDE_FMAGDE0

@@ -4,8 +4,8 @@ latitude: 43.28178
 longitude: 3.49735
 postcode: "34300"
 city: Agde
-street: "Avenue des Îles d'Amérique"
-housenumber: 14
-phone: "+33 9 75 28 72 71"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/cap-d-agde"
+street: Avenue des Îles d'Amérique
+housenumber: "14"
+phone: +33 9 75 28 72 71
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/cap-d-agde

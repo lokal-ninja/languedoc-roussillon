@@ -1,11 +1,11 @@
 id: 136745869
-type: way
+type: node
 latitude: 43.57835
 longitude: 4.18924
 postcode: "30220"
 city: Aigues Mortes
-street: "Rue des Marchands"
-housenumber: 443
+street: Rue des Marchands
+housenumber: "443"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.lidl.fr/"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.lidl.fr/

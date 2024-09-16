@@ -4,8 +4,8 @@ latitude: 43.83633
 longitude: 4.35905
 postcode: "30000"
 city: Nîmes
-street: "Place du Marché"
-housenumber: 8
-phone: "+33 4 66 67 20 09"
+street: Place du Marché
+housenumber: "8"
+phone: +33 4 66 67 20 09
 opening_hours: ""
-website: "https://fr.m.wikipedia.org/wiki/P%C3%A2tisserie_Courtois"
+website: https://fr.m.wikipedia.org/wiki/P%C3%A2tisserie_Courtois

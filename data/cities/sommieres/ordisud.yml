@@ -1,11 +1,11 @@
 id: 184210530
-type: way
+type: node
 latitude: 43.78212
 longitude: 4.08138
 postcode: "30250"
 city: Sommières
-street: "Rue des Cardes"
-housenumber: 12
-phone: "+33 4 66 30 43 69"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:30"
-website: "https://ordisud.net"
+street: Rue des Cardes
+housenumber: "12"
+phone: +33 4 66 30 43 69
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:30
+website: https://ordisud.net

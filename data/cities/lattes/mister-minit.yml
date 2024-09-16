@@ -1,11 +1,11 @@
 id: 413332676
-type: way
+type: node
 latitude: 43.58266
 longitude: 3.92779
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 64 98 13"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-20:30"
-website: "https://misterminit.eu/fr_fr/boutiques/mister-minit-lattes-carrefour"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 64 98 13
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-20:30
+website: https://misterminit.eu/fr_fr/boutiques/mister-minit-lattes-carrefour

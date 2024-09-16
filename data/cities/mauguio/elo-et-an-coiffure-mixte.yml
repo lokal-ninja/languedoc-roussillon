@@ -4,8 +4,8 @@ latitude: 43.62484
 longitude: 4.0142
 postcode: "34130"
 city: Mauguio
-street: "Rue Merlot"
-housenumber: 282
-phone: "+33 4 67 56 90 08"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-17:00"
+street: Rue Merlot
+housenumber: "282"
+phone: +33 4 67 56 90 08
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-17:00
 website: ""

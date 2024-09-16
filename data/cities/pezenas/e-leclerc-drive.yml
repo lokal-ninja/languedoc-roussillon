@@ -1,11 +1,11 @@
 id: 1152787505
-type: way
+type: node
 latitude: 43.44713
 longitude: 3.41013
 postcode: "34120"
 city: Pézenas
-street: "Rue des Frères Bouillon"
-housenumber: 6
+street: Rue des Frères Bouillon
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 08:30-19:30"
+opening_hours: Mo-Su 08:30-19:30
 website: ""

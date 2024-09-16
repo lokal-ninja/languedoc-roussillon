@@ -1,11 +1,11 @@
 id: 361736154
-type: way
+type: node
 latitude: 43.46753
 longitude: 3.34323
 postcode: "34290"
 city: Alignan-du-Vent
-street: "Rue de la Guissaume"
-housenumber: 7
-phone: "+33 4 67 24 93 16"
-opening_hours: "Mo-Sa 09:00-12:30-15:00-18:30"
-website: "https://www.cavecooperative.com"
+street: Rue de la Guissaume
+housenumber: "7"
+phone: +33 4 67 24 93 16
+opening_hours: Mo-Sa 09:00-12:30-15:00-18:30
+website: https://www.cavecooperative.com

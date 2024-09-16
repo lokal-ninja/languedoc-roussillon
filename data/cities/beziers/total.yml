@@ -1,11 +1,11 @@
 id: 133277655
-type: way
+type: node
 latitude: 43.35466
 longitude: 3.22201
 postcode: "34500"
 city: Béziers
-street: "Avenue Maréchal Foch"
-housenumber: 152
+street: Avenue Maréchal Foch
+housenumber: "152"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

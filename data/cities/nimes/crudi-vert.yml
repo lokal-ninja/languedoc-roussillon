@@ -4,8 +4,8 @@ latitude: 43.83821
 longitude: 4.34486
 postcode: "30000"
 city: Nîmes
-street: "Avenue du Pasteur Paul Brunel"
-housenumber: 6
-phone: "+33 4 66 23 65 68"
-opening_hours: "Mo-Su 08:15-20:00"
+street: Avenue du Pasteur Paul Brunel
+housenumber: "6"
+phone: +33 4 66 23 65 68
+opening_hours: Mo-Su 08:15-20:00
 website: ""

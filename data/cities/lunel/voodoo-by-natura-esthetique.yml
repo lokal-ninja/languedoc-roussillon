@@ -4,8 +4,9 @@ latitude: 43.67562
 longitude: 4.13225
 postcode: "34400"
 city: Lunel
-street: "Place de la République"
-housenumber: 132
-phone: "+33 4 67 71 93 85"
-opening_hours: "Mo 14:30-19:00; Tu 09:00-19:00; We 09:00-12:00,14:30-19:00; Th-Fr 09:00-19:00; Sa 09:00-12:00,14:30-19:00; Su 09:45-12:15"
-website: "https://naturalunel.com"
+street: Place de la République
+housenumber: "132"
+phone: +33 4 67 71 93 85
+opening_hours: Mo 14:30-19:00; Tu 09:00-19:00; We 09:00-12:00,14:30-19:00; Th-Fr 09:00-19:00;
+    Sa 09:00-12:00,14:30-19:00; Su 09:45-12:15
+website: https://naturalunel.com

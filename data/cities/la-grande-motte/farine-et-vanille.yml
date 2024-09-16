@@ -4,8 +4,8 @@ latitude: 43.55703
 longitude: 4.08754
 postcode: "34280"
 city: La Grande-Motte
-street: "Place du Forum"
-housenumber: 83
-phone: "+33 4 67 05 01 20"
-opening_hours: "06:00-19:00"
+street: Place du Forum
+housenumber: "83"
+phone: +33 4 67 05 01 20
+opening_hours: 06:00-19:00
 website: ""

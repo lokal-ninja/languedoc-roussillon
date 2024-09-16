@@ -4,8 +4,8 @@ latitude: 43.99184
 longitude: 3.60765
 postcode: "30120"
 city: Le Vigan
-street: "Avenue Emmanuel d'Alzon"
-housenumber: 8
-phone: "+33 4 67 81 48 52"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Avenue Emmanuel d'Alzon
+housenumber: "8"
+phone: +33 4 67 81 48 52
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

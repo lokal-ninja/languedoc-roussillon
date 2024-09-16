@@ -1,11 +1,11 @@
 id: 62726517
-type: way
+type: node
 latitude: 43.67945
 longitude: 4.10818
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 831
-phone: "+33 4 67 83 86 77"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.espace-aubade.fr/magasins/lunel-68.html"
+street: Rue des Fournels
+housenumber: "831"
+phone: +33 4 67 83 86 77
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://www.espace-aubade.fr/magasins/lunel-68.html

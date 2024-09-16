@@ -4,8 +4,8 @@ latitude: 43.65539
 longitude: 3.95878
 postcode: "34740"
 city: Vendargues
-street: "Avenue de Bigos"
-housenumber: 360
+street: Avenue de Bigos
+housenumber: "360"
 phone: "+33467419534"
-opening_hours: "Mo-Fr 09:00-12:00,13:30-17:30; Sa 09:00-17:00"
-website: "https://www.resotainer.fr/agence-montpellier"
+opening_hours: Mo-Fr 09:00-12:00,13:30-17:30; Sa 09:00-17:00
+website: https://www.resotainer.fr/agence-montpellier

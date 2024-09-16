@@ -1,11 +1,11 @@
 id: 970669671
-type: way
+type: node
 latitude: 43.81291
 longitude: 4.36352
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 64 43 14"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.nocibe.fr/parfumeries/nimes-cap-costieres/466"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 64 43 14
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.nocibe.fr/parfumeries/nimes-cap-costieres/466

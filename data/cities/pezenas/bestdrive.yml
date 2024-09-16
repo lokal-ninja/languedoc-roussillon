@@ -1,11 +1,11 @@
 id: 274270555
-type: way
+type: node
 latitude: 43.45372
 longitude: 3.41401
 postcode: "34120"
 city: Pézenas
-street: "Boulevard du Général de Gaulle"
-housenumber: 373
+street: Boulevard du Général de Gaulle
+housenumber: "373"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
 website: ""

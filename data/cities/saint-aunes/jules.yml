@@ -1,11 +1,11 @@
 id: 958404740
-type: way
+type: node
 latitude: 43.65179
 longitude: 3.97969
 postcode: "34130"
 city: Saint-Aunès
 street: ""
-housenumber: 
-phone: "+33 4 48 95 02 00"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.jules.com/fr-fr/magasins/16001735"
+housenumber: ""
+phone: +33 4 48 95 02 00
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.jules.com/fr-fr/magasins/16001735

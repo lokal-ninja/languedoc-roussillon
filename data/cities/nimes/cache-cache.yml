@@ -1,11 +1,11 @@
 id: 970664126
-type: way
+type: node
 latitude: 43.81243
 longitude: 4.36261
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 28 90 07"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.cache-cache.fr"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 28 90 07
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.cache-cache.fr

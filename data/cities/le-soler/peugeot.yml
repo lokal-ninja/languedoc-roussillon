@@ -1,11 +1,11 @@
 id: 64057318
-type: way
+type: node
 latitude: 42.68745
 longitude: 2.82314
 postcode: "66270"
 city: Le Soler
-street: "Rue de Madrid"
-housenumber: 
-phone: "+33 4 68 92 40 12"
+street: Rue de Madrid
+housenumber: ""
+phone: +33 4 68 92 40 12
 opening_hours: ""
-website: "https://concessions.peugeot.fr/le-soler/"
+website: https://concessions.peugeot.fr/le-soler/

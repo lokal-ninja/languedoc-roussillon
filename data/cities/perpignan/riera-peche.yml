@@ -1,11 +1,11 @@
 id: 458978233
-type: way
+type: node
 latitude: 42.73878
 longitude: 2.88877
 postcode: "66000"
 city: Perpignan
 street: ""
-housenumber: 450
+housenumber: "450"
 phone: "+33468613376"
 opening_hours: ""
-website: "https://riera-peche.com/"
+website: https://riera-peche.com/

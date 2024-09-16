@@ -4,8 +4,8 @@ latitude: 42.6698
 longitude: 2.89833
 postcode: "66100"
 city: Perpignan
-street: "Chemin de la Fauceille"
-housenumber: 863
-phone: "+33 4 68 64 37 07"
-opening_hours: "Mo-Sa 09:30-12:30,14:30-19:00"
-website: "https://www.sports-montagnes.com/"
+street: Chemin de la Fauceille
+housenumber: "863"
+phone: +33 4 68 64 37 07
+opening_hours: Mo-Sa 09:30-12:30,14:30-19:00
+website: https://www.sports-montagnes.com/

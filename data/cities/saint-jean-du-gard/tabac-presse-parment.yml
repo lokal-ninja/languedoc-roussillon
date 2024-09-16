@@ -4,8 +4,8 @@ latitude: 44.10512
 longitude: 3.88583
 postcode: "30270"
 city: Saint-Jean-du-Gard
-street: "Grand'Rue"
-housenumber: 72
+street: Grand'Rue
+housenumber: "72"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 07:30-19:00; We 07:30-13:00,15:00-19:00; Su 08:00-12:00"
+opening_hours: Mo,Tu,Th-Sa 07:30-19:00; We 07:30-13:00,15:00-19:00; Su 08:00-12:00
 website: ""

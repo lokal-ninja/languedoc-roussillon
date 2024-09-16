@@ -5,7 +5,7 @@ longitude: 3.87269
 postcode: "34000"
 city: Montpellier
 street: ""
-housenumber: 4
-phone: "+33 6 84 45 20 84"
-opening_hours: "Tu-Sa 13:30-18:30"
-website: "https://brad.boutique"
+housenumber: "4"
+phone: +33 6 84 45 20 84
+opening_hours: Tu-Sa 13:30-18:30
+website: https://brad.boutique

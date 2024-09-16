@@ -1,11 +1,11 @@
 id: 92103712
-type: way
+type: node
 latitude: 43.16297
 longitude: 2.98729
 postcode: "11100"
 city: Narbonne
-street: "Rue Georges Bouton"
-housenumber: 
+street: Rue Georges Bouton
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

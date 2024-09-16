@@ -1,11 +1,11 @@
 id: 335746068
-type: way
+type: node
 latitude: 43.76756
 longitude: 4.28016
 postcode: "30620"
 city: Bernis
-street: "Chemin de Calvisson"
-housenumber: 
-phone: "+33 4 66 73 14 00"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:45"
-website: "https://magasins.supercasino.fr/supermarche/bernis/CS741"
+street: Chemin de Calvisson
+housenumber: ""
+phone: +33 4 66 73 14 00
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:45
+website: https://magasins.supercasino.fr/supermarche/bernis/CS741

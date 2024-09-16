@@ -4,8 +4,8 @@ latitude: 43.61001
 longitude: 3.87703
 postcode: "34000"
 city: Montpellier
-street: "Rue de l'Herberie"
-housenumber: 
+street: Rue de l'Herberie
+housenumber: ""
 phone: "+33413350240"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://uniqlo.com/Montpellier"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://uniqlo.com/Montpellier

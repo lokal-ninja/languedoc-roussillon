@@ -1,11 +1,11 @@
 id: 112729035
-type: way
+type: node
 latitude: 43.6245
 longitude: 4.01345
 postcode: "34130"
 city: Mauguio
-street: "Avenue de Baillargues"
-housenumber: 122
-phone: "+33 4 67 92 29 80"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-18:00"
-website: "https://www.dma-peugeot.fr"
+street: Avenue de Baillargues
+housenumber: "122"
+phone: +33 4 67 92 29 80
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-18:00
+website: https://www.dma-peugeot.fr

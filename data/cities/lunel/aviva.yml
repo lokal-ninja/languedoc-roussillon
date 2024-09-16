@@ -4,8 +4,8 @@ latitude: 43.68044
 longitude: 4.14616
 postcode: "34400"
 city: Lunel
-street: "Avenue du Vidourle"
-housenumber: 29
-phone: "+33 4 51 26 16 25"
-opening_hours: "Mo-Th 10:00-12:00,14:00-19:00; Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00"
-website: "https://www.cuisines-aviva.com/magasins-cuisines/lunel"
+street: Avenue du Vidourle
+housenumber: "29"
+phone: +33 4 51 26 16 25
+opening_hours: Mo-Th 10:00-12:00,14:00-19:00; Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00
+website: https://www.cuisines-aviva.com/magasins-cuisines/lunel

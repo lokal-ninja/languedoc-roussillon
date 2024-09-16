@@ -4,8 +4,8 @@ latitude: 43.55934
 longitude: 4.08569
 postcode: "34280"
 city: La Grande-Motte
-street: "Avenue Pierre Racine"
-housenumber: 19
-phone: "+33 6 63 44 36 37"
-opening_hours: "Mo-Sa 09:00-13:00,16:00-19:15; Su 09:00-13:00"
+street: Avenue Pierre Racine
+housenumber: "19"
+phone: +33 6 63 44 36 37
+opening_hours: Mo-Sa 09:00-13:00,16:00-19:15; Su 09:00-13:00
 website: ""

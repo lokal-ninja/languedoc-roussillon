@@ -4,8 +4,8 @@ latitude: 43.84657
 longitude: 4.36299
 postcode: "30000"
 city: Nîmes
-street: "Rue Bonfa"
-housenumber: 22
-phone: "+33 9 62 64 60 13"
-opening_hours: "Mo-Sa 08:00,12:00-16:00,19:30"
-website: "https://www.vival.fr/"
+street: Rue Bonfa
+housenumber: "22"
+phone: +33 9 62 64 60 13
+opening_hours: Mo-Sa 08:00,12:00-16:00,19:30
+website: https://www.vival.fr/

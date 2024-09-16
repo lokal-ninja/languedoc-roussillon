@@ -1,11 +1,11 @@
 id: 951439505
-type: way
+type: node
 latitude: 43.64269
 longitude: 3.94167
 postcode: "34920"
 city: Le Crès
-street: "Route de Nîmes"
-housenumber: 
-phone: "+33 4 67 87 00 07"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.cresoptic.fr"
+street: Route de Nîmes
+housenumber: ""
+phone: +33 4 67 87 00 07
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.cresoptic.fr

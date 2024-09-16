@@ -4,8 +4,8 @@ latitude: 43.73294
 longitude: 3.98056
 postcode: "34160"
 city: Saint-Drézéry
-street: "Avenue de la Méditerranée"
-housenumber: 2
-phone: "+33 4 99 67 70 47"
-opening_hours: "Tu-Sa 08:00-12:30, 16:00-19:30"
+street: Avenue de la Méditerranée
+housenumber: "2"
+phone: +33 4 99 67 70 47
+opening_hours: Tu-Sa 08:00-12:30, 16:00-19:30
 website: ""

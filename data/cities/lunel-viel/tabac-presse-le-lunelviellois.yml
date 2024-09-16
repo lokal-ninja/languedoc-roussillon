@@ -4,8 +4,8 @@ latitude: 43.67904
 longitude: 4.09084
 postcode: "34400"
 city: Lunel-Viel
-street: "Avenue de la République"
-housenumber: 626
-phone: "+33 4 67 71 18 27"
-opening_hours: "Mo-Sa 06:00-19:00; Su 07:00-13:00"
-website: "http://www.magpresse.com"
+street: Avenue de la République
+housenumber: "626"
+phone: +33 4 67 71 18 27
+opening_hours: Mo-Sa 06:00-19:00; Su 07:00-13:00
+website: http://www.magpresse.com

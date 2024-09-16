@@ -1,11 +1,11 @@
 id: 62728283
-type: way
+type: node
 latitude: 43.67945
 longitude: 4.11545
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 211
+street: Rue des Fournels
+housenumber: "211"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:00"
-website: "https://www.aufildubain.fr/salle-de-bain-lunel-fic.html"
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:00
+website: https://www.aufildubain.fr/salle-de-bain-lunel-fic.html

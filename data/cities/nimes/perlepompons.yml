@@ -4,8 +4,8 @@ latitude: 43.83826
 longitude: 4.35934
 postcode: "30000"
 city: Nîmes
-street: "Rue de la Madeleine"
-housenumber: 1
-phone: "+33 4 66 67 99 87"
-opening_hours: "Mo-Sa 09:30-18:30"
-website: "https://www.facebook.com/pg/Perl%C3%A9pompons-Nimes-109166010819948/posts/"
+street: Rue de la Madeleine
+housenumber: "1"
+phone: +33 4 66 67 99 87
+opening_hours: Mo-Sa 09:30-18:30
+website: https://www.facebook.com/pg/Perl%C3%A9pompons-Nimes-109166010819948/posts/

@@ -1,11 +1,11 @@
 id: 619420251
-type: way
+type: node
 latitude: 43.9103
 longitude: 4.00119
 postcode: "30260"
 city: Quissac
-street: "Avenue du 11 Novembre"
-housenumber: 
-phone: "+33 4 66 77 52 40"
-opening_hours: "Mo,Su 09:00-12:30; Tu-Sa 09:00-12:30,14:30-19:30"
+street: Avenue du 11 Novembre
+housenumber: ""
+phone: +33 4 66 77 52 40
+opening_hours: Mo,Su 09:00-12:30; Tu-Sa 09:00-12:30,14:30-19:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.25453
 longitude: 4.64527
 postcode: "30130"
 city: Pont-Saint-Esprit
-street: "Avenue Gaston Doumergue"
-housenumber: 221
-phone: "+33 4 66 39 22 62"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-17:00"
-website: "https://www.imprimerie-provence.fr"
+street: Avenue Gaston Doumergue
+housenumber: "221"
+phone: +33 4 66 39 22 62
+opening_hours: Mo-Fr 09:00-12:00,14:00-17:00
+website: https://www.imprimerie-provence.fr

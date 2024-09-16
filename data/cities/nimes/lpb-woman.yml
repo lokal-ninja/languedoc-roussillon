@@ -1,11 +1,11 @@
 id: 970678915
-type: way
+type: node
 latitude: 43.81225
 longitude: 4.36093
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 9 63 55 13 30"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://lespetitesbombes.com/"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 9 63 55 13 30
+opening_hours: Mo-Sa 09:30-20:00
+website: https://lespetitesbombes.com/

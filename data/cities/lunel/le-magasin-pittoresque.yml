@@ -4,8 +4,8 @@ latitude: 43.67468
 longitude: 4.13456
 postcode: "34400"
 city: Lunel
-street: "Rue Frédéric Mistral"
-housenumber: 11
-phone: "+33 6 83 57 28 46"
-opening_hours: "Tu 10:00-12:30,14:00-18:00; Th-Sa 10:00-12:30,14:00-19:00; Su 10:00-12:30"
-website: "https://le-magasin-pittoresque.sumup.link/"
+street: Rue Frédéric Mistral
+housenumber: "11"
+phone: +33 6 83 57 28 46
+opening_hours: Tu 10:00-12:30,14:00-18:00; Th-Sa 10:00-12:30,14:00-19:00; Su 10:00-12:30
+website: https://le-magasin-pittoresque.sumup.link/

@@ -4,8 +4,8 @@ latitude: 43.93601
 longitude: 3.70955
 postcode: "34190"
 city: Ganges
-street: "Rue Jean Jaurès"
-housenumber: 1
-phone: "+33 4 67 73 81 87"
-opening_hours: "Mo-Sa 07:00-12:30,14:00-19:00; Su 07:00-12:30"
-website: "http://www.magpresse.com"
+street: Rue Jean Jaurès
+housenumber: "1"
+phone: +33 4 67 73 81 87
+opening_hours: Mo-Sa 07:00-12:30,14:00-19:00; Su 07:00-12:30
+website: http://www.magpresse.com

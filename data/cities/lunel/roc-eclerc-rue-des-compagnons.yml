@@ -1,11 +1,11 @@
 id: 62735043
-type: way
+type: node
 latitude: 43.67979
 longitude: 4.10678
 postcode: "34400"
 city: Lunel
-street: "Rue des Compagnons"
-housenumber: 160
-phone: "+33 4 67 71 02 23"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.groupe-roc-eclerc.com/nos-agences/occitanie/herault-34/lunel/34400-pompes-funebres-roc-eclerc-lunel-fun_fra034_010"
+street: Rue des Compagnons
+housenumber: "160"
+phone: +33 4 67 71 02 23
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.groupe-roc-eclerc.com/nos-agences/occitanie/herault-34/lunel/34400-pompes-funebres-roc-eclerc-lunel-fun_fra034_010

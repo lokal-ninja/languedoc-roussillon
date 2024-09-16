@@ -1,11 +1,11 @@
 id: 193472749
-type: way
+type: node
 latitude: 43.67983
 longitude: 3.90657
 postcode: "34820"
 city: Teyran
-street: "Route de Prades-le-Lez"
-housenumber: 1050
-phone: "+33 637131985"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00"
+street: Route de Prades-le-Lez
+housenumber: "1050"
+phone: +33 637131985
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00
 website: ""

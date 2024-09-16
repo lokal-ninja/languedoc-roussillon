@@ -1,11 +1,11 @@
 id: 480375923
-type: way
+type: node
 latitude: 43.58372
 longitude: 3.77403
 postcode: "34570"
 city: Pignan
-street: "Placette Florence Arthaud"
-housenumber: 
+street: Placette Florence Arthaud
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.magasins-u.com/magasin/superu-pignan"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.magasins-u.com/magasin/superu-pignan

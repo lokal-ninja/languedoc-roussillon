@@ -1,11 +1,11 @@
 id: 330341287
-type: way
+type: node
 latitude: 43.70697
 longitude: 4.26904
 postcode: "30600"
 city: Vauvert
-street: "Avenue du Mas Saint-Laurent"
-housenumber: 
-phone: "+33 4 66 93 59 30"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.intermarche.com"
+street: Avenue du Mas Saint-Laurent
+housenumber: ""
+phone: +33 4 66 93 59 30
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.intermarche.com

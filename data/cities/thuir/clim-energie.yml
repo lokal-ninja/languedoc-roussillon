@@ -1,11 +1,11 @@
 id: 64068102
-type: way
+type: node
 latitude: 42.63171
 longitude: 2.76528
 postcode: "66300"
 city: Thuir
-street: "Impasse du Capcir"
-housenumber: 5
+street: Impasse du Capcir
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

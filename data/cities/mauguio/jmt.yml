@@ -4,8 +4,8 @@ latitude: 43.59004
 longitude: 3.93578
 postcode: "34130"
 city: Mauguio
-street: "Rue Antoine de Saint-Exupéry"
-housenumber: 47
-phone: "+33 9 79 59 97 93"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.jmt-alimentation-animale.com/magasins/jmt-mauguio"
+street: Rue Antoine de Saint-Exupéry
+housenumber: "47"
+phone: +33 9 79 59 97 93
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.jmt-alimentation-animale.com/magasins/jmt-mauguio

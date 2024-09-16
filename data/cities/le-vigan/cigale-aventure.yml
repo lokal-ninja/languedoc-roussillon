@@ -4,8 +4,8 @@ latitude: 43.99062
 longitude: 3.60582
 postcode: "30120"
 city: Le Vigan
-street: "Rue de l'Horloge"
-housenumber: 3
-phone: "+33 9 80 36 37 84"
-opening_hours: "Apr-Sep Mo-Sa 09:00-12:30,13:30-17:30; Jul-Aug 09:00-19:00"
-website: "https://www.cigaleaventure.com"
+street: Rue de l'Horloge
+housenumber: "3"
+phone: +33 9 80 36 37 84
+opening_hours: Apr-Sep Mo-Sa 09:00-12:30,13:30-17:30; Jul-Aug 09:00-19:00
+website: https://www.cigaleaventure.com

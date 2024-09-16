@@ -4,8 +4,8 @@ latitude: 43.83542
 longitude: 4.35862
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Victor Hugo"
-housenumber: 2
-phone: "+33 4 66 21 08 03"
-opening_hours: "Mo-Sa 07:00-19:30"
+street: Boulevard Victor Hugo
+housenumber: "2"
+phone: +33 4 66 21 08 03
+opening_hours: Mo-Sa 07:00-19:30
 website: ""

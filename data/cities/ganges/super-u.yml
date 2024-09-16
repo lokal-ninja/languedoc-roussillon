@@ -1,11 +1,11 @@
 id: 53708552
-type: way
+type: node
 latitude: 43.92988
 longitude: 3.70661
 postcode: "34190"
 city: Ganges
-street: "Rue des Calquières"
-housenumber: 
-phone: "+33 4 67 73 89 16"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:00"
+street: Rue des Calquières
+housenumber: ""
+phone: +33 4 67 73 89 16
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:00
 website: ""

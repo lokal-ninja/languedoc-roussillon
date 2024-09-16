@@ -1,11 +1,11 @@
 id: 50699219
-type: way
+type: node
 latitude: 43.99127
 longitude: 3.60899
 postcode: "30120"
 city: Le Vigan
-street: "Place du Maréchal Juin"
-housenumber: 
-phone: "+33 4 67 81 25 23"
-opening_hours: "Mo-Sa 08:30-19:30, Su 08:30-12:30"
-website: "https://www.coursesu.com/f-superu-levigan-informations"
+street: Place du Maréchal Juin
+housenumber: ""
+phone: +33 4 67 81 25 23
+opening_hours: Mo-Sa 08:30-19:30, Su 08:30-12:30
+website: https://www.coursesu.com/f-superu-levigan-informations

@@ -4,8 +4,8 @@ latitude: 43.57442
 longitude: 4.19554
 postcode: "30220"
 city: Aigues-Mortes
-street: "Route de Nîmes"
-housenumber: 567
-phone: "+33 4 66 51 67 34"
-opening_hours: "Mo-Sa 09:30-12:20,14:00-17:45"
+street: Route de Nîmes
+housenumber: "567"
+phone: +33 4 66 51 67 34
+opening_hours: Mo-Sa 09:30-12:20,14:00-17:45
 website: ""

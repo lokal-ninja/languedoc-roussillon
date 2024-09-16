@@ -4,8 +4,8 @@ latitude: 43.83475
 longitude: 4.35059
 postcode: "30000"
 city: Nîmes
-street: "Avenue Jean Jaurès"
-housenumber: 42
-phone: "+33 4 66 62 02 59"
-opening_hours: "Mo-Sa 08:00-13:00, 15:00-18:00, Su 09:00-13:00"
-website: "https://www.facebook.com/pg/LesReboussiers/about/?ref=page_internal"
+street: Avenue Jean Jaurès
+housenumber: "42"
+phone: +33 4 66 62 02 59
+opening_hours: Mo-Sa 08:00-13:00, 15:00-18:00, Su 09:00-13:00
+website: https://www.facebook.com/pg/LesReboussiers/about/?ref=page_internal

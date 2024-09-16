@@ -1,11 +1,11 @@
 id: 62744129
-type: way
+type: node
 latitude: 43.68042
 longitude: 4.14816
 postcode: "34400"
 city: Lunel
-street: "Rue du Levant"
-housenumber: 125
+street: Rue du Levant
+housenumber: "125"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cartecarburant.leclerc/stations-service/occitanie/lunel/eleclerc-lunel"
+opening_hours: 24/7
+website: https://www.cartecarburant.leclerc/stations-service/occitanie/lunel/eleclerc-lunel

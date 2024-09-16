@@ -4,8 +4,9 @@ latitude: 44.25768
 longitude: 4.64816
 postcode: "30130"
 city: Pont-Saint-Esprit
-street: "Rue des Trois Journées"
-housenumber: 30
-phone: "+33 4 66 82 54 75"
-opening_hours: "Tu-Th 06:30-13:00,15:30-19:00; Fr 06:30-19:00; Sa 06:30-13:00,16:00-19:00; Su 06:30-13:00"
-website: "https://www.lespiribonpain.fr"
+street: Rue des Trois Journées
+housenumber: "30"
+phone: +33 4 66 82 54 75
+opening_hours: Tu-Th 06:30-13:00,15:30-19:00; Fr 06:30-19:00; Sa 06:30-13:00,16:00-19:00;
+    Su 06:30-13:00
+website: https://www.lespiribonpain.fr

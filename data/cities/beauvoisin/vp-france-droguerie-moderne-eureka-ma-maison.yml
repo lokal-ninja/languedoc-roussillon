@@ -4,8 +4,8 @@ latitude: 43.72103
 longitude: 4.32049
 postcode: "30640"
 city: Beauvoisin
-street: "Rue du Jeu de Mail"
-housenumber: 264
+street: Rue du Jeu de Mail
+housenumber: "264"
 phone: "+33466019515"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00, Sa 09:00-12:00, 14:00-18:00"
-website: "https://beauvoisin.eurekamamaison.fr/"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00, Sa 09:00-12:00, 14:00-18:00
+website: https://beauvoisin.eurekamamaison.fr/

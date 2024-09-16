@@ -4,8 +4,8 @@ latitude: 42.73081
 longitude: 2.87455
 postcode: "66000"
 city: Perpignan
-street: "Rue Henry Potez"
-housenumber: 50
+street: Rue Henry Potez
+housenumber: "50"
 phone: "+33787231222"
-opening_hours: "Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00; Sa 09:00-17:00"
-website: "https://www.resotainer.fr/agence-perpignan-aeroport"
+opening_hours: Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00; Sa 09:00-17:00
+website: https://www.resotainer.fr/agence-perpignan-aeroport

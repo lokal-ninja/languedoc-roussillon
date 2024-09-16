@@ -1,11 +1,11 @@
 id: 970678940
-type: way
+type: node
 latitude: 43.81262
 longitude: 4.36213
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 27 07 78"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://victoretmadeleine.fr"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 27 07 78
+opening_hours: Mo-Sa 09:30-20:00
+website: http://victoretmadeleine.fr

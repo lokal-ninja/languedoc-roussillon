@@ -4,8 +4,8 @@ latitude: 43.83504
 longitude: 4.35138
 postcode: "30000"
 city: Nîmes
-street: "Avenue Jean Jaurès"
-housenumber: 23
-phone: "+33 4 66 58 38 38"
-opening_hours: "Mo-Fr 08:45-12:00,14:00-18:00"
-website: "https://gallouedec.fr/"
+street: Avenue Jean Jaurès
+housenumber: "23"
+phone: +33 4 66 58 38 38
+opening_hours: Mo-Fr 08:45-12:00,14:00-18:00
+website: https://gallouedec.fr/

@@ -1,11 +1,11 @@
 id: 122458812
-type: way
+type: node
 latitude: 43.6492
 longitude: 4.04125
 postcode: "34130"
 city: Mudaison
-street: "Place de la République"
-housenumber: 
-phone: "+33 6 66 35 26 24"
-opening_hours: "07:00-13:00,16:30-20:30"
+street: Place de la République
+housenumber: ""
+phone: +33 6 66 35 26 24
+opening_hours: 07:00-13:00,16:30-20:30
 website: ""

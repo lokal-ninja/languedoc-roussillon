@@ -4,8 +4,8 @@ latitude: 43.67664
 longitude: 4.13737
 postcode: "34400"
 city: Lunel
-street: "Boulevard de Strasbourg"
-housenumber: 140
-phone: "+33 9 84 20 66 95"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://www.neoprint-lr.com"
+street: Boulevard de Strasbourg
+housenumber: "140"
+phone: +33 9 84 20 66 95
+opening_hours: Mo-Fr 09:30-18:00
+website: https://www.neoprint-lr.com

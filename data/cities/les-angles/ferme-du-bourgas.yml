@@ -4,8 +4,9 @@ latitude: 43.94884
 longitude: 4.77066
 postcode: "30133"
 city: Les Angles
-street: "Chemin de Rigaud"
-housenumber: 1
+street: Chemin de Rigaud
+housenumber: "1"
 phone: "+33490251107"
-opening_hours: "May-Sep Tu-Th 16:00-19:30; Sa 9:00-12:00; Oct-Nov Tu-We 15:00-18:30; Sa 9:00-12:00; Dec-Apr off"
-website: "http://ferme.le.bourgas.free.fr"
+opening_hours: May-Sep Tu-Th 16:00-19:30; Sa 9:00-12:00; Oct-Nov Tu-We 15:00-18:30;
+    Sa 9:00-12:00; Dec-Apr off
+website: http://ferme.le.bourgas.free.fr

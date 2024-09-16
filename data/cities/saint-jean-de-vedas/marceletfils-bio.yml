@@ -4,8 +4,8 @@ latitude: 43.57048
 longitude: 3.84293
 postcode: "34430"
 city: Saint-Jean-de-Védas
-street: "Avenue de la Condamine"
-housenumber: 9
-phone: "+33 4 67 47 61 34"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Avenue de la Condamine
+housenumber: "9"
+phone: +33 4 67 47 61 34
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

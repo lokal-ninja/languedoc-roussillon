@@ -4,8 +4,8 @@ latitude: 43.83491
 longitude: 4.36354
 postcode: "30000"
 city: Nîmes
-street: "Boulevard de Prague"
-housenumber: 7
-phone: "+33 4 66 21 09 17"
-opening_hours: "Mo-Sa 7:00-19:00"
+street: Boulevard de Prague
+housenumber: "7"
+phone: +33 4 66 21 09 17
+opening_hours: Mo-Sa 7:00-19:00
 website: ""

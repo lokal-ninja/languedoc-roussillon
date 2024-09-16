@@ -4,8 +4,8 @@ latitude: 43.83999
 longitude: 4.35779
 postcode: "30000"
 city: Nîmes
-street: "Rue Guizot"
-housenumber: 13
-phone: "+33 4 66 67 93 44"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-13:30, 14:30-19:00"
-website: "http://www.salsa-bonbons.fr"
+street: Rue Guizot
+housenumber: "13"
+phone: +33 4 66 67 93 44
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-13:30, 14:30-19:00
+website: http://www.salsa-bonbons.fr

@@ -4,8 +4,8 @@ latitude: 43.83364
 longitude: 4.35356
 postcode: "30000"
 city: Nîmes
-street: "Place de la Placette"
-housenumber: 1
-phone: "+33 4 66 23 84 04"
-opening_hours: "Mo-Fr 07:00-19:00; Su 08:00-13:00"
+street: Place de la Placette
+housenumber: "1"
+phone: +33 4 66 23 84 04
+opening_hours: Mo-Fr 07:00-19:00; Su 08:00-13:00
 website: ""

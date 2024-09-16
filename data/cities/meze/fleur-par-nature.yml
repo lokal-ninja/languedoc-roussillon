@@ -4,8 +4,8 @@ latitude: 43.42892
 longitude: 3.60793
 postcode: "34140"
 city: Mèze
-street: "Avenue de Montpellier"
-housenumber: 46
-phone: "+33 4 67 66 11 19"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-13:00"
-website: "https://www.fleurparnature-montpellier.com"
+street: Avenue de Montpellier
+housenumber: "46"
+phone: +33 4 67 66 11 19
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-13:00
+website: https://www.fleurparnature-montpellier.com

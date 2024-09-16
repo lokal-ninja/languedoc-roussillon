@@ -4,8 +4,8 @@ latitude: 43.44111
 longitude: 3.14476
 postcode: "34490"
 city: Murviel-lès-Béziers
-street: "Boulevard Maréchal Foch"
-housenumber: 2
-phone: "+33 9 86 39 99 41"
-opening_hours: "Mo-Sa 06:00-13:00, 14:00-19:30; Su 07:00-13:00; PH 07:00-13:00"
+street: Boulevard Maréchal Foch
+housenumber: "2"
+phone: +33 9 86 39 99 41
+opening_hours: Mo-Sa 06:00-13:00, 14:00-19:30; Su 07:00-13:00; PH 07:00-13:00
 website: ""

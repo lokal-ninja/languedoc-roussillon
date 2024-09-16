@@ -1,11 +1,11 @@
 id: 114968460
-type: way
+type: node
 latitude: 43.57039
 longitude: 3.94173
 postcode: "34470"
 city: Pérols
-street: "Rue Bir Hakeim"
-housenumber: 
-phone: "+33 4 67 83 75 40"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://arena-automobile.fr"
+street: Rue Bir Hakeim
+housenumber: ""
+phone: +33 4 67 83 75 40
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://arena-automobile.fr

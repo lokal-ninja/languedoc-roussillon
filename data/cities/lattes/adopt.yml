@@ -1,11 +1,11 @@
 id: 413332673
-type: way
+type: node
 latitude: 43.58258
 longitude: 3.92794
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 65 78 21"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.adopt.com"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 65 78 21
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.adopt.com

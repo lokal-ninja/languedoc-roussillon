@@ -4,8 +4,8 @@ latitude: 43.83706
 longitude: 4.36563
 postcode: "30000"
 city: Nîmes
-street: "Rue Notre-Dame"
-housenumber: 21
-phone: "+33 4 66 21 41 30"
-opening_hours: "Tu-Fr 09:30-12:00, 14:00-18:30, Sa 09:30-12:00"
-website: "https://www.cliniqueducheveu.fr/"
+street: Rue Notre-Dame
+housenumber: "21"
+phone: +33 4 66 21 41 30
+opening_hours: Tu-Fr 09:30-12:00, 14:00-18:30, Sa 09:30-12:00
+website: https://www.cliniqueducheveu.fr/

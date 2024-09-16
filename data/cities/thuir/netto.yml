@@ -1,11 +1,11 @@
 id: 64077658
-type: way
+type: node
 latitude: 42.63177
 longitude: 2.7613
 postcode: "66300"
 city: Thuir
-street: "Avenue de la Côte Vermeille"
-housenumber: 1
-phone: "+33 4 68 53 01 15"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://magasin.netto.fr/309-netto-thuir"
+street: Avenue de la Côte Vermeille
+housenumber: "1"
+phone: +33 4 68 53 01 15
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://magasin.netto.fr/309-netto-thuir

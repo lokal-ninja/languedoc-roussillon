@@ -4,8 +4,8 @@ latitude: 43.83752
 longitude: 4.36704
 postcode: "30000"
 city: Nimes
-street: "Rue Notre-Dame"
-housenumber: 28
-phone: "+33 4 66 67 91 64"
-opening_hours: "Mo 13:30-18:30, Th-Sa 9:00-19:00"
-website: "https://www.rodrigue-coiffure.fr/"
+street: Rue Notre-Dame
+housenumber: "28"
+phone: +33 4 66 67 91 64
+opening_hours: Mo 13:30-18:30, Th-Sa 9:00-19:00
+website: https://www.rodrigue-coiffure.fr/

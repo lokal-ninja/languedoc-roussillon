@@ -4,8 +4,8 @@ latitude: 43.44551
 longitude: 3.75588
 postcode: "34110"
 city: Frontignan
-street: "Place du Marché"
-housenumber: 24
-phone: "+33 4 67 48 11 63"
-opening_hours: "Mo-Sa 06:30-12:30, 15:30-19:30; Su 07:00-12:00"
+street: Place du Marché
+housenumber: "24"
+phone: +33 4 67 48 11 63
+opening_hours: Mo-Sa 06:30-12:30, 15:30-19:30; Su 07:00-12:00
 website: ""

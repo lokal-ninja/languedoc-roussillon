@@ -1,11 +1,11 @@
 id: 29376548
-type: way
+type: node
 latitude: 43.60579
 longitude: 3.923
 postcode: "34000"
 city: Montpellier
-street: "Avenue Georges Méliès"
-housenumber: 1072
+street: Avenue Georges Méliès
+housenumber: "1072"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_15"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_15

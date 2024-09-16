@@ -4,8 +4,8 @@ latitude: 43.60703
 longitude: 3.89355
 postcode: "34000"
 city: Montpellier
-street: "Avenue Jacques Cartier"
-housenumber: 229
-phone: "+33 4 67 85 58 98"
-opening_hours: "Tu-Fr 10:00-17:30"
+street: Avenue Jacques Cartier
+housenumber: "229"
+phone: +33 4 67 85 58 98
+opening_hours: Tu-Fr 10:00-17:30
 website: ""

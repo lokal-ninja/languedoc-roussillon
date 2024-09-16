@@ -4,8 +4,8 @@ latitude: 43.99157
 longitude: 3.60441
 postcode: "30120"
 city: Le Vigan
-street: "Boulevard des Châtaigniers"
-housenumber: 9
-phone: "+33 7 77 49 34 52"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00; Su 09:00-12:30"
-website: "https://www.socoquette.fr"
+street: Boulevard des Châtaigniers
+housenumber: "9"
+phone: +33 7 77 49 34 52
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00; Su 09:00-12:30
+website: https://www.socoquette.fr

@@ -1,11 +1,11 @@
 id: 130821019
-type: way
+type: node
 latitude: 44.1046
 longitude: 4.08385
 postcode: "30100"
 city: Alès
-street: "Avenue Olivier de Serres"
-housenumber: 155
-phone: "+33 4 66 52 52 61"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.autorougier.fr/"
+street: Avenue Olivier de Serres
+housenumber: "155"
+phone: +33 4 66 52 52 61
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
+website: https://www.autorougier.fr/

@@ -1,11 +1,11 @@
 id: 114965650
-type: way
+type: node
 latitude: 43.57655
 longitude: 3.93397
 postcode: "34470"
 city: Pérols
-street: "Allée de l'Expansion"
-housenumber: 
-phone: "+33 4 67 83 17 38"
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-12:30,14:00-18:30"
-website: "https://www.gifi.fr"
+street: Allée de l'Expansion
+housenumber: ""
+phone: +33 4 67 83 17 38
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-12:30,14:00-18:30
+website: https://www.gifi.fr

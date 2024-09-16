@@ -1,11 +1,11 @@
 id: 128741631
-type: way
+type: node
 latitude: 43.6932
 longitude: 4.20329
 postcode: "30470"
 city: Aimargues
-street: "Route de la Petite Camargue"
-housenumber: 
-phone: "+33 4 66 88 50 08"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.coursesu.com/f-superu-aimargues-informations"
+street: Route de la Petite Camargue
+housenumber: ""
+phone: +33 4 66 88 50 08
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.coursesu.com/f-superu-aimargues-informations

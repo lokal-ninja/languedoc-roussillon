@@ -1,11 +1,11 @@
 id: 413332683
-type: way
+type: node
 latitude: 43.58234
 longitude: 3.92843
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 64 46 26"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-20:30"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/lattes/montpellier-lattes/S-FRYROC653"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 64 46 26
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-20:30
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/lattes/montpellier-lattes/S-FRYROC653

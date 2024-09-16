@@ -1,11 +1,11 @@
 id: 63421298
-type: way
+type: node
 latitude: 42.64099
 longitude: 2.87716
 postcode: "66450"
 city: Pollestres
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

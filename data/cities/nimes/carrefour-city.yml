@@ -4,8 +4,8 @@ latitude: 43.83645
 longitude: 4.35518
 postcode: "30900"
 city: Nîmes
-street: "Rue Émile Jamais"
-housenumber: 8
-phone: "+33 4 66 05 59 68"
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/enseignes/city"
+street: Rue Émile Jamais
+housenumber: "8"
+phone: +33 4 66 05 59 68
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
+website: https://www.carrefour.fr/enseignes/city

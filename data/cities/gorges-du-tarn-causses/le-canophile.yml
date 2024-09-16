@@ -1,11 +1,11 @@
 id: 65401288
-type: way
+type: node
 latitude: 44.36618
 longitude: 3.41635
 postcode: "48210"
 city: Gorges du Tarn Causses
-street: "Route de Florac"
-housenumber: 
+street: Route de Florac
+housenumber: ""
 phone: "+33466485760"
 opening_hours: ""
-website: "https://www.canoe-tarn.com/"
+website: https://www.canoe-tarn.com/

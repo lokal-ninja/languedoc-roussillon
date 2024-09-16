@@ -1,11 +1,11 @@
 id: 114962536
-type: way
+type: node
 latitude: 43.57678
 longitude: 3.93556
 postcode: "34470"
 city: Pérols
-street: "Allée de l'Expansion"
-housenumber: 
-phone: "+33 4 67 50 31 36"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.gemo.fr/magasin/GEMO_PEROLS_chaussures_et_vetements/GEMO_2409"
+street: Allée de l'Expansion
+housenumber: ""
+phone: +33 4 67 50 31 36
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.gemo.fr/magasin/GEMO_PEROLS_chaussures_et_vetements/GEMO_2409

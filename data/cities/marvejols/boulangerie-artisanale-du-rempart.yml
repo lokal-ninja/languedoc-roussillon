@@ -4,8 +4,8 @@ latitude: 44.55482
 longitude: 3.29175
 postcode: "48100"
 city: Marvejols
-street: "Boulevard Saint-Dominique"
-housenumber: 3
-phone: "+33 4 66 65 29 67"
-opening_hours: "Mo-Sa 06:30-14:00,15:00-19:30"
+street: Boulevard Saint-Dominique
+housenumber: "3"
+phone: +33 4 66 65 29 67
+opening_hours: Mo-Sa 06:30-14:00,15:00-19:30
 website: ""

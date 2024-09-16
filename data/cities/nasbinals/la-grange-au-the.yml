@@ -1,11 +1,11 @@
 id: 142700279
-type: way
+type: node
 latitude: 44.66114
 longitude: 3.04642
 postcode: "48260"
 city: Nasbinals
-street: "Place du foirail"
-housenumber: 
-phone: "+33 6 07 76 36 81"
+street: Place du foirail
+housenumber: ""
+phone: +33 6 07 76 36 81
 opening_hours: ""
-website: "https://lagrangeauthe.com"
+website: https://lagrangeauthe.com

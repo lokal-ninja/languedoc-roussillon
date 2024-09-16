@@ -1,11 +1,11 @@
 id: 73451988
-type: way
+type: node
 latitude: 43.93261
 longitude: 3.70878
 postcode: "34190"
 city: Ganges
-street: "Avenue du Mont Aigoual"
-housenumber: 
-phone: "+33 4 67 73 82 15"
-opening_hours: "Mo-Sa 08:00-12:00,14:00-18:30"
-website: "http://www.automobilesboissiere.com"
+street: Avenue du Mont Aigoual
+housenumber: ""
+phone: +33 4 67 73 82 15
+opening_hours: Mo-Sa 08:00-12:00,14:00-18:30
+website: http://www.automobilesboissiere.com

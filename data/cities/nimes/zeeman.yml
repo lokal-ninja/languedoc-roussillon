@@ -4,8 +4,8 @@ latitude: 43.80875
 longitude: 4.35535
 postcode: "30900"
 city: Nîmes
-street: "Place André Bazile"
-housenumber: 59
-phone: "+33 4 30 31 00 01"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.zeeman.com"
+street: Place André Bazile
+housenumber: "59"
+phone: +33 4 30 31 00 01
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.zeeman.com

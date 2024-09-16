@@ -4,8 +4,8 @@ latitude: 43.81412
 longitude: 4.3505
 postcode: "30000"
 city: Nîmes
-street: "Avenue Jean Prouvé"
-housenumber: 311
+street: Avenue Jean Prouvé
+housenumber: "311"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.ldlc.com/magasins-ldlc/magasin-470104/30-ldlc-nimes/"
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.ldlc.com/magasins-ldlc/magasin-470104/30-ldlc-nimes/

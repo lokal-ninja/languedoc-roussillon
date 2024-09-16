@@ -1,11 +1,11 @@
 id: 62731765
-type: way
+type: node
 latitude: 43.6851
 longitude: 4.14669
 postcode: "34400"
 city: Lunel
-street: "Rue Thomas Edison"
-housenumber: 120
-phone: "+33 4 67 83 56 20"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.ad-neoparts.com"
+street: Rue Thomas Edison
+housenumber: "120"
+phone: +33 4 67 83 56 20
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.ad-neoparts.com

@@ -4,8 +4,8 @@ latitude: 43.81673
 longitude: 4.61755
 postcode: "30300"
 city: Beaucaire
-street: "Route de Nîmes"
-housenumber: 415
-phone: "+33 4 11 94 01 03"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Route de Nîmes
+housenumber: "415"
+phone: +33 4 11 94 01 03
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

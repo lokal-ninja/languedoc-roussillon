@@ -1,11 +1,11 @@
 id: 761724629
-type: way
+type: node
 latitude: 43.5913
 longitude: 3.93822
 postcode: "34130"
 city: Mauguio
-street: "Rue Roland Garros"
-housenumber: 271
-phone: "+33 4 67 08 19 30"
-opening_hours: "Mo 13:00-19:00; Tu-Sa 10:30-19:00"
-website: "https://espacefoot.fr"
+street: Rue Roland Garros
+housenumber: "271"
+phone: +33 4 67 08 19 30
+opening_hours: Mo 13:00-19:00; Tu-Sa 10:30-19:00
+website: https://espacefoot.fr

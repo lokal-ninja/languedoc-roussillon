@@ -5,7 +5,7 @@ longitude: 3.54434
 postcode: "34150"
 city: Gignac
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Sa 09:00-19:00; Mo 15:00-19:00"
-website: "https://www.facebook.com/escale.locale.gignac/"
+opening_hours: Tu-Sa 09:00-19:00; Mo 15:00-19:00
+website: https://www.facebook.com/escale.locale.gignac/

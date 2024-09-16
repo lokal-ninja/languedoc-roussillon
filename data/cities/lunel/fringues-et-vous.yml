@@ -4,8 +4,8 @@ latitude: 43.67777
 longitude: 4.11959
 postcode: "34400"
 city: Lunel
-street: "Rue de l'Industrie"
-housenumber: 168
-phone: "+33 4 34 00 58 27"
-opening_hours: "Mo-Fr 09:30-12:00,14:30-18:30; Sa 09:30-18:30"
-website: "https://www.fringuesetvous.com"
+street: Rue de l'Industrie
+housenumber: "168"
+phone: +33 4 34 00 58 27
+opening_hours: Mo-Fr 09:30-12:00,14:30-18:30; Sa 09:30-18:30
+website: https://www.fringuesetvous.com

@@ -4,8 +4,8 @@ latitude: 43.40235
 longitude: 3.69695
 postcode: "34200"
 city: Sète
-street: "Grande Rue Mario Roustan"
-housenumber: 1
-phone: "+33 4 67 74 39 07"
-opening_hours: "Mo-Su 07:00-01:00"
+street: Grande Rue Mario Roustan
+housenumber: "1"
+phone: +33 4 67 74 39 07
+opening_hours: Mo-Su 07:00-01:00
 website: ""

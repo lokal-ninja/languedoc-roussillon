@@ -4,8 +4,9 @@ latitude: 43.76713
 longitude: 3.86334
 postcode: "34270"
 city: SAINT MATHIEU DE TREVIERS
-street: "Allée Eugène SAUMADE"
-housenumber: 120
+street: Allée Eugène SAUMADE
+housenumber: "120"
 phone: "+33975407067"
-opening_hours: "Mo-Tu 09:00-12:00,13:00-16:30; We off; Th-Fr 09:00-12:00,13:00-16:30; Sa-Su off"
-website: "https://grandpicsaintloup.fr/vivre-ici/action-sociale/espace-public-numerique/"
+opening_hours: Mo-Tu 09:00-12:00,13:00-16:30; We off; Th-Fr 09:00-12:00,13:00-16:30;
+    Sa-Su off
+website: https://grandpicsaintloup.fr/vivre-ici/action-sociale/espace-public-numerique/

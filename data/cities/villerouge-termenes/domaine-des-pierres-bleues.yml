@@ -4,8 +4,8 @@ latitude: 43.0067
 longitude: 2.62771
 postcode: "11330"
 city: Villerouge-Termenès
-street: "Rue Blanche"
-housenumber: 4
+street: Rue Blanche
+housenumber: "4"
 phone: ""
-opening_hours: "Sur rendez-vous"
+opening_hours: '"Sur rendez-vous"'
 website: ""

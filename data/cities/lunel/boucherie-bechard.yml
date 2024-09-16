@@ -4,8 +4,8 @@ latitude: 43.67497
 longitude: 4.13449
 postcode: "34400"
 city: Lunel
-street: "Place Fruiterie"
-housenumber: 4
-phone: "+33 4 67 71 04 89"
-opening_hours: "Tu-Fr 07:30-12:30,15:30-19:00; Sa-Su 07:30-12:30"
+street: Place Fruiterie
+housenumber: "4"
+phone: +33 4 67 71 04 89
+opening_hours: Tu-Fr 07:30-12:30,15:30-19:00; Sa-Su 07:30-12:30
 website: ""

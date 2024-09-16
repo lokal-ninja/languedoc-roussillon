@@ -4,8 +4,8 @@ latitude: 43.36167
 longitude: 3.42745
 postcode: "34550"
 city: Bessan
-street: "Place de la Mairie"
-housenumber: 12
-phone: "+33 4 67 77 51 08"
-opening_hours: "Mo-Sa 06:30-12:30, 15:00-20:00; Su 06:30-12:30, 17:00-20:00"
+street: Place de la Mairie
+housenumber: "12"
+phone: +33 4 67 77 51 08
+opening_hours: Mo-Sa 06:30-12:30, 15:00-20:00; Su 06:30-12:30, 17:00-20:00
 website: ""

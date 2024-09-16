@@ -1,11 +1,11 @@
 id: 92112881
-type: way
+type: node
 latitude: 43.18225
 longitude: 2.98633
 postcode: "11100"
 city: Narbonne
-street: "Avenue de Bordeaux"
-housenumber: 66
+street: Avenue de Bordeaux
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

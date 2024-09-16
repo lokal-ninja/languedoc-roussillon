@@ -4,8 +4,8 @@ latitude: 43.42182
 longitude: 3.16887
 postcode: "34490"
 city: Thézan-lès-Béziers
-street: "Place de l'Hôtel de Ville"
-housenumber: 6
-phone: "+33 9 86 76 04 02"
-opening_hours: "Tu-Su 06:45-13:00"
+street: Place de l'Hôtel de Ville
+housenumber: "6"
+phone: +33 9 86 76 04 02
+opening_hours: Tu-Su 06:45-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 136741357
-type: way
+type: node
 latitude: 43.57292
 longitude: 4.19408
 postcode: "30220"
 city: Aigues-Mortes
-street: "Route de Nîmes"
-housenumber: 
-phone: "+33 4 66 53 74 45"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30; Sa 08:00-12:00"
-website: "https://www.union-materiaux.fr/agences/union-materiaux-aigues-mortes.html"
+street: Route de Nîmes
+housenumber: ""
+phone: +33 4 66 53 74 45
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30; Sa 08:00-12:00
+website: https://www.union-materiaux.fr/agences/union-materiaux-aigues-mortes.html

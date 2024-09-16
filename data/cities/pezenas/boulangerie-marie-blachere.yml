@@ -1,11 +1,11 @@
 id: 274270576
-type: way
+type: node
 latitude: 43.44977
 longitude: 3.41404
 postcode: "34120"
 city: Pézenas
-street: "Rue Édouard Branly"
-housenumber: 13
+street: Rue Édouard Branly
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

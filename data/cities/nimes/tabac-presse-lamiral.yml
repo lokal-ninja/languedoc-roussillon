@@ -4,8 +4,8 @@ latitude: 43.83876
 longitude: 4.36308
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Amiral Courbet"
-housenumber: 23
-phone: "+33 6 18 87 70 55"
-opening_hours: "Mo-Fr 07:30-19:00; Sa-Su 09:00-18:00"
+street: Boulevard Amiral Courbet
+housenumber: "23"
+phone: +33 6 18 87 70 55
+opening_hours: Mo-Fr 07:30-19:00; Sa-Su 09:00-18:00
 website: ""

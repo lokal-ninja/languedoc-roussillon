@@ -4,8 +4,8 @@ latitude: 43.67978
 longitude: 4.14846
 postcode: "34400"
 city: Lunel
-street: "Rue Gustave Eiffel"
-housenumber: 89
-phone: "+33 4 67 71 21 15"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.universdusommeil.com"
+street: Rue Gustave Eiffel
+housenumber: "89"
+phone: +33 4 67 71 21 15
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
+website: https://www.universdusommeil.com

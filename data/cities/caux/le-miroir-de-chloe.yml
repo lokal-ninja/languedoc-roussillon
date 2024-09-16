@@ -4,8 +4,8 @@ latitude: 43.50605
 longitude: 3.36878
 postcode: "34720"
 city: Caux
-street: "Rue Camille Desmoulins"
-housenumber: 5
-phone: "+33 9 53 71 26 47"
-opening_hours: "Mo,Tu,Th,Fr 09:30-18:30, We,Sa 09:30-16:00"
-website: "https://www.lemiroirdechloe.fr/"
+street: Rue Camille Desmoulins
+housenumber: "5"
+phone: +33 9 53 71 26 47
+opening_hours: Mo,Tu,Th,Fr 09:30-18:30, We,Sa 09:30-16:00
+website: https://www.lemiroirdechloe.fr/

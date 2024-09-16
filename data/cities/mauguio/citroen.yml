@@ -1,11 +1,11 @@
 id: 112736406
-type: way
+type: node
 latitude: 43.62486
 longitude: 4.0135
 postcode: "34130"
 city: Mauguio
-street: "Avenue de Baillargues"
-housenumber: 132
-phone: "+33 4 30 22 04 04"
-opening_hours: "Mo-Fr 07:15-12:30,14:00-19:00; Sa 09:00-12:00"
-website: "https://www.garageropa.com"
+street: Avenue de Baillargues
+housenumber: "132"
+phone: +33 4 30 22 04 04
+opening_hours: Mo-Fr 07:15-12:30,14:00-19:00; Sa 09:00-12:00
+website: https://www.garageropa.com

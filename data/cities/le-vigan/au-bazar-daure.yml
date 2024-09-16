@@ -4,8 +4,8 @@ latitude: 43.99204
 longitude: 3.60792
 postcode: "30120"
 city: Le Vigan
-street: "Avenue Emmanuel d'Alzon"
-housenumber: 11
-phone: "+33 4 67 20 03 80"
-opening_hours: "Tu-Sa 08:30-12:00,14:30-18:30"
-website: "https://www.aubazardaure.fr"
+street: Avenue Emmanuel d'Alzon
+housenumber: "11"
+phone: +33 4 67 20 03 80
+opening_hours: Tu-Sa 08:30-12:00,14:30-18:30
+website: https://www.aubazardaure.fr

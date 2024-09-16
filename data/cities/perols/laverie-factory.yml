@@ -1,11 +1,11 @@
 id: 374099966
-type: way
+type: node
 latitude: 43.57274
 longitude: 3.94293
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 65 84 63 95"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 65 84 63 95
 opening_hours: ""
-website: "https://laverie-factory.com/"
+website: https://laverie-factory.com/

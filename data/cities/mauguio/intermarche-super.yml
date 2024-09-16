@@ -1,11 +1,11 @@
 id: 112737060
-type: way
+type: node
 latitude: 43.61258
 longitude: 4.00614
 postcode: "34130"
 city: Mauguio
-street: "Avenue de la Mer"
-housenumber: 168
+street: Avenue de la Mer
+housenumber: "168"
 phone: ""
 opening_hours: ""
 website: ""

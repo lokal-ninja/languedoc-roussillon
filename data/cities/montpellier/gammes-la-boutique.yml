@@ -4,8 +4,8 @@ latitude: 43.60437
 longitude: 3.87347
 postcode: "34000"
 city: Montpellier
-street: "Avenue Georges Clemenceau"
-housenumber: 16
-phone: "+33 4 67 58 70 64"
-opening_hours: "tu-Fr 12:00-17:45"
+street: Avenue Georges Clemenceau
+housenumber: "16"
+phone: +33 4 67 58 70 64
+opening_hours: tu-Fr 12:00-17:45
 website: ""

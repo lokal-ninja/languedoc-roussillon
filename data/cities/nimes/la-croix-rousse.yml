@@ -4,8 +4,8 @@ latitude: 43.83827
 longitude: 4.35821
 postcode: "30000"
 city: NIMES
-street: "Place de l'Horloge"
-housenumber: 7
-phone: "+33 4 66 67 25 45"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00"
+street: Place de l'Horloge
+housenumber: "7"
+phone: +33 4 66 67 25 45
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.59133
 longitude: 3.93693
 postcode: "34130"
 city: Mauguio
-street: "Rue Roland Garros"
-housenumber: 135
-phone: "+33 4 99 54 32 92"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.nicotech.fr"
+street: Rue Roland Garros
+housenumber: "135"
+phone: +33 4 99 54 32 92
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.nicotech.fr

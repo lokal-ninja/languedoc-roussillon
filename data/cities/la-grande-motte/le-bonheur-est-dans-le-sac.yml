@@ -4,8 +4,8 @@ latitude: 43.55921
 longitude: 4.08343
 postcode: "34280"
 city: La Grande-Motte
-street: "Quai Georges Pompidou"
-housenumber: 30
-phone: "+33 4 67 54 76 52"
-opening_hours: "09:30-19:00"
+street: Quai Georges Pompidou
+housenumber: "30"
+phone: +33 4 67 54 76 52
+opening_hours: 09:30-19:00
 website: ""

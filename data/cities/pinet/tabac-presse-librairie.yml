@@ -4,8 +4,8 @@ latitude: 43.40318
 longitude: 3.51134
 postcode: "34850"
 city: Pinet
-street: "Place de la Poste"
-housenumber: 2
-phone: "+33 4 67 94 10 87"
-opening_hours: "Mo-Su 07:00-12:00, 17:00-19:00"
+street: Place de la Poste
+housenumber: "2"
+phone: +33 4 67 94 10 87
+opening_hours: Mo-Su 07:00-12:00, 17:00-19:00
 website: ""

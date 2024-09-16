@@ -1,11 +1,12 @@
 id: 130843622
-type: way
+type: node
 latitude: 44.1137
 longitude: 4.10214
 postcode: "30100"
 city: Alès
-street: "Route D'Uzès"
-housenumber: 358
-phone: "+33 4 66 92 29 01"
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off; Aug 15 09:00-19:00; Nov 1, Nov 11, Dec 8, Dec 15, Dec 22 10:00-19:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-ales-0070049800498"
+street: Route D'Uzès
+housenumber: "358"
+phone: +33 4 66 92 29 01
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off; Aug 15 09:00-19:00; Nov 1, Nov 11, Dec
+    8, Dec 15, Dec 22 10:00-19:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-ales-0070049800498

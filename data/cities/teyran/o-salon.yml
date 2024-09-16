@@ -4,8 +4,9 @@ latitude: 43.68072
 longitude: 3.92101
 postcode: "34820"
 city: Teyran
-street: "Rue des Prés"
-housenumber: 2
-phone: "+33 4 67 79 06 46"
-opening_hours: "Mo-Tu 09:00-12:00,14:00-18:30; Th 09:00-12:00,14:00-18:30; Fr 09:00-18:30; Sa 09:00-17:00"
+street: Rue des Prés
+housenumber: "2"
+phone: +33 4 67 79 06 46
+opening_hours: Mo-Tu 09:00-12:00,14:00-18:30; Th 09:00-12:00,14:00-18:30; Fr 09:00-18:30;
+    Sa 09:00-17:00
 website: ""

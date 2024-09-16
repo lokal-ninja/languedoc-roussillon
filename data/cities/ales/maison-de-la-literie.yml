@@ -4,8 +4,8 @@ latitude: 44.10887
 longitude: 4.09895
 postcode: "30100"
 city: Alès
-street: "Avenue Léon Blum"
-housenumber: 151
-phone: "+33 4 66 30 84 81"
-opening_hours: "Mo-Sa 14:00-19:00; Tu-Sa 09:30-12:00"
-website: "https://www.maisondelaliterie.fr/magasin/17-maison-de-la-literie-ales"
+street: Avenue Léon Blum
+housenumber: "151"
+phone: +33 4 66 30 84 81
+opening_hours: Mo-Sa 14:00-19:00; Tu-Sa 09:30-12:00
+website: https://www.maisondelaliterie.fr/magasin/17-maison-de-la-literie-ales

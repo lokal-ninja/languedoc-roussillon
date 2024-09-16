@@ -1,11 +1,11 @@
 id: 112742050
-type: way
+type: node
 latitude: 43.58942
 longitude: 3.93631
 postcode: "34130"
 city: Mauguio
-street: "Rue Roland Garros"
-housenumber: 26
-phone: "+33 4 67 99 42 70"
-opening_hours: "Mo-Fr 07:30-12:00,14:00-18:30; Sa 09:00-12:00,14:00-17:30"
-website: "https://www.seguret-decoration.fr"
+street: Rue Roland Garros
+housenumber: "26"
+phone: +33 4 67 99 42 70
+opening_hours: Mo-Fr 07:30-12:00,14:00-18:30; Sa 09:00-12:00,14:00-17:30
+website: https://www.seguret-decoration.fr

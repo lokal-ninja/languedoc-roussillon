@@ -4,8 +4,8 @@ latitude: 43.6069
 longitude: 3.87697
 postcode: "34000"
 city: Montpellier
-street: "Rue des Étuves"
-housenumber: 23
-phone: "+33 4 67 66 26 56"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.lamerceriemontpellier.fr"
+street: Rue des Étuves
+housenumber: "23"
+phone: +33 4 67 66 26 56
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.lamerceriemontpellier.fr

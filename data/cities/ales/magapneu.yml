@@ -4,8 +4,8 @@ latitude: 44.13407
 longitude: 4.10572
 postcode: "30100"
 city: Alès
-street: "Avenue de Croupillac"
-housenumber: 571
-phone: "+33 9 81 67 10 72"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-12:00"
+street: Avenue de Croupillac
+housenumber: "571"
+phone: +33 9 81 67 10 72
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-12:00
 website: ""

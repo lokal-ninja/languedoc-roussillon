@@ -4,8 +4,8 @@ latitude: 43.83845
 longitude: 4.36003
 postcode: "30000"
 city: Nîmes
-street: "Rue Saint-Castor"
-housenumber: 3
-phone: "+33 4 66 23 89 27"
-opening_hours: "Tu-Fr 10:00-15:00"
-website: "https://leshopnimes.fr/"
+street: Rue Saint-Castor
+housenumber: "3"
+phone: +33 4 66 23 89 27
+opening_hours: Tu-Fr 10:00-15:00
+website: https://leshopnimes.fr/

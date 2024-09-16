@@ -4,8 +4,8 @@ latitude: 43.83421
 longitude: 4.35789
 postcode: "30000"
 city: Nîmes
-street: "Rue Jean Reboul"
-housenumber: 20
-phone: "+33 4 66 06 43 27"
-opening_hours: "Su 08:30-13:00; Tu-Fr 08:30-14:00,15:30-18:00; Sa 08:30-13:00,15:30-18:00"
-website: "https://m.facebook.com/boulangeriepatisseriepoulain/?locale2=fr_FR"
+street: Rue Jean Reboul
+housenumber: "20"
+phone: +33 4 66 06 43 27
+opening_hours: Su 08:30-13:00; Tu-Fr 08:30-14:00,15:30-18:00; Sa 08:30-13:00,15:30-18:00
+website: https://m.facebook.com/boulangeriepatisseriepoulain/?locale2=fr_FR

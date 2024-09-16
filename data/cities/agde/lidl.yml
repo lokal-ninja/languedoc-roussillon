@@ -1,11 +1,11 @@
 id: 72442066
-type: way
+type: node
 latitude: 43.30619
 longitude: 3.49205
 postcode: "34300"
 city: Agde
-street: "Boulevard René Cassin"
-housenumber: 
-phone: "+33 8 00 90 03 43"
-opening_hours: "Mo-Sa 08:30-20:00"
+street: Boulevard René Cassin
+housenumber: ""
+phone: +33 8 00 90 03 43
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 112738301
-type: way
+type: node
 latitude: 43.62434
 longitude: 4.01221
 postcode: "34130"
 city: Mauguio
-street: "Avenue de Baillargues"
-housenumber: 
-phone: "+33 4 67 29 60 15"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:30-12:00"
-website: "https://www.ad.fr"
+street: Avenue de Baillargues
+housenumber: ""
+phone: +33 4 67 29 60 15
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:30-12:00
+website: https://www.ad.fr

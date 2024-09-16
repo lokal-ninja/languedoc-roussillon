@@ -4,8 +4,8 @@ latitude: 43.3668
 longitude: 3.15712
 postcode: "34370"
 city: Maraussan
-street: "Avenue de Béziers"
-housenumber: 86
-phone: "+33 9 60 40 07 10"
-opening_hours: "Mo-Fr 06:30-12:15, 16:00-19:00; Sa 07:30-12:15, 16:00-19:00; Su 07:30-12:15"
+street: Avenue de Béziers
+housenumber: "86"
+phone: +33 9 60 40 07 10
+opening_hours: Mo-Fr 06:30-12:15, 16:00-19:00; Sa 07:30-12:15, 16:00-19:00; Su 07:30-12:15
 website: ""

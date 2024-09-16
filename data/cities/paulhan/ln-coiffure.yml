@@ -1,11 +1,11 @@
 id: 135446492
-type: way
+type: node
 latitude: 43.54127
 longitude: 3.45908
 postcode: "34230"
 city: Paulhan
-street: "boulvard de la liberté"
-housenumber: 23
+street: boulvard de la liberté
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

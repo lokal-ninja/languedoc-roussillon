@@ -4,8 +4,8 @@ latitude: 43.84007
 longitude: 4.31771
 postcode: "30900"
 city: Nîmes
-street: "Rue des Goélands"
-housenumber: 70
-phone: "+33 4 66 29 67 27"
-opening_hours: "Mo 15:00-18:30; Tu-Fr 09:00-12:15, 15:00-18:30; Sa 09:00-12:15"
-website: "https://addr-opticien-nimes.fr/"
+street: Rue des Goélands
+housenumber: "70"
+phone: +33 4 66 29 67 27
+opening_hours: Mo 15:00-18:30; Tu-Fr 09:00-12:15, 15:00-18:30; Sa 09:00-12:15
+website: https://addr-opticien-nimes.fr/

@@ -1,11 +1,11 @@
 id: 746448785
-type: way
+type: node
 latitude: 43.64793
 longitude: 3.95323
 postcode: "34740"
 city: Vendargues
-street: "Avenue de Saint-Aunès"
-housenumber: 710
-phone: "+33 4 81 92 06 56"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00"
-website: "https://www.bureau-vallee.fr/nos-magasins/magasin-Vendargues-VDG"
+street: Avenue de Saint-Aunès
+housenumber: "710"
+phone: +33 4 81 92 06 56
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00
+website: https://www.bureau-vallee.fr/nos-magasins/magasin-Vendargues-VDG

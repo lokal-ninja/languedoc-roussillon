@@ -4,8 +4,8 @@ latitude: 43.6783
 longitude: 4.11754
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 23
-phone: "+33 4 67 20 24 75"
-opening_hours: "Mo 12:00-19:00; Tu-Sa 09:00-19:00"
-website: "http://www.carlance.fr/carlance-institut-de-beaute-LUNEL.html"
+street: Rue des Fournels
+housenumber: "23"
+phone: +33 4 67 20 24 75
+opening_hours: Mo 12:00-19:00; Tu-Sa 09:00-19:00
+website: http://www.carlance.fr/carlance-institut-de-beaute-LUNEL.html

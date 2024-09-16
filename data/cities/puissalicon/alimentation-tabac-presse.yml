@@ -4,8 +4,8 @@ latitude: 43.45826
 longitude: 3.23544
 postcode: "34480"
 city: Puissalicon
-street: "Place de la Barbacane"
-housenumber: 3
-phone: "+33 4 67 36 29 54"
-opening_hours: "Mo-Su 08:00-13:00, 14:00-19:30"
+street: Place de la Barbacane
+housenumber: "3"
+phone: +33 4 67 36 29 54
+opening_hours: Mo-Su 08:00-13:00, 14:00-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 66486389
-type: way
+type: node
 latitude: 43.52849
 longitude: 4.15093
 postcode: "30240"
 city: Le Grau-du-Roi
-street: "Rue des Sternes"
-housenumber: 89
+street: Rue des Sternes
+housenumber: "89"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

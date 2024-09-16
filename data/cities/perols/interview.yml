@@ -1,11 +1,11 @@
 id: 374099925
-type: way
+type: node
 latitude: 43.57289
 longitude: 3.94271
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 20 06 37"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.interview.fr/salon-3818/coiffeur/centre-plein-sud-34470-perols"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 20 06 37
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.interview.fr/salon-3818/coiffeur/centre-plein-sud-34470-perols

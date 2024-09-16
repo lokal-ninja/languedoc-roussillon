@@ -1,11 +1,11 @@
 id: 183413641
-type: way
+type: node
 latitude: 44.10783
 longitude: 3.88259
 postcode: "30270"
 city: Saint-Jean-du-Gard
-street: "Grand'Rue"
-housenumber: 160
+street: Grand'Rue
+housenumber: "160"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 70813380
-type: way
+type: node
 latitude: 44.17195
 longitude: 4.62116
 postcode: "30200"
 city: Bagnols-sur-Cèze
-street: "Route de Lyon"
-housenumber: 88
-phone: "+33 4 66 39 81 20"
+street: Route de Lyon
+housenumber: "88"
+phone: +33 4 66 39 81 20
 opening_hours: ""
 website: ""

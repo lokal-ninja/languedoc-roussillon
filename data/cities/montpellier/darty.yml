@@ -5,7 +5,7 @@ longitude: 3.92245
 postcode: "34000"
 city: Montpellier
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://magasin.darty.com/119-darty-montpellier-odysseum"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://magasin.darty.com/119-darty-montpellier-odysseum

@@ -4,8 +4,8 @@ latitude: 43.61161
 longitude: 3.86255
 postcode: "34000"
 city: Montpellier
-street: "Boulevard des Arceaux"
-housenumber: 53
-phone: "+33 4 67 92 37 10"
-opening_hours: "Mo-Sa 08:00-19:30;Su off"
+street: Boulevard des Arceaux
+housenumber: "53"
+phone: +33 4 67 92 37 10
+opening_hours: Mo-Sa 08:00-19:30;Su off
 website: ""

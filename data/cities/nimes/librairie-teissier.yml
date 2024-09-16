@@ -4,8 +4,8 @@ latitude: 43.83589
 longitude: 4.36109
 postcode: "30000"
 city: Nîmes
-street: "Rue Régale"
-housenumber: 11
-phone: "+33 4 66 67 44 06;06 31 83 93 82"
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-12:00,14:00-18:00"
-website: "librairie.teissier@gmail.com"
+street: Rue Régale
+housenumber: "11"
+phone: +33 4 66 67 44 06;06 31 83 93 82
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-12:00,14:00-18:00
+website: librairie.teissier@gmail.com

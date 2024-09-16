@@ -4,8 +4,8 @@ latitude: 43.67655
 longitude: 4.13334
 postcode: "34400"
 city: Lunel
-street: "Boulevard Lafayette"
-housenumber: 103
-phone: "+33 4 67 71 13 92"
-opening_hours: "Tu-Th 08:30-12:00,14:00-18:30; Fr 08:30-18:30; Sa 08:00-14:30"
-website: "http://lesalon-lunel.fr"
+street: Boulevard Lafayette
+housenumber: "103"
+phone: +33 4 67 71 13 92
+opening_hours: Tu-Th 08:30-12:00,14:00-18:30; Fr 08:30-18:30; Sa 08:00-14:30
+website: http://lesalon-lunel.fr

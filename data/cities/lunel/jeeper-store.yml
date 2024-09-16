@@ -1,11 +1,11 @@
 id: 62727641
-type: way
+type: node
 latitude: 43.67971
 longitude: 4.11615
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 157
-phone: "+33 4 67 22 34 11"
-opening_hours: "Mo-Fr 09:00-12:00,13:15-17:15"
-website: "https://www.jeeperstore.com"
+street: Rue des Fournels
+housenumber: "157"
+phone: +33 4 67 22 34 11
+opening_hours: Mo-Fr 09:00-12:00,13:15-17:15
+website: https://www.jeeperstore.com

@@ -1,11 +1,11 @@
 id: 683591385
-type: way
+type: node
 latitude: 42.67804
 longitude: 2.80875
 postcode: "66270"
 city: Le Soler
-street: "Rue Salvador Dalí"
-housenumber: 10
+street: Rue Salvador Dalí
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://axuritrail.fr"
+website: https://axuritrail.fr

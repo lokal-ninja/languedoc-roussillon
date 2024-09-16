@@ -1,11 +1,11 @@
 id: 136747197
-type: way
+type: node
 latitude: 43.57653
 longitude: 4.19934
 postcode: "30220"
 city: Aigues-Mortes
-street: "Route de Nîmes"
-housenumber: 940
+street: Route de Nîmes
+housenumber: "940"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-13:00"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-13:00
 website: ""

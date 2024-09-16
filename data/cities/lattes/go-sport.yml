@@ -1,11 +1,11 @@
 id: 413309484
-type: way
+type: node
 latitude: 43.58278
 longitude: 3.93139
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
+street: Avenue Georges Frêche
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-20:30"
-website: "https://stores.go-sport.com/fr-fr/magasin-sport/lattes/go-sport-montpellier-lattes/1017"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-20:30
+website: https://stores.go-sport.com/fr-fr/magasin-sport/lattes/go-sport-montpellier-lattes/1017

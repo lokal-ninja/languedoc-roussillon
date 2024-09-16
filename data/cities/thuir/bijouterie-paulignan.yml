@@ -1,11 +1,11 @@
 id: 64075717
-type: way
+type: node
 latitude: 42.63331
 longitude: 2.75601
 postcode: "66300"
 city: Thuir
-street: "Place Gabriel Péri"
-housenumber: 9
+street: Place Gabriel Péri
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

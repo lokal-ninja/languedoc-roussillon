@@ -4,8 +4,9 @@ latitude: 43.33367
 longitude: 3.1284
 postcode: "34310"
 city: Montady
-street: "Rue du Pin"
-housenumber: 15
-phone: "+33 9 83890062"
-opening_hours: "Mo off; Tu-Th 10:00-13:00,15:00-19:00; Fr-Sa 10:00-13:00, 15:00-20:00; Su 09:30-13:00"
-website: "http://cavedemontady.com/index.php"
+street: Rue du Pin
+housenumber: "15"
+phone: +33 9 83890062
+opening_hours: Mo off; Tu-Th 10:00-13:00,15:00-19:00; Fr-Sa 10:00-13:00, 15:00-20:00;
+    Su 09:30-13:00
+website: http://cavedemontady.com/index.php

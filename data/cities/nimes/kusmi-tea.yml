@@ -1,11 +1,11 @@
 id: 970621128
-type: way
+type: node
 latitude: 43.81228
 longitude: 4.36053
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 08 37 32"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.kusmitea.com"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 08 37 32
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.kusmitea.com

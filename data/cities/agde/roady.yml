@@ -1,11 +1,11 @@
 id: 72441299
-type: way
+type: node
 latitude: 43.30596
 longitude: 3.49113
 postcode: "34300"
 city: Agde
-street: "Boulevard René Cassin"
-housenumber: 
-phone: "+33 4 28 29 40 58"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00,14:00-18:30"
-website: "https://www.roady-agde.fr"
+street: Boulevard René Cassin
+housenumber: ""
+phone: +33 4 28 29 40 58
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00,14:00-18:30
+website: https://www.roady-agde.fr

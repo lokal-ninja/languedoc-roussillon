@@ -4,8 +4,8 @@ latitude: 43.61242
 longitude: 4.00665
 postcode: "34130"
 city: Mauguio
-street: "Avenue de la Mer"
-housenumber: 95
-phone: "+33 4 67 12 08 04"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://centre.auditionsante.fr/mauguio/95-avenue-de-la-mer.html"
+street: Avenue de la Mer
+housenumber: "95"
+phone: +33 4 67 12 08 04
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://centre.auditionsante.fr/mauguio/95-avenue-de-la-mer.html

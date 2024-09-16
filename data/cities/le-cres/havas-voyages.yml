@@ -1,11 +1,11 @@
 id: 951439512
-type: way
+type: node
 latitude: 43.64247
 longitude: 3.9409
 postcode: "34920"
 city: Le Crès
-street: "Route de Nîmes"
-housenumber: 
-phone: "+33 4 99 77 23 90"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://agences.havas-voyages.fr"
+street: Route de Nîmes
+housenumber: ""
+phone: +33 4 99 77 23 90
+opening_hours: Mo-Sa 09:30-19:00
+website: https://agences.havas-voyages.fr

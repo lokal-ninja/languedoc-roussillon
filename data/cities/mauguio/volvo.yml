@@ -1,11 +1,11 @@
 id: 112738276
-type: way
+type: node
 latitude: 43.5893
 longitude: 3.93378
 postcode: "34130"
 city: Mauguio
-street: "Rue Charles Lindbergh"
-housenumber: 
-phone: "+33 4 67 20 99 20"
-opening_hours: "Mo-Sa 08:00-12:00,14:00-18:00"
-website: "https://www.auto-web.fr/concessions-tressol-chabrier/tressol-chabrier-montpellier-volvo"
+street: Rue Charles Lindbergh
+housenumber: ""
+phone: +33 4 67 20 99 20
+opening_hours: Mo-Sa 08:00-12:00,14:00-18:00
+website: https://www.auto-web.fr/concessions-tressol-chabrier/tressol-chabrier-montpellier-volvo

@@ -4,8 +4,8 @@ latitude: 43.58361
 longitude: 3.88314
 postcode: "34070"
 city: Montpellier
-street: "Rue du Mas de Portaly"
-housenumber: 9
+street: Rue du Mas de Portaly
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:00, 14:00-19:00"
-website: "https://www.electrocash.fr/"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:00, 14:00-19:00
+website: https://www.electrocash.fr/

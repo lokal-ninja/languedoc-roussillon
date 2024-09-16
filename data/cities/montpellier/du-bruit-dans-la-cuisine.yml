@@ -4,8 +4,8 @@ latitude: 43.60445
 longitude: 3.92139
 postcode: "34000"
 city: Montpellier
-street: "Place de Lisbonne"
-housenumber: 2
-phone: "+33 4 67 64 15 46"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.dubruitdanslacuisine.fr/boutiques/montpellier"
+street: Place de Lisbonne
+housenumber: "2"
+phone: +33 4 67 64 15 46
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.dubruitdanslacuisine.fr/boutiques/montpellier

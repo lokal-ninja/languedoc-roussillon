@@ -4,8 +4,8 @@ latitude: 42.63499
 longitude: 3.0329
 postcode: "66750"
 city: Saint-Cyprien
-street: "Rue Mirabeau"
-housenumber: 2
-phone: "+33 6 18 25 17 04"
-opening_hours: "07:30-19:30"
-website: "https://www.spar.fr/"
+street: Rue Mirabeau
+housenumber: "2"
+phone: +33 6 18 25 17 04
+opening_hours: 07:30-19:30
+website: https://www.spar.fr/

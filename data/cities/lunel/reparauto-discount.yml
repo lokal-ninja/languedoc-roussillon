@@ -1,11 +1,11 @@
 id: 62737672
-type: way
+type: node
 latitude: 43.67714
 longitude: 4.1303
 postcode: "34400"
 city: Lunel
-street: "Rue de la Glacière"
-housenumber: 40
-phone: "+33 4 67 27 79 11"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+street: Rue de la Glacière
+housenumber: "40"
+phone: +33 4 67 27 79 11
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

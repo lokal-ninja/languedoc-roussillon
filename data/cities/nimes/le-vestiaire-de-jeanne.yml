@@ -4,8 +4,8 @@ latitude: 43.83962
 longitude: 4.35585
 postcode: "30000"
 city: Nîmes
-street: "Rue Auguste"
-housenumber: 18
-phone: "+33 6 52 56 56 64"
-opening_hours: "Tu-Sa 10:00-13:00,15:00-19:00"
-website: "https://www.levestiairedejeanne.com/"
+street: Rue Auguste
+housenumber: "18"
+phone: +33 6 52 56 56 64
+opening_hours: Tu-Sa 10:00-13:00,15:00-19:00
+website: https://www.levestiairedejeanne.com/

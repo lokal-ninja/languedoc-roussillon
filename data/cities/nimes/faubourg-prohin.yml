@@ -4,8 +4,8 @@ latitude: 43.83851
 longitude: 4.35591
 postcode: "30000"
 city: Nîmes
-street: "Rue Auguste"
-housenumber: 1
-phone: "+33 4 66 67 60 14"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-13:00"
-website: "https://faubourg-prohin.company.site/"
+street: Rue Auguste
+housenumber: "1"
+phone: +33 4 66 67 60 14
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-13:00
+website: https://faubourg-prohin.company.site/

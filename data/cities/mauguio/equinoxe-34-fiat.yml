@@ -1,11 +1,11 @@
 id: 112727697
-type: way
+type: node
 latitude: 43.62484
 longitude: 4.01033
 postcode: "34130"
 city: Mauguio
-street: "Rue des Aramons"
-housenumber: 466
-phone: "+33 4 67 12 22 19"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.garage-equinoxe.com"
+street: Rue des Aramons
+housenumber: "466"
+phone: +33 4 67 12 22 19
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.garage-equinoxe.com

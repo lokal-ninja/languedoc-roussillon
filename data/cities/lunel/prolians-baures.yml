@@ -1,11 +1,11 @@
 id: 62738477
-type: way
+type: node
 latitude: 43.68006
 longitude: 4.11254
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 475
-phone: "+33 4 67 71 91 40"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30"
-website: "https://magasin.prolians.fr/397-prolians-baures-lunel"
+street: Rue des Fournels
+housenumber: "475"
+phone: +33 4 67 71 91 40
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30
+website: https://magasin.prolians.fr/397-prolians-baures-lunel

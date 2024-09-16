@@ -1,11 +1,11 @@
 id: 72446467
-type: way
+type: node
 latitude: 43.29985
 longitude: 3.47109
 postcode: "34300"
 city: Agde
-street: "Rue Grand Cap"
-housenumber: 13
-phone: "+33 4 67 01 52 87"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://magasins.picard.fr/5-picard-agde"
+street: Rue Grand Cap
+housenumber: "13"
+phone: +33 4 67 01 52 87
+opening_hours: Mo-Sa 09:00-19:30
+website: https://magasins.picard.fr/5-picard-agde

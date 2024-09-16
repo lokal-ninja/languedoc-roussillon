@@ -1,11 +1,11 @@
 id: 133271545
-type: way
+type: node
 latitude: 43.35437
 longitude: 3.2301
 postcode: "34500"
 city: Béziers
-street: "Avenue d'Oc"
-housenumber: 
+street: Avenue d'Oc
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

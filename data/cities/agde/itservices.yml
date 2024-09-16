@@ -4,8 +4,8 @@ latitude: 43.29888
 longitude: 3.47719
 postcode: "34300"
 city: Agde
-street: "Rue Grand Cap"
-housenumber: 8
-phone: "+33 4 48 14 02 27"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-19:00"
-website: "https://www.itservices34.fr"
+street: Rue Grand Cap
+housenumber: "8"
+phone: +33 4 48 14 02 27
+opening_hours: Mo-Fr 09:00-13:00,14:00-19:00
+website: https://www.itservices34.fr

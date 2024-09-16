@@ -1,11 +1,11 @@
 id: 62744434
-type: way
+type: node
 latitude: 43.68367
 longitude: 4.147
 postcode: "34400"
 city: Lunel
-street: "Chemin de la Grande Liquine"
-housenumber: 325
-phone: "+33 9 70 35 63 97"
+street: Chemin de la Grande Liquine
+housenumber: "325"
+phone: +33 9 70 35 63 97
 opening_hours: ""
-website: "https://www.laboartdent.com"
+website: https://www.laboartdent.com

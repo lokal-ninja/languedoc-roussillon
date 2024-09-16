@@ -4,8 +4,8 @@ latitude: 43.46854
 longitude: 3.17993
 postcode: "34480"
 city: Saint-Génies-de-Fontedit
-street: "Place du Portail"
-housenumber: 10
-phone: "+33 4 67 48 51 76"
-opening_hours: "Mo-Sa 06:30-12:30, 14:00-19:30; Su 08:00-12:30; PH 08:00-12:30"
+street: Place du Portail
+housenumber: "10"
+phone: +33 4 67 48 51 76
+opening_hours: Mo-Sa 06:30-12:30, 14:00-19:30; Su 08:00-12:30; PH 08:00-12:30
 website: ""

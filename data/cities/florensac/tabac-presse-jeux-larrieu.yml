@@ -4,8 +4,8 @@ latitude: 43.38261
 longitude: 3.46654
 postcode: "34510"
 city: Florensac
-street: "Place de la République (la Promenade)"
-housenumber: 13
-phone: "+33 4 67 77 03 51"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-20:00; Su off"
+street: Place de la République (la Promenade)
+housenumber: "13"
+phone: +33 4 67 77 03 51
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-20:00; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 464949383
-type: way
+type: node
 latitude: 42.61271
 longitude: 2.97729
 postcode: "66200"
 city: Elne
-street: "Rue Pierre Curiezai"
-housenumber: 2
+street: Rue Pierre Curiezai
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi.fr/"
+website: https://www.aldi.fr/

@@ -1,11 +1,11 @@
 id: 128660463
-type: way
+type: node
 latitude: 43.79242
 longitude: 4.38569
 postcode: "30132"
 city: Caissargues
-street: "Route de Saint-Gilles"
-housenumber: 
-phone: "+33 4 66 84 38 13"
-opening_hours: "Mo-Th 08:00-12:00, 14:00-18:00; Fr 08:00-12:00, 14:00-17:00"
-website: "https://www.garage-koubi.fr/"
+street: Route de Saint-Gilles
+housenumber: ""
+phone: +33 4 66 84 38 13
+opening_hours: Mo-Th 08:00-12:00, 14:00-18:00; Fr 08:00-12:00, 14:00-17:00
+website: https://www.garage-koubi.fr/

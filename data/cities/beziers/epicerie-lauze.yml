@@ -4,8 +4,8 @@ latitude: 43.34235
 longitude: 3.22106
 postcode: "34500"
 city: Béziers
-street: "Avenue Saint-Saens"
-housenumber: 42
+street: Avenue Saint-Saens
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.epicerielauze.com/"
+website: https://www.epicerielauze.com/

@@ -1,11 +1,11 @@
 id: 625262300
-type: way
+type: node
 latitude: 43.35812
 longitude: 3.52194
 postcode: "34340"
 city: Marseillan
-street: "Avenue de l'Industrie"
-housenumber: 15
+street: Avenue de l'Industrie
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://www.aldi.fr"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://www.aldi.fr

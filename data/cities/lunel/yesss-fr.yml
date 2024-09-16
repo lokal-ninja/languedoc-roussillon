@@ -1,11 +1,11 @@
 id: 62733783
-type: way
+type: node
 latitude: 43.68292
 longitude: 4.14498
 postcode: "34400"
 city: Lunel
-street: "Chemin de la Grande Liquine"
-housenumber: 107
-phone: "+33 4 67 15 64 20"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-17:00"
-website: "https://www.yesss-fr.com"
+street: Chemin de la Grande Liquine
+housenumber: "107"
+phone: +33 4 67 15 64 20
+opening_hours: Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-17:00
+website: https://www.yesss-fr.com

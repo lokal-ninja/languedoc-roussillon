@@ -4,8 +4,8 @@ latitude: 43.55895
 longitude: 4.086
 postcode: "34280"
 city: La Grande-Motte
-street: "Avenue Pierre Racine"
-housenumber: 77
-phone: "+33 4 67 63 25 31"
-opening_hours: "10:00-19:30"
-website: "https://www.chausseur-access-mode.fr"
+street: Avenue Pierre Racine
+housenumber: "77"
+phone: +33 4 67 63 25 31
+opening_hours: 10:00-19:30
+website: https://www.chausseur-access-mode.fr

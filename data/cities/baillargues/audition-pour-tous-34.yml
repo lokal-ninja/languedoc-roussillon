@@ -4,8 +4,8 @@ latitude: 43.65711
 longitude: 4.00806
 postcode: "34670"
 city: Baillargues
-street: "Rue du Coustouliès"
-housenumber: 1
-phone: "+33 9 62 50 23 01"
-opening_hours: "Mo-Fr 09:30-12:30,13:30-17:30"
-website: "https://www.blabla-audition.fr"
+street: Rue du Coustouliès
+housenumber: "1"
+phone: +33 9 62 50 23 01
+opening_hours: Mo-Fr 09:30-12:30,13:30-17:30
+website: https://www.blabla-audition.fr

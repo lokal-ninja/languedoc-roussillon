@@ -1,11 +1,11 @@
 id: 78428056
-type: way
+type: node
 latitude: 42.62314
 longitude: 2.77028
 postcode: "66300"
 city: Llupia
-street: "Rue de la Massane"
-housenumber: 5
+street: Rue de la Massane
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

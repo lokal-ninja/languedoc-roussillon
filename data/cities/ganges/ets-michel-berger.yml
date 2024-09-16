@@ -1,11 +1,11 @@
 id: 73462468
-type: way
+type: node
 latitude: 43.93262
 longitude: 3.70473
 postcode: "34190"
 city: Ganges
-street: "Rue Ferdinand Paloc"
-housenumber: 4
-phone: "+33 4 67 73 85 56"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
+street: Rue Ferdinand Paloc
+housenumber: "4"
+phone: +33 4 67 73 85 56
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
 website: ""

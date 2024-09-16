@@ -4,8 +4,8 @@ latitude: 43.83743
 longitude: 4.35936
 postcode: "30000"
 city: Nîmes
-street: "Rue Auguste Pelet"
-housenumber: 4
-phone: "+33 4 66 84 95 44"
-opening_hours: "Tu-Sa 10:00-19:00"
+street: Rue Auguste Pelet
+housenumber: "4"
+phone: +33 4 66 84 95 44
+opening_hours: Tu-Sa 10:00-19:00
 website: ""

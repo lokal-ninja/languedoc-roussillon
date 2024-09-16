@@ -1,11 +1,11 @@
 id: 275846699
-type: way
+type: node
 latitude: 43.35702
 longitude: 3.52157
 postcode: "34340"
 city: Marseillan
-street: "Avenue de la Zone Industrielle"
-housenumber: 
+street: Avenue de la Zone Industrielle
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 115215484
-type: way
+type: node
 latitude: 43.70747
 longitude: 4.19599
 postcode: "30670"
 city: Aigues-Vives
 street: ""
-housenumber: 
-phone: "+33 4 66 93 20 60"
-opening_hours: "Mo-Sa 07:00-19:30"
-website: "https://www.bricodepot.fr"
+housenumber: ""
+phone: +33 4 66 93 20 60
+opening_hours: Mo-Sa 07:00-19:30
+website: https://www.bricodepot.fr

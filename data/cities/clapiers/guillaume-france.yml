@@ -4,8 +4,9 @@ latitude: 43.65511
 longitude: 3.87848
 postcode: "34830"
 city: CLAPIERS
-street: "Route de Montferrier"
-housenumber: 
+street: Route de Montferrier
+housenumber: ""
 phone: "+33467660473"
-opening_hours: "Mo off; Tu-Fr 07:30-13:00, 15:00-19:30; Sa 07:00-13:00, 14:30-19:30; Su 07:00-13:00"
-website: "https://www.patisserieguillaumefrance.com/"
+opening_hours: Mo off; Tu-Fr 07:30-13:00, 15:00-19:30; Sa 07:00-13:00, 14:30-19:30;
+    Su 07:00-13:00
+website: https://www.patisserieguillaumefrance.com/

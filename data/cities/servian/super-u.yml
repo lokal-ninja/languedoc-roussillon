@@ -1,11 +1,11 @@
 id: 401694853
-type: way
+type: node
 latitude: 43.42093
 longitude: 3.31255
 postcode: "34290"
 city: Servian
-street: "Avenue du Mas Viel"
-housenumber: 1
-phone: "+33 4 67 39 07 40"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.magasins-u.com/superu-servian"
+street: Avenue du Mas Viel
+housenumber: "1"
+phone: +33 4 67 39 07 40
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.magasins-u.com/superu-servian

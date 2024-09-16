@@ -1,11 +1,11 @@
 id: 472564383
-type: way
+type: node
 latitude: 43.58937
 longitude: 3.93208
 postcode: "34970"
 city: Lattes
-street: "Plan du Néga Cat"
-housenumber: 11
-phone: "+33 4 99 52 63 67"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-18:00"
-website: "https://www.maserati.com"
+street: Plan du Néga Cat
+housenumber: "11"
+phone: +33 4 99 52 63 67
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-18:00
+website: https://www.maserati.com

@@ -1,11 +1,11 @@
 id: 970669667
-type: way
+type: node
 latitude: 43.8127
 longitude: 4.36356
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 27 18 65"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://magasins.picard.fr/681-picard-nimes-cap-costieres"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 27 18 65
+opening_hours: Mo-Sa 09:30-20:00
+website: https://magasins.picard.fr/681-picard-nimes-cap-costieres

@@ -4,8 +4,8 @@ latitude: 43.58969
 longitude: 3.93502
 postcode: "34130"
 city: Mauguio
-street: "Rue Antoine de Saint-Exupéry"
-housenumber: 30
-phone: "+33 4 67 64 76 76"
-opening_hours: "07:00-20:00"
-website: "https://atelierbanette.com"
+street: Rue Antoine de Saint-Exupéry
+housenumber: "30"
+phone: +33 4 67 64 76 76
+opening_hours: 07:00-20:00
+website: https://atelierbanette.com

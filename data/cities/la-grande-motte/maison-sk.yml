@@ -4,8 +4,8 @@ latitude: 43.55872
 longitude: 4.08618
 postcode: "34280"
 city: La Grande-Motte
-street: "Avenue Pierre Racine"
-housenumber: 101
-phone: "+33 4 67 05 15 75"
-opening_hours: "10:00-19:00"
-website: "https://www.maison-sk.com"
+street: Avenue Pierre Racine
+housenumber: "101"
+phone: +33 4 67 05 15 75
+opening_hours: 10:00-19:00
+website: https://www.maison-sk.com

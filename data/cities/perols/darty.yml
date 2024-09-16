@@ -1,11 +1,11 @@
 id: 114968764
-type: way
+type: node
 latitude: 43.57677
 longitude: 3.93494
 postcode: "34470"
 city: Pérols
-street: "Allée de l'Expansion"
-housenumber: 
-phone: "+33 4 67 85 44 22"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://magasin.darty.com/118-darty-montpellier-perols"
+street: Allée de l'Expansion
+housenumber: ""
+phone: +33 4 67 85 44 22
+opening_hours: Mo-Sa 09:30-19:00
+website: https://magasin.darty.com/118-darty-montpellier-perols

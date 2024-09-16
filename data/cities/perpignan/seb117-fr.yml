@@ -4,8 +4,8 @@ latitude: 42.69969
 longitude: 2.89228
 postcode: "66000"
 city: Perpignan
-street: "Quai Sébastien Vauban"
-housenumber: 37
+street: Quai Sébastien Vauban
+housenumber: "37"
 phone: "+33434125542"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://seb117.fr"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://seb117.fr

@@ -5,7 +5,7 @@ longitude: 3.22502
 postcode: "34500"
 city: Béziers
 street: ""
-housenumber: 8
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00"
-website: "https://www.audition-biterrois.fr/"
+opening_hours: Mo-Fr 08:00-12:00
+website: https://www.audition-biterrois.fr/

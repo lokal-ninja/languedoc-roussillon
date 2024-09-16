@@ -4,8 +4,9 @@ latitude: 43.67816
 longitude: 4.11778
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 23
-phone: "+33 4 67 71 02 59"
-opening_hours: "Mo 10:00-13:00,15:00-19:00; Tu-Fr 09:00-13:00,15:00-19:30; Sa 09:00-13:00,13:00-19:30; Su 10:00-13:00"
-website: "https://fleuristes-et-fleurs.com/fleuriste/ambiance-florale-lunel-34400"
+street: Rue des Fournels
+housenumber: "23"
+phone: +33 4 67 71 02 59
+opening_hours: Mo 10:00-13:00,15:00-19:00; Tu-Fr 09:00-13:00,15:00-19:30; Sa 09:00-13:00,13:00-19:30;
+    Su 10:00-13:00
+website: https://fleuristes-et-fleurs.com/fleuriste/ambiance-florale-lunel-34400

@@ -4,8 +4,8 @@ latitude: 43.67528
 longitude: 4.13433
 postcode: "34400"
 city: Lunel
-street: "Rue des Caladons"
-housenumber: 45
-phone: "+33 4 67 71 30 46"
-opening_hours: "Tu-Sa 09:00-12:00,15:00-19:00; Su 09:30-12:30"
-website: "https://www.lunel-gardians.com"
+street: Rue des Caladons
+housenumber: "45"
+phone: +33 4 67 71 30 46
+opening_hours: Tu-Sa 09:00-12:00,15:00-19:00; Su 09:30-12:30
+website: https://www.lunel-gardians.com

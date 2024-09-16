@@ -4,8 +4,9 @@ latitude: 43.56387
 longitude: 4.09316
 postcode: "34280"
 city: La Grande-Motte
-street: "Allée des Goélands"
-housenumber: 2
-phone: "+33 4 67 56 87 16"
-opening_hours: "Mo-We 07:30-12:30,15:30-19:30; Th 07:30-12:30; Fr-Sa 07:30-12:30,15:30-19:30; Su 08:30-12:30"
+street: Allée des Goélands
+housenumber: "2"
+phone: +33 4 67 56 87 16
+opening_hours: Mo-We 07:30-12:30,15:30-19:30; Th 07:30-12:30; Fr-Sa 07:30-12:30,15:30-19:30;
+    Su 08:30-12:30
 website: ""

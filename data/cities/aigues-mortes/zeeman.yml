@@ -4,8 +4,8 @@ latitude: 43.57789
 longitude: 4.18859
 postcode: "30220"
 city: Aigues Mortes
-street: "Rue des Marchands"
-housenumber: 582
-phone: "+33 4 30 31 00 09"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00"
-website: "https://www.zeeman.com/fr/store/aigues-mortes-rues-des-marchands"
+street: Rue des Marchands
+housenumber: "582"
+phone: +33 4 30 31 00 09
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00
+website: https://www.zeeman.com/fr/store/aigues-mortes-rues-des-marchands

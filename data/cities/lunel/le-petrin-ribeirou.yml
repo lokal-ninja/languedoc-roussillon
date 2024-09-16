@@ -4,8 +4,8 @@ latitude: 43.68162
 longitude: 4.14685
 postcode: "34400"
 city: Lunel
-street: "Avenue du Vidourle"
-housenumber: 226
-phone: "+33 4 67 83 55 02"
-opening_hours: "Mo-Sa 06:30-20:00; Su 06:00-13:00"
+street: Avenue du Vidourle
+housenumber: "226"
+phone: +33 4 67 83 55 02
+opening_hours: Mo-Sa 06:30-20:00; Su 06:00-13:00
 website: ""

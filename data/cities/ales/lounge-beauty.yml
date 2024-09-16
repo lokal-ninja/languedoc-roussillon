@@ -4,8 +4,8 @@ latitude: 44.12154
 longitude: 4.09139
 postcode: "30100"
 city: Alès
-street: "Avenue Carnot"
-housenumber: 55
+street: Avenue Carnot
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://www.planity.com/lounge-beauty-30100-ales"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://www.planity.com/lounge-beauty-30100-ales

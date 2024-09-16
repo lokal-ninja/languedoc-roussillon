@@ -1,11 +1,11 @@
 id: 368140465
-type: way
+type: node
 latitude: 43.77974
 longitude: 4.07833
 postcode: "30250"
 city: Sommières
-street: "Route de Saussines"
-housenumber: 
-phone: "+33 4 66 80 67 05"
-opening_hours: "Mo-Sa 09:15-12:00,14:15-19:00"
-website: "https://stores.go-sport.com"
+street: Route de Saussines
+housenumber: ""
+phone: +33 4 66 80 67 05
+opening_hours: Mo-Sa 09:15-12:00,14:15-19:00
+website: https://stores.go-sport.com

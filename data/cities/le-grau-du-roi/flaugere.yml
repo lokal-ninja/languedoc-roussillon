@@ -4,8 +4,8 @@ latitude: 43.5251
 longitude: 4.15085
 postcode: "30240"
 city: Le Grau-du-Roi
-street: "Route de l'Espiguette"
-housenumber: 1
-phone: "+33 4 66 53 96 95"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-19:00; Sa 09:00-12:00,14:30-19:00"
+street: Route de l'Espiguette
+housenumber: "1"
+phone: +33 4 66 53 96 95
+opening_hours: Mo-Fr 08:30-12:00,14:00-19:00; Sa 09:00-12:00,14:30-19:00
 website: ""

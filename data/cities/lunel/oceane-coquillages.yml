@@ -1,11 +1,11 @@
 id: 1124492087
-type: way
+type: node
 latitude: 43.67511
 longitude: 4.13346
 postcode: "34400"
 city: Lunel
-street: "Cours Gabriel Péri"
-housenumber: 79
-phone: "+33 6 33 62 97 75"
-opening_hours: "Th-Su 07:30-13:30"
-website: "https://www.oceane-coquillages.fr"
+street: Cours Gabriel Péri
+housenumber: "79"
+phone: +33 6 33 62 97 75
+opening_hours: Th-Su 07:30-13:30
+website: https://www.oceane-coquillages.fr

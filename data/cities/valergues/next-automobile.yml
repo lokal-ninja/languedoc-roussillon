@@ -1,11 +1,11 @@
 id: 152630529
-type: way
+type: node
 latitude: 43.67349
 longitude: 4.06205
 postcode: "34130"
 city: Valergues
-street: "Chemin du Bois"
-housenumber: 120
-phone: "+33 4 67 56 66 66"
-opening_hours: "Mo-Fr 09:30-12:00"
-website: "http://www.nextautomobile.fr"
+street: Chemin du Bois
+housenumber: "120"
+phone: +33 4 67 56 66 66
+opening_hours: Mo-Fr 09:30-12:00
+website: http://www.nextautomobile.fr

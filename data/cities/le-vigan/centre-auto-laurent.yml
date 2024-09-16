@@ -1,11 +1,11 @@
 id: 83625677
-type: way
+type: node
 latitude: 43.98551
 longitude: 3.60313
 postcode: "30120"
 city: Le Vigan
-street: "Place Sainte-Euzéby"
-housenumber: 16
-phone: "+33 4 67 83 75 35"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00"
+street: Place Sainte-Euzéby
+housenumber: "16"
+phone: +33 4 67 83 75 35
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00
 website: ""

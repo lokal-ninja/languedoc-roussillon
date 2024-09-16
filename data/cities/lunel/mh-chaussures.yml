@@ -4,8 +4,8 @@ latitude: 43.67288
 longitude: 4.13249
 postcode: "34400"
 city: Lunel
-street: "Boulevard Diderot"
-housenumber: 20
-phone: "+33 9 53 81 08 84"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa-Su 09:00-13:00"
-website: "https://www.mh-chaussures.com"
+street: Boulevard Diderot
+housenumber: "20"
+phone: +33 9 53 81 08 84
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa-Su 09:00-13:00
+website: https://www.mh-chaussures.com

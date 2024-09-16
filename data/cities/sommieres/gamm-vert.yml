@@ -1,11 +1,11 @@
 id: 184210923
-type: way
+type: node
 latitude: 43.77968
 longitude: 4.07886
 postcode: "30250"
 city: Sommières
-street: "Route de Saussines"
-housenumber: 
-phone: "+33 4 66 80 01 55"
-opening_hours: "Mo 14:30-18:30; Tu-Sa 08:30-12:00,14:30-18:30"
-website: "https://magasin.gammvert.fr/611411-gamm-vert-de-sommieres"
+street: Route de Saussines
+housenumber: ""
+phone: +33 4 66 80 01 55
+opening_hours: Mo 14:30-18:30; Tu-Sa 08:30-12:00,14:30-18:30
+website: https://magasin.gammvert.fr/611411-gamm-vert-de-sommieres

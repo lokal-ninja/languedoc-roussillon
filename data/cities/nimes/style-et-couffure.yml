@@ -4,8 +4,8 @@ latitude: 43.8338
 longitude: 4.34793
 postcode: "30000"
 city: Nîmes
-street: "Rue Jean Crespon"
-housenumber: 19
-phone: "+33 4 66 64 64 69"
-opening_hours: "Tu-Fr 07:30-17:30; Sa 07:30-12:30"
+street: Rue Jean Crespon
+housenumber: "19"
+phone: +33 4 66 64 64 69
+opening_hours: Tu-Fr 07:30-17:30; Sa 07:30-12:30
 website: ""

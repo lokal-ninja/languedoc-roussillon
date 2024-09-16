@@ -4,8 +4,8 @@ latitude: 43.58165
 longitude: 3.94239
 postcode: "34130"
 city: Mauguio
-street: "Rue Hélène Boucher"
-housenumber: 257
-phone: "+33 4 67 65 39 33"
-opening_hours: "Mo 15:00-19:30; Tu-Fr 10:00-13:00,15:00-19:30; Sa 10:00-13:00,14:30-19:30"
-website: "https://megavins.blogspot.com"
+street: Rue Hélène Boucher
+housenumber: "257"
+phone: +33 4 67 65 39 33
+opening_hours: Mo 15:00-19:30; Tu-Fr 10:00-13:00,15:00-19:30; Sa 10:00-13:00,14:30-19:30
+website: https://megavins.blogspot.com

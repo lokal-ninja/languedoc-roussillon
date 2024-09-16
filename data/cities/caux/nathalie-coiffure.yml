@@ -4,8 +4,8 @@ latitude: 43.50706
 longitude: 3.36757
 postcode: "34720"
 city: Caux
-street: "Place de la République"
-housenumber: 42
-phone: "+33 4 67 98 42 54"
-opening_hours: "Mo-Tu 09:00-19:00; Th-Sa 09:00-19:00"
+street: Place de la République
+housenumber: "42"
+phone: +33 4 67 98 42 54
+opening_hours: Mo-Tu 09:00-19:00; Th-Sa 09:00-19:00
 website: ""

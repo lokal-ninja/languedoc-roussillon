@@ -4,8 +4,8 @@ latitude: 43.99219
 longitude: 3.6062
 postcode: "30120"
 city: Le Vigan
-street: "Place du Sergent Triaire"
-housenumber: 16
-phone: "+33 6 73 16 45 92"
-opening_hours: "Mo-Fr 08:00-12:00,15:00-19:00; Sa 07:30-13:00"
+street: Place du Sergent Triaire
+housenumber: "16"
+phone: +33 6 73 16 45 92
+opening_hours: Mo-Fr 08:00-12:00,15:00-19:00; Sa 07:30-13:00
 website: ""

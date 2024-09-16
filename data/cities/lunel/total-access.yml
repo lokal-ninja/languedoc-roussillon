@@ -1,11 +1,11 @@
 id: 62740984
-type: way
+type: node
 latitude: 43.67866
 longitude: 4.14331
 postcode: "34400"
 city: Lunel
-street: "Avenue du Général de Gaulle"
-housenumber: 487
+street: Avenue du Général de Gaulle
+housenumber: "487"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

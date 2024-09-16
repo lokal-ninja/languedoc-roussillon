@@ -1,11 +1,11 @@
 id: 997723430
-type: way
+type: node
 latitude: 43.29847
 longitude: 3.47389
 postcode: "34300"
 city: Agde
-street: "Boulevard Maurice Pacull"
-housenumber: 
-phone: "+33 9 67 67 06 96"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://pressingbiterrois.site-solocal.com"
+street: Boulevard Maurice Pacull
+housenumber: ""
+phone: +33 9 67 67 06 96
+opening_hours: Mo-Sa 09:00-19:30
+website: https://pressingbiterrois.site-solocal.com

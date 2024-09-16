@@ -4,8 +4,8 @@ latitude: 43.83719
 longitude: 4.35715
 postcode: "30000"
 city: Nîmes
-street: "Rue de la Madeleine"
-housenumber: 31
-phone: "+33 4 66 40 38 21"
-opening_hours: "Tu-Sa 09:30-12:30,14:00-19:00"
-website: "https://www.afflelou.com/"
+street: Rue de la Madeleine
+housenumber: "31"
+phone: +33 4 66 40 38 21
+opening_hours: Tu-Sa 09:30-12:30,14:00-19:00
+website: https://www.afflelou.com/

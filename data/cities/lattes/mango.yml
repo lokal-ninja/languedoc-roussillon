@@ -1,11 +1,11 @@
 id: 413309486
-type: way
+type: node
 latitude: 43.5825
 longitude: 3.93044
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 89 16 24 62"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://shop.mango.com"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 89 16 24 62
+opening_hours: Mo-Sa 09:00-20:00
+website: https://shop.mango.com

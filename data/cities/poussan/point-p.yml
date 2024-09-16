@@ -1,11 +1,11 @@
 id: 581859575
-type: way
+type: node
 latitude: 43.47075
 longitude: 3.67599
 postcode: "34560"
 city: Poussan
-street: "Avenue des Romarins"
-housenumber: 79
-phone: "+33 4 67 78 29 00"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:00"
+street: Avenue des Romarins
+housenumber: "79"
+phone: +33 4 67 78 29 00
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 862994733
-type: way
+type: node
 latitude: 43.80043
 longitude: 4.41754
 postcode: "30230"
 city: Bouillargues
-street: "Route de Nîmes"
-housenumber: 55
+street: Route de Nîmes
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.washndry-concept.com/laverie/laverie-bungalow-washn-dry-bouillargues/"
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.washndry-concept.com/laverie/laverie-bungalow-washn-dry-bouillargues/

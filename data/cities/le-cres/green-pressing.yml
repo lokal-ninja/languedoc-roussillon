@@ -1,11 +1,11 @@
 id: 951439492
-type: way
+type: node
 latitude: 43.64227
 longitude: 3.94069
 postcode: "34920"
 city: Le Crès
-street: "Route de Nîmes"
-housenumber: 
-phone: "+33 4 67 52 79 68"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.green-pressing-lecres.fr"
+street: Route de Nîmes
+housenumber: ""
+phone: +33 4 67 52 79 68
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.green-pressing-lecres.fr

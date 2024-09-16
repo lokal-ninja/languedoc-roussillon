@@ -4,8 +4,8 @@ latitude: 43.99148
 longitude: 3.60636
 postcode: "30120"
 city: Le Vigan
-street: "Rue du Four"
-housenumber: 14
-phone: "+33 4 67 64 83 88"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "http://www.alice-maroquinerie.fr"
+street: Rue du Four
+housenumber: "14"
+phone: +33 4 67 64 83 88
+opening_hours: Mo-Sa 09:30-19:00
+website: http://www.alice-maroquinerie.fr

@@ -4,8 +4,8 @@ latitude: 43.33365
 longitude: 3.12853
 postcode: "34310"
 city: Montady
-street: "Rue du Pin"
-housenumber: 15
-phone: "+33 4 67 32 71 01"
-opening_hours: "Mo-Fr 05:00-20:00; Sa-Su 07:00-20:00"
-website: "https://www.facebook.com/ausoleilgourmandmontady/"
+street: Rue du Pin
+housenumber: "15"
+phone: +33 4 67 32 71 01
+opening_hours: Mo-Fr 05:00-20:00; Sa-Su 07:00-20:00
+website: https://www.facebook.com/ausoleilgourmandmontady/

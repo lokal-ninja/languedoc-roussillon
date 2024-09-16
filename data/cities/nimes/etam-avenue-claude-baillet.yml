@@ -1,11 +1,11 @@
 id: 970678934
-type: way
+type: node
 latitude: 43.8126
 longitude: 4.36244
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 40 71 78"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://www.1-2-3.fr"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 26 80 73
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.etam.com

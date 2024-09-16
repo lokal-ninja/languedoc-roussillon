@@ -1,11 +1,11 @@
 id: 753571240
-type: way
+type: node
 latitude: 42.63424
 longitude: 2.09776
 postcode: "66210"
 city: Fontrabiouse
 street: ""
-housenumber: 
-phone: "+33 4 68 30 95 55"
+housenumber: ""
+phone: +33 4 68 30 95 55
 opening_hours: ""
-website: "https://www.grotte-de-fontrabiouse.com"
+website: https://www.grotte-de-fontrabiouse.com

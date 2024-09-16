@@ -4,8 +4,8 @@ latitude: 43.637
 longitude: 3.92867
 postcode: "34170"
 city: Castelnau-le-Lez
-street: "Route de Nîmes"
-housenumber: 700
-phone: "+33 4 34 43 44 08"
-opening_hours: "Tu-Sa 09:00-19:00"
+street: Route de Nîmes
+housenumber: "700"
+phone: +33 4 34 43 44 08
+opening_hours: Tu-Sa 09:00-19:00
 website: ""

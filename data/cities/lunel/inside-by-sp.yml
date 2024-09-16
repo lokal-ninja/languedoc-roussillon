@@ -4,8 +4,8 @@ latitude: 43.67619
 longitude: 4.13748
 postcode: "34400"
 city: Lunel
-street: "Boulevard de Strasbourg"
-housenumber: 191
-phone: "+33 4 26 93 99 77"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.insidebysp.fr"
+street: Boulevard de Strasbourg
+housenumber: "191"
+phone: +33 4 26 93 99 77
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.insidebysp.fr

@@ -4,8 +4,8 @@ latitude: 43.80843
 longitude: 4.35624
 postcode: "30900"
 city: Nîmes
-street: "Place André Bazile"
-housenumber: 59
+street: Place André Bazile
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:30"
-website: "https://www.heth.fr/magasins/hh-nimes"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:30
+website: https://www.heth.fr/magasins/hh-nimes

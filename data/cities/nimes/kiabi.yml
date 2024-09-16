@@ -4,8 +4,8 @@ latitude: 43.80945
 longitude: 4.36674
 postcode: "30900"
 city: Nîmes
-street: "Rue Paul Laurent"
-housenumber: 155
-phone: "+33 4 66 29 10 15"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.kiabi.com"
+street: Rue Paul Laurent
+housenumber: "155"
+phone: +33 4 66 29 10 15
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.kiabi.com

@@ -1,11 +1,11 @@
 id: 92106438
-type: way
+type: node
 latitude: 43.18633
 longitude: 3.00248
 postcode: "11100"
 city: Narbonne
-street: "Boulevard Frédéric Mistral"
-housenumber: 32
-phone: "09 54 46 69 57"
-opening_hours: "mardi-samedi 10h-14h et 17h-22h"
-website: "https://lapartdelange.fr/"
+street: Boulevard Frédéric Mistral
+housenumber: "32"
+phone: 09 54 46 69 57
+opening_hours: mardi-samedi 10h-14h et 17h-22h
+website: https://lapartdelange.fr/

@@ -4,8 +4,8 @@ latitude: 43.8366
 longitude: 4.35963
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 17
-phone: "+33 4 66 67 36 54"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "htpps://www.facebook.com/optic-de-l-aspic/"
+street: Rue de l'Aspic
+housenumber: "17"
+phone: +33 4 66 67 36 54
+opening_hours: Tu-Sa 10:00-19:00
+website: htpps://www.facebook.com/optic-de-l-aspic/

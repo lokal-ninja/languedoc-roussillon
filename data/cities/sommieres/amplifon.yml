@@ -4,8 +4,8 @@ latitude: 43.78052
 longitude: 4.07884
 postcode: "30250"
 city: Sommières
-street: "Impasse de la Malautière"
-housenumber: 4
-phone: "+33 4 66 35 50 64"
-opening_hours: "Mo 09:30-12:00; Th 14:00-18:00"
-website: "https://www.amplifon.com"
+street: Impasse de la Malautière
+housenumber: "4"
+phone: +33 4 66 35 50 64
+opening_hours: Mo 09:30-12:00; Th 14:00-18:00
+website: https://www.amplifon.com

@@ -1,11 +1,11 @@
 id: 92111273
-type: way
+type: node
 latitude: 43.17692
 longitude: 2.9945
 postcode: "11100"
 city: Narbonne
-street: "Avenue du Général Leclerc"
-housenumber: 89
+street: Avenue du Général Leclerc
+housenumber: "89"
 phone: ""
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

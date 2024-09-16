@@ -1,11 +1,11 @@
 id: 82187684
-type: way
+type: node
 latitude: 43.5625
 longitude: 3.87905
 postcode: "34970"
 city: Lattes
-street: "Rue de Rondelet"
-housenumber: 5
+street: Rue de Rondelet
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.84033
 longitude: 4.3602
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Gambetta"
-housenumber: 40
-phone: "+33 4 66 21 53 70"
-opening_hours: "Mo-Su 06:30-20:00"
+street: Boulevard Gambetta
+housenumber: "40"
+phone: +33 4 66 21 53 70
+opening_hours: Mo-Su 06:30-20:00
 website: ""

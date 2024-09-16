@@ -1,11 +1,11 @@
 id: 178391424
-type: way
+type: node
 latitude: 43.48772
 longitude: 2.76468
 postcode: "34220"
 city: Saint-Pons-de-Thomières
-street: "Avenue de la Gare"
-housenumber: 12
+street: Avenue de la Gare
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00"
+opening_hours: Mo-Fr 07:00-19:00
 website: ""

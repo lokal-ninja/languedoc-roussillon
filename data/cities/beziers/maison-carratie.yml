@@ -1,11 +1,11 @@
 id: 133221495
-type: way
+type: node
 latitude: 43.34758
 longitude: 3.22104
 postcode: "34500"
 city: Béziers
-street: "Avenue Jean Moulin"
-housenumber: 
+street: Avenue Jean Moulin
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-13:30, 15:30-19:00"
+opening_hours: Mo-Su 07:00-13:30, 15:30-19:00
 website: ""

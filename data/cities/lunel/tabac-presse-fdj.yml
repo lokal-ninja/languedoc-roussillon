@@ -1,11 +1,11 @@
 id: 907027533
-type: way
+type: node
 latitude: 43.68318
 longitude: 4.15405
 postcode: "34400"
 city: Lunel
-street: "Avenue les Portes de la Mer"
-housenumber: 
-phone: "+33 4 67 83 20 18"
-opening_hours: "Mo-Sa 07:00-19:30"
-website: "http://www.magpresse.com"
+street: Avenue les Portes de la Mer
+housenumber: ""
+phone: +33 4 67 83 20 18
+opening_hours: Mo-Sa 07:00-19:30
+website: http://www.magpresse.com

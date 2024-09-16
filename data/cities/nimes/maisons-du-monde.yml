@@ -4,8 +4,8 @@ latitude: 43.80946
 longitude: 4.36299
 postcode: "30900"
 city: Nîmes
-street: "Rue Jean Lauret"
-housenumber: 148
-phone: "+33 4 66 36 38 38"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.maisonsdumonde.com/FR/fr/magasins/nimes-76"
+street: Rue Jean Lauret
+housenumber: "148"
+phone: +33 4 66 36 38 38
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.maisonsdumonde.com/FR/fr/magasins/nimes-76

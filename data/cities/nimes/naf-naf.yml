@@ -1,11 +1,11 @@
 id: 970621121
-type: way
+type: node
 latitude: 43.81256
 longitude: 4.36043
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 62 25 92"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.nafnaf.com/nos-boutiques/naf-naf-nimes-3-geant-casino_nimes_30900/98.html"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 62 25 92
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.nafnaf.com/nos-boutiques/naf-naf-nimes-3-geant-casino_nimes_30900/98.html

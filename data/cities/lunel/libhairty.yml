@@ -4,8 +4,8 @@ latitude: 43.67674
 longitude: 4.13368
 postcode: "34400"
 city: Lunel
-street: "Boulevard Lafayette"
-housenumber: 135
-phone: "+33 4 67 71 49 62"
-opening_hours: "Tu-Th 09:00-18:30; Fr 09:00-19:00; Sa 09:00-18:00"
-website: "http://www.libhairty.com"
+street: Boulevard Lafayette
+housenumber: "135"
+phone: +33 4 67 71 49 62
+opening_hours: Tu-Th 09:00-18:30; Fr 09:00-19:00; Sa 09:00-18:00
+website: http://www.libhairty.com

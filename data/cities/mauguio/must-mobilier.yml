@@ -4,8 +4,8 @@ latitude: 43.59149
 longitude: 3.93716
 postcode: "34130"
 city: Mauguio
-street: "Rue Roland Garros"
-housenumber: 135
-phone: "+33 4 67 99 32 96"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.must-mobilier.fr"
+street: Rue Roland Garros
+housenumber: "135"
+phone: +33 4 67 99 32 96
+opening_hours: Tu-Sa 10:00-12:00,14:00-19:00
+website: https://www.must-mobilier.fr

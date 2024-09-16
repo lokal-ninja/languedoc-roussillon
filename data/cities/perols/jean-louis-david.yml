@@ -1,11 +1,11 @@
 id: 887626025
-type: way
+type: node
 latitude: 43.57268
 longitude: 3.94254
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 64 19 07"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://reservations.jeanlouisdavid.com"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 64 19 07
+opening_hours: Mo-Sa 09:00-19:30
+website: https://reservations.jeanlouisdavid.com

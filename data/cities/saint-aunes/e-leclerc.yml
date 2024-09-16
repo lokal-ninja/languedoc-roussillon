@@ -1,11 +1,11 @@
 id: 79539020
-type: way
+type: node
 latitude: 43.64971
 longitude: 3.97759
 postcode: "34130"
 city: Saint-Aunès
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.e-leclerc.com/st-aunes/magasins-specialises/station/info-station-service"
+opening_hours: 24/7
+website: https://www.e-leclerc.com/st-aunes/magasins-specialises/station/info-station-service

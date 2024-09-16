@@ -4,8 +4,8 @@ latitude: 43.34419
 longitude: 3.22937
 postcode: "34500"
 city: Béziers
-street: "Avenue Émile claparède"
-housenumber: 41
-phone: "+33 4 67 28 82 50"
-opening_hours: "Tu-Sa 09:00-18:00; Su 09:00-13:00"
-website: "https://www.lestempsdegaston.fr"
+street: Avenue Émile claparède
+housenumber: "41"
+phone: +33 4 67 28 82 50
+opening_hours: Tu-Sa 09:00-18:00; Su 09:00-13:00
+website: https://www.lestempsdegaston.fr

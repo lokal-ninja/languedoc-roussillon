@@ -1,11 +1,11 @@
 id: 521051132
-type: way
+type: node
 latitude: 43.71431
 longitude: 4.19932
 postcode: "30670"
 city: Aigues-Vives
-street: "Vieille Route"
-housenumber: 160
-phone: "+33 4 66 77 52 66"
-opening_hours: "Mo-Sa 08:00-12:00,14:00-18:00"
-website: "https://reseau.garage-premier.fr/164-fm-automobiles"
+street: Vieille Route
+housenumber: "160"
+phone: +33 4 66 77 52 66
+opening_hours: Mo-Sa 08:00-12:00,14:00-18:00
+website: https://reseau.garage-premier.fr/164-fm-automobiles

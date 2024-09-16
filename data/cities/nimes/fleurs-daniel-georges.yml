@@ -4,8 +4,8 @@ latitude: 43.8403
 longitude: 4.35982
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Gambetta"
-housenumber: 40
-phone: "+33 4 66 67 84 07"
-opening_hours: "Mo-Su 9:30-19:30"
-website: "www.fleursdanilegeorges.fr"
+street: Boulevard Gambetta
+housenumber: "40"
+phone: +33 4 66 67 84 07
+opening_hours: Mo-Su 9:30-19:30
+website: www.fleursdanilegeorges.fr

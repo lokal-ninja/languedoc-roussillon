@@ -1,11 +1,11 @@
 id: 889786300
-type: way
+type: node
 latitude: 43.67976
 longitude: 4.14757
 postcode: "34400"
 city: Lunel
-street: "Rue du Levant"
-housenumber: 125
-phone: "+33 4 48 19 30 79"
-opening_hours: "Mo-Sa 09:00-19:30"
+street: Rue du Levant
+housenumber: "125"
+phone: +33 4 48 19 30 79
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

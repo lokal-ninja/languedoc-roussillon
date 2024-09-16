@@ -1,11 +1,11 @@
 id: 129949984
-type: way
+type: node
 latitude: 44.01135
 longitude: 4.70072
 postcode: "30126"
 city: Tavel
-street: "Rue Frédéric Mistral"
-housenumber: 41
+street: Rue Frédéric Mistral
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://valdesronces.canalblog.com/"
+website: https://valdesronces.canalblog.com/

@@ -1,11 +1,11 @@
 id: 1307036681
-type: way
+type: node
 latitude: 43.48181
 longitude: 3.3952
 postcode: "34120"
 city: Pézenas
-street: "Route de Caux"
-housenumber: 2470
-phone: "+33 4 83 43 43 38"
+street: Route de Caux
+housenumber: "2470"
+phone: +33 4 83 43 43 38
 opening_hours: ""
-website: "https://www.parc-lumieres.com/"
+website: https://www.parc-lumieres.com/

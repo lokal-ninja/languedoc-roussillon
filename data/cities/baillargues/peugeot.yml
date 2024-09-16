@@ -1,11 +1,11 @@
 id: 125411451
-type: way
+type: node
 latitude: 43.65914
 longitude: 4.01754
 postcode: "34670"
 city: Baillargues
-street: "Rue de Colombiers"
-housenumber: 66
-phone: "+33 4 67 87 65 25"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-19:00"
-website: "https://agents.peugeot.fr/baillargues"
+street: Rue de Colombiers
+housenumber: "66"
+phone: +33 4 67 87 65 25
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-19:00
+website: https://agents.peugeot.fr/baillargues

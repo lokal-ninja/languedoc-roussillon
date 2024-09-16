@@ -1,11 +1,11 @@
 id: 83624488
-type: way
+type: node
 latitude: 43.99128
 longitude: 3.60838
 postcode: "30120"
 city: Le Vigan
-street: "Avenue Emmanuel d'Alzon"
-housenumber: 16
-phone: "+33 4 67 81 81 81"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30"
-website: "https://www.pointp.fr/infos-agence/le-vigan-point-p-3358"
+street: Avenue Emmanuel d'Alzon
+housenumber: "16"
+phone: +33 4 67 81 81 81
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30
+website: https://www.pointp.fr/infos-agence/le-vigan-point-p-3358

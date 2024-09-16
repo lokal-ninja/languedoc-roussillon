@@ -1,11 +1,11 @@
 id: 227126818
-type: way
+type: node
 latitude: 43.80939
 longitude: 4.35732
 postcode: "30900"
 city: Nîmes
-street: "Place André Bazile"
-housenumber: 
-phone: "+33 4 66 70 22 99"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:30"
-website: "https://www.intersport.fr/Gard-30/NIMES-30900/INTERSPORT-NIMES/00627_000"
+street: Place André Bazile
+housenumber: ""
+phone: +33 4 66 70 22 99
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:30
+website: https://www.intersport.fr/Gard-30/NIMES-30900/INTERSPORT-NIMES/00627_000

@@ -1,11 +1,11 @@
 id: 62729385
-type: way
+type: node
 latitude: 43.68265
 longitude: 4.1496
 postcode: "34400"
 city: Lunel
-street: "Avenue du Vidourle"
-housenumber: 479
-phone: "+33 4 67 65 69 80"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.marcel-et-fils.com"
+street: Avenue du Vidourle
+housenumber: "479"
+phone: +33 4 67 65 69 80
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.marcel-et-fils.com

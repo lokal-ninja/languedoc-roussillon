@@ -4,8 +4,8 @@ latitude: 43.67554
 longitude: 4.13501
 postcode: "34400"
 city: Lunel
-street: "Rue Sadi Carnot"
-housenumber: 17
-phone: "+33 4 99 54 05 54"
-opening_hours: "09:00-20:00"
+street: Rue Sadi Carnot
+housenumber: "17"
+phone: +33 4 99 54 05 54
+opening_hours: 09:00-20:00
 website: ""

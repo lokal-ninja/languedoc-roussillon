@@ -4,8 +4,8 @@ latitude: 43.60426
 longitude: 3.86882
 postcode: "34000"
 city: Montpellier
-street: "Rue Chaptal"
-housenumber: 37
+street: Rue Chaptal
+housenumber: "37"
 phone: "+33448782534"
-opening_hours: "Mo-Sat 07:00-21:00, Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/carrefour-city-montpellier-chaptal"
+opening_hours: Mo-Sat 07:00-21:00, Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/carrefour-city-montpellier-chaptal

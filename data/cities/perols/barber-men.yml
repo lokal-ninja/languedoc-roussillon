@@ -1,11 +1,11 @@
 id: 374099919
-type: way
+type: node
 latitude: 43.57151
 longitude: 3.94058
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 99 51 92 12"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.barber-men.fr/perols"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 99 51 92 12
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.barber-men.fr/perols

@@ -4,8 +4,8 @@ latitude: 43.80895
 longitude: 4.35514
 postcode: "30900"
 city: Nîmes
-street: "Place André Bazile"
-housenumber: 59
-phone: "+33 4 66 05 50 90"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:30; Sa 09:30-19:30"
-website: "https://www.electrodepot.fr/nos-magasins/magasin-nimes"
+street: Place André Bazile
+housenumber: "59"
+phone: +33 4 66 05 50 90
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:30; Sa 09:30-19:30
+website: https://www.electrodepot.fr/nos-magasins/magasin-nimes

@@ -4,8 +4,8 @@ latitude: 43.83728
 longitude: 4.3579
 postcode: "30000"
 city: Nîmes
-street: "Rue Fresque"
-housenumber: 3
-phone: "+33 4 66 28 09 90"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.depiltech.com/fr"
+street: Rue Fresque
+housenumber: "3"
+phone: +33 4 66 28 09 90
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.depiltech.com/fr

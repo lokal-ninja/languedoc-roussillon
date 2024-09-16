@@ -4,8 +4,8 @@ latitude: 43.8374
 longitude: 4.35749
 postcode: "30000"
 city: Nîmes
-street: "Rue de la Madeleine"
-housenumber: 28
-phone: "+33 4 66 26 47 94"
-opening_hours: "Tu-Fr 10:00-19:00"
-website: "https://maxilivres.fr/"
+street: Rue de la Madeleine
+housenumber: "28"
+phone: +33 4 66 26 47 94
+opening_hours: Tu-Fr 10:00-19:00
+website: https://maxilivres.fr/

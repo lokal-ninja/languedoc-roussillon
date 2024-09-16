@@ -4,8 +4,8 @@ latitude: 43.46813
 longitude: 3.20844
 postcode: "34480"
 city: Magalas
-street: "Rue de l'Audacieuse"
-housenumber: 22
-phone: "+33 4 67 28 94 89"
-opening_hours: "Mo-Sa 06:00-19:45; Su 06:00-19:00"
+street: Rue de l'Audacieuse
+housenumber: "22"
+phone: +33 4 67 28 94 89
+opening_hours: Mo-Sa 06:00-19:45; Su 06:00-19:00
 website: ""

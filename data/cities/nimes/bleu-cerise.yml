@@ -1,11 +1,11 @@
 id: 970678923
-type: way
+type: node
 latitude: 43.81249
 longitude: 4.36153
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 67 14 92"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.bleucerise.com"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 67 14 92
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.bleucerise.com

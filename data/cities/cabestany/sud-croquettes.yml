@@ -4,8 +4,8 @@ latitude: 42.69053
 longitude: 2.92436
 postcode: "66330"
 city: Cabestany
-street: "Rue Albert Einstein"
-housenumber: 1
-phone: "+33 4 68 66 02 21"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.sud-croquettes.fr/"
+street: Rue Albert Einstein
+housenumber: "1"
+phone: +33 4 68 66 02 21
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.sud-croquettes.fr/

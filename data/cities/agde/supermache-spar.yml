@@ -4,8 +4,8 @@ latitude: 43.29554
 longitude: 3.52857
 postcode: "34300"
 city: Agde
-street: "Boulevard des Matelots"
-housenumber: 1
-phone: "+33 4 67 77 12 98"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://magasins.spar.fr/fr/s/spar-le-cap-dagde-heliopolis"
+street: Boulevard des Matelots
+housenumber: "1"
+phone: +33 4 67 77 12 98
+opening_hours: Mo-Su 07:00-21:00
+website: https://magasins.spar.fr/fr/s/spar-le-cap-dagde-heliopolis

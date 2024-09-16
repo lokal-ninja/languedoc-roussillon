@@ -1,11 +1,11 @@
 id: 689503432
-type: way
+type: node
 latitude: 44.01226
 longitude: 4.6901
 postcode: "30126"
 city: Tavel
-street: "Chemin des Amandiers"
-housenumber: 151
-phone: "+33 6 64 40 89 80"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://sabrinaphez5.wixsite.com/website"
+street: Chemin des Amandiers
+housenumber: "151"
+phone: +33 6 64 40 89 80
+opening_hours: Mo-Fr 09:00-19:00
+website: https://sabrinaphez5.wixsite.com/website

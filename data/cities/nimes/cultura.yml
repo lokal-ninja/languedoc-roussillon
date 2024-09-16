@@ -1,11 +1,11 @@
 id: 40324478
-type: way
+type: node
 latitude: 43.80977
 longitude: 4.3601
 postcode: "30900"
 city: Nîmes
-street: "Rue Jean Lauret"
-housenumber: 148
-phone: "+33 4 66 70 92 70"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.cultura.com/les-magasins/cultura-nimes.html"
+street: Rue Jean Lauret
+housenumber: "148"
+phone: +33 4 66 70 92 70
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.cultura.com/les-magasins/cultura-nimes.html

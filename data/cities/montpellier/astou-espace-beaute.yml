@@ -4,8 +4,8 @@ latitude: 43.60842
 longitude: 3.87065
 postcode: "34000"
 city: Montpellier
-street: "Rue du Faubourg du Courreau"
-housenumber: 34
-phone: "+33 4 99 63 01 45"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://astoueb.business.site/"
+street: Rue du Faubourg du Courreau
+housenumber: "34"
+phone: +33 4 99 63 01 45
+opening_hours: Mo-Sa 09:00-19:00
+website: https://astoueb.business.site/

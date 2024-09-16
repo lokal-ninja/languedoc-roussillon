@@ -1,11 +1,11 @@
 id: 413332678
-type: way
+type: node
 latitude: 43.58277
 longitude: 3.92756
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 07 02 63"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.generale-optique.com/opticien/l/lattes/avenue-des-platanes/1800069"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 07 02 63
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.generale-optique.com/opticien/l/lattes/avenue-des-platanes/1800069

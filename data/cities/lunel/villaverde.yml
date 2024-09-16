@@ -1,11 +1,11 @@
 id: 62740638
-type: way
+type: node
 latitude: 43.69044
 longitude: 4.16163
 postcode: "34400"
 city: Lunel
-street: "Chemin des Cantaridies"
-housenumber: 200
-phone: "+33 4 67 83 05 46"
-opening_hours: "09:30-12:30,14:00-19:00"
-website: "https://www.villaverde.fr"
+street: Chemin des Cantaridies
+housenumber: "200"
+phone: +33 4 67 83 05 46
+opening_hours: 09:30-12:30,14:00-19:00
+website: https://www.villaverde.fr

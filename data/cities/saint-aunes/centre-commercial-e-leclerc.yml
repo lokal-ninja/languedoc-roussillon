@@ -1,11 +1,11 @@
 id: 958391664
-type: way
+type: node
 latitude: 43.65208
 longitude: 3.97995
 postcode: "34130"
 city: Saint-Aunès
-street: "Ecoparc Departemental, N113"
-housenumber: 
-phone: "+33 4 67 87 44 00"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-20:30; Su 09:00-12:45"
-website: "http://leclercsaintaunes.com"
+street: Ecoparc Departemental, N113
+housenumber: ""
+phone: +33 4 67 87 44 00
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-20:30; Su 09:00-12:45
+website: http://leclercsaintaunes.com

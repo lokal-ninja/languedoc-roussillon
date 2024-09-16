@@ -1,11 +1,11 @@
 id: 970678939
-type: way
+type: node
 latitude: 43.81258
 longitude: 4.36233
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: ""
-opening_hours: ""
-website: ""
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 23 87 09
+opening_hours: Mo-Sa 09:30-20:00
+website: https://tamaris.com

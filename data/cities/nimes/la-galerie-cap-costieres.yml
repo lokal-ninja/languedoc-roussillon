@@ -1,11 +1,11 @@
 id: 39799529
-type: way
+type: node
 latitude: 43.81314
 longitude: 4.36016
 postcode: "30000"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
+street: Avenue Claude Baillet
+housenumber: "400"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.la-galerie.com/cap-costieres"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.la-galerie.com/cap-costieres

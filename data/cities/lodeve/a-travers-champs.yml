@@ -1,11 +1,11 @@
 id: 179883942
-type: way
+type: node
 latitude: 43.73188
 longitude: 3.32217
 postcode: "34700"
 city: Lodève
-street: "Boulevard Montalangue"
-housenumber: 6
+street: Boulevard Montalangue
+housenumber: "6"
 phone: "+33467885854"
-opening_hours: "Mo 15:00-19:00; Tu-Sa 09:30-13:00, 15:00-19:00;su closed"
-website: "https://atraverschampsproducteurs.fr/"
+opening_hours: Mo 15:00-19:00; Tu-Sa 09:30-13:00, 15:00-19:00;su closed
+website: https://atraverschampsproducteurs.fr/

@@ -1,11 +1,11 @@
 id: 457008064
-type: way
+type: node
 latitude: 43.57409
 longitude: 3.93686
 postcode: "34470"
 city: Pérols
-street: "Avenue du Languedoc"
-housenumber: 
-phone: "+33 4 99 64 46 20"
-opening_hours: "Tu-Sa 10:00-19:00"
+street: Avenue du Languedoc
+housenumber: ""
+phone: +33 4 99 64 46 20
+opening_hours: Tu-Sa 10:00-19:00
 website: ""

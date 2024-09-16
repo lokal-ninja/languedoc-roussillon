@@ -1,11 +1,11 @@
 id: 559139607
-type: way
+type: node
 latitude: 43.79631
 longitude: 4.38286
 postcode: "30132"
 city: Caissargues
-street: "Avenue de la Vistrenque"
-housenumber: 
+street: Avenue de la Vistrenque
+housenumber: ""
 phone: "+33181097825"
 opening_hours: ""
-website: "https://www.aldi.fr/"
+website: https://www.aldi.fr/

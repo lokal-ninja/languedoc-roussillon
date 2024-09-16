@@ -1,11 +1,11 @@
 id: 91777960
-type: way
+type: node
 latitude: 43.18714
 longitude: 2.75275
 postcode: "11200"
 city: Lezignan-Corbières
-street: "Rue de L'Estagnol"
-housenumber: 
+street: Rue de L'Estagnol
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

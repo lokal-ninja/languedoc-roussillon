@@ -4,8 +4,8 @@ latitude: 43.68825
 longitude: 4.14218
 postcode: "34400"
 city: Lunel
-street: "Chemin des Oliviers"
-housenumber: 270
-phone: "+33 9 81 47 24 24"
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "https://www.tjm-automobiles.fr"
+street: Chemin des Oliviers
+housenumber: "270"
+phone: +33 9 81 47 24 24
+opening_hours: Mo-Fr 09:00-18:30
+website: https://www.tjm-automobiles.fr

@@ -4,8 +4,8 @@ latitude: 43.56988
 longitude: 3.84578
 postcode: "34430"
 city: Saint-Jean-de-Védas
-street: "Avenue de la Condamine"
-housenumber: 690
-phone: "+33 4 67 27 20 65"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.maisondelaliterie.fr"
+street: Avenue de la Condamine
+housenumber: "690"
+phone: +33 4 67 27 20 65
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
+website: https://www.maisondelaliterie.fr

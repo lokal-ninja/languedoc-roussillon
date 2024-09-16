@@ -1,11 +1,11 @@
 id: 62729381
-type: way
+type: node
 latitude: 43.68228
 longitude: 4.14919
 postcode: "34400"
 city: Lunel
-street: "Avenue du Vidourle"
-housenumber: 429
-phone: "+33 4 67 71 97 93"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-18:30; Sa 10:00-12:00,14:00-18:00"
-website: "https://www.poele-montpellier.fr"
+street: Avenue du Vidourle
+housenumber: "429"
+phone: +33 4 67 71 97 93
+opening_hours: Tu-Fr 10:00-12:00,14:00-18:30; Sa 10:00-12:00,14:00-18:00
+website: https://www.poele-montpellier.fr

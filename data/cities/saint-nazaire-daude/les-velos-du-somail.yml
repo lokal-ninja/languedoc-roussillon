@@ -1,11 +1,11 @@
 id: 173098661
-type: way
+type: node
 latitude: 43.26708
 longitude: 2.90133
 postcode: "11120"
 city: Saint-Nazaire-d'Aude
-street: "Rue de la Bergerie"
-housenumber: 205
+street: Rue de la Bergerie
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

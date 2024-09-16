@@ -4,8 +4,8 @@ latitude: 43.44184
 longitude: 3.67936
 postcode: "34540"
 city: Balaruc-les-Bains
-street: "Avenue du Port"
-housenumber: 1
-phone: "+33 4 67 48 51 36"
-opening_hours: "Mo-Sa 06:30-13:00,15:30-19:30; Su 06:30-12:30"
+street: Avenue du Port
+housenumber: "1"
+phone: +33 4 67 48 51 36
+opening_hours: Mo-Sa 06:30-13:00,15:30-19:30; Su 06:30-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.83575
 longitude: 4.36003
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 31
-phone: "+33 4 66 67 25 38"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:30, 14:00-19:00"
-website: "https://audaymusiques.fr/"
+street: Rue de l'Aspic
+housenumber: "31"
+phone: +33 4 66 67 25 38
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:30, 14:00-19:00
+website: https://audaymusiques.fr/

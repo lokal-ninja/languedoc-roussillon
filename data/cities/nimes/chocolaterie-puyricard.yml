@@ -4,8 +4,8 @@ latitude: 43.83638
 longitude: 4.35947
 postcode: "30000"
 city: Nîmes
-street: "Rue des Broquiers"
-housenumber: 3
-phone: "+33 4 34 28 85 29"
-opening_hours: "Tu-Th 9:30-19:00; Sa 9:30-19:00"
-website: "https://www.puyricard.fr/fr/"
+street: Rue des Broquiers
+housenumber: "3"
+phone: +33 4 34 28 85 29
+opening_hours: Tu-Th 9:30-19:00; Sa 9:30-19:00
+website: https://www.puyricard.fr/fr/

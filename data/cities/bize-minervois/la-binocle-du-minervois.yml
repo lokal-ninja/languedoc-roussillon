@@ -4,8 +4,8 @@ latitude: 43.31826
 longitude: 2.87096
 postcode: "11120"
 city: Bize-Minervois
-street: "Avenue de l'Hôtel de Ville"
-housenumber: 3
-phone: "+33 4 68 58 35 16"
-opening_hours: "Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-18:00"
+street: Avenue de l'Hôtel de Ville
+housenumber: "3"
+phone: +33 4 68 58 35 16
+opening_hours: Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-18:00
 website: ""

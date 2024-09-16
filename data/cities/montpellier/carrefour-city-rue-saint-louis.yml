@@ -4,8 +4,8 @@ latitude: 43.61102
 longitude: 3.86672
 postcode: "34000"
 city: Montpellier
-street: "Rue Saint-Louis"
-housenumber: 
-phone: "+33 4 67 92 03 34"
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-montpellier-saint-louis"
+street: Rue Saint-Louis
+housenumber: ""
+phone: +33 4 67 92 03 34
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/city-montpellier-saint-louis

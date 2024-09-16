@@ -4,8 +4,8 @@ latitude: 43.4257
 longitude: 3.60607
 postcode: "34140"
 city: Mèze
-street: "Rue Marius Laurez"
-housenumber: 47
-phone: "+33 4 67 43 80 57"
-opening_hours: "Mo 09:00-12:00; Tu-Fr 09:00-12:00,15:00-19:00; Sa 09:00-12:00,15:00-18:00"
+street: Rue Marius Laurez
+housenumber: "47"
+phone: +33 4 67 43 80 57
+opening_hours: Mo 09:00-12:00; Tu-Fr 09:00-12:00,15:00-19:00; Sa 09:00-12:00,15:00-18:00
 website: ""

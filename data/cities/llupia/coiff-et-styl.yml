@@ -1,11 +1,11 @@
 id: 78430241
-type: way
+type: node
 latitude: 42.62054
 longitude: 2.76908
 postcode: "66300"
 city: Llupia
-street: "Carrer de l'Herbill"
-housenumber: 12
+street: Carrer de l'Herbill
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

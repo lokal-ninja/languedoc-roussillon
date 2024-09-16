@@ -1,11 +1,11 @@
 id: 329651608
-type: way
+type: node
 latitude: 43.68062
 longitude: 4.10696
 postcode: "34400"
 city: Lunel
-street: "Rue des Compagnons"
-housenumber: 211
-phone: "+33 6 42 71 54 83"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.uniquehabitat.fr"
+street: Rue des Compagnons
+housenumber: "211"
+phone: +33 6 42 71 54 83
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.uniquehabitat.fr

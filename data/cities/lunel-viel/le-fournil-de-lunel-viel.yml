@@ -1,11 +1,11 @@
 id: 160211472
-type: way
+type: node
 latitude: 43.67709
 longitude: 4.08679
 postcode: "34400"
 city: Lunel-Viel
-street: "Avenue de la République"
-housenumber: 220
-phone: "+33 4 67 50 23 71"
-opening_hours: "06:00-21:00"
+street: Avenue de la République
+housenumber: "220"
+phone: +33 4 67 50 23 71
+opening_hours: 06:00-21:00
 website: ""

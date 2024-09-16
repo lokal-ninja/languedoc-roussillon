@@ -4,8 +4,8 @@ latitude: 43.83669
 longitude: 4.36455
 postcode: "30000"
 city: Nîmes
-street: "Rue Notre-Dame"
-housenumber: 9
-phone: "+33 4 66 27 59 42"
-opening_hours: "Mo-Sa 08:00-12:30,15:00-19:30"
-website: "https://www.facebook.com/Au-Mazet-104649634539581/"
+street: Rue Notre-Dame
+housenumber: "9"
+phone: +33 4 66 27 59 42
+opening_hours: Mo-Sa 08:00-12:30,15:00-19:30
+website: https://www.facebook.com/Au-Mazet-104649634539581/

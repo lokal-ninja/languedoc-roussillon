@@ -4,8 +4,8 @@ latitude: 43.46506
 longitude: 3.66805
 postcode: "34560"
 city: Poussan
-street: "Chemin les Cigales"
-housenumber: 7
+street: Chemin les Cigales
+housenumber: "7"
 phone: "+33467181110"
-opening_hours: "Mo-Th 09:00-12:00,13:30-17:15; Fr 09:00-12:00,13:30-16:15"
-website: "https://www.resotainer.fr/agence-poussan"
+opening_hours: Mo-Th 09:00-12:00,13:30-17:15; Fr 09:00-12:00,13:30-16:15
+website: https://www.resotainer.fr/agence-poussan

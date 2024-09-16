@@ -1,11 +1,11 @@
 id: 423095021
-type: way
+type: node
 latitude: 43.57183
 longitude: 3.84677
 postcode: "34430"
 city: Saint-Jean-de-Védas
-street: "Route de Sète"
-housenumber: 
-phone: "+33 4 99 13 17 79"
-opening_hours: "Mo-Sa 08:30-21:00; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/saint-jean-de-vedas"
+street: Route de Sète
+housenumber: ""
+phone: +33 4 99 13 17 79
+opening_hours: Mo-Sa 08:30-21:00; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/saint-jean-de-vedas

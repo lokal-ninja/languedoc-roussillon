@@ -1,11 +1,11 @@
 id: 62732136
-type: way
+type: node
 latitude: 43.6784
 longitude: 4.11485
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 254
-phone: "+33 4 67 50 15 34"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30"
-website: "https://www.delko.fr/garage/delko/lunel/39"
+street: Rue des Fournels
+housenumber: "254"
+phone: +33 4 67 50 15 34
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30
+website: https://www.delko.fr/garage/delko/lunel/39

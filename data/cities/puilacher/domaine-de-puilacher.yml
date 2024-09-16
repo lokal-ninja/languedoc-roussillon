@@ -1,11 +1,11 @@
 id: 400067999
-type: way
+type: node
 latitude: 43.56692
 longitude: 3.50803
 postcode: "34230"
 city: Puilacher
-street: "Avenue Notre Dame de Rouviège"
-housenumber: 70
+street: Avenue Notre Dame de Rouviège
+housenumber: "70"
 phone: "+33467967233"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-17:00; Sa-Su off"
-website: "http://www.domainedepuilacher.fr/"
+opening_hours: Mo-Fr 09:00-12:00,14:00-17:00; Sa-Su off
+website: http://www.domainedepuilacher.fr/

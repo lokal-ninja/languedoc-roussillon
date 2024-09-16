@@ -1,11 +1,11 @@
 id: 265394590
-type: way
+type: node
 latitude: 43.18788
 longitude: 2.54938
 postcode: "11700"
 city: Capendu
-street: "Avenue de Carcassonne"
-housenumber: 
+street: Avenue de Carcassonne
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

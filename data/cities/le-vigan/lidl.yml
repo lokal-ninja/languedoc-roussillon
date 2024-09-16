@@ -1,11 +1,11 @@
 id: 504171928
-type: way
+type: node
 latitude: 43.98845
 longitude: 3.61391
 postcode: "30120"
 city: Le Vigan
-street: "Route du Pont de la Croix"
-housenumber: 
-phone: "+33 8 00 90 03 43"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.lidl.fr"
+street: Route du Pont de la Croix
+housenumber: ""
+phone: +33 8 00 90 03 43
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.lidl.fr

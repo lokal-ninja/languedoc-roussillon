@@ -1,11 +1,11 @@
 id: 64058219
-type: way
+type: node
 latitude: 42.68659
 longitude: 2.82421
 postcode: "66270"
 city: Le Soler
-street: "Rue de Madrid"
-housenumber: 5
+street: Rue de Madrid
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

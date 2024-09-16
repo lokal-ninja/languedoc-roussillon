@@ -1,11 +1,11 @@
 id: 413332671
-type: way
+type: node
 latitude: 43.58249
 longitude: 3.928
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 82 25 63"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.okaidi.fr"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 82 25 63
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.okaidi.fr

@@ -1,11 +1,11 @@
 id: 970672008
-type: way
+type: node
 latitude: 43.8131
 longitude: 4.36298
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 36 05 50"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://shop.mango.com"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 36 05 50
+opening_hours: Mo-Sa 09:30-20:00
+website: https://shop.mango.com

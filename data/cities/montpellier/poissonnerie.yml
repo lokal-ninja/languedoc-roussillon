@@ -4,8 +4,8 @@ latitude: 43.61091
 longitude: 3.86553
 postcode: "34000"
 city: Montpellier
-street: "Rue Subleyras"
-housenumber: 16
+street: Rue Subleyras
+housenumber: "16"
 phone: ""
-opening_hours: "Tu,Th-Sa 08:00-13:00; Mo-Sa 16:00-19:00"
+opening_hours: Tu,Th-Sa 08:00-13:00; Mo-Sa 16:00-19:00
 website: ""

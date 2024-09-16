@@ -1,11 +1,11 @@
 id: 951439495
-type: way
+type: node
 latitude: 43.64236
 longitude: 3.94073
 postcode: "34920"
 city: Le Crès
-street: "Route de Nîmes"
-housenumber: 
-phone: "+33 4 67 75 07 02"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.cache-cache.fr/magasins-herault-34-le-cres-4095.html"
+street: Route de Nîmes
+housenumber: ""
+phone: +33 4 67 75 07 02
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.cache-cache.fr/magasins-herault-34-le-cres-4095.html

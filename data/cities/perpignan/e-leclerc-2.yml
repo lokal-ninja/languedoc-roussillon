@@ -1,11 +1,11 @@
 id: 81587738
-type: way
+type: node
 latitude: 42.74225
 longitude: 2.89209
 postcode: "66000"
 city: Perpignan
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

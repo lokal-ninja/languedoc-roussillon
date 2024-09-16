@@ -1,11 +1,11 @@
 id: 1246715918
-type: way
+type: node
 latitude: 43.20289
 longitude: 2.78181
 postcode: "11204"
 city: Lézignan-Corbières
-street: "Route de Narbonne"
-housenumber: 
+street: Route de Narbonne
+housenumber: ""
 phone: "+33468271155"
 opening_hours: ""
-website: "http://www.cddsud.com"
+website: http://www.cddsud.com

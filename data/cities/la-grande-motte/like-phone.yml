@@ -4,8 +4,8 @@ latitude: 43.55722
 longitude: 4.0913
 postcode: "34280"
 city: La Grande-Motte
-street: "Place des Cosmonautes"
-housenumber: 27
-phone: "+33 9 61 20 37 49"
-opening_hours: "Tu-Sa 09:30-13:00,14:00-19:00"
+street: Place des Cosmonautes
+housenumber: "27"
+phone: +33 9 61 20 37 49
+opening_hours: Tu-Sa 09:30-13:00,14:00-19:00
 website: ""

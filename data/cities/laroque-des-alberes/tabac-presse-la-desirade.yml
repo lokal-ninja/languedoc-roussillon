@@ -4,8 +4,9 @@ latitude: 42.52284
 longitude: 2.93499
 postcode: "66740"
 city: Laroque-des-Albères
-street: "Avenue Louis et Michel Soler"
-housenumber: 19
+street: Avenue Louis et Michel Soler
+housenumber: "19"
 phone: ""
-opening_hours: "Tu-Fr 7:30-12:00,15:30-19:00; Sa 08:00-12:00,16:00-19:00; Su 8:30-12:00; Sep 3-Sep 20: OFF"
+opening_hours: 'Tu-Fr 7:30-12:00,15:30-19:00; Sa 08:00-12:00,16:00-19:00; Su 8:30-12:00;
+    Sep 3-Sep 20: OFF'
 website: ""

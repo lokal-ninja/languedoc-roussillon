@@ -1,11 +1,11 @@
 id: 184210069
-type: way
+type: node
 latitude: 43.78008
 longitude: 4.08006
 postcode: "30250"
 city: Sommières
-street: "Impasse de la Malautière"
-housenumber: 2
-phone: "+33 4 66 80 91 31"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://sommieres-pneus.eurotyre.fr"
+street: Impasse de la Malautière
+housenumber: "2"
+phone: +33 4 66 80 91 31
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://sommieres-pneus.eurotyre.fr

@@ -4,8 +4,8 @@ latitude: 43.83758
 longitude: 4.35876
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 8
-phone: "+33 4 66 67 26 38; +33 9 51 04 64 50"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-13:00, 14:00-19:00"
-website: "https://www.bouticuir.com/18__meyer-pic"
+street: Rue de l'Aspic
+housenumber: "8"
+phone: +33 4 66 67 26 38; +33 9 51 04 64 50
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-13:00, 14:00-19:00
+website: https://www.bouticuir.com/18__meyer-pic

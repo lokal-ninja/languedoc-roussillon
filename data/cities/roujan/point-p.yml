@@ -1,11 +1,11 @@
 id: 435615269
-type: way
+type: node
 latitude: 43.50096
 longitude: 3.31842
 postcode: "34320"
 city: Roujan
-street: "Avenue de Pézenas"
-housenumber: 74
-phone: "+33 4 67 24 85 63"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-17:00; Sa 08:00-12:00"
-website: "https://www.pointp.fr/infos-agence/roujan-point-p-3430"
+street: Avenue de Pézenas
+housenumber: "74"
+phone: +33 4 67 24 85 63
+opening_hours: Mo-Fr 08:00-12:00,14:00-17:00; Sa 08:00-12:00
+website: https://www.pointp.fr/infos-agence/roujan-point-p-3430

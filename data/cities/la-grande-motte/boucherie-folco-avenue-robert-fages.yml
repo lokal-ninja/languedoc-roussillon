@@ -4,8 +4,8 @@ latitude: 43.55925
 longitude: 4.0785
 postcode: "34280"
 city: La Grande-Motte
-street: "Avenue Robert Fages"
-housenumber: 319
-phone: "+33 4 67 54 72 45"
-opening_hours: "Mo-Sa 08:30-12:45, 15:30-19:15; Su 07:00-12:30"
-website: "https://www.ollca.com/montpellier/boutiques/boucherie-folco"
+street: Avenue Robert Fages
+housenumber: "319"
+phone: +33 4 67 54 72 45
+opening_hours: Mo-Sa 08:30-12:45, 15:30-19:15; Su 07:00-12:30
+website: https://www.ollca.com/montpellier/boutiques/boucherie-folco

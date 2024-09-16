@@ -4,8 +4,8 @@ latitude: 42.87435
 longitude: 2.1854
 postcode: "11500"
 city: Quillan
-street: "Place de la République"
-housenumber: 7
+street: Place de la République
+housenumber: "7"
 phone: ""
-opening_hours: "on call"
+opening_hours: '"on call"'
 website: ""

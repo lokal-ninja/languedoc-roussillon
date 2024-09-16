@@ -1,11 +1,11 @@
 id: 423095040
-type: way
+type: node
 latitude: 43.57213
 longitude: 3.84776
 postcode: "34430"
 city: Saint-Jean-de-Védas
-street: "Route de Sète"
-housenumber: 
-phone: "+33 4 99 13 16 07"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.spectacles.carrefour.fr//fr/rechercheavancee/r/7"
+street: Route de Sète
+housenumber: ""
+phone: +33 4 99 13 16 07
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.spectacles.carrefour.fr//fr/rechercheavancee/r/7

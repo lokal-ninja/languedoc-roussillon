@@ -4,8 +4,8 @@ latitude: 43.65196
 longitude: 4.07239
 postcode: "34130"
 city: Lansargues
-street: "Place de l'Horloge"
-housenumber: 8
-phone: "+33 4 67 86 59 35"
-opening_hours: "Mo-Sa 08:30-13:00,16:30-20:00; Su 08:30-13:00"
+street: Place de l'Horloge
+housenumber: "8"
+phone: +33 4 67 86 59 35
+opening_hours: Mo-Sa 08:30-13:00,16:30-20:00; Su 08:30-13:00
 website: ""

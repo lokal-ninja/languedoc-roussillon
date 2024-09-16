@@ -1,11 +1,11 @@
 id: 133280853
-type: way
+type: node
 latitude: 43.35262
 longitude: 3.2187
 postcode: "34500"
 city: Béziers
-street: "Avenue de la Font Neuve"
-housenumber: 
+street: Avenue de la Font Neuve
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

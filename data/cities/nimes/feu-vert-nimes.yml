@@ -4,8 +4,8 @@ latitude: 43.81055
 longitude: 4.35932
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 
-phone: "+33 4 66 02 06 06"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-19:00"
-website: "https://www.feuvert.fr/centres-auto/nimes/feu-vert-nimes-2-geant/304.html"
+street: Avenue Claude Baillet
+housenumber: ""
+phone: +33 4 66 02 06 06
+opening_hours: Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-19:00
+website: https://www.feuvert.fr/centres-auto/nimes/feu-vert-nimes-2-geant/304.html

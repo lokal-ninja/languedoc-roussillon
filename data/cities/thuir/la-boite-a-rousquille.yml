@@ -1,11 +1,11 @@
 id: 64068425
-type: way
+type: node
 latitude: 42.63371
 longitude: 2.75592
 postcode: "66300"
 city: Thuir
-street: "Place Gabriel Péri"
-housenumber: 3
-phone: "+33 4 68 53 58 67"
-opening_hours: "Tu-Su 06:30-19:30"
-website: "https://www.facebook.com/La-Bo%C3%AEte-%C3%A0-Rousquilles-102986597848240/"
+street: Place Gabriel Péri
+housenumber: "3"
+phone: +33 4 68 53 58 67
+opening_hours: Tu-Su 06:30-19:30
+website: https://www.facebook.com/La-Bo%C3%AEte-%C3%A0-Rousquilles-102986597848240/

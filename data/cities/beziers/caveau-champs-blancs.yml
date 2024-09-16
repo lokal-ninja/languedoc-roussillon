@@ -1,11 +1,11 @@
 id: 133158372
-type: way
+type: node
 latitude: 43.33907
 longitude: 3.1986
 postcode: "34500"
 city: Béziers
-street: "Avenue Henri Galinier"
-housenumber: 32
-phone: "+33 9 67 77 88 64"
+street: Avenue Henri Galinier
+housenumber: "32"
+phone: +33 9 67 77 88 64
 opening_hours: ""
 website: ""

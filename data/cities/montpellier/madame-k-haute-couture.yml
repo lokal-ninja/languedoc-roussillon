@@ -4,8 +4,8 @@ latitude: 43.60508
 longitude: 3.8757
 postcode: "34000"
 city: Montpellier
-street: "Rue du Grand Saint-Jean"
-housenumber: 8
-phone: "+33 4 67 29 39 65"
+street: Rue du Grand Saint-Jean
+housenumber: "8"
+phone: +33 4 67 29 39 65
 opening_hours: ""
-website: "https://jean-claude-aubry.fr/"
+website: https://jean-claude-aubry.fr/

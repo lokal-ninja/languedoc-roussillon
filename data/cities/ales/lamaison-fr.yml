@@ -4,8 +4,8 @@ latitude: 44.11417
 longitude: 4.10217
 postcode: "30100"
 city: Alès
-street: "Route d'Uzès"
-housenumber: 358
-phone: "+33 4 66 54 36 00"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-19:00; Su,PH off"
-website: "https://www.lamaison.fr/stores/ales"
+street: Route d'Uzès
+housenumber: "358"
+phone: +33 4 66 54 36 00
+opening_hours: Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-19:00; Su,PH off
+website: https://www.lamaison.fr/stores/ales

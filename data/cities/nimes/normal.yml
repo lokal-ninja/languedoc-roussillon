@@ -1,11 +1,11 @@
 id: 970683118
-type: way
+type: node
 latitude: 43.81279
 longitude: 4.36259
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 7 72 50 06 35"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.normal.fr"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 7 72 50 06 35
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.normal.fr

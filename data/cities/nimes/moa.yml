@@ -1,11 +1,11 @@
 id: 970669672
-type: way
+type: node
 latitude: 43.81293
 longitude: 4.36364
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 9 67 04 26 66"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.moa.fr"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 9 67 04 26 66
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.moa.fr

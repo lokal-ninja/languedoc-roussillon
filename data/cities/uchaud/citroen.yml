@@ -1,11 +1,11 @@
 id: 329314831
-type: way
+type: node
 latitude: 43.75253
 longitude: 4.26065
 postcode: "30620"
 city: Uchaud
-street: "Avenue Robert de Joly"
-housenumber: 168
-phone: "+33 4 66 71 10 83"
+street: Avenue Robert de Joly
+housenumber: "168"
+phone: +33 4 66 71 10 83
 opening_hours: ""
-website: "https://reseau.citroen.fr/reparateur-uchaud"
+website: https://reseau.citroen.fr/reparateur-uchaud

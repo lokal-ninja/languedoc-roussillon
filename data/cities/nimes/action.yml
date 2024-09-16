@@ -4,8 +4,8 @@ latitude: 43.80873
 longitude: 4.35585
 postcode: "30900"
 city: Nîmes
-street: "Place André Bazile"
-housenumber: 59
-phone: "+33 1 55 56 41 52"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.action.com/fr-fr/points-de-vente/nimes-place-andre-bazile/"
+street: Place André Bazile
+housenumber: "59"
+phone: +33 1 55 56 41 52
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.action.com/fr-fr/points-de-vente/nimes-place-andre-bazile/

@@ -4,8 +4,8 @@ latitude: 43.99092
 longitude: 3.60576
 postcode: "30120"
 city: Le Vigan
-street: "Rue du Chef Marceau"
-housenumber: 2
-phone: "+33 4 67 81 08 63"
-opening_hours: "Tu-Fr 09:30-12:00,14:30-19:00; Sa 09:30-12:30,14:30-19:00"
-website: "https://le-vigan.cuisineplaisir.fr"
+street: Rue du Chef Marceau
+housenumber: "2"
+phone: +33 4 67 81 08 63
+opening_hours: Tu-Fr 09:30-12:00,14:30-19:00; Sa 09:30-12:30,14:30-19:00
+website: https://le-vigan.cuisineplaisir.fr

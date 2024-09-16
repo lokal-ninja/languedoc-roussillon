@@ -4,8 +4,8 @@ latitude: 42.67403
 longitude: 2.88946
 postcode: "66000"
 city: Perpignan
-street: "Avenue d'espagne"
-housenumber: 1741
+street: Avenue d'espagne
+housenumber: "1741"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; "
-website: "https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-perpignan-espagne_perpignan_66000/223.html"
+opening_hours: 'Mo-Sa 09:30-19:00; '
+website: https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-perpignan-espagne_perpignan_66000/223.html

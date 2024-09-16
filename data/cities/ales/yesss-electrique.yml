@@ -4,8 +4,8 @@ latitude: 44.111
 longitude: 4.11035
 postcode: "30100"
 city: Alès
-street: "Route d'Uzès"
-housenumber: 1115
-phone: "+33 4 66 43 10 28"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-17:30"
-website: "https://www.yesss-fr.com/"
+street: Route d'Uzès
+housenumber: "1115"
+phone: +33 4 66 43 10 28
+opening_hours: Mo-Fr 07:30-12:00, 13:30-17:30
+website: https://www.yesss-fr.com/

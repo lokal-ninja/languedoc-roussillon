@@ -1,11 +1,11 @@
 id: 66837871
-type: way
+type: node
 latitude: 43.67209
 longitude: 4.17511
 postcode: "34590"
 city: Marsillargues
-street: "Avenue Paul Valéry"
-housenumber: 
-phone: "+33 4 67 71 29 49"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
-website: "http://www.pompesfunebres-saez.com"
+street: Avenue Paul Valéry
+housenumber: ""
+phone: +33 4 67 71 29 49
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
+website: http://www.pompesfunebres-saez.com

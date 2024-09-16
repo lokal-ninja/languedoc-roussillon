@@ -4,8 +4,8 @@ latitude: 44.11001
 longitude: 4.11223
 postcode: "30100"
 city: Alès
-street: "Route d'Uzès"
-housenumber: 1235
-phone: "+33 4 66 54 34 00"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-18:00"
-website: "https://www.fordales.fr/"
+street: Route d'Uzès
+housenumber: "1235"
+phone: +33 4 66 54 34 00
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-18:00
+website: https://www.fordales.fr/

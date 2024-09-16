@@ -4,8 +4,8 @@ latitude: 43.84174
 longitude: 4.36738
 postcode: "30000"
 city: Nîmes
-street: "Rue Vincent Faïta"
-housenumber: 22
-phone: "+33 4 66 76 13 05"
-opening_hours: "Tu-Sa 08:00-13:30,16:00-20:00; Su 08:00-14:00"
+street: Rue Vincent Faïta
+housenumber: "22"
+phone: +33 4 66 76 13 05
+opening_hours: Tu-Sa 08:00-13:30,16:00-20:00; Su 08:00-14:00
 website: ""

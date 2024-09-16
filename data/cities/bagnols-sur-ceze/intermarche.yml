@@ -1,11 +1,11 @@
 id: 70821779
-type: way
+type: node
 latitude: 44.15526
 longitude: 4.6124
 postcode: "30200"
 city: Bagnols sur Cèze
-street: "Route de Tresques"
-housenumber: 
+street: Route de Tresques
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

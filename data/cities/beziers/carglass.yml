@@ -1,11 +1,11 @@
 id: 133455780
-type: way
+type: node
 latitude: 43.33932
 longitude: 3.27067
 postcode: "34500"
 city: Béziers
-street: "Rue de l'Olivette"
-housenumber: 19
+street: Rue de l'Olivette
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

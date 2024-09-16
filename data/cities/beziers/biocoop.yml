@@ -1,11 +1,11 @@
 id: 133250408
-type: way
+type: node
 latitude: 43.35756
 longitude: 3.24321
 postcode: "34500"
 city: Béziers
-street: "Route de Pézenas"
-housenumber: 150
-phone: "+33 4 67 11 57 37"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.biocoop-beziers.fr/"
+street: Route de Pézenas
+housenumber: "150"
+phone: +33 4 67 11 57 37
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.biocoop-beziers.fr/

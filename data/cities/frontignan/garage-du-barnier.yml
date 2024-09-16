@@ -1,11 +1,11 @@
 id: 209515454
-type: way
+type: node
 latitude: 43.46556
 longitude: 3.76817
 postcode: "34110"
 city: Frontignan
-street: "Rue des Palus"
-housenumber: 20
+street: Rue des Palus
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00"
-website: "www.garagepeugeotfrontignan.fr"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00
+website: www.garagepeugeotfrontignan.fr

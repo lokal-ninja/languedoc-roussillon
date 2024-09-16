@@ -4,8 +4,8 @@ latitude: 43.83805
 longitude: 4.35901
 postcode: "30000"
 city: Nîmes
-street: "Rue Sainte-Eugénie"
-housenumber: 1
-phone: "+33 9 85 11 73 27"
-opening_hours: "Tu 10:00-12:00; We-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.chezmajesthe.fr"
+street: Rue Sainte-Eugénie
+housenumber: "1"
+phone: +33 9 85 11 73 27
+opening_hours: Tu 10:00-12:00; We-Sa 10:00-12:00,14:00-19:00
+website: https://www.chezmajesthe.fr

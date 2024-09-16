@@ -4,8 +4,8 @@ latitude: 43.57862
 longitude: 3.93705
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 2556
-phone: "+33 4 67 81 85 30"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.arthur-bonnet.com/magasin/montpellier"
+street: Avenue Georges Frêche
+housenumber: "2556"
+phone: +33 4 67 81 85 30
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.arthur-bonnet.com/magasin/montpellier

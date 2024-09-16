@@ -1,11 +1,11 @@
 id: 374099921
-type: way
+type: node
 latitude: 43.57288
 longitude: 3.94253
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 20 11 87"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://misterminit.eu/fr_fr/boutiques/mister-minit-perols-auchan"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 20 11 87
+opening_hours: Mo-Sa 09:30-20:00
+website: https://misterminit.eu/fr_fr/boutiques/mister-minit-perols-auchan

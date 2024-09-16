@@ -1,11 +1,11 @@
 id: 62741877
-type: way
+type: node
 latitude: 43.68132
 longitude: 4.14765
 postcode: "34400"
 city: Lunel
-street: "Rue Pierre Curie"
-housenumber: 82
-phone: "+33 4 67 71 22 52"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30"
-website: "https://www.nissan.fr"
+street: Rue Pierre Curie
+housenumber: "82"
+phone: +33 4 67 71 22 52
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30
+website: https://www.nissan.fr

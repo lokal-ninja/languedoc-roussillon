@@ -1,11 +1,11 @@
 id: 770875067
-type: way
+type: node
 latitude: 43.67243
 longitude: 4.14185
 postcode: "34400"
 city: Lunel
-street: "Boulevard Sainte-Claire"
-housenumber: 395
-phone: "+33 7 62 83 62 63"
-opening_hours: "Tu-Sa 09:00-13:00,16:00-20:00; Su 09:00-13:00"
+street: Boulevard Sainte-Claire
+housenumber: "395"
+phone: +33 7 62 83 62 63
+opening_hours: Tu-Sa 09:00-13:00,16:00-20:00; Su 09:00-13:00
 website: ""

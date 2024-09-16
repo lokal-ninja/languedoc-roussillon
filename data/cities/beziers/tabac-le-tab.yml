@@ -4,8 +4,8 @@ latitude: 43.35007
 longitude: 3.21724
 postcode: "34500"
 city: Béziers
-street: "Avenue Maréchal Foch"
-housenumber: 78
-phone: "+33 4 99 47 33 48"
-opening_hours: "Mo-Sa 06:30-19:30; Su 07:30-12:30"
+street: Avenue Maréchal Foch
+housenumber: "78"
+phone: +33 4 99 47 33 48
+opening_hours: Mo-Sa 06:30-19:30; Su 07:30-12:30
 website: ""

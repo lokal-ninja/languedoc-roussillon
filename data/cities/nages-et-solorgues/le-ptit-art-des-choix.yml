@@ -4,8 +4,8 @@ latitude: 43.79066
 longitude: 4.22988
 postcode: "30114"
 city: Nages-et-Solorgues
-street: "Avenue du Grand Chemin"
-housenumber: 1
-phone: "+33 4 11 77 68 08"
-opening_hours: "Mo-Sa 06:45-12:45; We off; Su 07:00-12:45"
+street: Avenue du Grand Chemin
+housenumber: "1"
+phone: +33 4 11 77 68 08
+opening_hours: Mo-Sa 06:45-12:45; We off; Su 07:00-12:45
 website: ""

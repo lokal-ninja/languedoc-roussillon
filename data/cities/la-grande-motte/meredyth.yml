@@ -4,8 +4,8 @@ latitude: 43.55868
 longitude: 4.09003
 postcode: "34280"
 city: La Grande-Motte
-street: "Avenue de l'Europe"
-housenumber: 127
-phone: "+33 4 99 62 95 81"
-opening_hours: "Mo-Sa 10:00-12:30,15:00-19:00"
-website: "http://www.meredyth.fr"
+street: Avenue de l'Europe
+housenumber: "127"
+phone: +33 4 99 62 95 81
+opening_hours: Mo-Sa 10:00-12:30,15:00-19:00
+website: http://www.meredyth.fr

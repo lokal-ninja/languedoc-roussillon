@@ -4,8 +4,8 @@ latitude: 43.83681
 longitude: 4.35691
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Victor Hugo"
-housenumber: 36
-phone: "+33 4 66 05 01 31"
-opening_hours: "Mo-Sa 7:00-20:00"
-website: "laurent@tabac-lahavane.com"
+street: Boulevard Victor Hugo
+housenumber: "36"
+phone: +33 4 66 05 01 31
+opening_hours: Mo-Sa 7:00-20:00
+website: laurent@tabac-lahavane.com

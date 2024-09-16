@@ -4,8 +4,8 @@ latitude: 43.68154
 longitude: 4.14496
 postcode: "34400"
 city: Lunel
-street: "Chemin de la Vidourlenque"
-housenumber: 80
-phone: "+33 4 67 71 01 83"
-opening_hours: "Mo-Sa 09:30-12:00,14:00-19:00"
-website: "https://www.selleriemae.com"
+street: Chemin de la Vidourlenque
+housenumber: "80"
+phone: +33 4 67 71 01 83
+opening_hours: Mo-Sa 09:30-12:00,14:00-19:00
+website: https://www.selleriemae.com

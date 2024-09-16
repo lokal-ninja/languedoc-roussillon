@@ -4,8 +4,8 @@ latitude: 43.28144
 longitude: 3.28052
 postcode: "34410"
 city: Sérignan
-street: "Allée de la République"
-housenumber: 67
-phone: "+33 4 67 32 15 06"
-opening_hours: "Mo-Sa 07:00-12:30, 15:00-19:00; Su 07:30-12:30"
+street: Allée de la République
+housenumber: "67"
+phone: +33 4 67 32 15 06
+opening_hours: Mo-Sa 07:00-12:30, 15:00-19:00; Su 07:30-12:30
 website: ""

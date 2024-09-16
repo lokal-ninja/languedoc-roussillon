@@ -1,11 +1,11 @@
 id: 133275081
-type: way
+type: node
 latitude: 43.35475
 longitude: 3.22224
 postcode: "34500"
 city: Béziers
-street: "Avenue Maréchal Foch"
-housenumber: 152
-phone: "+33 4 67 31 22 68"
-opening_hours: "Mo-Fr 06:30-21:00; Sa 07:00-21:00; Su,PH 08:00-20:00"
-website: "https://services.totalenergies.fr"
+street: Avenue Maréchal Foch
+housenumber: "152"
+phone: +33 4 67 31 22 68
+opening_hours: Mo-Fr 06:30-21:00; Sa 07:00-21:00; Su,PH 08:00-20:00
+website: https://services.totalenergies.fr

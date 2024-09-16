@@ -1,11 +1,11 @@
 id: 72442498
-type: way
+type: node
 latitude: 43.30694
 longitude: 3.49364
 postcode: "34300"
 city: Agde
-street: "Rue du Père Cros"
-housenumber: 
-phone: "+33 4 67 09 09 01"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.gemo.fr/magasin/GEMO_AGDE_chaussures_et_vetements/GEMO_1656"
+street: Rue du Père Cros
+housenumber: ""
+phone: +33 4 67 09 09 01
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.gemo.fr/magasin/GEMO_AGDE_chaussures_et_vetements/GEMO_1656

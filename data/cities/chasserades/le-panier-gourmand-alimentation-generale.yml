@@ -1,11 +1,11 @@
 id: 240294243
-type: way
+type: node
 latitude: 44.55063
 longitude: 3.82641
 postcode: "48250"
 city: Chasseradès
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-13:30,17:00-19:00; Su 08:00-13:30"
+opening_hours: Mo-Sa 08:00-13:30,17:00-19:00; Su 08:00-13:30
 website: ""

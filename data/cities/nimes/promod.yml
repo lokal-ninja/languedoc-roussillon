@@ -4,8 +4,8 @@ latitude: 43.83889
 longitude: 4.35931
 postcode: ""
 city: Nîmes
-street: "Rue du Général Perrier"
-housenumber: 3
+street: Rue du Général Perrier
+housenumber: "3"
 phone: "+33466672020"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.promod.fr/nos-boutiques/N%C3%AEmes-G.-Perrier-180.html"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.promod.fr/nos-boutiques/N%C3%AEmes-G.-Perrier-180.html

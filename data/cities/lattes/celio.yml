@@ -1,11 +1,11 @@
 id: 413309488
-type: way
+type: node
 latitude: 43.58234
 longitude: 3.93015
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 20 10 84"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://store.celio.com/vetement-homme/lattes/0137"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 20 10 84
+opening_hours: Mo-Sa 09:00-19:30
+website: https://store.celio.com/vetement-homme/lattes/0137

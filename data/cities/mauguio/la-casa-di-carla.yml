@@ -4,8 +4,8 @@ latitude: 43.61621
 longitude: 4.01209
 postcode: "34130"
 city: Mauguio
-street: "Boulevard de la République"
-housenumber: 74
-phone: "+33 6 81 97 37 90"
-opening_hours: "Tu 15:30-19:00; We-Sa 10:00-12:30,15:30-19:00; Su 10:00-13:00"
-website: "https://lacasadicarla.fr"
+street: Boulevard de la République
+housenumber: "74"
+phone: +33 6 81 97 37 90
+opening_hours: Tu 15:30-19:00; We-Sa 10:00-12:30,15:30-19:00; Su 10:00-13:00
+website: https://lacasadicarla.fr

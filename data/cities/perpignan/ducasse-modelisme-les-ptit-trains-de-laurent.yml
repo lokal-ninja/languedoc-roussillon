@@ -4,8 +4,8 @@ latitude: 42.69851
 longitude: 2.88997
 postcode: "66000"
 city: Perpignan
-street: "Traverse Sébastien Vauban"
-housenumber: 4
+street: Traverse Sébastien Vauban
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:30 14:30-18:30"
-website: "https://www.ducasse-modelisme.com/"
+opening_hours: Tu-Sa 10:00-12:30 14:30-18:30
+website: https://www.ducasse-modelisme.com/

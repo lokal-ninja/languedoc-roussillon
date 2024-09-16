@@ -4,8 +4,8 @@ latitude: 43.84063
 longitude: 4.31777
 postcode: "30900"
 city: Nîmes
-street: "Route de Sauve"
-housenumber: 199
-phone: "+33 4 66 76 21 15"
-opening_hours: "Tu-Sa 09:30-12:30, 15:00-19:30; Su 09:00-13:00"
-website: "https://un-amour-de-fleur.business.site/"
+street: Route de Sauve
+housenumber: "199"
+phone: +33 4 66 76 21 15
+opening_hours: Tu-Sa 09:30-12:30, 15:00-19:30; Su 09:00-13:00
+website: https://un-amour-de-fleur.business.site/

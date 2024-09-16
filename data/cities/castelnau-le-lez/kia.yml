@@ -1,11 +1,11 @@
 id: 103658001
-type: way
+type: node
 latitude: 43.6372
 longitude: 3.92775
 postcode: "34170"
 city: Castelnau-le-Lez
-street: "Avenue de l'Aube Rouge"
-housenumber: 290
-phone: "+33 4 67 72 84 84"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00"
-website: "https://www.groupe-sofa.com/concessions-groupe-sofa/sodak-montpellier"
+street: Avenue de l'Aube Rouge
+housenumber: "290"
+phone: +33 4 67 72 84 84
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00
+website: https://www.groupe-sofa.com/concessions-groupe-sofa/sodak-montpellier

@@ -4,8 +4,8 @@ latitude: 43.83839
 longitude: 4.35963
 postcode: "30000"
 city: Nîmes
-street: "Place aux Herbes"
-housenumber: 4
-phone: "+33 4 66 21 42 86"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://lelutinvertdesign.com/"
+street: Place aux Herbes
+housenumber: "4"
+phone: +33 4 66 21 42 86
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://lelutinvertdesign.com/

@@ -4,8 +4,8 @@ latitude: 44.17706
 longitude: 4.61933
 postcode: "30200"
 city: Bagnols-sur-Cèze
-street: "Route de Lyon"
-housenumber: 635
-phone: "+33 4 66 90 76 88"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:00-12:30,14:00-19:00; Sa 09:00-12:30,14:00-18:00"
+street: Route de Lyon
+housenumber: "635"
+phone: +33 4 66 90 76 88
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:00-12:30,14:00-19:00; Sa 09:00-12:30,14:00-18:00
 website: ""

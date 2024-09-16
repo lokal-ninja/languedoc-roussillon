@@ -4,8 +4,8 @@ latitude: 43.02788
 longitude: 2.99032
 postcode: "11130"
 city: Sigean
-street: "Avenue de Port-la-Nouvelle"
-housenumber: 85
+street: Avenue de Port-la-Nouvelle
+housenumber: "85"
 phone: ""
 opening_hours: ""
-website: "https://www.biocoop-sigean.fr/"
+website: https://www.biocoop-sigean.fr/

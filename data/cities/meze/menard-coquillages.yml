@@ -4,8 +4,8 @@ latitude: 43.42881
 longitude: 3.60771
 postcode: "34140"
 city: Mèze
-street: "Avenue de Montpellier"
-housenumber: 42
-phone: "+33 4 67 43 56 59"
-opening_hours: "08:00-20:00"
-website: "https://menard-coquillages.fr"
+street: Avenue de Montpellier
+housenumber: "42"
+phone: +33 4 67 43 56 59
+opening_hours: 08:00-20:00
+website: https://menard-coquillages.fr

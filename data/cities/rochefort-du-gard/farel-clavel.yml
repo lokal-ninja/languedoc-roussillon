@@ -1,11 +1,11 @@
 id: 77734081
-type: way
+type: node
 latitude: 43.96061
 longitude: 4.72621
 postcode: "30650"
 city: Rochefort-du-Gard
-street: "Route d'Avignon"
-housenumber: 3433
+street: Route d'Avignon
+housenumber: "3433"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00
 website: ""

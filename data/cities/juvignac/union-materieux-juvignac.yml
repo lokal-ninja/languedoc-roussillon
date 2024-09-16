@@ -1,11 +1,11 @@
 id: 55544181
-type: way
+type: node
 latitude: 43.62046
 longitude: 3.78979
 postcode: "34990"
 city: Juvignac
-street: "Avenue de Kalkar"
-housenumber: 
+street: Avenue de Kalkar
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
+opening_hours: Mo-Fr 07:30-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 100883647
-type: way
+type: node
 latitude: 43.61513
 longitude: 3.15808
 postcode: "34600"
 city: Bédarieux
-street: "Rue du Porche"
-housenumber: 3
+street: Rue du Porche
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

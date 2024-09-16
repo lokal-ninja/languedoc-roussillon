@@ -1,11 +1,11 @@
 id: 107480340
-type: way
+type: node
 latitude: 43.78857
 longitude: 4.11374
 postcode: "30250"
 city: Aujargues
-street: "Rue de la République"
-housenumber: 
-phone: "+33 4 66 80 09 86"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.intermarche.com"
+street: Rue de la République
+housenumber: ""
+phone: +33 4 66 80 09 86
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.intermarche.com

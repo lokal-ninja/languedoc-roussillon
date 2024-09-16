@@ -4,8 +4,8 @@ latitude: 43.68003
 longitude: 4.11389
 postcode: "34400"
 city: Lunel
-street: "Impasse des Fournels"
-housenumber: 321
-phone: "+33 9 63 62 92 88"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00"
-website: "https://www.forage-piscine-lunel.fr"
+street: Impasse des Fournels
+housenumber: "321"
+phone: +33 9 63 62 92 88
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00
+website: https://www.forage-piscine-lunel.fr

@@ -1,11 +1,11 @@
 id: 66630757
-type: way
+type: node
 latitude: 43.56209
 longitude: 4.08744
 postcode: "34280"
 city: La Grande-Motte
-street: "Avenue de Melgueil"
-housenumber: 193
-phone: "+33 4 67 12 89 30"
-opening_hours: "07:00-21:00"
-website: "https://www.total.fr"
+street: Avenue de Melgueil
+housenumber: "193"
+phone: +33 4 67 12 89 30
+opening_hours: 07:00-21:00
+website: https://www.total.fr

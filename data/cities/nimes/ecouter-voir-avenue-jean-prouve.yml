@@ -4,8 +4,8 @@ latitude: 43.81391
 longitude: 4.35288
 postcode: "30000"
 city: Nîmes
-street: "Avenue Jean Prouvé"
-housenumber: 502
-phone: "+33 4 66 04 30 10"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.ecoutervoir.fr/trouver-un-magasin/nimes-prouve"
+street: Avenue Jean Prouvé
+housenumber: "502"
+phone: +33 4 66 04 30 10
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.ecoutervoir.fr/trouver-un-magasin/nimes-prouve

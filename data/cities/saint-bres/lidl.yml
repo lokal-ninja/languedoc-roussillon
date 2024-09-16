@@ -1,11 +1,11 @@
 id: 151507982
-type: way
+type: node
 latitude: 43.66538
 longitude: 4.03814
 postcode: "34670"
 city: Saint-Brès
-street: "Avenue de Nîmes"
-housenumber: 486
+street: Avenue de Nîmes
+housenumber: "486"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.lidl.fr"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.lidl.fr

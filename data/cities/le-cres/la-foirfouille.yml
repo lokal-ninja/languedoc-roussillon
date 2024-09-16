@@ -1,11 +1,11 @@
 id: 191286047
-type: way
+type: node
 latitude: 43.64247
 longitude: 3.939
 postcode: "34920"
 city: Le Crès
-street: "Rue des Joncasses"
-housenumber: 4
-phone: "+33 4 67 02 05 10"
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-19:00"
-website: "https://magasins.lafoirfouille.fr/occitanie/herault/le-cres/la-foirfouille-120"
+street: Rue des Joncasses
+housenumber: "4"
+phone: +33 4 67 02 05 10
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-19:00
+website: https://magasins.lafoirfouille.fr/occitanie/herault/le-cres/la-foirfouille-120

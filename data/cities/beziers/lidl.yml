@@ -1,11 +1,11 @@
 id: 839646851
-type: way
+type: node
 latitude: 43.35518
 longitude: 3.25103
 postcode: "34500"
 city: Béziers
-street: "Chemin de Badones"
-housenumber: 
+street: Chemin de Badones
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

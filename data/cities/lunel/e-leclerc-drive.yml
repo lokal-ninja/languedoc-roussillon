@@ -1,11 +1,11 @@
 id: 62743693
-type: way
+type: node
 latitude: 43.67856
 longitude: 4.11602
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 104
-phone: "+33 6 48 00 84 00"
-opening_hours: "Mo-Sa 09:00-19:45"
-website: "https://www.leclercdrive.fr/region-occitanie-pyrenees-mediterranee/montpellier/drive-lunel.aspx"
+street: Rue des Fournels
+housenumber: "104"
+phone: +33 6 48 00 84 00
+opening_hours: Mo-Sa 09:00-19:45
+website: https://www.leclercdrive.fr/region-occitanie-pyrenees-mediterranee/montpellier/drive-lunel.aspx

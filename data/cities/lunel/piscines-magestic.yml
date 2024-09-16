@@ -1,11 +1,11 @@
 id: 62726800
-type: way
+type: node
 latitude: 43.68592
 longitude: 4.15294
 postcode: "34400"
 city: Lunel
-street: "Chemin des Nouguiés"
-housenumber: 
-phone: "+33 4 67 83 73 93"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.piscines-magestic-lunel.fr"
+street: Chemin des Nouguiés
+housenumber: ""
+phone: +33 4 67 83 73 93
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.piscines-magestic-lunel.fr

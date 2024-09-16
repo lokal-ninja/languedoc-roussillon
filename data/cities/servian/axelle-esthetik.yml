@@ -4,8 +4,8 @@ latitude: 43.42541
 longitude: 3.30756
 postcode: "34290"
 city: Servian
-street: "Rue du Coussat"
-housenumber: 6
+street: Rue du Coussat
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr Sur rendez-vous"
+opening_hours: Mo-Fr "Sur rendez-vous"
 website: ""

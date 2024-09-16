@@ -4,8 +4,8 @@ latitude: 43.83625
 longitude: 4.35866
 postcode: "30000"
 city: Nîmes
-street: "Rue Fresque"
-housenumber: 22
-phone: "+33 6 33 86 63 08"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://fr-fr.facebook.com/Toronimes/"
+street: Rue Fresque
+housenumber: "22"
+phone: +33 6 33 86 63 08
+opening_hours: Tu-Sa 10:00-19:00
+website: https://fr-fr.facebook.com/Toronimes/

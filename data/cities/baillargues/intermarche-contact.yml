@@ -1,11 +1,11 @@
 id: 125411664
-type: way
+type: node
 latitude: 43.65606
 longitude: 3.99928
 postcode: "34670"
 city: Baillargues
-street: "Avenue de la Biste"
-housenumber: 103
-phone: "+33 4 67 87 45 30"
-opening_hours: "Mo-Sa 08:45-19:45; Su 09:00-13:00"
-website: "https://www.intermarche.com/magasins/01915/baillargues-34670/infos-pratiques"
+street: Avenue de la Biste
+housenumber: "103"
+phone: +33 4 67 87 45 30
+opening_hours: Mo-Sa 08:45-19:45; Su 09:00-13:00
+website: https://www.intermarche.com/magasins/01915/baillargues-34670/infos-pratiques

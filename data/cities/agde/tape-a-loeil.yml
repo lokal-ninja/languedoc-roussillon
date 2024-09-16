@@ -1,11 +1,11 @@
 id: 997723440
-type: way
+type: node
 latitude: 43.29823
 longitude: 3.47462
 postcode: "34300"
 city: Agde
-street: "Boulevard Maurice Pacull"
-housenumber: 
-phone: "+33 4 67 30 75 27"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://magasins.t-a-o.com/fr/occitanie/agde/espace-grand-cap"
+street: Boulevard Maurice Pacull
+housenumber: ""
+phone: +33 4 67 30 75 27
+opening_hours: Mo-Sa 09:00-20:00
+website: https://magasins.t-a-o.com/fr/occitanie/agde/espace-grand-cap

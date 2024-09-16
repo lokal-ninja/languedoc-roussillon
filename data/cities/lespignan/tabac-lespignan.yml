@@ -4,8 +4,8 @@ latitude: 43.27381
 longitude: 3.17198
 postcode: "34710"
 city: Lespignan
-street: "Place de la Bascule"
-housenumber: 18
-phone: "+33 4 67 37 69 76"
-opening_hours: "Mo-Sa 06:30-19:30; Su 07:30-12:30"
-website: "https://www.facebook.com/tabac.lespignan"
+street: Place de la Bascule
+housenumber: "18"
+phone: +33 4 67 37 69 76
+opening_hours: Mo-Sa 06:30-19:30; Su 07:30-12:30
+website: https://www.facebook.com/tabac.lespignan

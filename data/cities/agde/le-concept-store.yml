@@ -1,11 +1,11 @@
 id: 997723439
-type: way
+type: node
 latitude: 43.2983
 longitude: 3.47461
 postcode: "34300"
 city: Agde
-street: "Boulevard Maurice Pacull"
-housenumber: 
+street: Boulevard Maurice Pacull
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

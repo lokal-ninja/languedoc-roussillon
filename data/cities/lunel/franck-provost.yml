@@ -1,11 +1,11 @@
 id: 907027522
-type: way
+type: node
 latitude: 43.68444
 longitude: 4.15374
 postcode: "34400"
 city: Lunel
-street: "Avenue les Portes de la Mer"
-housenumber: 
-phone: "+33 4 99 54 53 75"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://salons.franckprovost.com"
+street: Avenue les Portes de la Mer
+housenumber: ""
+phone: +33 4 99 54 53 75
+opening_hours: Mo-Sa 09:00-20:00
+website: https://salons.franckprovost.com

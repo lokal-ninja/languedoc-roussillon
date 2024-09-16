@@ -4,8 +4,8 @@ latitude: 43.6774
 longitude: 4.1181
 postcode: "34400"
 city: Lunel
-street: "Avenue des Quatre Saisons"
-housenumber: 91
-phone: "+33 4 67 83 04 08"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-19:00; Sa 09:00-12:00"
-website: "https://www.valeasante.fr"
+street: Avenue des Quatre Saisons
+housenumber: "91"
+phone: +33 4 67 83 04 08
+opening_hours: Mo-Fr 08:30-12:30,14:00-19:00; Sa 09:00-12:00
+website: https://www.valeasante.fr

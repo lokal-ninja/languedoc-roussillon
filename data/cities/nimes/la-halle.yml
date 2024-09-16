@@ -4,8 +4,8 @@ latitude: 43.80786
 longitude: 4.36105
 postcode: "30900"
 city: Nîmes
-street: "Rue Jean Lauret"
-housenumber: 148
-phone: "+33 4 66 67 16 74"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.lahalle.com"
+street: Rue Jean Lauret
+housenumber: "148"
+phone: +33 4 66 67 16 74
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.lahalle.com

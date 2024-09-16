@@ -4,8 +4,8 @@ latitude: 43.43961
 longitude: 3.14583
 postcode: "34490"
 city: Murviel-lès-Béziers
-street: "Rue Georges Durand"
-housenumber: 5
-phone: "+33 4 67 37 82 21"
-opening_hours: "Mo-Sa 07:30-12:30, 13:00-19:45"
+street: Rue Georges Durand
+housenumber: "5"
+phone: +33 4 67 37 82 21
+opening_hours: Mo-Sa 07:30-12:30, 13:00-19:45
 website: ""

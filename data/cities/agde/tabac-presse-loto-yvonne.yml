@@ -4,8 +4,8 @@ latitude: 43.30356
 longitude: 3.48473
 postcode: "34300"
 city: Agde
-street: "Boulevard Jean Monnet"
-housenumber: 1
-phone: "+33 4 67 94 27 29"
-opening_hours: "Mo-Sa 07:00-19:30; Su 08:00-12:30"
+street: Boulevard Jean Monnet
+housenumber: "1"
+phone: +33 4 67 94 27 29
+opening_hours: Mo-Sa 07:00-19:30; Su 08:00-12:30
 website: ""

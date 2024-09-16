@@ -4,8 +4,8 @@ latitude: 43.40727
 longitude: 3.67912
 postcode: "34200"
 city: Sète
-street: "Boulevard du Chevalier de Clerville"
-housenumber: 47
-phone: "+33 4 67 51 00 90"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su Off"
+street: Boulevard du Chevalier de Clerville
+housenumber: "47"
+phone: +33 4 67 51 00 90
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su Off
 website: ""

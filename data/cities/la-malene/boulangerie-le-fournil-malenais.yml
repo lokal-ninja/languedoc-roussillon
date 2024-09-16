@@ -1,11 +1,11 @@
 id: 124525539
-type: way
+type: node
 latitude: 44.30233
 longitude: 3.32047
 postcode: "48210"
 city: La Malène
-street: "Route de la Canourque"
-housenumber: 
+street: Route de la Canourque
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.galetsdutarn.com/"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.galetsdutarn.com/

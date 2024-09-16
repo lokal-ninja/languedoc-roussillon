@@ -4,8 +4,8 @@ latitude: 43.31419
 longitude: 3.46978
 postcode: "34300"
 city: Agde
-street: "Place Jean Jaurès"
-housenumber: 1
-phone: "+33 4 67 94 92 92"
-opening_hours: "Mo-Fr 08:30-12:15, 15:30-19:15; Sa 09:30-12:15; Su 09:30-12:15, 16:00-19:15"
+street: Place Jean Jaurès
+housenumber: "1"
+phone: +33 4 67 94 92 92
+opening_hours: Mo-Fr 08:30-12:15, 15:30-19:15; Sa 09:30-12:15; Su 09:30-12:15, 16:00-19:15
 website: ""

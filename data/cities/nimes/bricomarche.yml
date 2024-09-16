@@ -1,11 +1,11 @@
 id: 40657563
-type: way
+type: node
 latitude: 43.85639
 longitude: 4.40252
 postcode: "30000"
 city: Nîmes
-street: "Rue des Mousquetaires"
-housenumber: 100
-phone: "+33 4 66 02 10 30"
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:15-12:15"
-website: "https://www.bricomarche.com"
+street: Rue des Mousquetaires
+housenumber: "100"
+phone: +33 4 66 02 10 30
+opening_hours: Mo-Sa 09:00-19:00; Su 09:15-12:15
+website: https://www.bricomarche.com

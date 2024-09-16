@@ -4,8 +4,8 @@ latitude: 43.83795
 longitude: 4.3588
 postcode: "30000"
 city: Nîmes
-street: "Rue de la Madeleine"
-housenumber: 9
-phone: "+33 4 66 76 10 17"
-opening_hours: "Mo 10:00-13:00; Tu-Sa 10:00-19:00"
-website: "https://www.dpam.com/"
+street: Rue de la Madeleine
+housenumber: "9"
+phone: +33 4 66 76 10 17
+opening_hours: Mo 10:00-13:00; Tu-Sa 10:00-19:00
+website: https://www.dpam.com/

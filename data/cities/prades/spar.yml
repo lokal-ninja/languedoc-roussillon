@@ -1,11 +1,11 @@
 id: 147200731
-type: way
+type: node
 latitude: 42.61707
 longitude: 2.42276
 postcode: "66500"
 city: Prades
-street: "Rue Jean Jaurès"
-housenumber: 14
-phone: "+33 4 68 05 22 04"
-opening_hours: "Mo-Sa 08:00-12:30,15:00-19:30; Su 08:30-12:30"
-website: "https://magasins.spar.fr/fr/s/spar-supermarche-prades"
+street: Rue Jean Jaurès
+housenumber: "14"
+phone: +33 4 68 05 22 04
+opening_hours: Mo-Sa 08:00-12:30,15:00-19:30; Su 08:30-12:30
+website: https://magasins.spar.fr/fr/s/spar-supermarche-prades

@@ -4,8 +4,8 @@ latitude: 43.67723
 longitude: 4.13625
 postcode: "34400"
 city: Lunel
-street: "Boulevard de Strasbourg"
-housenumber: 30
-phone: "+33 9 73 54 43 10"
-opening_hours: "Mo-Fr 08:00-13:00,15:00-20:00; Sa-Su 08:00-20:00"
+street: Boulevard de Strasbourg
+housenumber: "30"
+phone: +33 9 73 54 43 10
+opening_hours: Mo-Fr 08:00-13:00,15:00-20:00; Sa-Su 08:00-20:00
 website: ""

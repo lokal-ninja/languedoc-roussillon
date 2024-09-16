@@ -1,11 +1,11 @@
 id: 497355156
-type: way
+type: node
 latitude: 43.30634
 longitude: 3.4924
 postcode: "34300"
 city: Agde
-street: "Boulevard René Cassin"
-housenumber: 
-phone: "+33 4 67 00 01 07"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.chaussea.com"
+street: Boulevard René Cassin
+housenumber: ""
+phone: +33 4 67 00 01 07
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.chaussea.com

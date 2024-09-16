@@ -1,11 +1,11 @@
 id: 512046966
-type: way
+type: node
 latitude: 43.61622
 longitude: 3.82508
 postcode: "34080"
 city: Montpellier
-street: "Rue Lejzer Zamenhof"
-housenumber: 
+street: Rue Lejzer Zamenhof
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

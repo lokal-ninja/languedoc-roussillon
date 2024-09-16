@@ -1,11 +1,11 @@
 id: 82415578
-type: way
+type: node
 latitude: 43.58013
 longitude: 3.92407
 postcode: "34970"
 city: Lattes
-street: "Chemin de Soriech"
-housenumber: 
-phone: "+33 4 67 99 40 99"
-opening_hours: "Mo-Sa 07:00-20:00; Su 09:00-13:00"
+street: Chemin de Soriech
+housenumber: ""
+phone: +33 4 67 99 40 99
+opening_hours: Mo-Sa 07:00-20:00; Su 09:00-13:00
 website: ""

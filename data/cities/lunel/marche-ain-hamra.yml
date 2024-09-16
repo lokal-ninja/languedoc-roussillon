@@ -4,8 +4,8 @@ latitude: 43.67242
 longitude: 4.14146
 postcode: "34400"
 city: Lunel
-street: "Boulevard Sainte-Claire"
-housenumber: 355
-phone: "+33 6 23 59 50 73"
-opening_hours: "07:30-19:30"
+street: Boulevard Sainte-Claire
+housenumber: "355"
+phone: +33 6 23 59 50 73
+opening_hours: 07:30-19:30
 website: ""

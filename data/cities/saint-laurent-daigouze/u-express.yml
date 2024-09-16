@@ -1,11 +1,11 @@
 id: 232946583
-type: way
+type: node
 latitude: 43.62906
 longitude: 4.19253
 postcode: "30220"
 city: Saint-Laurent-d'Aigouze
-street: "Avenue du Général Trouchaud"
-housenumber: 180
+street: Avenue du Général Trouchaud
+housenumber: "180"
 phone: "+33466359565"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/uexpress-saintlaurentdaigouze"
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/uexpress-saintlaurentdaigouze

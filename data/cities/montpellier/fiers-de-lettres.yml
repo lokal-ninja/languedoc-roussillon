@@ -1,11 +1,11 @@
 id: 722006537
-type: way
+type: node
 latitude: 43.60978
 longitude: 3.8762
 postcode: "34000"
 city: Montpellier
-street: "Rue du Bras de Fer"
-housenumber: 1
+street: Rue du Bras de Fer
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:00; Mo 14:00-19:00"
-website: "https://danslajungle.oisiflorus.com/montpellier/fiers-de-lettres.html"
+opening_hours: Tu-Sa 10:00-19:00; Mo 14:00-19:00
+website: https://danslajungle.oisiflorus.com/montpellier/fiers-de-lettres.html

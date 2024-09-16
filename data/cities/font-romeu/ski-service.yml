@@ -4,8 +4,8 @@ latitude: 42.50388
 longitude: 2.04144
 postcode: "66120"
 city: Font-Romeu
-street: "Avenue Maréchal Joffre"
-housenumber: 58
-phone: "+33 6 45 52 16 74"
-opening_hours: "Tu-Sa 09:00-12:00,15:00-18:00; Su,Mo,PH closed"
+street: Avenue Maréchal Joffre
+housenumber: "58"
+phone: +33 6 45 52 16 74
+opening_hours: Tu-Sa 09:00-12:00,15:00-18:00; Su,Mo,PH closed
 website: ""

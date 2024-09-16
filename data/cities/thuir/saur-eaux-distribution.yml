@@ -1,11 +1,11 @@
 id: 64066907
-type: way
+type: node
 latitude: 42.6311
 longitude: 2.76068
 postcode: "66300"
 city: Thuir
-street: "Avenue de la Côte Vermeille"
-housenumber: 2
+street: Avenue de la Côte Vermeille
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

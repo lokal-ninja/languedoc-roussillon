@@ -1,11 +1,11 @@
 id: 181117807
-type: way
+type: node
 latitude: 43.69239
 longitude: 4.27744
 postcode: "30600"
 city: Vauvert
-street: "Rue Gambetta"
-housenumber: 2
+street: Rue Gambetta
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

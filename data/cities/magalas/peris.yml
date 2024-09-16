@@ -4,8 +4,9 @@ latitude: 43.46939
 longitude: 3.20779
 postcode: "34480"
 city: Magalas
-street: "Rue de l'Audacieuse 2"
-housenumber: 
-phone: "+33 4 67 36 20 14"
-opening_hours: "Apr 01-Jul 31 Mo-Fr 08:00-12:00,14:30-18:30; Apr 01-Jul 31 Sa 08:00-12:00; Aug 01-Mar 31 Mo-Fr 08:00-12:00,14:00-18:00; Aug 01-Mar 31 Sa off"
-website: "https://peris.fr"
+street: Rue de l'Audacieuse 2
+housenumber: ""
+phone: +33 4 67 36 20 14
+opening_hours: Apr 01-Jul 31 Mo-Fr 08:00-12:00,14:30-18:30; Apr 01-Jul 31 Sa 08:00-12:00;
+    Aug 01-Mar 31 Mo-Fr 08:00-12:00,14:00-18:00; Aug 01-Mar 31 Sa off
+website: https://peris.fr

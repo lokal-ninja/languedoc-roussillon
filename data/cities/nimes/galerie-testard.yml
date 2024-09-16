@@ -4,8 +4,8 @@ latitude: 43.84002
 longitude: 4.35715
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Gambetta"
-housenumber: 6
-phone: "+33 4 66 51 38 47"
-opening_hours: "Tu-Sa 9:00-19:00"
-website: "www.galerie-testard.fr"
+street: Boulevard Gambetta
+housenumber: "6"
+phone: +33 4 66 51 38 47
+opening_hours: Tu-Sa 9:00-19:00
+website: www.galerie-testard.fr

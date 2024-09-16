@@ -4,8 +4,8 @@ latitude: 43.83414
 longitude: 4.36681
 postcode: "30000"
 city: Nîmes
-street: "Avenue Carnot"
-housenumber: 38
-phone: "+33 4 30 67 85 19"
-opening_hours: "Mo-Fr 7:00-13:00; We 7:00-13:00; Sa 7:00-12:30"
+street: Avenue Carnot
+housenumber: "38"
+phone: +33 4 30 67 85 19
+opening_hours: Mo-Fr 7:00-13:00; We 7:00-13:00; Sa 7:00-12:30
 website: ""

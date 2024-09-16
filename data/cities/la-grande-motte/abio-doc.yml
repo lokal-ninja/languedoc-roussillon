@@ -4,8 +4,8 @@ latitude: 43.55993
 longitude: 4.07543
 postcode: "34280"
 city: La Grande-Motte
-street: "Rue des Artisans"
-housenumber: 172
-phone: "+33 4 67 59 84 48"
-opening_hours: "Mo-Sa 09:00-13:00,15:00-19:00"
-website: "https://www.abiodoc.fr"
+street: Rue des Artisans
+housenumber: "172"
+phone: +33 4 67 59 84 48
+opening_hours: Mo-Sa 09:00-13:00,15:00-19:00
+website: https://www.abiodoc.fr

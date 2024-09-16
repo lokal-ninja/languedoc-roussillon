@@ -1,11 +1,11 @@
 id: 64066349
-type: way
+type: node
 latitude: 42.63239
 longitude: 2.7555
 postcode: "66300"
 city: Thuir
-street: "Place Jules Descossy"
-housenumber: 3
+street: Place Jules Descossy
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

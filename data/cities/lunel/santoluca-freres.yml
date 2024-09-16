@@ -4,8 +4,8 @@ latitude: 43.67487
 longitude: 4.13787
 postcode: "34400"
 city: Lunel
-street: "Rue Marc Antoine Ménard"
-housenumber: 237
-phone: "+33 4 67 71 17 24"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00"
+street: Rue Marc Antoine Ménard
+housenumber: "237"
+phone: +33 4 67 71 17 24
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00
 website: ""

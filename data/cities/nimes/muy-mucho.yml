@@ -4,8 +4,8 @@ latitude: 43.80912
 longitude: 4.36259
 postcode: "30900"
 city: Nîmes
-street: "Rue Jean Lauret"
-housenumber: 148
-phone: "+33 4 34 28 05 51"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://muymucho.es/fr/donde-encontrarnos/nimes-2"
+street: Rue Jean Lauret
+housenumber: "148"
+phone: +33 4 34 28 05 51
+opening_hours: Mo-Sa 10:00-19:00
+website: https://muymucho.es/fr/donde-encontrarnos/nimes-2

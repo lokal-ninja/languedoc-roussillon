@@ -4,8 +4,8 @@ latitude: 44.32575
 longitude: 3.59436
 postcode: "48400"
 city: Florac
-street: "Avenue Jean Monestier"
-housenumber: 60
-phone: "+33 4 66 45 00 94"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.ateliertuffery.com"
+street: Avenue Jean Monestier
+housenumber: "60"
+phone: +33 4 66 45 00 94
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00
+website: https://www.ateliertuffery.com

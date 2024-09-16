@@ -4,8 +4,8 @@ latitude: 43.68165
 longitude: 4.14572
 postcode: "34400"
 city: Lunel
-street: "Chemin de la Vidourlenque"
-housenumber: 172
-phone: "+33 6 95 98 90 20"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.planity.com/l-institut-34400-lunel"
+street: Chemin de la Vidourlenque
+housenumber: "172"
+phone: +33 6 95 98 90 20
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.planity.com/l-institut-34400-lunel

@@ -1,11 +1,11 @@
 id: 62734215
-type: way
+type: node
 latitude: 43.6811
 longitude: 4.1472
 postcode: "34400"
 city: Lunel
-street: "Rue du Levant"
-housenumber: 108
-phone: "+33 4 67 71 55 25"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.home-design.schmidt/fr-fr/magasin-schmidt/0003000380-montpellier-lunel"
+street: Rue du Levant
+housenumber: "108"
+phone: +33 4 67 71 55 25
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://www.home-design.schmidt/fr-fr/magasin-schmidt/0003000380-montpellier-lunel

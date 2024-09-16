@@ -4,8 +4,8 @@ latitude: 43.56077
 longitude: 4.07498
 postcode: "34280"
 city: La Grande-Motte
-street: "Rue des Artisans"
-housenumber: 149
+street: Rue des Artisans
+housenumber: "149"
 phone: "+33434265880"
-opening_hours: "Mo-Sa 06:30-19:30, 13:00-16:00; We off; Su 06:30-13:00"
-website: "http://www.boucherie-thierry.fr/"
+opening_hours: Mo-Sa 06:30-19:30, 13:00-16:00; We off; Su 06:30-13:00
+website: http://www.boucherie-thierry.fr/

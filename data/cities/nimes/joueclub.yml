@@ -4,8 +4,8 @@ latitude: 43.80902
 longitude: 4.36011
 postcode: "30900"
 city: Nîmes
-street: "Rue Jean Lauret"
-housenumber: 148
-phone: "+33 4 66 21 07 96"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.joueclub.fr/magasin/joueclub-nimes.html"
+street: Rue Jean Lauret
+housenumber: "148"
+phone: +33 4 66 21 07 96
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.joueclub.fr/magasin/joueclub-nimes.html

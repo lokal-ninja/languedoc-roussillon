@@ -1,11 +1,11 @@
 id: 1230270529
-type: way
+type: node
 latitude: 43.42072
 longitude: 2.94729
 postcode: "34360"
 city: Saint-Chinian
-street: "Grand Rue"
-housenumber: 6
-phone: "+33 9 50 13 40 80"
+street: Grand Rue
+housenumber: "6"
+phone: +33 9 50 13 40 80
 opening_hours: ""
 website: ""

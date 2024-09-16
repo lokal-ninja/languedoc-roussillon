@@ -4,8 +4,9 @@ latitude: 44.4422
 longitude: 3.19488
 postcode: "48500"
 city: Banassac
-street: "La Mothe, ZA L'Oasis"
-housenumber: 
-phone: "+33 4 66 44 09 50"
-opening_hours: "Tu-Sa 09:30-12:00,14:30-18:30; Su[1] 10:00-12:00; Jul-Aug 10:00-12:00, 14:00-19:00"
-website: "https://www.boutique-malakoff.fr"
+street: La Mothe, ZA L'Oasis
+housenumber: ""
+phone: +33 4 66 44 09 50
+opening_hours: Tu-Sa 09:30-12:00,14:30-18:30; Su[1] 10:00-12:00; Jul-Aug 10:00-12:00,
+    14:00-19:00
+website: https://www.boutique-malakoff.fr

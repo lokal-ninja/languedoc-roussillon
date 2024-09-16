@@ -1,11 +1,11 @@
 id: 754056610
-type: way
+type: node
 latitude: 42.67914
 longitude: 2.85123
 postcode: "66000"
 city: Perpignan
-street: "Avenue Julien Panchot"
-housenumber: 3170
+street: Avenue Julien Panchot
+housenumber: "3170"
 phone: ""
 opening_hours: ""
 website: ""

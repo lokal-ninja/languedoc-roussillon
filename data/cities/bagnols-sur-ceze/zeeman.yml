@@ -4,8 +4,8 @@ latitude: 44.17733
 longitude: 4.61931
 postcode: "30200"
 city: Bagnols-sur-Cèze
-street: "Route de Lyon"
-housenumber: 635
-phone: "+33 3 62 43 00 01"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00"
-website: "https://www.zeeman.com/fr/store/bagnols-sur-ceze-route-de-lyon"
+street: Route de Lyon
+housenumber: "635"
+phone: +33 3 62 43 00 01
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00
+website: https://www.zeeman.com/fr/store/bagnols-sur-ceze-route-de-lyon

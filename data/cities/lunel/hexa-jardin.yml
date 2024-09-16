@@ -4,8 +4,8 @@ latitude: 43.68002
 longitude: 4.10652
 postcode: "34400"
 city: Lunel
-street: "Rue des Compagnons"
-housenumber: 170
-phone: "+33 4 67 64 32 96"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00"
-website: "https://www.hexa-jardins.com"
+street: Rue des Compagnons
+housenumber: "170"
+phone: +33 4 67 64 32 96
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00
+website: https://www.hexa-jardins.com

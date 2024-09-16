@@ -4,8 +4,8 @@ latitude: 43.8378
 longitude: 4.35841
 postcode: "30000"
 city: Nîmes
-street: "Rue de la Madeleine"
-housenumber: 15
-phone: "+33 4 66 40 18 31"
-opening_hours: "Mar,Mer,Ven 10:00-13:00, 14:30-18:30; Jeu 14:30-18:30"
-website: "https://www.argoranimes.com/"
+street: Rue de la Madeleine
+housenumber: "15"
+phone: +33 4 66 40 18 31
+opening_hours: Mar,Mer,Ven 10:00-13:00, 14:30-18:30; Jeu 14:30-18:30
+website: https://www.argoranimes.com/

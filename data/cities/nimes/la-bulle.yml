@@ -4,8 +4,8 @@ latitude: 43.83633
 longitude: 4.36013
 postcode: "30000"
 city: Nîmes
-street: "Rue Régale"
-housenumber: 2
-phone: "+33 4 66 76 05 91"
-opening_hours: "Mo 10:00-19:00, 09:00-18:00; Tu-Sa 09:30-19:00"
-website: "http://www.la-bulle.com/"
+street: Rue Régale
+housenumber: "2"
+phone: +33 4 66 76 05 91
+opening_hours: Mo 10:00-19:00, 09:00-18:00; Tu-Sa 09:30-19:00
+website: http://www.la-bulle.com/

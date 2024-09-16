@@ -1,11 +1,11 @@
 id: 98012384
-type: way
+type: node
 latitude: 43.61815
 longitude: 3.45229
 postcode: "34890"
 city: Clermont-l'Hérault
-street: "Rue du Servent"
-housenumber: 5
-phone: "+33 4 67 88 23 79"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.lagranderecre.fr"
+street: Rue du Servent
+housenumber: "5"
+phone: +33 4 67 88 23 79
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.lagranderecre.fr

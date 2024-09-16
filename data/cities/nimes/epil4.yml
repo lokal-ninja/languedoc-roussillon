@@ -4,8 +4,8 @@ latitude: 43.83946
 longitude: 4.35443
 postcode: "30000"
 city: Nîmes
-street: "Quai de la Fontaine"
-housenumber: 4
-phone: "+33 6 25 16 76 48"
-opening_hours: "Tu-Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00"
-website: "wwww.epil4.fr"
+street: Quai de la Fontaine
+housenumber: "4"
+phone: +33 6 25 16 76 48
+opening_hours: Tu-Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00
+website: wwww.epil4.fr

@@ -1,11 +1,11 @@
 id: 958404733
-type: way
+type: node
 latitude: 43.65137
 longitude: 3.97957
 postcode: "34130"
 city: Saint-Aunès
 street: ""
-housenumber: 
-phone: "+33 4 67 70 70 57"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.dalery.com/"
+housenumber: ""
+phone: +33 4 67 70 70 57
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.dalery.com/

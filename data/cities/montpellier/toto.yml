@@ -4,8 +4,8 @@ latitude: 43.60541
 longitude: 3.87891
 postcode: "34000"
 city: Montpellier
-street: "Rue de la République"
-housenumber: 14
-phone: "+33 4 67 58 83 33"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.toto.fr/"
+street: Rue de la République
+housenumber: "14"
+phone: +33 4 67 58 83 33
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.toto.fr/

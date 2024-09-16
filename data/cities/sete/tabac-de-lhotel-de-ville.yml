@@ -4,8 +4,8 @@ latitude: 43.40134
 longitude: 3.69557
 postcode: "34200"
 city: Sète
-street: "Rue Pierre Brossolette"
-housenumber: 3
-phone: "+33 4 67 74 95 40"
-opening_hours: "Mo-Sa 09:00-20:00; Su Off"
+street: Rue Pierre Brossolette
+housenumber: "3"
+phone: +33 4 67 74 95 40
+opening_hours: Mo-Sa 09:00-20:00; Su Off
 website: ""

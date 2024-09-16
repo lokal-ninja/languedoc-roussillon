@@ -1,11 +1,11 @@
 id: 165495160
-type: way
+type: node
 latitude: 44.32951
 longitude: 3.59072
 postcode: "48400"
 city: Florac-Trois-Rivières
 street: ""
-housenumber: 
-phone: "+33 4 66 45 09 89"
-opening_hours: "Mo-Fr 07:30-12:30,15:00-19:00; Sa 07:30-12:30,14:00-19:00"
-website: "https://www.carrefour.fr/magasin/market-florac-trois-rivieres"
+housenumber: ""
+phone: +33 4 66 45 09 89
+opening_hours: Mo-Fr 07:30-12:30,15:00-19:00; Sa 07:30-12:30,14:00-19:00
+website: https://www.carrefour.fr/magasin/market-florac-trois-rivieres

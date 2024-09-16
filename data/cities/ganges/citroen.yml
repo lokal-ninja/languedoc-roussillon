@@ -1,11 +1,11 @@
 id: 73461356
-type: way
+type: node
 latitude: 43.93782
 longitude: 3.71076
 postcode: "34190"
 city: Ganges
-street: "Chemin du Mas Carrière"
-housenumber: 
-phone: "+33 4 67 73 81 30"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00"
-website: "https://reseau.citroen.fr/reparateur-ganges"
+street: Chemin du Mas Carrière
+housenumber: ""
+phone: +33 4 67 73 81 30
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00
+website: https://reseau.citroen.fr/reparateur-ganges

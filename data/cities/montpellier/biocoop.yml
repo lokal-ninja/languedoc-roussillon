@@ -4,8 +4,8 @@ latitude: 43.60845
 longitude: 3.87298
 postcode: "34000"
 city: Montpellier
-street: "Boulevard du Jeu de Paume"
-housenumber: 2
+street: Boulevard du Jeu de Paume
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 14:30-19:30; Tu-Sa 09:00-19:30"
-website: "https://montpellier-courreau.biocoop.net"
+opening_hours: Mo 14:30-19:30; Tu-Sa 09:00-19:30
+website: https://montpellier-courreau.biocoop.net

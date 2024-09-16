@@ -1,11 +1,11 @@
 id: 497349118
-type: way
+type: node
 latitude: 43.30583
 longitude: 3.49459
 postcode: "34300"
 city: Agde
-street: "Rue du Père Cros"
-housenumber: 
-phone: "+33 4 67 00 08 61"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.pleinciel.fr"
+street: Rue du Père Cros
+housenumber: ""
+phone: +33 4 67 00 08 61
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.pleinciel.fr

@@ -4,8 +4,8 @@ latitude: 43.59027
 longitude: 3.94062
 postcode: "34130"
 city: Mauguio
-street: "Rue de la Jasse"
-housenumber: 57
-phone: "+33 4 67 68 71 23"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.ovelo.fr/"
+street: Rue de la Jasse
+housenumber: "57"
+phone: +33 4 67 68 71 23
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.ovelo.fr/

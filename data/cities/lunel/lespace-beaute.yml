@@ -4,8 +4,8 @@ latitude: 43.67961
 longitude: 4.13437
 postcode: "34400"
 city: Lunel
-street: "Rue de Verdun"
-housenumber: 311
-phone: "+33 6 06 69 21 26"
-opening_hours: "Th 09:30-18:00; Fr 09:30-19:00; Sa 09:30-16:00"
+street: Rue de Verdun
+housenumber: "311"
+phone: +33 6 06 69 21 26
+opening_hours: Th 09:30-18:00; Fr 09:30-19:00; Sa 09:30-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.83611
 longitude: 4.35982
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 30
-phone: "+33 9 52 35 10 74"
-opening_hours: "Mo-th 10:00-19:00; Sa 10:00-19:00"
-website: "https://www.levelgames.fr/"
+street: Rue de l'Aspic
+housenumber: "30"
+phone: +33 9 52 35 10 74
+opening_hours: Mo-th 10:00-19:00; Sa 10:00-19:00
+website: https://www.levelgames.fr/

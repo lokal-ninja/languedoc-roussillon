@@ -1,11 +1,11 @@
 id: 243901931
-type: way
+type: node
 latitude: 43.17787
 longitude: 3.00435
 postcode: "11100"
 city: Narbonne
-street: "Route de Lunes"
-housenumber: 16
+street: Route de Lunes
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.aldi.fr/"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.aldi.fr/

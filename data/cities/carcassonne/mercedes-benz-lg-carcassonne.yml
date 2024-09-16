@@ -4,8 +4,8 @@ latitude: 43.20362
 longitude: 2.30378
 postcode: "11000"
 city: Carcassonne
-street: "Rue Paul Henri Mouton"
-housenumber: 700
-phone: "+33 4 68 78 61 28"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.lg-automobiles.mercedes-benz.fr"
+street: Rue Paul Henri Mouton
+housenumber: "700"
+phone: +33 4 68 78 61 28
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.lg-automobiles.mercedes-benz.fr

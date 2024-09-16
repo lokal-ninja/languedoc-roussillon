@@ -4,8 +4,8 @@ latitude: 43.8363
 longitude: 4.35971
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 24
-phone: "+33 4 66 67 13 10"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-18:00; Su 10:00-18:00"
-website: "https://www.chocolat-deneuville.com/"
+street: Rue de l'Aspic
+housenumber: "24"
+phone: +33 4 66 67 13 10
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-18:00; Su 10:00-18:00
+website: https://www.chocolat-deneuville.com/

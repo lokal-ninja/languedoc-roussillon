@@ -4,8 +4,8 @@ latitude: 43.34607
 longitude: 3.21553
 postcode: "34500"
 city: Béziers
-street: "Rue Jean-Baptiste Perdraut"
-housenumber: 5
-phone: "+33 4 67 28 68 41"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:30-12:30; Su Off"
-website: "https://fbd-confectionery.business.site/"
+street: Rue Jean-Baptiste Perdraut
+housenumber: "5"
+phone: +33 4 67 28 68 41
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:30-12:30; Su Off
+website: https://fbd-confectionery.business.site/

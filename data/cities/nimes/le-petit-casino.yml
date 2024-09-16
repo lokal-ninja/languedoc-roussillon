@@ -4,8 +4,8 @@ latitude: 43.83987
 longitude: 4.35904
 postcode: "30000"
 city: Nîmes
-street: "Rue Nationale"
-housenumber: 48
-phone: "+33 4 66 67 07 14"
-opening_hours: "Mo-Sa 08:00-13:00,15:00-19:00"
+street: Rue Nationale
+housenumber: "48"
+phone: +33 4 66 67 07 14
+opening_hours: Mo-Sa 08:00-13:00,15:00-19:00
 website: ""

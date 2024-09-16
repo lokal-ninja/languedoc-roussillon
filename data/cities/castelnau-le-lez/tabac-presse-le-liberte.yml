@@ -4,8 +4,8 @@ latitude: 43.63174
 longitude: 3.89611
 postcode: "34170"
 city: Castelnau-le-Lez
-street: "Avenue Aristide Briand"
-housenumber: 20
-phone: "+33 4 67 65 05 06"
-opening_hours: "Mo-Su 07:30-19:30"
-website: "https://www.tabacpresseleliberte.fr/"
+street: Avenue Aristide Briand
+housenumber: "20"
+phone: +33 4 67 65 05 06
+opening_hours: Mo-Su 07:30-19:30
+website: https://www.tabacpresseleliberte.fr/

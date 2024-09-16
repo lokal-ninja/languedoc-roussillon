@@ -4,8 +4,8 @@ latitude: 43.6102
 longitude: 3.87727
 postcode: "34000"
 city: Montpellier
-street: "Rue de la Loge"
-housenumber: 7
+street: Rue de la Loge
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.briochedoree.fr/restaurants/17-montpellier-7-rue-des-loges"
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.briochedoree.fr/restaurants/17-montpellier-7-rue-des-loges

@@ -4,8 +4,8 @@ latitude: 44.51781
 longitude: 3.49974
 postcode: "48000"
 city: Mende
-street: "Rue de la République"
-housenumber: 1
+street: Rue de la République
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-12:30, 14:00-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/mende/mende/S-FRYROC774"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-12:30, 14:00-19:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/mende/mende/S-FRYROC774

@@ -4,8 +4,8 @@ latitude: 43.61557
 longitude: 3.88116
 postcode: "34000"
 city: Montpellier
-street: "Place des Beaux-Arts"
-housenumber: 2
-phone: "+33 4 67 72 00 07"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-12:50"
+street: Place des Beaux-Arts
+housenumber: "2"
+phone: +33 4 67 72 00 07
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-12:50
 website: ""

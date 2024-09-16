@@ -1,11 +1,11 @@
 id: 958404753
-type: way
+type: node
 latitude: 43.65131
 longitude: 3.97992
 postcode: "34130"
 city: Saint-Aunès
 street: ""
-housenumber: 
-phone: "+33 4 99 78 49 04"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.nicotech.fr"
+housenumber: ""
+phone: +33 4 99 78 49 04
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.nicotech.fr

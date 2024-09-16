@@ -4,8 +4,8 @@ latitude: 43.56108
 longitude: 3.87821
 postcode: "34970"
 city: Lattes
-street: "Avenue de Montpelliéret"
-housenumber: 599
-phone: "+33 9 62 67 66 98"
-opening_hours: "Mo-Fr 07:00-12:30, 16:00-19:30; Sa 08:00-12:30, 16:00-19:30; Su 09:00-12:30"
+street: Avenue de Montpelliéret
+housenumber: "599"
+phone: +33 9 62 67 66 98
+opening_hours: Mo-Fr 07:00-12:30, 16:00-19:30; Sa 08:00-12:30, 16:00-19:30; Su 09:00-12:30
 website: ""

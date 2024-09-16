@@ -1,11 +1,11 @@
 id: 83621305
-type: way
+type: node
 latitude: 43.99271
 longitude: 3.61681
 postcode: "30120"
 city: Le Vigan
-street: "Route de Ganges"
-housenumber: 
-phone: "+33 4 67 81 01 83"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30"
-website: "https://www.renault.fr"
+street: Route de Ganges
+housenumber: ""
+phone: +33 4 67 81 01 83
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30
+website: https://www.renault.fr

@@ -1,11 +1,11 @@
 id: 62743236
-type: way
+type: node
 latitude: 43.68096
 longitude: 4.10585
 postcode: "34400"
 city: Lunel
-street: "Rue des Compagnons"
-housenumber: 281
-phone: "+33 4 67 71 13 86"
-opening_hours: "Mo-Fr 07:30-12:00,14:00-18:00"
-website: "http://carrosserieteyssier.site-solocal.com"
+street: Rue des Compagnons
+housenumber: "281"
+phone: +33 4 67 71 13 86
+opening_hours: Mo-Fr 07:30-12:00,14:00-18:00
+website: http://carrosserieteyssier.site-solocal.com

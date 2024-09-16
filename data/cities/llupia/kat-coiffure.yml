@@ -1,11 +1,11 @@
 id: 78429140
-type: way
+type: node
 latitude: 42.62214
 longitude: 2.76957
 postcode: "66300"
 city: Llupia
-street: "Camí de les Olivedes"
-housenumber: 8
+street: Camí de les Olivedes
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

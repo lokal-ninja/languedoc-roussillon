@@ -1,11 +1,11 @@
 id: 82416243
-type: way
+type: node
 latitude: 43.58197
 longitude: 3.92511
 postcode: "34970"
 city: Lattes
-street: "Route de Carnon"
-housenumber: 
+street: Route de Carnon
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
 website: ""

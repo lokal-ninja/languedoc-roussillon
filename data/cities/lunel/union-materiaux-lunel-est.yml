@@ -4,8 +4,8 @@ latitude: 43.67707
 longitude: 4.14192
 postcode: "34400"
 city: Lunel
-street: "Avenue du Général de Gaulle"
-housenumber: 257
-phone: "+33 4 67 71 02 10"
-opening_hours: "Mo-Fr 07:30-12:00,13:45-17:30; Sa 08:00-12:00"
-website: "https://www.union-materiaux.fr/agences/union-materiaux-lunel-est.html"
+street: Avenue du Général de Gaulle
+housenumber: "257"
+phone: +33 4 67 71 02 10
+opening_hours: Mo-Fr 07:30-12:00,13:45-17:30; Sa 08:00-12:00
+website: https://www.union-materiaux.fr/agences/union-materiaux-lunel-est.html

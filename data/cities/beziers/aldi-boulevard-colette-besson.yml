@@ -1,11 +1,11 @@
 id: 435457620
-type: way
+type: node
 latitude: 43.36041
 longitude: 3.22539
 postcode: "34500"
 city: Béziers
-street: "Boulevard Colette Besson"
+street: Boulevard Colette Besson
 housenumber: 9073F
-phone: "+33 1 81 09 78 25"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://www.aldi.fr"
+phone: +33 1 81 09 78 25
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-19:30; Su 08:30-12:30
+website: https://www.aldi.fr

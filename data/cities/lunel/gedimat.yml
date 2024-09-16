@@ -1,11 +1,11 @@
 id: 62740835
-type: way
+type: node
 latitude: 43.68213
 longitude: 4.14931
 postcode: "34400"
 city: Lunel
-street: "Rue Pierre Curie"
-housenumber: 127
-phone: "+33 4 67 71 16 22"
-opening_hours: "Mo-Th 07:30-12:00,13:30-18:00; Fr 07:30-12:00,13:30-17:30; Sa 08:00-12:00"
-website: "https://www.gedimat.fr/2081-magasin-gedimat-brunel-lunel.htm"
+street: Rue Pierre Curie
+housenumber: "127"
+phone: +33 4 67 71 16 22
+opening_hours: Mo-Th 07:30-12:00,13:30-18:00; Fr 07:30-12:00,13:30-17:30; Sa 08:00-12:00
+website: https://www.gedimat.fr/2081-magasin-gedimat-brunel-lunel.htm

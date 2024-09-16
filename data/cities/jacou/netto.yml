@@ -1,11 +1,11 @@
 id: 512239629
-type: way
+type: node
 latitude: 43.66212
 longitude: 3.90299
 postcode: "34830"
 city: Jacou
-street: "Route de Teyran"
-housenumber: 
-phone: "+33 4 67 57 29 18"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://magasin.netto.fr/129-netto-jacou"
+street: Route de Teyran
+housenumber: ""
+phone: +33 4 67 57 29 18
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://magasin.netto.fr/129-netto-jacou

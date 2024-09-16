@@ -4,8 +4,8 @@ latitude: 43.72905
 longitude: 4.08093
 postcode: "34400"
 city: Saint-Christol
-street: "Rue des Cigales"
-housenumber: 12
-phone: "+33 4 67 54 45 26"
-opening_hours: "Mo-Sa 05:30-13:00,16:00-19:30; Su 05:30-13:00"
+street: Rue des Cigales
+housenumber: "12"
+phone: +33 4 67 54 45 26
+opening_hours: Mo-Sa 05:30-13:00,16:00-19:30; Su 05:30-13:00
 website: ""

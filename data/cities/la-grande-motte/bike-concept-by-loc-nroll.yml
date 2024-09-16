@@ -4,8 +4,8 @@ latitude: 43.56036
 longitude: 4.08316
 postcode: "34280"
 city: La Grande-Motte
-street: "Quai Georges Pompidou"
-housenumber: 282
-phone: "+33 4 99 63 08 01"
-opening_hours: "Tu-Sa 09:30-12:00,14:30-18:30"
-website: "https://www.bikeconcept.fr"
+street: Quai Georges Pompidou
+housenumber: "282"
+phone: +33 4 99 63 08 01
+opening_hours: Tu-Sa 09:30-12:00,14:30-18:30
+website: https://www.bikeconcept.fr

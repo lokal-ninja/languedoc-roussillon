@@ -1,11 +1,11 @@
 id: 83299743
-type: way
+type: node
 latitude: 43.68004
 longitude: 4.23513
 postcode: "30740"
 city: Le Cailar
-street: "Avenue Jean Macé"
+street: Avenue Jean Macé
 housenumber: 66Bis
-phone: "+33 4 66 88 01 34"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://concessionnaire.renault.fr/le-cailar-garage-pastre.html"
+phone: +33 4 66 88 01 34
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://concessionnaire.renault.fr/le-cailar-garage-pastre.html

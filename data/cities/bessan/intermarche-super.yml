@@ -1,11 +1,11 @@
 id: 219548162
-type: way
+type: node
 latitude: 43.37133
 longitude: 3.42344
 postcode: "34550"
 city: Bessan
-street: "Route de Saint-Thibéry"
-housenumber: 
+street: Route de Saint-Thibéry
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.83953
 longitude: 4.35713
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Agau"
-housenumber: 14
-phone: "+33 6 30 40 53 89"
-opening_hours: "Tu-Sa 09:30-12:30, 16:00-21:00"
-website: "https://epicerie-nimes.fr/"
+street: Rue de l'Agau
+housenumber: "14"
+phone: +33 6 30 40 53 89
+opening_hours: Tu-Sa 09:30-12:30, 16:00-21:00
+website: https://epicerie-nimes.fr/

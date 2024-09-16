@@ -4,8 +4,8 @@ latitude: 43.66936
 longitude: 4.06318
 postcode: "34130"
 city: Valergues
-street: "Chemin des Cazals"
-housenumber: 20
-phone: "+33 4 34 40 66 27"
-opening_hours: "Tu-Fr 08:00-12:30,16:30-19:30; We,Sa 08:00-12:30"
+street: Chemin des Cazals
+housenumber: "20"
+phone: +33 4 34 40 66 27
+opening_hours: Tu-Fr 08:00-12:30,16:30-19:30; We,Sa 08:00-12:30
 website: ""

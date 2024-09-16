@@ -4,8 +4,8 @@ latitude: 44.25623
 longitude: 4.64739
 postcode: "30130"
 city: Pont-Saint-Esprit
-street: "Boulevard Gambetta"
-housenumber: 9
-phone: "+33 6 26 93 58 69"
-opening_hours: "Tu-Fr 09:30-12:00,14:30-18:00; Sa 09:30-12:00"
+street: Boulevard Gambetta
+housenumber: "9"
+phone: +33 6 26 93 58 69
+opening_hours: Tu-Fr 09:30-12:00,14:30-18:00; Sa 09:30-12:00
 website: ""

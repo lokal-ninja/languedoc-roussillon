@@ -4,8 +4,8 @@ latitude: 42.47207
 longitude: 2.66886
 postcode: "66110"
 city: Amélie-les-Bains Palalda Montalba
-street: "Rue des Thermes"
-housenumber: 35
+street: Rue des Thermes
+housenumber: "35"
 phone: "+33468392470"
-opening_hours: "09:00-12:00,15:00-19:00"
-website: "https://www.photo-express.fr/"
+opening_hours: 09:00-12:00,15:00-19:00
+website: https://www.photo-express.fr/

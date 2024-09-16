@@ -1,11 +1,11 @@
 id: 744091552
-type: way
+type: node
 latitude: 43.681
 longitude: 4.14757
 postcode: "34400"
 city: Lunel
-street: "Rue du Levant"
-housenumber: 108
+street: Rue du Levant
+housenumber: "108"
 phone: ""
 opening_hours: "off"
-website: "https://sonance-audition.fr/centre/audioprothesiste-lunel"
+website: https://sonance-audition.fr/centre/audioprothesiste-lunel

@@ -4,8 +4,8 @@ latitude: 43.2045
 longitude: 2.30389
 postcode: "11000"
 city: Carcassonne
-street: "Rue Gustave Eiffel"
-housenumber: 660
-phone: "+33 4 68 10 24 80"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.fordperpignan.fr/"
+street: Rue Gustave Eiffel
+housenumber: "660"
+phone: +33 4 68 10 24 80
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.fordperpignan.fr/

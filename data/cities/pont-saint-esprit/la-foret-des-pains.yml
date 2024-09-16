@@ -4,8 +4,8 @@ latitude: 44.25826
 longitude: 4.64855
 postcode: "30130"
 city: Pont-Saint-Esprit
-street: "Avenue Pasteur"
-housenumber: 1
-phone: "+33 4 66 39 14 46"
-opening_hours: "Mo-Fr 05:30-19:30; Sa 05:30-13:45"
+street: Avenue Pasteur
+housenumber: "1"
+phone: +33 4 66 39 14 46
+opening_hours: Mo-Fr 05:30-19:30; Sa 05:30-13:45
 website: ""

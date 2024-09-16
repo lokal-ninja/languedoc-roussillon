@@ -1,11 +1,11 @@
 id: 66486061
-type: way
+type: node
 latitude: 43.5423
 longitude: 4.13803
 postcode: "30240"
 city: Le Grau-du-Roi
-street: "Rue des Médards"
-housenumber: 230
-phone: "+33 4 81 09 06 60"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.weldom.fr"
+street: Rue des Médards
+housenumber: "230"
+phone: +33 4 81 09 06 60
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.weldom.fr

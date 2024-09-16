@@ -1,11 +1,11 @@
 id: 970664127
-type: way
+type: node
 latitude: 43.81244
 longitude: 4.36274
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 02 48 25"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.micromania.fr"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 02 48 25
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.micromania.fr

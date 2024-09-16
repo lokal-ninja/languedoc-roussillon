@@ -4,8 +4,8 @@ latitude: 43.52038
 longitude: 4.13209
 postcode: "30240"
 city: Le Grau-du-Roi
-street: "Avenue Jean Lasserre"
-housenumber: 8
-phone: "+33 4 66 51 30 60"
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr-Sa 09:00-19:00"
+street: Avenue Jean Lasserre
+housenumber: "8"
+phone: +33 4 66 51 30 60
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr-Sa 09:00-19:00
 website: ""

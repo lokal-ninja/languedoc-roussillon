@@ -4,8 +4,8 @@ latitude: 43.323
 longitude: 3.30515
 postcode: "34420"
 city: Cers
-street: "Avenue de la Promenade"
-housenumber: 2
-phone: "+33 6 86 78 37 17"
-opening_hours: "Mo-Fr 06:30-19:30; Sa-Su 07:00-12:30, 13:30-19:30"
+street: Avenue de la Promenade
+housenumber: "2"
+phone: +33 6 86 78 37 17
+opening_hours: Mo-Fr 06:30-19:30; Sa-Su 07:00-12:30, 13:30-19:30
 website: ""

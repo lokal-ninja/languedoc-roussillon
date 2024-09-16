@@ -1,11 +1,11 @@
 id: 640505891
-type: way
+type: node
 latitude: 42.88561
 longitude: 3.04931
 postcode: "11370"
 city: Leucate
-street: "Chemin du Grau"
-housenumber: 
+street: Chemin du Grau
+housenumber: ""
 phone: "+33468409241"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.huitre-allary.com/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.huitre-allary.com/

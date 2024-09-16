@@ -1,11 +1,11 @@
 id: 30487230
-type: way
+type: node
 latitude: 43.8194
 longitude: 4.39191
 postcode: "30000"
 city: Nîmes
-street: "Avenue Pierre Mendes France"
-housenumber: 1755
-phone: "+33 4 66 05 36 79"
-opening_hours: "Mo-Sa 08:30-21:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/nimes-sud"
+street: Avenue Pierre Mendes France
+housenumber: "1755"
+phone: +33 4 66 05 36 79
+opening_hours: Mo-Sa 08:30-21:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/nimes-sud

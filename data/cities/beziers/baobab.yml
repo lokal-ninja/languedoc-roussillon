@@ -1,11 +1,11 @@
 id: 1077395106
-type: way
+type: node
 latitude: 43.35172
 longitude: 3.25434
 postcode: "34500"
 city: Béziers
-street: "Avenue des Métiers d'Art"
-housenumber: 6
-phone: "+33 4 99 43 24 70"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00; Su 10:00-12:30,14:00-19:00"
-website: "http://www.jardinerie-baobab.fr"
+street: Avenue des Métiers d'Art
+housenumber: "6"
+phone: +33 4 99 43 24 70
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00; Su 10:00-12:30,14:00-19:00
+website: http://www.jardinerie-baobab.fr

@@ -1,11 +1,11 @@
 id: 533608840
-type: way
+type: node
 latitude: 43.64256
 longitude: 3.94086
 postcode: "34920"
 city: Le Crès
-street: "Route de Nîmes"
-housenumber: 
+street: Route de Nîmes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:30; Su 08:30-12:45"
+opening_hours: Mo-Sa 08:30-20:30; Su 08:30-12:45
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.65148
 longitude: 4.07282
 postcode: "34130"
 city: Lansargues
-street: "Place Saint-Jean"
-housenumber: 8
-phone: "+33 4 67 86 73 74"
-opening_hours: "Tu-Sa 06:15-13:00, 16:30-19:00; Su 06:00-13:00"
+street: Place Saint-Jean
+housenumber: "8"
+phone: +33 4 67 86 73 74
+opening_hours: Tu-Sa 06:15-13:00, 16:30-19:00; Su 06:00-13:00
 website: ""

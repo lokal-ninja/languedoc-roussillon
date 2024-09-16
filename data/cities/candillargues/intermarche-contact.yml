@@ -4,8 +4,8 @@ latitude: 43.62072
 longitude: 4.06846
 postcode: "34130"
 city: Candillargues
-street: "Rue Paul Valéry"
-housenumber: 5
-phone: "+33 4 67 63 26 56"
-opening_hours: "Mo-Fr 07:00-13:00,15:00-20:00; Sa 07:00-20:00; Su 07:00-13:00,16:00-20:00"
+street: Rue Paul Valéry
+housenumber: "5"
+phone: +33 4 67 63 26 56
+opening_hours: Mo-Fr 07:00-13:00,15:00-20:00; Sa 07:00-20:00; Su 07:00-13:00,16:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.8098
 longitude: 4.36583
 postcode: "30900"
 city: Nîmes
-street: "Rue Paul Laurent"
-housenumber: 155
-phone: "+33 4 66 08 13 10"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.nicotech.fr"
+street: Rue Paul Laurent
+housenumber: "155"
+phone: +33 4 66 08 13 10
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.nicotech.fr

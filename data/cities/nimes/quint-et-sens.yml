@@ -4,8 +4,8 @@ latitude: 43.82781
 longitude: 4.35265
 postcode: "30900"
 city: Nîmes
-street: "Avenue Jean Jaurès"
-housenumber: 88
-phone: "+33 4 66 40 11 94"
-opening_hours: "Mo-Fr 6:30-19:00; Su 7:00-12:30"
+street: Avenue Jean Jaurès
+housenumber: "88"
+phone: +33 4 66 40 11 94
+opening_hours: Mo-Fr 6:30-19:00; Su 7:00-12:30
 website: ""

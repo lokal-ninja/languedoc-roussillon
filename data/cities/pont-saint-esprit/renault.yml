@@ -1,11 +1,11 @@
 id: 73764320
-type: way
+type: node
 latitude: 44.2482
 longitude: 4.64226
 postcode: "30130"
 city: Pont-Saint-Esprit
-street: "Chemin du Saut du Levreau"
-housenumber: 138
-phone: "+33 4 66 33 30 80"
-opening_hours: "Mo-Fr 07:45-12:00,13:55-18:00"
-website: "https://www.autopse.fr/rdv"
+street: Chemin du Saut du Levreau
+housenumber: "138"
+phone: +33 4 66 33 30 80
+opening_hours: Mo-Fr 07:45-12:00,13:55-18:00
+website: https://www.autopse.fr/rdv

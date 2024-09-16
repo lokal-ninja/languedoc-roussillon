@@ -1,11 +1,11 @@
 id: 264592811
-type: way
+type: node
 latitude: 43.47512
 longitude: 3.67682
 postcode: "34560"
 city: Poussan
-street: "avenue de Sète, ZA Les Clachs"
-housenumber: 
-phone: "+33 4 67 74 31 24"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-poussan"
+street: avenue de Sète, ZA Les Clachs
+housenumber: ""
+phone: +33 4 67 74 31 24
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-poussan

@@ -4,8 +4,8 @@ latitude: 43.78389
 longitude: 4.08861
 postcode: "30250"
 city: Sommières
-street: "Rue Général Bruyère"
-housenumber: 7
-phone: "+33 4 66 95 09 97"
-opening_hours: "Tu-Fr 09:30-12:30,15:00-19:00; Sa 09:30-13:00,15:00-19:00"
-website: "http://www.librairie-sommieres.com/"
+street: Rue Général Bruyère
+housenumber: "7"
+phone: +33 4 66 95 09 97
+opening_hours: Tu-Fr 09:30-12:30,15:00-19:00; Sa 09:30-13:00,15:00-19:00
+website: http://www.librairie-sommieres.com/

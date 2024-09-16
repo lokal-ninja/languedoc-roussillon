@@ -1,11 +1,11 @@
 id: 413352447
-type: way
+type: node
 latitude: 43.58212
 longitude: 3.92956
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 20 15 45"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-20:30"
-website: "https://www.briochedoree.fr/restaurants/12-lattes-c.cial-grand-sud-carrefour"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 20 15 45
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-20:30
+website: https://www.briochedoree.fr/restaurants/12-lattes-c.cial-grand-sud-carrefour

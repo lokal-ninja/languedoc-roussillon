@@ -1,11 +1,11 @@
 id: 413332665
-type: way
+type: node
 latitude: 43.58227
 longitude: 3.92847
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 22 05 89"
-opening_hours: "Mo-Sa 09:30-20:30"
-website: "https://www.bleucerise.com"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 22 05 89
+opening_hours: Mo-Sa 09:30-20:30
+website: https://www.bleucerise.com

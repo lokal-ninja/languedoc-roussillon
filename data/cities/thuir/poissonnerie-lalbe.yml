@@ -1,11 +1,11 @@
 id: 64067048
-type: way
+type: node
 latitude: 42.63316
 longitude: 2.75572
 postcode: "66300"
 city: Thuir
-street: "Rue Pierre Lefranc"
-housenumber: 2
+street: Rue Pierre Lefranc
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 07:30-12:30"
+opening_hours: Tu-Sa 07:30-12:30
 website: ""

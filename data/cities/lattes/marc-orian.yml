@@ -1,11 +1,11 @@
 id: 413352449
-type: way
+type: node
 latitude: 43.58213
 longitude: 3.92993
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 20 15 65"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.marc-orian.com/fr_FR/details/magasin/?storeID=434"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 20 15 65
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.marc-orian.com/fr_FR/details/magasin/?storeID=434

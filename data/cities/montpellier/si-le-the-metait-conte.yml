@@ -4,8 +4,8 @@ latitude: 43.61042
 longitude: 3.87532
 postcode: "34000"
 city: Montpellier
-street: "Rue Saint-Firmin"
-housenumber: 12
+street: Rue Saint-Firmin
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:00; Mo 14:00-19:00"
-website: "https://www.si-le-the.com/"
+opening_hours: Tu-Sa 10:00-19:00; Mo 14:00-19:00
+website: https://www.si-le-the.com/

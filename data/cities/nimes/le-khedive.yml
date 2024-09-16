@@ -4,8 +4,8 @@ latitude: 43.83879
 longitude: 4.35805
 postcode: "30000"
 city: Nîmes
-street: "Rue du Général Perrier"
-housenumber: 8
-phone: "+33 4 66 67 39 18"
-opening_hours: "Mar-Ven 07:30-19:00; Sam 08:00-19:00; Dim 08:00-12:00"
-website: "https://www.le-khedive-nimes.fr/le-khedive-nimes.htm"
+street: Rue du Général Perrier
+housenumber: "8"
+phone: +33 4 66 67 39 18
+opening_hours: Mar-Ven 07:30-19:00; Sam 08:00-19:00; Dim 08:00-12:00
+website: https://www.le-khedive-nimes.fr/le-khedive-nimes.htm

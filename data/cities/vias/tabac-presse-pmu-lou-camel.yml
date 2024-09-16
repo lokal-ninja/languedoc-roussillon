@@ -4,8 +4,8 @@ latitude: 43.3125
 longitude: 3.4172
 postcode: "34450"
 city: Vias
-street: "Rue Général Leclerc"
-housenumber: 29
-phone: "+33 4 67 21 66 20"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-13:00"
+street: Rue Général Leclerc
+housenumber: "29"
+phone: +33 4 67 21 66 20
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-13:00
 website: ""

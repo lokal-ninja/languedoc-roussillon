@@ -1,11 +1,12 @@
 id: 430784961
-type: way
+type: node
 latitude: 43.65092
 longitude: 3.99097
 postcode: "34130"
 city: Saint-Aunès
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu 14:00-18:00; We 10:00-12:00,14:00-18:00; Th-Fr 14:00-18:00; Sa 10:00-12:00,14:00-18:00; Su-Mo off"
-website: "https://www.emmaus-montpellier.fr/contact"
+opening_hours: Tu 14:00-18:00; We 10:00-12:00,14:00-18:00; Th-Fr 14:00-18:00; Sa 10:00-12:00,14:00-18:00;
+    Su-Mo off
+website: https://www.emmaus-montpellier.fr/contact

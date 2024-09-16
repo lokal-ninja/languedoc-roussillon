@@ -4,8 +4,8 @@ latitude: 43.84084
 longitude: 4.31721
 postcode: "30900"
 city: Nîmes
-street: "Route de Sauve"
-housenumber: 203
-phone: "+33 4 66 06 18 51"
-opening_hours: "Mo-Su 05:30-21:00"
-website: "https://www.boulangerieperras.fr/"
+street: Route de Sauve
+housenumber: "203"
+phone: +33 4 66 06 18 51
+opening_hours: Mo-Su 05:30-21:00
+website: https://www.boulangerieperras.fr/

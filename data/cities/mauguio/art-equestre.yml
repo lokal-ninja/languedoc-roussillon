@@ -1,11 +1,11 @@
 id: 112731486
-type: way
+type: node
 latitude: 43.59094
 longitude: 3.93624
 postcode: "34130"
 city: Mauguio
-street: "Rue Roland Garros"
-housenumber: 121
-phone: "+33 4 99 51 42 94"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://www.art-equestre.com"
+street: Rue Roland Garros
+housenumber: "121"
+phone: +33 4 99 51 42 94
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:00
+website: https://www.art-equestre.com

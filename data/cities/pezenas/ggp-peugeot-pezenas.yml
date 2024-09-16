@@ -1,11 +1,11 @@
 id: 274269996
-type: way
+type: node
 latitude: 43.4484
 longitude: 3.41359
 postcode: "34120"
 city: Pézenas
-street: "Rue Alfred Maurel"
-housenumber: 
-phone: "+33 4 67 90 42 90"
+street: Rue Alfred Maurel
+housenumber: ""
+phone: +33 4 67 90 42 90
 opening_hours: ""
-website: "https://concessions.peugeot.fr/pezenas/"
+website: https://concessions.peugeot.fr/pezenas/

@@ -4,8 +4,9 @@ latitude: 43.78028
 longitude: 4.07997
 postcode: "30250"
 city: Sommières
-street: "Chemin de Campagne"
-housenumber: 55
-phone: "+33 4 66 93 91 37"
-opening_hours: "Mo-Tu 09:00-12:00, 14:00-18:00; We 09:00-12:00; Th-Fr 09:00-12:00, 14:00-18:00"
-website: "https://www.entendre-sommieres.fr"
+street: Chemin de Campagne
+housenumber: "55"
+phone: +33 4 66 93 91 37
+opening_hours: Mo-Tu 09:00-12:00, 14:00-18:00; We 09:00-12:00; Th-Fr 09:00-12:00,
+    14:00-18:00
+website: https://www.entendre-sommieres.fr

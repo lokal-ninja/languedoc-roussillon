@@ -1,11 +1,11 @@
 id: 426010651
-type: way
+type: node
 latitude: 42.64473
 longitude: 2.50577
 postcode: "66320"
 city: Vinça
-street: "RN 116"
-housenumber: 
-phone: "+33 4 68 05 37 71"
+street: RN 116
+housenumber: ""
+phone: +33 4 68 05 37 71
 opening_hours: ""
-website: "https://pepiniere-conflent.com/a"
+website: https://pepiniere-conflent.com/a

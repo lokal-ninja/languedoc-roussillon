@@ -1,11 +1,11 @@
 id: 62892963
-type: way
+type: node
 latitude: 42.55275
 longitude: 3.01158
 postcode: "66700"
 city: Argelès-sur-Mer
-street: "Avenue des Flamants Roses"
-housenumber: 8
+street: Avenue des Flamants Roses
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Occitanie2/Pyrenees-Orientales/BIOCOOP-ARGELES"
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Occitanie2/Pyrenees-Orientales/BIOCOOP-ARGELES

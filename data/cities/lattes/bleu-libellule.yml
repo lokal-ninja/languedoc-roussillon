@@ -4,8 +4,8 @@ latitude: 43.58407
 longitude: 3.93333
 postcode: "34970"
 city: Lattes
-street: "Rue Marcel Carné"
-housenumber: 3
-phone: "+33 4 67 15 18 89"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.bleulibellule.com/magasins/bleu-libellule-lattes.html"
+street: Rue Marcel Carné
+housenumber: "3"
+phone: +33 4 67 15 18 89
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.bleulibellule.com/magasins/bleu-libellule-lattes.html

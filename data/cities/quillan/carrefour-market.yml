@@ -1,11 +1,11 @@
 id: 260592852
-type: way
+type: node
 latitude: 42.89344
 longitude: 2.1925
 postcode: "11500"
 city: Quillan
-street: "ZA Plage Sud"
-housenumber: 
-phone: "+33 4 68 20 94 40"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-quillan"
+street: ZA Plage Sud
+housenumber: ""
+phone: +33 4 68 20 94 40
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-quillan

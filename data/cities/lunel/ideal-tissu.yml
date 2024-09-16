@@ -4,8 +4,8 @@ latitude: 43.68126
 longitude: 4.14509
 postcode: "34400"
 city: Lunel
-street: "Chemin de la Vidourlenque"
-housenumber: 80
-phone: "+33 4 67 83 98 54"
-opening_hours: "Tu-Sa 09:30-18:00; Fr 09:30-12:00,14:00-18:00"
-website: "https://idealtissu.com"
+street: Chemin de la Vidourlenque
+housenumber: "80"
+phone: +33 4 67 83 98 54
+opening_hours: Tu-Sa 09:30-18:00; Fr 09:30-12:00,14:00-18:00
+website: https://idealtissu.com

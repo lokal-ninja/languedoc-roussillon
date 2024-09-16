@@ -1,11 +1,11 @@
 id: 970678918
-type: way
+type: node
 latitude: 43.81239
 longitude: 4.36106
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 70 20 00"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://opticiens.optic2000.com/opticien-nimes-30900-1326"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 70 20 00
+opening_hours: Mo-Sa 09:30-20:00
+website: https://opticiens.optic2000.com/opticien-nimes-30900-1326

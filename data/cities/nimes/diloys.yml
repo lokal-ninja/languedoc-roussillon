@@ -4,8 +4,8 @@ latitude: 43.83608
 longitude: 4.35894
 postcode: "30000"
 city: Nîmes
-street: "Place du Marché"
-housenumber: 17
-phone: "+33 4 66 67 75 66"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 08:30-18:00"
-website: "https://salon.diloys.fr/19-diloy-s-nimes"
+street: Place du Marché
+housenumber: "17"
+phone: +33 4 66 67 75 66
+opening_hours: Tu-Fr 09:30-19:00; Sa 08:30-18:00
+website: https://salon.diloys.fr/19-diloy-s-nimes

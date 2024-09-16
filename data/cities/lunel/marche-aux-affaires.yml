@@ -1,11 +1,11 @@
 id: 62735786
-type: way
+type: node
 latitude: 43.67705
 longitude: 4.11422
 postcode: "34400"
 city: Lunel
-street: "Avenue des Quatre Saisons"
-housenumber: 288
-phone: "+33 9 80 92 04 99"
-opening_hours: "09:00-19:00"
-website: "https://marcheauxaffaires.fr"
+street: Avenue des Quatre Saisons
+housenumber: "288"
+phone: +33 9 80 92 04 99
+opening_hours: 09:00-19:00
+website: https://marcheauxaffaires.fr

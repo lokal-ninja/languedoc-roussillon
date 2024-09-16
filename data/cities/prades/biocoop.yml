@@ -1,11 +1,11 @@
 id: 1011412183
-type: way
+type: node
 latitude: 42.6237
 longitude: 2.42617
 postcode: "66500"
 city: Prades
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://prades66.biocoop.net"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://prades66.biocoop.net

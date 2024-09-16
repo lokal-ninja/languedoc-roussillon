@@ -4,8 +4,9 @@ latitude: 44.10527
 longitude: 3.8839
 postcode: "30270"
 city: Saint-Jean-du-Gard
-street: "Rue Pelet de la Lozère"
-housenumber: 5
-phone: "+33 4 66 85 30 55"
-opening_hours: "Mo 07:30-12:30; Tu,We,Fr,Sa 07:30-12:30,15:00-19:00; Th 07:30-12:30,16:00-19:00; PH off; Jul-Aug: Su,PH 07:30-12:30"
+street: Rue Pelet de la Lozère
+housenumber: "5"
+phone: +33 4 66 85 30 55
+opening_hours: 'Mo 07:30-12:30; Tu,We,Fr,Sa 07:30-12:30,15:00-19:00; Th 07:30-12:30,16:00-19:00;
+    PH off; Jul-Aug: Su,PH 07:30-12:30'
 website: ""

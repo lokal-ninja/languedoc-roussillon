@@ -1,11 +1,11 @@
 id: 951439501
-type: way
+type: node
 latitude: 43.64261
 longitude: 3.94149
 postcode: "34920"
 city: Le Crès
-street: "Route de Nîmes"
-housenumber: 
-phone: "+33 4 67 70 56 56"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://bijouterieoreadeslecres.fr"
+street: Route de Nîmes
+housenumber: ""
+phone: +33 4 67 70 56 56
+opening_hours: Mo-Sa 09:30-19:30
+website: https://bijouterieoreadeslecres.fr

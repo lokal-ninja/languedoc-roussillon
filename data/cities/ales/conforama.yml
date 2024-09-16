@@ -1,11 +1,11 @@
 id: 130823034
-type: way
+type: node
 latitude: 44.11071
 longitude: 4.10073
 postcode: "30100"
 city: Alès
-street: "Route de Nîmes"
-housenumber: 483
-phone: "0 892 01 08 08"
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00"
-website: "https://www.conforama.fr/magasins-conforama/ales?lat=44.1112275&long=4.1002977&name=ALES"
+street: Route de Nîmes
+housenumber: "483"
+phone: 0 892 01 08 08
+opening_hours: Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00
+website: https://www.conforama.fr/magasins-conforama/ales?lat=44.1112275&long=4.1002977&name=ALES

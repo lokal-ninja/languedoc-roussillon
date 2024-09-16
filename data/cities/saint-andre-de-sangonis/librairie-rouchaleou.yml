@@ -1,11 +1,11 @@
 id: 121488877
-type: way
+type: node
 latitude: 43.65007
 longitude: 3.50274
 postcode: "34725"
 city: Saint-André-de-Sangonis
-street: "Avenue de Lodève"
-housenumber: 7
+street: Avenue de Lodève
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

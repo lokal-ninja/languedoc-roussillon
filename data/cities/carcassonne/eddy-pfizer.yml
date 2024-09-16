@@ -4,8 +4,8 @@ latitude: 43.22347
 longitude: 2.35547
 postcode: "11000"
 city: Carcassonne
-street: "Rue Buffon"
-housenumber: 2
+street: Rue Buffon
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; Su 07:00-13:00"
+opening_hours: Mo-Sa 07:00-19:00; Su 07:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 575833591
-type: way
+type: node
 latitude: 43.67952
 longitude: 4.11397
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 320
-phone: "+33 4 67 20 96 50"
-opening_hours: "Mo-Fr 07:00-12:00,13:30-18:00"
-website: "https://agence.loxam.fr/632-loxam-lunel"
+street: Rue des Fournels
+housenumber: "320"
+phone: +33 4 67 20 96 50
+opening_hours: Mo-Fr 07:00-12:00,13:30-18:00
+website: https://agence.loxam.fr/632-loxam-lunel

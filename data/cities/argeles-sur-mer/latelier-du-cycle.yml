@@ -1,11 +1,11 @@
 id: 749386346
-type: way
+type: node
 latitude: 42.56791
 longitude: 3.00454
 postcode: "66700"
 city: Argelès-sur-Mer
-street: "Route de Taxo d'Avall"
-housenumber: 11
+street: Route de Taxo d'Avall
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

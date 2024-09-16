@@ -1,11 +1,11 @@
 id: 810779239
-type: way
+type: node
 latitude: 44.01141
 longitude: 4.71219
 postcode: "30126"
 city: Tavel
 street: ""
-housenumber: 
-phone: "+33 4 66 50 91 12"
+housenumber: ""
+phone: +33 4 66 50 91 12
 opening_hours: ""
-website: "https://reseau.citroen.fr/reparateur-tavel"
+website: https://reseau.citroen.fr/reparateur-tavel

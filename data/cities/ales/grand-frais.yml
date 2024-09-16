@@ -1,11 +1,11 @@
 id: 130842966
-type: way
+type: node
 latitude: 44.11018
 longitude: 4.10002
 postcode: "30100"
 city: Alès
-street: "Route de Nîmes"
-housenumber: 
-phone: "+33 4 66 43 47 11"
-opening_hours: "Mo-Sa 9:00-19:30; Su 9:00-12:30"
-website: "https://www.grandfrais.com/magasins/ales"
+street: Route de Nîmes
+housenumber: ""
+phone: +33 4 66 43 47 11
+opening_hours: Mo-Sa 9:00-19:30; Su 9:00-12:30
+website: https://www.grandfrais.com/magasins/ales

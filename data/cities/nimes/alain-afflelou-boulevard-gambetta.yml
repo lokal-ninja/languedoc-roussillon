@@ -4,8 +4,8 @@ latitude: 43.84029
 longitude: 4.35924
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Gambetta"
-housenumber: 34
-phone: "+33 4 66 23 95 75"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "www.alainafflelou.acousticien.fr"
+street: Boulevard Gambetta
+housenumber: "34"
+phone: +33 4 66 23 95 75
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: www.alainafflelou.acousticien.fr

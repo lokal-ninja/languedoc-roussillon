@@ -1,11 +1,12 @@
 id: 240192348
-type: way
+type: node
 latitude: 43.70551
 longitude: 3.90063
 postcode: "34820"
 city: Assas
-street: "Avenue de Sainte-Croix"
-housenumber: 285
+street: Avenue de Sainte-Croix
+housenumber: "285"
 phone: "+33467596161"
-opening_hours: "Mo off; Tu-Sa 09:00-12:00,15:00-19:00; Su 09:00-12:00; Jul-Aug: Mo 09:00-12:00,15:00-19:00"
-website: "www.cellierdupic.fr"
+opening_hours: 'Mo off; Tu-Sa 09:00-12:00,15:00-19:00; Su 09:00-12:00; Jul-Aug: Mo
+    09:00-12:00,15:00-19:00'
+website: www.cellierdupic.fr

@@ -1,11 +1,11 @@
 id: 136741820
-type: way
+type: node
 latitude: 43.57758
 longitude: 4.19921
 postcode: "30220"
 city: Aigues-Mortes
-street: "Route de Nîmes"
-housenumber: 1121
-phone: "+33 4 66 73 93 20"
-opening_hours: "Mo-Sa 08:30-20:00, Su 08:30-12:30"
-website: "https://www.intermarche.com"
+street: Route de Nîmes
+housenumber: "1121"
+phone: +33 4 66 73 93 20
+opening_hours: Mo-Sa 08:30-20:00, Su 08:30-12:30
+website: https://www.intermarche.com

@@ -1,11 +1,11 @@
 id: 951439503
-type: way
+type: node
 latitude: 43.64273
 longitude: 3.94195
 postcode: "34920"
 city: Le Crès
-street: "Route de Nîmes"
-housenumber: 
-phone: "+33 4 67 70 33 16"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-13:00"
-website: "https://www.aquaflora-fleuriste-cres.fr"
+street: Route de Nîmes
+housenumber: ""
+phone: +33 4 67 70 33 16
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-13:00
+website: https://www.aquaflora-fleuriste-cres.fr

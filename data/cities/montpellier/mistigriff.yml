@@ -4,8 +4,8 @@ latitude: 43.60553
 longitude: 3.87859
 postcode: "34000"
 city: Montpellier
-street: "Rue de la République"
-housenumber: 12
+street: Rue de la République
+housenumber: "12"
 phone: "+33467580364"
-opening_hours: "Mo-Sa 10:00-19:30"
+opening_hours: Mo-Sa 10:00-19:30
 website: ""

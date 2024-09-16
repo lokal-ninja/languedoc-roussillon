@@ -1,11 +1,11 @@
 id: 62729769
-type: way
+type: node
 latitude: 43.68006
 longitude: 4.15033
 postcode: "34400"
 city: Lunel
-street: "Chemin des Surveillants"
-housenumber: 833
-phone: "+33 4 67 71 06 72"
+street: Chemin des Surveillants
+housenumber: "833"
+phone: +33 4 67 71 06 72
 opening_hours: ""
 website: ""

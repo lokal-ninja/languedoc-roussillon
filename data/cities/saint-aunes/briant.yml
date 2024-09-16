@@ -1,11 +1,11 @@
 id: 958404750
-type: way
+type: node
 latitude: 43.65115
 longitude: 3.97982
 postcode: "34130"
 city: Saint-Aunès
 street: ""
-housenumber: 
-phone: "+33 4 67 87 54 17"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.bijouterie-briant.fr"
+housenumber: ""
+phone: +33 4 67 87 54 17
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.bijouterie-briant.fr

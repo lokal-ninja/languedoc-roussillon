@@ -4,8 +4,8 @@ latitude: 43.65323
 longitude: 3.55211
 postcode: "34150"
 city: Gignac
-street: "Boulevard Saint-Louis"
-housenumber: 3
+street: Boulevard Saint-Louis
+housenumber: "3"
 phone: ""
-opening_hours: "Tu,Fr 09:00-12:00,16:00-18:30; Sa 09:00-12:00"
+opening_hours: Tu,Fr 09:00-12:00,16:00-18:30; Sa 09:00-12:00
 website: ""

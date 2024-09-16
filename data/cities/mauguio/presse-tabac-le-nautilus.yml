@@ -4,8 +4,8 @@ latitude: 43.54595
 longitude: 3.97815
 postcode: "34280"
 city: Mauguio
-street: "Avenue des Comtes de Melgueil"
-housenumber: 286
-phone: "+33 4 67 68 21 71"
-opening_hours: "Mo-Fr 07:00-19:15; Sa 08:00-19:30; Su 08:00-19:00"
-website: "https://www.maisondelapresse.com/magasin/MagasinPresse-34130-mauguio.html"
+street: Avenue des Comtes de Melgueil
+housenumber: "286"
+phone: +33 4 67 68 21 71
+opening_hours: Mo-Fr 07:00-19:15; Sa 08:00-19:30; Su 08:00-19:00
+website: https://www.maisondelapresse.com/magasin/MagasinPresse-34130-mauguio.html

@@ -4,8 +4,8 @@ latitude: 42.6995
 longitude: 2.89368
 postcode: "66000"
 city: Perpignan
-street: "Rue Lazare Escarguel"
-housenumber: 5
+street: Rue Lazare Escarguel
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://eaternal.fr/boutique/"
+website: https://eaternal.fr/boutique/

@@ -1,11 +1,11 @@
 id: 432568681
-type: way
+type: node
 latitude: 43.44845
 longitude: 3.05588
 postcode: "34460"
 city: Cessenon-sur-Orb
-street: "Avenue de Béziers"
-housenumber: 53
-phone: "+33 4 67 89 65 11"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.garagebernardetfils.net"
+street: Avenue de Béziers
+housenumber: "53"
+phone: +33 4 67 89 65 11
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.garagebernardetfils.net

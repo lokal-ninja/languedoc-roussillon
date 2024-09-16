@@ -1,11 +1,11 @@
 id: 244413240
-type: way
+type: node
 latitude: 43.42047
 longitude: 2.95133
 postcode: "34360"
 city: Saint-Chinian
-street: "Avenue de Béziers"
-housenumber: 28
-phone: "+33 4 67 38 01 10"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30"
-website: "https://concessions.peugeot.fr/saint-chinian"
+street: Avenue de Béziers
+housenumber: "28"
+phone: +33 4 67 38 01 10
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30
+website: https://concessions.peugeot.fr/saint-chinian

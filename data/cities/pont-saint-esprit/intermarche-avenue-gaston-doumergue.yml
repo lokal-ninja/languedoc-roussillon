@@ -1,11 +1,11 @@
 id: 73763320
-type: way
+type: node
 latitude: 44.25446
 longitude: 4.64624
 postcode: "30130"
 city: Pont-Saint-Esprit
-street: "Avenue Gaston Doumergue"
-housenumber: 
+street: Avenue Gaston Doumergue
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

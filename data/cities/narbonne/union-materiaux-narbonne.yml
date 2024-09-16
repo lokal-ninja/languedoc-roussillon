@@ -1,11 +1,11 @@
 id: 92077585
-type: way
+type: node
 latitude: 43.15819
 longitude: 2.98269
 postcode: "11100"
 city: Narbonne
-street: "Rue René Panhard"
-housenumber: 
+street: Rue René Panhard
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
+opening_hours: Mo-Fr 07:30-16:00
 website: ""

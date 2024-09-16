@@ -1,11 +1,11 @@
 id: 133167257
-type: way
+type: node
 latitude: 43.34834
 longitude: 3.25608
 postcode: "34500"
 city: Béziers
-street: "Rue Zénobe Gramme"
-housenumber: 
-phone: "+33 4 67 90 93 24"
-opening_hours: "Mo-Sa 08:00-19:00"
+street: Rue Zénobe Gramme
+housenumber: ""
+phone: +33 4 67 90 93 24
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

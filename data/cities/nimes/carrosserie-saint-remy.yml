@@ -4,8 +4,8 @@ latitude: 43.82985
 longitude: 4.35635
 postcode: "30900"
 city: Nîmes
-street: "Rue Saint-Rémy"
-housenumber: 22
-phone: "+33 4 66 36 15 44"
-opening_hours: "Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00"
+street: Rue Saint-Rémy
+housenumber: "22"
+phone: +33 4 66 36 15 44
+opening_hours: Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00
 website: ""

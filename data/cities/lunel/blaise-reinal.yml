@@ -1,11 +1,11 @@
 id: 62726727
-type: way
+type: node
 latitude: 43.68077
 longitude: 4.14646
 postcode: "34400"
 city: Lunel
-street: "Avenue du Vidourle"
-housenumber: 117
-phone: "+33 4 67 71 04 94"
-opening_hours: "Mo 14:30-19:00; Tu-Sa 09:30-12:00,14:30-19:00"
-website: "https://business.google.com/website/bijouterie-lecrin"
+street: Avenue du Vidourle
+housenumber: "117"
+phone: +33 4 67 71 04 94
+opening_hours: Mo 14:30-19:00; Tu-Sa 09:30-12:00,14:30-19:00
+website: https://business.google.com/website/bijouterie-lecrin

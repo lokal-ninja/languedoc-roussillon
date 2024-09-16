@@ -1,11 +1,11 @@
 id: 413332677
-type: way
+type: node
 latitude: 43.5827
 longitude: 3.92771
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 20 26 20"
-opening_hours: "Mo-Fr 09:00-19:30"
-website: "https://boutique.sfr.fr/occitanie/herault/lattes/c-cial-grand-sud"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 20 26 20
+opening_hours: Mo-Fr 09:00-19:30
+website: https://boutique.sfr.fr/occitanie/herault/lattes/c-cial-grand-sud

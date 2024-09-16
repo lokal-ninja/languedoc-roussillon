@@ -1,5 +1,5 @@
 ---
 title: "Maison Bonnaire"
 url: /montpellier/maison-bonnaire/
-shop: chocolat
+shop: boulangerie
 ---

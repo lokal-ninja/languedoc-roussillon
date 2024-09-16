@@ -4,8 +4,8 @@ latitude: 43.65126
 longitude: 3.97719
 postcode: "34130"
 city: Saint-Aunès
-street: "Rue du Fenouil"
-housenumber: 65
-phone: "+33 4 67 16 00 00"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-12:00,14:00-18:10"
-website: "https://www.csprint.fr"
+street: Rue du Fenouil
+housenumber: "65"
+phone: +33 4 67 16 00 00
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-12:00,14:00-18:10
+website: https://www.csprint.fr

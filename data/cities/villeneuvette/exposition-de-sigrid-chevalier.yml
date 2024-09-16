@@ -4,8 +4,8 @@ latitude: 43.6098
 longitude: 3.39962
 postcode: "34800"
 city: Villeneuvette
-street: "Grand-Rue"
-housenumber: 
+street: Grand-Rue
+housenumber: ""
 phone: ""
-opening_hours: "Inconnues"
-website: "https://www.sigrid-chevalier.fr/"
+opening_hours: Inconnues
+website: https://www.sigrid-chevalier.fr/

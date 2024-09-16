@@ -1,11 +1,11 @@
 id: 64078426
-type: way
+type: node
 latitude: 42.63359
 longitude: 2.75645
 postcode: "66300"
 city: Thuir
-street: "Rue Graffan"
-housenumber: 8
+street: Rue Graffan
+housenumber: "8"
 phone: ""
-opening_hours: "Tu,Fr 09:00-19:00; We 09:00-12:00; Th 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Tu,Fr 09:00-19:00; We 09:00-12:00; Th 09:00-18:00; Sa 09:00-16:00
 website: ""

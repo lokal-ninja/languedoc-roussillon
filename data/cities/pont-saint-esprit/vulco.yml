@@ -4,8 +4,8 @@ latitude: 44.24526
 longitude: 4.64348
 postcode: "30130"
 city: Pont-Saint-Esprit
-street: "Avenue Général de Gaulle"
-housenumber: 1155
-phone: "+33 4 66 33 19 02"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30"
-website: "https://www.vulco.fr"
+street: Avenue Général de Gaulle
+housenumber: "1155"
+phone: +33 4 66 33 19 02
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30
+website: https://www.vulco.fr

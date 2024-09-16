@@ -4,8 +4,8 @@ latitude: 43.83817
 longitude: 4.35976
 postcode: "30000"
 city: Nîmes
-street: "Rue des Marchands"
-housenumber: 4
-phone: "+33 9 50 54 12 24"
-opening_hours: "Tu-Sa 10:00-12:30, 13:30-19:00"
-website: "https://www.latabletterie.fr/"
+street: Rue des Marchands
+housenumber: "4"
+phone: +33 9 50 54 12 24
+opening_hours: Tu-Sa 10:00-12:30, 13:30-19:00
+website: https://www.latabletterie.fr/

@@ -4,8 +4,8 @@ latitude: 43.83568
 longitude: 4.36122
 postcode: "30000"
 city: Nîmes
-street: "Rue Régale"
-housenumber: 16
-phone: "+33 4 66 70 08 00"
-opening_hours: "Tu-Sa 10:00-12:30,14:00-19:00"
-website: "https://www.longchamp.com/fr/fr"
+street: Rue Régale
+housenumber: "16"
+phone: +33 4 66 70 08 00
+opening_hours: Tu-Sa 10:00-12:30,14:00-19:00
+website: https://www.longchamp.com/fr/fr

@@ -1,11 +1,11 @@
 id: 374099942
-type: way
+type: node
 latitude: 43.57227
 longitude: 3.94203
 postcode: "34470"
 city: Pérols
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 64 19 05"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.christine-laure.fr"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 64 19 05
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.christine-laure.fr

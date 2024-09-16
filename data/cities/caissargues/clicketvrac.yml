@@ -4,8 +4,8 @@ latitude: 43.80132
 longitude: 4.37498
 postcode: "30132"
 city: CAISSARGUES
-street: "Route de Nîmes"
-housenumber: 150
+street: Route de Nîmes
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:30"
-website: "https://clicketvrac.com/"
+opening_hours: Mo-Su 10:00-19:30
+website: https://clicketvrac.com/

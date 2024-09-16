@@ -4,8 +4,8 @@ latitude: 43.83765
 longitude: 4.35803
 postcode: "30000"
 city: Nîmes
-street: "Rue de la Madeleine"
-housenumber: 21
-phone: "+33 4 66 67 65 31"
-opening_hours: "Tu-Sa 10:00-12:30, 13:00-19:00"
-website: "https://zakeo.business.site/"
+street: Rue de la Madeleine
+housenumber: "21"
+phone: +33 4 66 67 65 31
+opening_hours: Tu-Sa 10:00-12:30, 13:00-19:00
+website: https://zakeo.business.site/

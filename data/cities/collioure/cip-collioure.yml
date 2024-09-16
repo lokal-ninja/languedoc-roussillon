@@ -4,8 +4,8 @@ latitude: 42.52327
 longitude: 3.08594
 postcode: "66190"
 city: Collioure
-street: "Rue de la Tour Auvergne"
-housenumber: 15
-phone: "+33 4 68 82 07 16"
+street: Rue de la Tour Auvergne
+housenumber: "15"
+phone: +33 4 68 82 07 16
 opening_hours: ""
-website: "https://www.cip-collioure.com/"
+website: https://www.cip-collioure.com/

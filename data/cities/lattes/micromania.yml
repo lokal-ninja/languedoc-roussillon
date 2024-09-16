@@ -1,11 +1,11 @@
 id: 413332664
-type: way
+type: node
 latitude: 43.5828
 longitude: 3.9275
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 81 42 33"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.micromania.fr"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 81 42 33
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.micromania.fr

@@ -4,8 +4,8 @@ latitude: 43.60406
 longitude: 3.86854
 postcode: "34000"
 city: Montpellier
-street: "Rue Chaptal"
-housenumber: 41
-phone: "+33 4 34 00 00 67"
-opening_hours: "Mo-Sa 09:00-12:30,13:30-18:30"
-website: "http://www.abidocc.com/"
+street: Rue Chaptal
+housenumber: "41"
+phone: +33 4 34 00 00 67
+opening_hours: Mo-Sa 09:00-12:30,13:30-18:30
+website: http://www.abidocc.com/

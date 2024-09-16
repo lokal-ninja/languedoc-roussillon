@@ -1,11 +1,11 @@
 id: 951439510
-type: way
+type: node
 latitude: 43.64253
 longitude: 3.94112
 postcode: "34920"
 city: Le Crès
-street: "Route de Nîmes"
-housenumber: 
-phone: "+33 4 67 70 65 67"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.excel-coiffure.com"
+street: Route de Nîmes
+housenumber: ""
+phone: +33 4 67 70 65 67
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.excel-coiffure.com

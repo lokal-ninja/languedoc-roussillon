@@ -4,8 +4,8 @@ latitude: 42.69018
 longitude: 2.92008
 postcode: "66330"
 city: Cabestany
-street: "Avenue André Ampère"
-housenumber: 20
-phone: "+33 4 68 57 58 65"
-opening_hours: "Tu-Fr 08:30-13:00,14:00-19:00; Sa 08:30-19:00; Su 08:30-13:00"
+street: Avenue André Ampère
+housenumber: "20"
+phone: +33 4 68 57 58 65
+opening_hours: Tu-Fr 08:30-13:00,14:00-19:00; Sa 08:30-19:00; Su 08:30-13:00
 website: ""

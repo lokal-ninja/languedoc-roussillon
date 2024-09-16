@@ -1,11 +1,11 @@
 id: 970669668
-type: way
+type: node
 latitude: 43.81267
 longitude: 4.36341
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 05 16 02"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://fr.pandora.net"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 66 05 16 02
+opening_hours: Mo-Sa 09:30-20:00
+website: https://fr.pandora.net

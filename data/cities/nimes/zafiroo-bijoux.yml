@@ -4,8 +4,8 @@ latitude: 43.81215
 longitude: 4.36128
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 6 22 99 01 72"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://zafiroo.com"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 6 22 99 01 72
+opening_hours: Mo-Sa 09:30-20:00
+website: https://zafiroo.com

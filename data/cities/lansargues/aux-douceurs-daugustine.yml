@@ -4,8 +4,8 @@ latitude: 43.65177
 longitude: 4.07279
 postcode: "34130"
 city: Lansargues
-street: "Rue de l'Argenterie"
-housenumber: 2
-phone: "+33 4 67 86 73 20"
-opening_hours: "Tu-Sa 06:00-13:00,16:30-19:30; Su 06:00-13:00"
-website: "https://www.auxdouceurs-daugustine.fr"
+street: Rue de l'Argenterie
+housenumber: "2"
+phone: +33 4 67 86 73 20
+opening_hours: Tu-Sa 06:00-13:00,16:30-19:30; Su 06:00-13:00
+website: https://www.auxdouceurs-daugustine.fr

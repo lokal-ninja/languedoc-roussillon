@@ -1,11 +1,11 @@
 id: 147203291
-type: way
+type: node
 latitude: 42.62249
 longitude: 2.43806
 postcode: "66500"
 city: Prades
-street: "Avenue Guy Malé"
-housenumber: 62
-phone: "+33 4 68 96 21 03"
+street: Avenue Guy Malé
+housenumber: "62"
+phone: +33 4 68 96 21 03
 opening_hours: ""
 website: ""

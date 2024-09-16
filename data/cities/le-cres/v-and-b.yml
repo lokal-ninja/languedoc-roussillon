@@ -4,8 +4,8 @@ latitude: 43.64122
 longitude: 3.94204
 postcode: "34920"
 city: Le Crès
-street: "Route de Nîmes"
-housenumber: 910
+street: Route de Nîmes
+housenumber: "910"
 phone: ""
-opening_hours: "Mo 15:00-20:00; Tu-We 10:00-20:00; Th-Fr 10:00-21:00; Sa 10:00-20:00"
-website: "https://magasin.vandb.fr"
+opening_hours: Mo 15:00-20:00; Tu-We 10:00-20:00; Th-Fr 10:00-21:00; Sa 10:00-20:00
+website: https://magasin.vandb.fr

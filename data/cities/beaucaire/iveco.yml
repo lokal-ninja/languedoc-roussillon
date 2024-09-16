@@ -4,8 +4,8 @@ latitude: 43.78984
 longitude: 4.64339
 postcode: "30300"
 city: Beaucaire
-street: "Avenue Jean Monnet"
-housenumber: 505
+street: Avenue Jean Monnet
+housenumber: "505"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 07:00-11:00"
-website: "https://www.iveco-beaucaire.com/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 07:00-11:00
+website: https://www.iveco-beaucaire.com/

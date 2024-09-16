@@ -1,11 +1,11 @@
 id: 970678920
-type: way
+type: node
 latitude: 43.81232
 longitude: 4.36122
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 4 66 70 17 17"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.riuparis.fr/nos-magasins/nimes-cc-cap-costiere.html"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 4 6 6 05 00 80
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.edji.com/

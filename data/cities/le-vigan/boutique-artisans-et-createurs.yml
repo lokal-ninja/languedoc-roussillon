@@ -4,8 +4,8 @@ latitude: 43.99215
 longitude: 3.60575
 postcode: "30120"
 city: Le Vigan
-street: "Place du Marché"
-housenumber: 14
-phone: "+33 4 67 81 92 43"
-opening_hours: "Tu-Sa 09:30-12:00,15:00-19:00"
-website: "http://www.boutique-artisans-createurs.fr"
+street: Place du Marché
+housenumber: "14"
+phone: +33 4 67 81 92 43
+opening_hours: Tu-Sa 09:30-12:00,15:00-19:00
+website: http://www.boutique-artisans-createurs.fr

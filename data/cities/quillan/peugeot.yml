@@ -4,8 +4,8 @@ latitude: 42.87752
 longitude: 2.18319
 postcode: "11500"
 city: Quillan
-street: "Boulevard Charles de Gaulle"
-housenumber: 4
-phone: "+33 4 68 20 01 01"
+street: Boulevard Charles de Gaulle
+housenumber: "4"
+phone: +33 4 68 20 01 01
 opening_hours: ""
-website: "https://concessions.peugeot.fr/quillan/"
+website: https://concessions.peugeot.fr/quillan/

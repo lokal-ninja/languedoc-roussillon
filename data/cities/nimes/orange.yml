@@ -1,11 +1,11 @@
 id: 970652026
-type: way
+type: node
 latitude: 43.81235
 longitude: 4.3621
 postcode: "30900"
 city: Nîmes
-street: "Avenue Claude Baillet"
-housenumber: 400
-phone: "+33 9 69 37 03 64"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://agence.orange.fr/714-boutique-orange-nimes"
+street: Avenue Claude Baillet
+housenumber: "400"
+phone: +33 9 69 37 03 64
+opening_hours: Mo-Sa 09:30-20:00
+website: https://agence.orange.fr/714-boutique-orange-nimes

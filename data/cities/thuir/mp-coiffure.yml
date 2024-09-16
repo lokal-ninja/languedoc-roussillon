@@ -1,11 +1,11 @@
 id: 64066116
-type: way
+type: node
 latitude: 42.6333
 longitude: 2.75546
 postcode: "66300"
 city: Thuir
-street: "Rue de l'Église"
-housenumber: 16
+street: Rue de l'Église
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

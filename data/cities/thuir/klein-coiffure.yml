@@ -1,11 +1,11 @@
 id: 64074463
-type: way
+type: node
 latitude: 42.63356
 longitude: 2.75568
 postcode: "66300"
 city: Thuir
-street: "Rue du Souvenir"
-housenumber: 3
+street: Rue du Souvenir
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

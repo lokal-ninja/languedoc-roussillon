@@ -4,8 +4,8 @@ latitude: 43.34497
 longitude: 3.21977
 postcode: "34500"
 city: Béziers
-street: "Rue Denis Diderot"
-housenumber: 13
-phone: "+33 4 67 28 65 50"
-opening_hours: "Mo-Th 06:30-19:00; Fr 06:30-18:30; Sa 07:00-18:30; Su off"
+street: Rue Denis Diderot
+housenumber: "13"
+phone: +33 4 67 28 65 50
+opening_hours: Mo-Th 06:30-19:00; Fr 06:30-18:30; Sa 07:00-18:30; Su off
 website: ""

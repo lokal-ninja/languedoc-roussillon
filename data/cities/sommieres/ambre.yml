@@ -4,8 +4,8 @@ latitude: 43.78031
 longitude: 4.07989
 postcode: "30250"
 city: Sommières
-street: "Impasse de la Malautière"
-housenumber: 4
-phone: "+33 4 66 53 21 83"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.my-ambre.fr"
+street: Impasse de la Malautière
+housenumber: "4"
+phone: +33 4 66 53 21 83
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.my-ambre.fr

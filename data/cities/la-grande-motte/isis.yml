@@ -4,8 +4,8 @@ latitude: 43.55876
 longitude: 4.08997
 postcode: "34280"
 city: La Grande-Motte
-street: "Avenue de l'Europe"
-housenumber: 125
-phone: "+33 4 67 56 75 14"
-opening_hours: "Mo-Sa 09:30-12:30,15:00-19:00"
+street: Avenue de l'Europe
+housenumber: "125"
+phone: +33 4 67 56 75 14
+opening_hours: Mo-Sa 09:30-12:30,15:00-19:00
 website: ""

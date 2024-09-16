@@ -1,11 +1,11 @@
 id: 92075489
-type: way
+type: node
 latitude: 43.15919
 longitude: 2.98123
 postcode: "11100"
 city: Narbonne
-street: "Rue Blaise Pascal"
-housenumber: 
+street: Rue Blaise Pascal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

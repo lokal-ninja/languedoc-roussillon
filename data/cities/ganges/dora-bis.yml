@@ -4,8 +4,8 @@ latitude: 43.93007
 longitude: 3.70533
 postcode: "34190"
 city: Ganges
-street: "Rue des Calquières"
-housenumber: 1
-phone: "+33 4 67 82 24 59"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:15"
-website: "https://dorabis.fr"
+street: Rue des Calquières
+housenumber: "1"
+phone: +33 4 67 82 24 59
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:15
+website: https://dorabis.fr

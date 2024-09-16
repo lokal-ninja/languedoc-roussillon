@@ -4,8 +4,8 @@ latitude: 43.61768
 longitude: 4.01006
 postcode: "34130"
 city: Mauguio
-street: "Boulevard de la République"
-housenumber: 175
-phone: "+33 6 42 42 18 98"
-opening_hours: "Mo-Sa 10:00-16:00"
+street: Boulevard de la République
+housenumber: "175"
+phone: +33 6 42 42 18 98
+opening_hours: Mo-Sa 10:00-16:00
 website: ""

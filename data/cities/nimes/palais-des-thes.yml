@@ -4,8 +4,8 @@ latitude: 43.83801
 longitude: 4.35863
 postcode: "30000"
 city: Nîmes
-street: "Place de l'Horloge"
-housenumber: 2
-phone: "+33 9 75 93 22 21"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.palaisdesthes.com/fr/"
+street: Place de l'Horloge
+housenumber: "2"
+phone: +33 9 75 93 22 21
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.palaisdesthes.com/fr/

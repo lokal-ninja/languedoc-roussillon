@@ -1,11 +1,11 @@
 id: 109892742
-type: way
+type: node
 latitude: 43.56773
 longitude: 3.83692
 postcode: "34430"
 city: Saint-Jean-de-Védas
-street: "Rue Robert Schuman"
-housenumber: 
-phone: "+33 4 67 68 63 90"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:30, Sa 09:30-19:30"
-website: "https://www.electrodepot.fr/nos-magasins/magasin-montpellier-saint-jean-de-vedas"
+street: Rue Robert Schuman
+housenumber: ""
+phone: +33 4 67 68 63 90
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:30, Sa 09:30-19:30
+website: https://www.electrodepot.fr/nos-magasins/magasin-montpellier-saint-jean-de-vedas

@@ -4,8 +4,8 @@ latitude: 43.60652
 longitude: 3.87546
 postcode: "34000"
 city: Montpellier
-street: "Rue Paul Brousse"
-housenumber: 28
-phone: "+33 4 67 56 39 64"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "http://www.boutiquespaysannes-lr.fr/lire/index.php?rubid=50"
+street: Rue Paul Brousse
+housenumber: "28"
+phone: +33 4 67 56 39 64
+opening_hours: Tu-Sa 10:00-19:00
+website: http://www.boutiquespaysannes-lr.fr/lire/index.php?rubid=50

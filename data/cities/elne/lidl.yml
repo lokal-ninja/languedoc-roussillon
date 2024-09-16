@@ -1,11 +1,11 @@
 id: 640134575
-type: way
+type: node
 latitude: 42.60486
 longitude: 2.97916
 postcode: "66200"
 city: Elne
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.lidl.fr/"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.lidl.fr/

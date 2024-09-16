@@ -1,11 +1,11 @@
 id: 65536552
-type: way
+type: node
 latitude: 43.04394
 longitude: 2.23214
 postcode: ""
 city: Limoux
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 62740391
-type: way
+type: node
 latitude: 43.68027
 longitude: 4.14873
 postcode: "34400"
 city: Lunel
-street: "Rue Gustave Eiffel"
-housenumber: 41
-phone: "+33 4 67 99 58 29"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00"
-website: "https://www.tendancechaussures.com/"
+street: Rue Gustave Eiffel
+housenumber: "41"
+phone: +33 4 67 99 58 29
+opening_hours: Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00
+website: https://www.tendancechaussures.com/

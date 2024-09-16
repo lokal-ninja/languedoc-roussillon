@@ -1,11 +1,11 @@
 id: 120538999
-type: way
+type: node
 latitude: 44.01091
 longitude: 4.40764
 postcode: "30700"
 city: Uzès
-street: "Avenue de la Gare"
-housenumber: 2
-phone: "+33 466225901"
+street: Avenue de la Gare
+housenumber: "2"
+phone: +33 466225901
 opening_hours: ""
 website: ""

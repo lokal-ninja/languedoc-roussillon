@@ -1,11 +1,11 @@
 id: 236423102
-type: way
+type: node
 latitude: 43.69643
 longitude: 3.50517
 postcode: "34150"
 city: Montpeyroux
-street: "Avenue des Platanes"
-housenumber: 
+street: Avenue des Platanes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

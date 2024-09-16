@@ -1,11 +1,11 @@
 id: 62729133
-type: way
+type: node
 latitude: 43.68277
 longitude: 4.15358
 postcode: "34400"
 city: Lunel
-street: "Avenue les Portes de la Mer"
-housenumber: 
-phone: "+33 4 67 71 01 96"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00"
+street: Avenue les Portes de la Mer
+housenumber: ""
+phone: +33 4 67 71 01 96
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00
 website: ""

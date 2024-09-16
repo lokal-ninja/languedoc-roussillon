@@ -4,8 +4,9 @@ latitude: 43.68169
 longitude: 4.14694
 postcode: "34400"
 city: Lunel
-street: "Avenue du Vidourle"
-housenumber: 226
-phone: "+33 4 67 82 99 35"
-opening_hours: "Tu-Fr 09:00-13:00,15:00-19:30; Sa 08:30-13:00,15:00-19:30; Su 08:30-13:00; Mo off"
-website: "https://www.patisserieguillaumefrance.com/"
+street: Avenue du Vidourle
+housenumber: "226"
+phone: +33 4 67 82 99 35
+opening_hours: Tu-Fr 09:00-13:00,15:00-19:30; Sa 08:30-13:00,15:00-19:30; Su 08:30-13:00;
+    Mo off
+website: https://www.patisserieguillaumefrance.com/

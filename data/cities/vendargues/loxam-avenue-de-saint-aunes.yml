@@ -1,11 +1,11 @@
 id: 913328905
-type: way
+type: node
 latitude: 43.64917
 longitude: 3.95544
 postcode: "34740"
 city: Vendargues
-street: "Avenue de Saint-Aunès"
-housenumber: 500
-phone: "+33 4 67 70 31 00"
-opening_hours: "Mo-Fr 07:00-12:00,13:30-18:00"
-website: "https://agence.loxam.fr/529-loxam-montpellier-vendargues"
+street: Avenue de Saint-Aunès
+housenumber: "500"
+phone: +33 4 67 70 31 00
+opening_hours: Mo-Fr 07:00-12:00,13:30-18:00
+website: https://agence.loxam.fr/529-loxam-montpellier-vendargues

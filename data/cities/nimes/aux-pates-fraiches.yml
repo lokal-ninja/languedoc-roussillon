@@ -4,8 +4,8 @@ latitude: 43.83648
 longitude: 4.35942
 postcode: "30000"
 city: Nîmes
-street: "Rue des Broquiers"
-housenumber: 2
-phone: "+33 4 66 67 35 31"
-opening_hours: "M-Su 07:00-13:00"
+street: Rue des Broquiers
+housenumber: "2"
+phone: +33 4 66 67 35 31
+opening_hours: M-Su 07:00-13:00
 website: ""

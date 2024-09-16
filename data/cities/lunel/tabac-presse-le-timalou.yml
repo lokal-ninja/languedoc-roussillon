@@ -4,8 +4,8 @@ latitude: 43.67591
 longitude: 4.13369
 postcode: "34400"
 city: Lunel
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 31
-phone: "+33 4 67 71 28 48"
-opening_hours: "Mo-Fr 06:30-13:30, 16:00-20:00; Sa 07:00-13:30, 16:00-20:00; Su 07:00-20:00"
+street: Rue Jean-Jacques Rousseau
+housenumber: "31"
+phone: +33 4 67 71 28 48
+opening_hours: Mo-Fr 06:30-13:30, 16:00-20:00; Sa 07:00-13:30, 16:00-20:00; Su 07:00-20:00
 website: ""

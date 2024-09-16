@@ -1,11 +1,11 @@
 id: 413332662
-type: way
+type: node
 latitude: 43.58195
 longitude: 3.92923
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 48 20 22 06"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.calzedonia.com"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 48 20 22 06
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.calzedonia.com

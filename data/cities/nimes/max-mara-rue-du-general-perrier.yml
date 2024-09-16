@@ -4,8 +4,8 @@ latitude: 43.83859
 longitude: 4.35648
 postcode: "30000"
 city: Nîmes
-street: "Rue du Général Perrier"
-housenumber: 20
-phone: "+33 4 66 06 47 64"
-opening_hours: "Tu-Sa 10:00-12:30, 14:00-19:00"
-website: "https://fr.maxmara.com/"
+street: Rue du Général Perrier
+housenumber: "20"
+phone: +33 4 66 06 47 64
+opening_hours: Tu-Sa 10:00-12:30, 14:00-19:00
+website: https://fr.maxmara.com/

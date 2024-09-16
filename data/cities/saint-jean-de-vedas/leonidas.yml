@@ -1,11 +1,11 @@
 id: 1044296990
-type: way
+type: node
 latitude: 43.57198
 longitude: 3.84717
 postcode: "34430"
 city: Saint-Jean-de-Védas
-street: "Route de Sète"
-housenumber: 
-phone: "+33 4 67 73 60 39"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.leonidasstjeandevedas.com"
+street: Route de Sète
+housenumber: ""
+phone: +33 4 67 73 60 39
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.leonidasstjeandevedas.com

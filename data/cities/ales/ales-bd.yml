@@ -1,11 +1,11 @@
 id: 130842454
-type: way
+type: node
 latitude: 44.1234
 longitude: 4.07849
 postcode: "30100"
 city: Alès
-street: "Rue du 19 Mars 1962"
-housenumber: 17
+street: Rue du 19 Mars 1962
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

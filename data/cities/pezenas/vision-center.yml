@@ -1,11 +1,11 @@
 id: 1152787502
-type: way
+type: node
 latitude: 43.44651
 longitude: 3.41138
 postcode: "34120"
 city: Pézenas
-street: "Rue Jean-Pierre Lagarde"
-housenumber: 
-phone: "+33 4 67 11 27 88"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00; PH off"
+street: Rue Jean-Pierre Lagarde
+housenumber: ""
+phone: +33 4 67 11 27 88
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00; PH off
 website: ""

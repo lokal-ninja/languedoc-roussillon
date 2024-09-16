@@ -4,8 +4,8 @@ latitude: 43.83615
 longitude: 4.3598
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 28
-phone: "+33 4 66 29 20 66"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.leonidas.com/fr_fr/boutiques/nimes/leonidas-nimes-aspic"
+street: Rue de l'Aspic
+housenumber: "28"
+phone: +33 4 66 29 20 66
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.leonidas.com/fr_fr/boutiques/nimes/leonidas-nimes-aspic

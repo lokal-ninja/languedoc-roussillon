@@ -4,8 +4,8 @@ latitude: 43.44218
 longitude: 3.67954
 postcode: "34540"
 city: Balaruc-les-Bains
-street: "Avenue de Montpellier"
-housenumber: 8
-phone: "+33 4 67 48 16 94"
-opening_hours: "Mo 15:00-18:30; Tu-Sa 09:00-12:00,15:00-18:30"
-website: "https://www.germedevie.fr"
+street: Avenue de Montpellier
+housenumber: "8"
+phone: +33 4 67 48 16 94
+opening_hours: Mo 15:00-18:30; Tu-Sa 09:00-12:00,15:00-18:30
+website: https://www.germedevie.fr

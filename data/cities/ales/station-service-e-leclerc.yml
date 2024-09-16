@@ -1,11 +1,11 @@
 id: 130828535
-type: way
+type: node
 latitude: 44.11721
 longitude: 4.1075
 postcode: "30100"
 city: Alès
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

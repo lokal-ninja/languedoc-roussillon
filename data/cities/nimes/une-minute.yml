@@ -4,8 +4,8 @@ latitude: 43.8396
 longitude: 4.35851
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Gambetta"
-housenumber: 22
-phone: "+33 4 66 21 67 21"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.uneminute.fr/"
+street: Boulevard Gambetta
+housenumber: "22"
+phone: +33 4 66 21 67 21
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.uneminute.fr/

@@ -1,11 +1,11 @@
 id: 1118380941
-type: way
+type: node
 latitude: 43.65588
 longitude: 3.55437
 postcode: "34150"
 city: Gignac
-street: "ZA Les Armillières"
-housenumber: 
+street: ZA Les Armillières
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

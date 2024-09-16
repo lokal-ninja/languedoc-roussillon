@@ -4,8 +4,8 @@ latitude: 43.93783
 longitude: 3.7164
 postcode: "34190"
 city: Ganges
-street: "Rue du Thirondel"
-housenumber: 4
-phone: "+33 6 85 51 18 94"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-20:00"
-website: "https://ceven-eau.fr"
+street: Rue du Thirondel
+housenumber: "4"
+phone: +33 6 85 51 18 94
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-20:00
+website: https://ceven-eau.fr

@@ -4,8 +4,8 @@ latitude: 43.83699
 longitude: 4.35932
 postcode: "30000"
 city: Nîmes
-street: "Rue de l'Aspic"
-housenumber: 11
-phone: "+33 6 85 79 76 73"
-opening_hours: "Mo_Sa 10:00-199:00"
-website: "https://www.pata-negra-nimes.fr/"
+street: Rue de l'Aspic
+housenumber: "11"
+phone: +33 6 85 79 76 73
+opening_hours: Mo_Sa 10:00-199:00
+website: https://www.pata-negra-nimes.fr/

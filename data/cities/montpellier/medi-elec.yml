@@ -4,8 +4,8 @@ latitude: 43.60563
 longitude: 3.88684
 postcode: "34000"
 city: Montpellier
-street: "Avenue du Pont Juvénal"
-housenumber: 46
+street: Avenue du Pont Juvénal
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30, 14:00-19:00; Sa 10:00-13:00"
-website: "https://www.location-sono-eclairage-montpellier.fr/"
+opening_hours: Mo-Fr 09:30-12:30, 14:00-19:00; Sa 10:00-13:00
+website: https://www.location-sono-eclairage-montpellier.fr/

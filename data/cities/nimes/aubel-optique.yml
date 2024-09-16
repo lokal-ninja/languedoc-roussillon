@@ -4,8 +4,8 @@ latitude: 43.8141
 longitude: 4.3504
 postcode: "30000"
 city: Nîmes
-street: "Avenue Jean Prouvé"
-housenumber: 311
-phone: "+33 4 66 218 218"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-19:00; Sa 09:30-19:00"
-website: "https://aubel-optique.fr"
+street: Avenue Jean Prouvé
+housenumber: "311"
+phone: +33 4 66 218 218
+opening_hours: Mo-Fr 09:30-13:00,14:00-19:00; Sa 09:30-19:00
+website: https://aubel-optique.fr

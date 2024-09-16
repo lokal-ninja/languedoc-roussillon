@@ -1,11 +1,11 @@
 id: 208729443
-type: way
+type: node
 latitude: 43.44445
 longitude: 3.6814
 postcode: "34540"
 city: Balaruc-les-Bains
-street: "Avenue de Montpellier"
-housenumber: 44
-phone: "+33 4 67 18 22 80"
-opening_hours: "Mo-Sa 08:30-13:00,14:30-19:30; Su 09:00-12:30"
-website: "https://www.spar-balaruc.fr"
+street: Avenue de Montpellier
+housenumber: "44"
+phone: +33 4 67 18 22 80
+opening_hours: Mo-Sa 08:30-13:00,14:30-19:30; Su 09:00-12:30
+website: https://www.spar-balaruc.fr

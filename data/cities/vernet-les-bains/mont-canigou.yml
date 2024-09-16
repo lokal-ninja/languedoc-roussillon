@@ -1,11 +1,11 @@
 id: 80609532
-type: way
+type: node
 latitude: 42.54771
 longitude: 2.38952
 postcode: "66820"
 city: Vernet-les-Bains
-street: "Place de la République"
-housenumber: 6
+street: Place de la République
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

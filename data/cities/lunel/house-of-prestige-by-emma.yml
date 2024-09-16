@@ -4,8 +4,8 @@ latitude: 43.67684
 longitude: 4.13608
 postcode: "34400"
 city: Lunel
-street: "Rue Roger Salengro"
-housenumber: 83
-phone: "+33 6 51 44 92 68"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.houseofprestigebyemma.fr"
+street: Rue Roger Salengro
+housenumber: "83"
+phone: +33 6 51 44 92 68
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
+website: https://www.houseofprestigebyemma.fr

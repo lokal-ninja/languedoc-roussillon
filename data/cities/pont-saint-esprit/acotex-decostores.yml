@@ -1,11 +1,11 @@
 id: 73765484
-type: way
+type: node
 latitude: 44.24301
 longitude: 4.64089
 postcode: "30130"
 city: Pont-Saint-Esprit
-street: "Impasse du Parc d'Activités"
-housenumber: 50
-phone: "+33 4 66 39 22 55"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
-website: "https://www.acotex-deco-stores.fr"
+street: Impasse du Parc d'Activités
+housenumber: "50"
+phone: +33 4 66 39 22 55
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
+website: https://www.acotex-deco-stores.fr

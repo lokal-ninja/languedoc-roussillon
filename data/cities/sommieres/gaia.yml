@@ -4,8 +4,8 @@ latitude: 43.78335
 longitude: 4.09036
 postcode: "30250"
 city: Sommières
-street: "Place Jean Jaurès"
-housenumber: 8
-phone: "+33 4 66 77 76 93"
-opening_hours: "Tu-Sa 10:00-12:00,15:00-19:00"
-website: "https://www.gaiani.fr"
+street: Place Jean Jaurès
+housenumber: "8"
+phone: +33 4 66 77 76 93
+opening_hours: Tu-Sa 10:00-12:00,15:00-19:00
+website: https://www.gaiani.fr

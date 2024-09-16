@@ -4,8 +4,8 @@ latitude: 43.83755
 longitude: 4.35409
 postcode: "30900"
 city: Nîmes
-street: "Rue CHASSAINTES"
-housenumber: 6
+street: Rue CHASSAINTES
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:00"
-website: "www.agem-nimes.fr"
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:00
+website: www.agem-nimes.fr

@@ -4,8 +4,8 @@ latitude: 43.34873
 longitude: 3.25821
 postcode: "34500"
 city: Béziers
-street: "Rue Louis Joseph Gay Lussac"
-housenumber: 
+street: Rue Louis Joseph Gay Lussac
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://concessionnaires.skoda.fr/herault-34/sas-capiscol-distribution-324"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
+website: https://concessionnaires.skoda.fr/herault-34/sas-capiscol-distribution-324

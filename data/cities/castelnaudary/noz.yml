@@ -1,11 +1,11 @@
 id: 284054833
-type: way
+type: node
 latitude: 43.29751
 longitude: 1.95585
 postcode: "11400"
 city: Castelnaudary
-street: "Rue des Iris"
-housenumber: 10
+street: Rue des Iris
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/castelnaudary/"
+website: https://www.nozarrivages.com/magasin/castelnaudary/

@@ -1,11 +1,11 @@
 id: 413309483
-type: way
+type: node
 latitude: 43.5827
 longitude: 3.93114
 postcode: "34970"
 city: Lattes
-street: "Avenue Georges Frêche"
-housenumber: 
-phone: "+33 4 67 20 13 73"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://stores.maison123.com"
+street: Avenue Georges Frêche
+housenumber: ""
+phone: +33 4 67 20 13 73
+opening_hours: Mo-Sa 09:30-20:00
+website: https://stores.maison123.com

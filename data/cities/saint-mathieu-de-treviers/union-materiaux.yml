@@ -1,11 +1,11 @@
 id: 99828736
-type: way
+type: node
 latitude: 43.76469
 longitude: 3.87211
 postcode: "34270"
 city: Saint-Mathieu-de-Tréviers
-street: "Rue des Avants"
-housenumber: 459
+street: Rue des Avants
+housenumber: "459"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
+opening_hours: Mo-Fr 07:30-16:00
 website: ""

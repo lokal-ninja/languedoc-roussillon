@@ -4,8 +4,8 @@ latitude: 43.67563
 longitude: 4.1388
 postcode: "34400"
 city: Lunel
-street: "Avenue du Colonel Simon"
-housenumber: 11
-phone: "+33 4 67 71 55 35"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00"
-website: "https://retrochips.fr/"
+street: Avenue du Colonel Simon
+housenumber: "11"
+phone: +33 4 67 71 55 35
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00
+website: https://retrochips.fr/

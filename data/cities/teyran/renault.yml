@@ -1,11 +1,11 @@
 id: 193474847
-type: way
+type: node
 latitude: 43.69565
 longitude: 3.92859
 postcode: "34820"
 city: Teyran
-street: "Avenue de l'Industrie"
-housenumber: 180
+street: Avenue de l'Industrie
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

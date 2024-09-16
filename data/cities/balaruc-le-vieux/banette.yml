@@ -1,11 +1,11 @@
 id: 871934513
-type: way
+type: node
 latitude: 43.46378
 longitude: 3.68886
 postcode: "34540"
 city: Balaruc-le-Vieux
-street: "Avenue de Montpellier"
-housenumber: 31
-phone: "+33 4 67 53 78 33"
-opening_hours: "07:00-20:00"
-website: "https://atelierbanette.com"
+street: Avenue de Montpellier
+housenumber: "31"
+phone: +33 4 67 53 78 33
+opening_hours: 07:00-20:00
+website: https://atelierbanette.com

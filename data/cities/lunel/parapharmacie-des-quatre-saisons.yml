@@ -4,8 +4,8 @@ latitude: 43.67828
 longitude: 4.11741
 postcode: "34400"
 city: Lunel
-street: "Rue des Fournels"
-housenumber: 23
-phone: "+33 9 87 76 36 03"
-opening_hours: "Mo-Sa 09:30-13:00,14:30-19:00"
-website: "https://www.parapharmacie-des-quatre-saisons.fr"
+street: Rue des Fournels
+housenumber: "23"
+phone: +33 9 87 76 36 03
+opening_hours: Mo-Sa 09:30-13:00,14:30-19:00
+website: https://www.parapharmacie-des-quatre-saisons.fr

@@ -1,11 +1,11 @@
 id: 997723427
-type: way
+type: node
 latitude: 43.29848
 longitude: 3.47409
 postcode: "34300"
 city: Agde
-street: "Boulevard Maurice Pacull"
-housenumber: 
-phone: "+33 4 67 77 24 01"
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
-website: "https://opticiens.optic2000.com/opticien-agde-34300-1631"
+street: Boulevard Maurice Pacull
+housenumber: ""
+phone: +33 4 67 77 24 01
+opening_hours: Mo-Sa 09:00-19:00; Su off
+website: https://opticiens.optic2000.com/opticien-agde-34300-1631

@@ -4,8 +4,8 @@ latitude: 43.8362
 longitude: 4.36235
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Amiral Courbet"
-housenumber: 3
-phone: "+33 4 66 67 50 50"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.opticduroc.com/"
+street: Boulevard Amiral Courbet
+housenumber: "3"
+phone: +33 4 66 67 50 50
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.opticduroc.com/

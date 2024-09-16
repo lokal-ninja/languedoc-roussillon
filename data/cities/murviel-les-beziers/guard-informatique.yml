@@ -4,8 +4,8 @@ latitude: 43.44042
 longitude: 3.14561
 postcode: "34490"
 city: Murviel-lès-Béziers
-street: "Rue Georges Durand"
-housenumber: 11
-phone: "+33 4 99 43 85 43"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-18:30"
-website: "https://guard-informatique.fr"
+street: Rue Georges Durand
+housenumber: "11"
+phone: +33 4 99 43 85 43
+opening_hours: Tu-Sa 09:00-12:00,14:00-18:30
+website: https://guard-informatique.fr

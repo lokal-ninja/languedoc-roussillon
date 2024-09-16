@@ -4,8 +4,8 @@ latitude: 43.83874
 longitude: 4.35556
 postcode: "30000"
 city: Nîmes
-street: "Boulevard Alphonse Daudet"
-housenumber: 6
-phone: "+33 4 66 67 21 04"
-opening_hours: "Mo-Sa 07:30-12:30,14:30-19:30; Su 07:30-12:30"
-website: "http://www.patisserie-noailles.fr/"
+street: Boulevard Alphonse Daudet
+housenumber: "6"
+phone: +33 4 66 67 21 04
+opening_hours: Mo-Sa 07:30-12:30,14:30-19:30; Su 07:30-12:30
+website: http://www.patisserie-noailles.fr/

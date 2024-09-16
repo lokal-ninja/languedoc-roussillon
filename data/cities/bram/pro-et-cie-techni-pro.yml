@@ -4,8 +4,8 @@ latitude: 43.24418
 longitude: 2.11539
 postcode: "11150"
 city: Bram
-street: "Rue de la Poste"
-housenumber: 8
-phone: "+33 468761138"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00"
+street: Rue de la Poste
+housenumber: "8"
+phone: +33 468761138
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00
 website: ""

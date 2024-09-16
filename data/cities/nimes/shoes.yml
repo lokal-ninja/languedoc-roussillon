@@ -4,8 +4,8 @@ latitude: 43.8088
 longitude: 4.36325
 postcode: "30900"
 city: Nîmes
-street: "Rue Jean Lauret"
-housenumber: 148
-phone: "+33 4 66 84 17 50"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.chaussgalerie.com/fr/informations/shoes_nimes.awp"
+street: Rue Jean Lauret
+housenumber: "148"
+phone: +33 4 66 84 17 50
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.chaussgalerie.com/fr/informations/shoes_nimes.awp

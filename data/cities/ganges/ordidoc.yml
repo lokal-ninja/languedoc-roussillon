@@ -4,8 +4,8 @@ latitude: 43.9361
 longitude: 3.70956
 postcode: "34190"
 city: Ganges
-street: "Rue Émile Planchon"
-housenumber: 2
-phone: "+334 11 93 49 13"
-opening_hours: "Mo 10:00-13:00,15:00-19:00; Tu-Fr 09:00-13:00,14:00-19:00; Sa 10:00-17:00"
-website: "https://www.ordidoc.fr/"
+street: Rue Émile Planchon
+housenumber: "2"
+phone: +334 11 93 49 13
+opening_hours: Mo 10:00-13:00,15:00-19:00; Tu-Fr 09:00-13:00,14:00-19:00; Sa 10:00-17:00
+website: https://www.ordidoc.fr/

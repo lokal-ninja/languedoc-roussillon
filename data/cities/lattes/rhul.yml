@@ -1,11 +1,11 @@
 id: 82185348
-type: way
+type: node
 latitude: 43.55984
 longitude: 3.87747
 postcode: "34970"
 city: Lattes
-street: "Rue du Lantissargue"
-housenumber: 122
+street: Rue du Lantissargue
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

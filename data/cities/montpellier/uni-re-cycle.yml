@@ -4,8 +4,8 @@ latitude: 43.60237
 longitude: 3.86814
 postcode: "34000"
 city: Montpellier
-street: "Rue Raoux"
-housenumber: 7
-phone: "+33 4 67 84 85 94"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "http://www.uni-re-cycle.com"
+street: Rue Raoux
+housenumber: "7"
+phone: +33 4 67 84 85 94
+opening_hours: Tu-Sa 10:00-19:00
+website: http://www.uni-re-cycle.com

@@ -1,11 +1,11 @@
 id: 244412550
-type: way
+type: node
 latitude: 43.4216
 longitude: 2.94658
 postcode: "34360"
 city: Saint-Chinian
-street: "Grand Rue"
-housenumber: 3
-phone: "+33 4 67 38 11 42"
+street: Grand Rue
+housenumber: "3"
+phone: +33 4 67 38 11 42
 opening_hours: ""
 website: ""

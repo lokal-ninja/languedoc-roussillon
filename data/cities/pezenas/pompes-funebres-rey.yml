@@ -4,8 +4,8 @@ latitude: 43.45242
 longitude: 3.41416
 postcode: "34120"
 city: Pézenas
-street: "Rue Édouard Branly"
-housenumber: 3
-phone: "+33 4 67 90 70 89"
-opening_hours: "24/7"
+street: Rue Édouard Branly
+housenumber: "3"
+phone: +33 4 67 90 70 89
+opening_hours: 24/7
 website: ""

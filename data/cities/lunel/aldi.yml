@@ -1,11 +1,11 @@
 id: 62733199
-type: way
+type: node
 latitude: 43.6773
 longitude: 4.11485
 postcode: "34400"
 city: Lunel
-street: "Avenue des Quatre Saisons"
-housenumber: 80
+street: Avenue des Quatre Saisons
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

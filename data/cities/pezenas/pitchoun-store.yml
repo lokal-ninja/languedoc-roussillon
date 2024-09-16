@@ -4,8 +4,8 @@ latitude: 43.45919
 longitude: 3.42484
 postcode: "34120"
 city: Pézenas
-street: "Rue Conti"
-housenumber: 30
-phone: "+33 9 75 37 55 54"
+street: Rue Conti
+housenumber: "30"
+phone: +33 9 75 37 55 54
 opening_hours: ""
-website: "https://pitchounstore.fr/"
+website: https://pitchounstore.fr/

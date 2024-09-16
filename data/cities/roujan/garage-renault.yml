@@ -1,11 +1,11 @@
 id: 435614692
-type: way
+type: node
 latitude: 43.5006
 longitude: 3.32112
 postcode: "34320"
 city: Roujan
-street: "Rue du Pont Second"
-housenumber: 7
-phone: "+33 4 67 24 60 17"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.renault.fr"
+street: Rue du Pont Second
+housenumber: "7"
+phone: +33 4 67 24 60 17
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.renault.fr

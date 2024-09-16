@@ -4,8 +4,8 @@ latitude: 43.58945
 longitude: 3.93476
 postcode: "34130"
 city: Mauguio
-street: "Rue Antoine de Saint-Exupéry"
-housenumber: 30
-phone: "+33 4 67 64 49 09"
-opening_hours: "Mo-Sa 09:30-20:00; Su 09:30-12:30"
-website: "https://drivedumarche.fr"
+street: Rue Antoine de Saint-Exupéry
+housenumber: "30"
+phone: +33 4 67 64 49 09
+opening_hours: Mo-Sa 09:30-20:00; Su 09:30-12:30
+website: https://drivedumarche.fr
