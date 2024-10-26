@@ -1,5 +1,5 @@
 ---
-title: "La Part des Anges"
+title: "La part des anges"
 url: /nimes/la-part-des-anges/
-shop: vin
+shop: alcool
 ---
