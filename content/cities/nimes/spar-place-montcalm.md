@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /nimes/spar-avenue-jean-jaures/
+url: /nimes/spar-place-montcalm/
 shop: supermarché
 ---

@@ -1,6 +1,6 @@
 ---
 title: Jacou
 url: /jacou/
-latitude: 43.662
-longitude: 3.903
+latitude: 43.659
+longitude: 3.905
 ---
