@@ -7,5 +7,5 @@ city: Uzès
 street: Avenue Claude Monet
 housenumber: "2"
 phone: "+33678584205"
-opening_hours: Mo-Sa 09:00-12:00; 14:00-19:00
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
 website: ""
