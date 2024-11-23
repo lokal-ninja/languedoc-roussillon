@@ -1,5 +1,5 @@
 ---
 title: "Mistigriff"
 url: /montpellier/mistigriff/
-shop: boutique
+shop: vêtements
 ---
