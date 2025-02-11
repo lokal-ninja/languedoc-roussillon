@@ -1,6 +1,6 @@
 ---
-title: Saze
+title: saze
 url: /saze/
-latitude: 43.947
-longitude: 4.684
+latitude: 43.948
+longitude: 4.69
 ---

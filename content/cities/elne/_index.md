@@ -1,6 +1,6 @@
 ---
 title: Elne
 url: /elne/
-latitude: 42.604
-longitude: 2.981
+latitude: 42.597
+longitude: 2.975
 ---
