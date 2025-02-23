@@ -7,5 +7,5 @@ city: Bagnols-sur-Cèze
 street: Boulevard Théodore Lacombe
 housenumber: "27"
 phone: ""
-opening_hours: Mo-Tu-Th-Fr 09:20-12:00, 14:00-18:00 We 09:20-11:45, 14:00-18:00
+opening_hours: Mo,Tu,Th,Fr 09:20-12:00,14:00-18:00; We 09:20-11:45,14:00-18:00
 website: ""
