@@ -7,6 +7,5 @@ city: Paziols
 street: La Placette
 housenumber: ""
 phone: "+33468454604"
-opening_hours: 'Lundi : fermé   Mardi-Mercredi-Jeudi :9h-12h/14h-18h30   Vendredi-Samedi
-    : 9h-18h30   Dimanche:fermé'
+opening_hours: Mo off; Tu-Th 09:00-12:00, 14:00-18:30; Fr-Sa 09:00-18:30, Su off
 website: ""
