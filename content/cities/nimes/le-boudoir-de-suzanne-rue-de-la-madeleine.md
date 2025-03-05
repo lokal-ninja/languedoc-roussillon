@@ -1,5 +1,5 @@
 ---
-title: "Le boudoir de Suzanne"
+title: "Le Boudoir de Suzanne"
 url: /nimes/le-boudoir-de-suzanne-rue-de-la-madeleine/
-shop: boutique
+shop: vêtements
 ---
