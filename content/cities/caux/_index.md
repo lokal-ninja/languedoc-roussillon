@@ -1,6 +1,6 @@
 ---
 title: Caux
 url: /caux/
-latitude: 43.507
-longitude: 3.368
+latitude: 43.506
+longitude: 3.369
 ---
