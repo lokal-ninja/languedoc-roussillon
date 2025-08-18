@@ -1,6 +1,6 @@
 ---
 title: Les Angles
 url: /les-angles/
-latitude: 43.949
-longitude: 4.771
+latitude: 43.958
+longitude: 4.761
 ---
