@@ -1,5 +1,5 @@
 ---
-title: "CORPORE"
+title: "Corpore"
 url: /narbonne/corpore/
 shop: massage
 ---
