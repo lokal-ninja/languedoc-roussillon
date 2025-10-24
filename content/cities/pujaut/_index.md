@@ -1,6 +1,6 @@
 ---
 title: Pujaut
 url: /pujaut/
-latitude: 44.003
-longitude: 4.776
+latitude: 44.005
+longitude: 4.775
 ---
