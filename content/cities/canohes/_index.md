@@ -1,6 +1,6 @@
 ---
 title: Canohès
 url: /canohes/
-latitude: 42.654
-longitude: 2.836
+latitude: 42.663
+longitude: 2.846
 ---
