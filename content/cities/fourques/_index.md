@@ -1,6 +1,6 @@
 ---
 title: Fourques
 url: /fourques/
-latitude: 43.692
-longitude: 4.601
+latitude: 43.694
+longitude: 4.609
 ---
