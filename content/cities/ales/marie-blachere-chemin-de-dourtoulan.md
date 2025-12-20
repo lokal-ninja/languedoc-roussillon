@@ -1,5 +1,5 @@
 ---
 title: "Marie Blachère"
-url: /ales/marie-blachere-quai-du-mas-dhours/
+url: /ales/marie-blachere-chemin-de-dourtoulan/
 shop: boulangerie
 ---
