@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /balaruc-les-bains/spar/
-shop: commodité
+shop: supermarché
 ---

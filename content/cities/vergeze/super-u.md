@@ -1,5 +1,5 @@
 ---
 title: "Super U"
-url: /lunel/super-u/
+url: /vergeze/super-u/
 shop: supermarché
 ---
