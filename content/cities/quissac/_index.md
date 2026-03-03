@@ -1,6 +1,6 @@
 ---
 title: Quissac
 url: /quissac/
-latitude: 43.908
+latitude: 43.907
 longitude: 4
 ---
