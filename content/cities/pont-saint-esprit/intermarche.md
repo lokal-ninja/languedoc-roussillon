@@ -1,5 +1,5 @@
 ---
-title: "intermarché"
+title: "Intermarché"
 url: /pont-saint-esprit/intermarche/
-shop: gaz
+shop: supermarché
 ---

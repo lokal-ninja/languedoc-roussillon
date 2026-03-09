@@ -1,5 +1,5 @@
 ---
 title: "AD"
-url: /lunel/ad-chemin-de-provence/
+url: /lunel/ad-rue-pierre-curie/
 shop: réparation de voitures
 ---
