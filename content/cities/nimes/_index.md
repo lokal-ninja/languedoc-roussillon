@@ -1,6 +1,6 @@
 ---
-title: Nîmes
+title: NIMES
 url: /nimes/
-latitude: 43.832
+latitude: 43.838
 longitude: 4.358
 ---
